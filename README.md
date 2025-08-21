@@ -1,5 +1,5 @@
 
-# Dermi.ro — Jekyll + GitHub Pages starter
+# Dermi.ro — Jekyll + GitHub Pages starter 
 
 A clean, fast dermatology site with blog and optional shop. Built with Jekyll and the Minimal Mistakes theme.
 
