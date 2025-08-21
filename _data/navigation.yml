@@ -1,0 +1,14 @@
+
+main:
+  - title: 'Acasă'
+    url: '/'
+  - title: 'Despre'
+    url: '/despre/'
+  - title: 'Servicii'
+    url: '/servicii/'
+  - title: 'Blog'
+    url: '/blog/'
+  - title: 'Magazin'
+    url: '/magazin/'
+  - title: 'Contact'
+    url: '/contact/'

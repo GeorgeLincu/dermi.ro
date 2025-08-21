@@ -1,0 +1,11 @@
+
+- id: cleanser-01
+  name: Cleanser blând
+  description: Curăță zilnic, fără sulfați. Potrivit pentru piele sensibilă.
+  price: 89
+  image: /assets/images/sample-product.jpg
+- id: sunscreen-50
+  name: Cremă cu SPF 50 mineral
+  description: Protecție largă, non-comedogenică.
+  price: 109
+  image: /assets/images/sample-product.jpg
