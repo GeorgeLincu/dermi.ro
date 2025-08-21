@@ -1,4 +1,3 @@
-
 ---
 permalink: /contact/
 title: 'Contact'
