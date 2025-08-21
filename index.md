@@ -2,19 +2,19 @@
 ---
 layout: home
 author_profile: true
-title: "Healthy skin starts here"
+title: 'Îngrijire dermatologică, clar și modern'
 header:
-  overlay_color: "#0ea5a5"
-  overlay_filter: "0.2"
+  overlay_color: '#0ea5a5'
+  overlay_filter: '0.2'
   overlay_image: /assets/images/header.jpg
-  caption: "Photo by Unsplash"
+  caption: 'Foto: Unsplash'
   actions:
-    - label: "Read the Blog"
-      url: "/blog/"
-    - label: "Book a Consultation"
-      url: "/contact/"
+    - label: 'Citește blogul'
+      url: '/blog/'
+    - label: 'Programează o consultație'
+      url: '/contact/'
 excerpt: |
-  Evidence-based dermatology articles, clinic services, and curated skincare. 
-  Welcome to **Dermi** — your dermatology hub in Bucharest.
+  Articole bazate pe dovezi, servicii medicale și îngrijire a pielii.
+  Bine ai venit la **Dermi** — hub-ul tău de dermatologie în București.
 ---
 
