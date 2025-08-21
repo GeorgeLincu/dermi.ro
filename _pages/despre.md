@@ -1,4 +1,3 @@
-
 ---
 permalink: /despre/
 title: 'Despre Dr. Dermi'
