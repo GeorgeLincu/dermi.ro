@@ -5,7 +5,7 @@ title: 'Contact'
 
 Ai o întrebare sau vrei să faci o programare? Trimite-ne un mesaj:
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/movlgqje" method="POST">
   <div class="form-group">
     <label for="name">Nume</label>
     <input id="name" type="text" name="name" required>
