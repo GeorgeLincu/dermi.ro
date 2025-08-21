@@ -7,14 +7,19 @@ categories: [dermatologie]
 tags: [rozacee, tratamente, roșeață]
 ---
 
-**Rozaceea** este o afecțiune cronică, cu pusee și remisiuni. Nu are „leac” definitiv, dar **poate fi controlată** prin tratamente țintite și îngrijire atentă. citeturn42search102
+Rozaceea este o afecțiune cronică ce afectează fața, cu episoade de roșeață, vase vizibile și sensibilitate. Nu se vindecă complet, dar poate fi controlată eficient.
 
-### Elemente de tratament
-- **Topice** pentru roșeață persistentă: **brimonidină gel** sau **oximetazolină cremă** – reduc temporar vasodilatația. citeturn42search102
-- **Antiinflamatoare/topice/antibiotice** și, la nevoie, **terapii cu lumină (IPL)** pentru vase vizibile. Planul se personalizează în funcție de fenotip. citeturn42search102turn42search103
+### Tratament dermatologic
+- Geluri cu brimonidină sau oximetazolină pentru roșeață.
+- Antibiotice topice sau orale pentru inflamație.
+- IPL sau laser pentru vase dilatate.
 
-### Îngrijire și triggeri
-- **SPF 30+ zilnic**, produse **blânde, fără parfum**; evită alcoolul denat., scrubbingul. citeturn42search104
-- Evită triggeri frecvenți: **soare, băuturi fierbinți, condimente iuti, variații termice, efort intens**. Ţine un jurnal ca să‑ți identifici propriii factori. citeturn42search107
+### Îngrijire zilnică
+- Curățare blândă, fără parfum.
+- Hidratare cu produse calmante.
+- SPF mineral zilnic.
 
-> **Mesajul-cheie:** tratezi semnele, protejezi bariera, eviți triggerii – și ții boala sub control pe termen lung. citeturn42search102
+### Evită triggerii
+- Soare, băuturi fierbinți, alcool, stres, variații de temperatură.
+
+Un jurnal al simptomelor te poate ajuta să identifici ce îți agravează rozaceea. Cu un plan personalizat, poți controla simptomele pe termen lung.

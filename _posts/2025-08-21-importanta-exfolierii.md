@@ -7,15 +7,15 @@ categories: [skincare]
 tags: [exfoliere, AHA, BHA]
 ---
 
-**Exfolierea chimică** cu **AHA/BHA** ajută la îndepărtarea celulelor moarte, netezind textura și susținând luminozitatea. **AHA** (glicolic, lactic) lucrează superficial; **BHA** (acid salicilic) pătrunde în pori și reglează sebumul — utile în acnee/ten gras. citeturn42search95
+Exfolierea este esențială pentru o piele luminoasă și uniformă. Îndepărtează celulele moarte, stimulează regenerarea și îmbunătățește absorbția produselor.
 
-### Beneficii & riscuri
-- Poate îmbunătăți uniformitatea și aspectul liniilor fine. **Dar** crește **fotosensibilitatea**; obligatoriu **SPF 30+**. citeturn42search95
-- **Supradozarea** irită și afectează bariera; menține frecvența moderată. citeturn42search79
+### Tipuri de exfolianți
+- **Fizici**: scruburi – pot fi abrazivi, folosește cu moderație.
+- **Chimici**: AHA (acid glicolic, lactic) și BHA (acid salicilic) – acționează eficient fără frecare.
 
-### Cum introduci corect
-1. Alege concentrații **mici** (AHA ≤10%, BHA 0.5–2%) și **testează pe zonă mică**. citeturn42search95
-2. Aplică **seara** de 2–3 ori/săpt., alternează cu seri de **hidratare** intensă. citeturn42search95
-3. Ziua, **SPF 30+** și evită alte iritante în aceeași rutină. citeturn42search95
+### Cum să exfoliezi corect
+- Alege concentrații mici (AHA ≤10%, BHA ≤2%).
+- Aplică seara, de 1–2 ori pe săptămână.
+- Urmează cu hidratare și SPF dimineața.
 
-> Exfolierea bine dozatată e aliatul tău; excesul devine dușmanul barierei. citeturn42search79
+Exfolierea bine dozată este aliatul tău. Excesul poate distruge bariera cutanată și provoca iritații.
