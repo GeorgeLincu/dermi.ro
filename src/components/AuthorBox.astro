@@ -8,11 +8,11 @@ interface Props { lang?: Lang }
 const { lang = 'ro' } = Astro.props;
 const t = useTranslations(lang);
 const doc = CONFIG.doctor;
-const photo = publicFileExists(doc.photo) ? doc.photo : '';
+const photo = publicFileExists(doc.photoSmall) ? doc.photoSmall : '';
 ---
 <aside class="author" aria-label={t('author.label')}>
   {photo
-    ? <img class="author__photo" src={photo} alt={doc.name} width="96" height="96" loading="lazy" decoding="async" />
+    ? <img class="author__photo" src={photo} alt={doc.name} width="72" height="72" loading="lazy" decoding="async" />
     : <Seal class="author__photo" />}
   <div>
     <p class="author__label">{t('author.label')}</p>

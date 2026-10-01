@@ -13,12 +13,14 @@ export const CONFIG = {
     familyName: 'Lincu',
     title:     { ro: 'Medic specialist Dermatovenerologie', en: 'Specialist in Dermatology and Venereology' },
     // Colegiul Medicilor din România — public register entry / CMR code (shown when set)
-    cmrCode:   '',
+    cmrCode:   '2620033311',
     cmrRegisterUrl: '',
     // Where she practises, e.g. { name: 'Clinica X', city: 'București', url: 'https://…' }
     practice:  { name: '', city: '', url: '' },
     // Square portrait in public/, ~800×800, e.g. '/assets/madalina-lincu.jpg' (shown once the file exists)
     photo:     '/assets/madalina-lincu.jpg',
+    // Small version for avatars (192×192)
+    photoSmall: '/assets/madalina-lincu-192.jpg',
     // Public professional profiles (LinkedIn, clinic page, CMR register…) — used for sameAs in JSON-LD
     profiles:  ['https://www.linkedin.com/in/m%C4%83d%C4%83lina-lincu-7ab696186'] as string[],
   },
