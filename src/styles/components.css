@@ -106,3 +106,21 @@
 .cta-band .btn { background: var(--bg); color: var(--ink); }
 .cta-band .btn:hover { background: var(--surface); color: var(--accent); }
 @media (max-width: 640px) { .cta-band { grid-template-columns: 1fr; } }
+
+/* ── Forms ──────────────────────────────────────────────────────────── */
+.form { display: grid; gap: 18px; }
+.form__row { display: grid; gap: 6px; }
+.form label { font-weight: 600; font-size: .95rem; }
+.form input, .form select, .form textarea {
+  width: 100%; min-height: 48px; padding: 12px 14px; border-radius: var(--radius-sm);
+  border: 1.5px solid var(--line-2); background: var(--bg); color: var(--ink); font-size: 1rem;
+}
+.form textarea { resize: vertical; min-height: 150px; line-height: 1.55; }
+.form input:focus-visible, .form select:focus-visible, .form textarea:focus-visible { outline: 3px solid var(--focus); outline-offset: 1px; border-color: var(--accent); }
+.form__hint, .form__privacy { font-size: .9rem; color: var(--ink-2); }
+.form__trap { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
+.form__actions { margin: 0; }
+.form__status { padding: 12px 16px; border-radius: var(--radius-sm); font-weight: 600; }
+.form__status--ok { background: color-mix(in srgb, var(--accent) 14%, var(--surface)); color: var(--ink); border: 1px solid var(--accent); }
+.form__status--error { background: color-mix(in srgb, var(--clay) 12%, var(--surface)); color: var(--ink); border: 1px solid var(--clay); }
+.form__alt { margin: 16px 0 20px; color: var(--ink-2); }

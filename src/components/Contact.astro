@@ -1,44 +1,89 @@
 ---
 import Base from '../layouts/Base.astro';
 import { CONFIG } from '../config';
-import type { Lang } from '../i18n/ui';
+import { pathIn, type Lang } from '../i18n/ui';
 
+// The form posts to the Worker (/api/contact), which e-mails the doctor via Cloudflare Email Routing.
+// Works without JavaScript (303 redirect to /contact/trimis/); with JS it stays on the page.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const ro = lang === 'ro';
+const T = ro ? {
+  title: 'Contact | Dermi', desc: 'Scrie-i Dr. Mădălina Iulia Lincu prin formularul de contact de pe dermi.ro.',
+  h1: 'Scrie-ne', lead: 'Pentru întrebări despre site, colaborări sau corecturi la articole, folosește formularul de mai jos.',
+  name: 'Nume', email: 'E-mail', topic: 'Subiect', message: 'Mesaj', send: 'Trimite mesajul', sending: 'Se trimite…',
+  topics: [['site', 'Întrebare despre site'], ['colaborare', 'Colaborare / presă'], ['corectura', 'Corectură la un articol'], ['altceva', 'Altceva']],
+  hint: 'Te rugăm să nu incluzi date despre sănătatea ta. Nu putem oferi diagnostic sau tratament prin mesaj.',
+  privacy: 'Folosim datele doar pentru a-ți răspunde. Detalii în', privacyLink: 'politica de confidențialitate',
+  ok: 'Mulțumim! Mesajul a fost trimis. Îți vom răspunde pe e-mail.',
+  invalid: 'Verifică numele, adresa de e-mail și mesajul (minimum 10 caractere).',
+  rate: 'Ai trimis prea multe mesaje într-un timp scurt. Încearcă din nou peste un minut.',
+  error: `Mesajul nu a putut fi trimis. Încearcă din nou sau scrie direct la ${CONFIG.email}.`,
+  medTitle: 'Important despre întrebările medicale',
+  med: ['Nu putem pune diagnostice și nu putem recomanda tratamente prin mesaj sau e-mail. Pentru asta e nevoie de o consultație.', 'Nu trimite fotografii sau date medicale.', 'În caz de urgență, sună la 112.'],
+  or: 'Sau scrie direct la',
+} : {
+  title: 'Contact | Dermi', desc: 'Contact Dr. Mădălina Iulia Lincu through the dermi.ro contact form.',
+  h1: 'Get in touch', lead: 'For questions about the site, collaborations or corrections, use the form below.',
+  name: 'Name', email: 'E-mail', topic: 'Topic', message: 'Message', send: 'Send message', sending: 'Sending…',
+  topics: [['site', 'Question about the site'], ['colaborare', 'Collaboration / press'], ['corectura', 'Correction to an article'], ['altceva', 'Something else']],
+  hint: 'Please do not include health information. We cannot give diagnosis or treatment by message.',
+  privacy: 'We use your data only to reply. See the', privacyLink: 'privacy policy',
+  ok: 'Thank you! Your message has been sent.',
+  invalid: 'Please check your name, e-mail address and message (at least 10 characters).',
+  rate: 'Too many messages in a short time. Please try again in a minute.',
+  error: `The message could not be sent. Please try again or write to ${CONFIG.email}.`,
+  medTitle: 'About medical questions',
+  med: ['We cannot diagnose or recommend treatment by message or e-mail; that requires a consultation.', 'Please do not send photos or medical data.', 'In an emergency, call 112.'],
+  or: 'Or write directly to',
+};
 ---
-<Base lang={lang} title={ro ? 'Contact | Dermi' : 'Contact | Dermi'}
-      description={ro ? 'Cum iei legătura cu dermi.ro: adresa de e-mail și ce fel de mesaje putem primi.' : 'How to contact dermi.ro by e-mail.'}>
+<Base lang={lang} title={T.title} description={T.desc}>
   <div class="page">
     <div class="container container--narrow">
       <header class="page__head">
-        <p class="section__label">{ro ? 'Contact' : 'Contact'}</p>
-        <h1>{ro ? 'Scrie-ne' : 'Get in touch'}</h1>
-        <p>{ro
-          ? 'Pentru întrebări despre site, colaborări sau corecturi la articole, scrie-ne pe e-mail.'
-          : 'For questions about the site, collaborations or corrections, write to us by e-mail.'}</p>
+        <p class="section__label">Contact</p>
+        <h1>{T.h1}</h1>
+        <p>{T.lead}</p>
       </header>
-      <div class="panel">
-        <p class="section__label">E-mail</p>
-        <a class="mail-link" href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>
-      </div>
-      <div class="panel">
-        <h2 class="post__section-title">{ro ? 'Important despre întrebările medicale' : 'About medical questions'}</h2>
-        <div class="prose">
-          {ro ? (
-            <ul>
-              <li>Nu putem pune diagnostice și nu putem recomanda tratamente prin e-mail. Pentru asta e nevoie de o consultație.</li>
-              <li>Te rugăm să nu trimiți fotografii sau date medicale prin e-mail.</li>
-              <li>În caz de urgență, sună la <strong>112</strong>.</li>
-            </ul>
-          ) : (
-            <ul>
-              <li>We cannot diagnose or recommend treatment by e-mail; that requires a consultation.</li>
-              <li>Please do not send photos or medical data by e-mail.</li>
-              <li>In an emergency, call <strong>112</strong>.</li>
-            </ul>
-          )}
+
+      <form class="panel form" id="contactForm" method="post" action={`/api/contact${ro ? '' : '?lang=en'}`}
+            data-ok={T.ok} data-invalid={T.invalid} data-rate={T.rate} data-error={T.error} data-sending={T.sending}>
+        <div class="form__row">
+          <label for="cf-name">{T.name}</label>
+          <input id="cf-name" name="name" type="text" autocomplete="name" required maxlength="100" />
         </div>
+        <div class="form__row">
+          <label for="cf-email">{T.email}</label>
+          <input id="cf-email" name="email" type="email" autocomplete="email" required maxlength="200" />
+        </div>
+        <div class="form__row">
+          <label for="cf-topic">{T.topic}</label>
+          <select id="cf-topic" name="topic">
+            {T.topics.map(([v, l]) => <option value={v}>{l}</option>)}
+          </select>
+        </div>
+        <div class="form__row">
+          <label for="cf-message">{T.message}</label>
+          <textarea id="cf-message" name="message" rows="7" required minlength="10" maxlength="5000" aria-describedby="cf-hint"></textarea>
+          <p class="form__hint" id="cf-hint">{T.hint}</p>
+        </div>
+        <!-- Spam traps: a field humans never see, and the time the form was opened -->
+        <div class="form__trap" aria-hidden="true">
+          <label for="cf-website">Website</label>
+          <input id="cf-website" name="website" type="text" tabindex="-1" autocomplete="off" />
+        </div>
+        <input type="hidden" name="t" value="" />
+        <p class="form__privacy">{T.privacy} <a href={pathIn(lang, '/confidentialitate/')}>{T.privacyLink}</a>.</p>
+        <p class="form__actions"><button type="submit" class="btn btn--primary">{T.send}</button></p>
+        <p class="form__status" id="formStatus" role="status" aria-live="polite" hidden></p>
+      </form>
+
+      <p class="form__alt">{T.or} <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>.</p>
+
+      <div class="panel">
+        <h2 class="post__section-title">{T.medTitle}</h2>
+        <div class="prose"><ul>{T.med.map(m => <li>{m}</li>)}</ul></div>
         {CONFIG.bookingUrl && <p><a href={CONFIG.bookingUrl} class="btn btn--primary" rel="noopener">{ro ? 'Programează o consultație' : 'Book a consultation'}</a></p>}
       </div>
     </div>
