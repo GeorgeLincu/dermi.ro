@@ -15,7 +15,7 @@ const DISCLAIMER = 'Medical disclaimer: informational content only, not medical 
 
 const about = () => [
   `${doc.name} — ${doc.title.ro} (${doc.title.en})${doc.practice.city ? `, ${doc.practice.city}` : ''}, Romania.`,
-  ...(doc.practice.name ? [`Practice: ${doc.practice.name}${doc.practice.url ? ` (${doc.practice.url})` : ''}.`] : []),
+  ...(doc.practice.name ? [`Practises at: ${doc.practice.name}${doc.practice.url ? ` (${doc.practice.url})` : ''}.`] : []),
   ...(doc.cmrCode ? [`Colegiul Medicilor din România code: ${doc.cmrCode}.`] : []),
   `Education: ${EDUCATION.university.en} (${EDUCATION.university.year}); ${EDUCATION.residency.en}.`,
   `Member of: ${MEMBERSHIPS.map(m => `${m.en} (${m.short})`).join(', ')}.`,

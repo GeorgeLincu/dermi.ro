@@ -23,6 +23,7 @@ const updated = '1 octombrie 2026';
           <>
             <h2>Operatorul site-ului</h2>
             <p>{CONFIG.doctor.name}, {CONFIG.doctor.title.ro}<br />România<br />E-mail: <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></p>
+            {CONFIG.doctor.cmrCode && <p>Membru al Colegiului Medicilor din România, cod {CONFIG.doctor.cmrCode}. Activitatea medicală se desfășoară în calitate de colaborator la {CONFIG.doctor.practice.name}, București. Consultațiile nu se oferă prin intermediul acestui site.</p>}
             <p>dermi.ro este un site informativ, personal, necomercial. Nu vinde produse sau servicii online.</p>
             <h2>Conținut medical</h2>
             <p>Articolele au scop exclusiv informativ și educativ. Nu constituie consult medical, diagnostic sau recomandare de tratament și nu înlocuiesc relația cu medicul tău. Pentru orice problemă de sănătate, adresează-te unui medic. În caz de urgență, sună la 112.</p>
@@ -40,6 +41,7 @@ const updated = '1 octombrie 2026';
           <>
             <h2>Operator</h2>
             <p>{CONFIG.doctor.name}, {CONFIG.doctor.title.en}<br />Romania<br />E-mail: <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></p>
+            {CONFIG.doctor.cmrCode && <p>Member of the Romanian College of Physicians (CMR), code {CONFIG.doctor.cmrCode}. Medical practice as a collaborator at {CONFIG.doctor.practice.name}, Bucharest. No consultations are provided through this site.</p>}
             <p>dermi.ro is a personal, non-commercial information site. It does not sell products or services online.</p>
             <h2>Medical content</h2>
             <p>Articles are for information and education only. They are not medical advice, diagnosis or treatment and do not replace your doctor. In an emergency, call 112.</p>

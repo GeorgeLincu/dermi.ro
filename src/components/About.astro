@@ -38,7 +38,7 @@ const linkedin = doc.profiles.find(u => u.includes('linkedin.com'));
           <dt>{ro ? 'Formare' : 'Education'}</dt><dd>{EDUCATION.university.short}, {EDUCATION.university.year}</dd>
           <dt>{ro ? 'Rezidențiat' : 'Residency'}</dt><dd>{EDUCATION.residency.short}</dd>
           <dt>{ro ? 'Membră' : 'Member of'}</dt><dd>{MEMBERSHIPS.map(m => m.short).join(' · ')}</dd>
-          {doc.practice.name && <><dt>{ro ? 'Practică' : 'Practice'}</dt><dd>{doc.practice.url ? <a href={doc.practice.url} rel="noopener">{doc.practice.name}</a> : doc.practice.name}</dd></>}
+          {doc.practice.name && <><dt>{ro ? 'Profesează la' : 'Practises at'}</dt><dd>{doc.practice.url ? <a href={doc.practice.url} rel="noopener">{doc.practice.name}</a> : doc.practice.name}</dd></>}
           {doc.cmrCode && <><dt>{ro ? 'Cod CMR' : 'CMR code'}</dt><dd>{doc.cmrRegisterUrl ? <a href={doc.cmrRegisterUrl} rel="noopener">{doc.cmrCode}</a> : doc.cmrCode}</dd></>}
           <dt>{ro ? 'Limbi' : 'Languages'}</dt><dd>{ro ? 'română, engleză' : 'Romanian, English'}</dd>
           <dt>E-mail</dt><dd><a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></dd>
