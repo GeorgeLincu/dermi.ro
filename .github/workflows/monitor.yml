@@ -1,0 +1,93 @@
+# Hourly health + security check of the live site. On failure it opens (or updates) a GitHub issue,
+# which GitHub e-mails to you. When everything is green again the issue is closed automatically.
+# (The repo is public, so scheduled Actions minutes are free. If it ever goes private, change the
+# schedule to every 3 hours: '17 */3 * * *'.)
+name: Site monitor
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check dermi.ro
+        id: check
+        shell: bash
+        run: |
+          set -u
+          SITE=https://dermi.ro
+          UA="dermi-monitor/1.0 (+https://github.com/${GITHUB_REPOSITORY})"
+          fail=()
+          code() { curl -s -o /dev/null -w '%{http_code}' -A "$UA" --max-time 20 "$1"; }
+          loc()  { curl -s -o /dev/null -w '%{http_code} %{redirect_url}' -A "$UA" --max-time 20 "$1"; }
+
+          body=$(curl -s -A "$UA" --max-time 20 -D headers.txt "$SITE/") || fail+=("homepage unreachable")
+          grep -q "Mădălina Iulia Lincu" <<<"$body" || fail+=("homepage content missing")
+          for h in content-security-policy strict-transport-security x-content-type-options x-frame-options referrer-policy permissions-policy; do
+            grep -qi "^$h:" headers.txt || fail+=("$h header missing")
+          done
+
+          for p in /en/ /blog/ /despre/ /contact/ /legal/ /confidentialitate/ /robots.txt /sitemap.xml /llms.txt /rss.xml /version.json /.well-known/security.txt; do
+            c=$(code "$SITE$p"); [ "$c" = 200 ] || fail+=("$p returned $c")
+          done
+          # Redirects
+          [ "$(loc http://dermi.ro/)" = "301 https://dermi.ro/" ] || fail+=("http:// does not redirect to https://")
+          [ "$(loc https://www.dermi.ro/despre/)" = "301 https://dermi.ro/despre/" ] || fail+=("www does not redirect to the apex")
+          # Files that must never be public
+          for p in /.git/config /.git/HEAD /wrangler.jsonc /package.json /_headers /_redirects /.dev.vars /.env; do
+            c=$(code "$SITE$p"); [ "$c" = 404 ] || fail+=("$p is exposed (HTTP $c)")
+          done
+          # Vault must never be open without sign-in (Access redirects to the login page)
+          c=$(code "$SITE/vault/api/me"); case "$c" in 200) fail+=("/vault/api/me answered 200 without sign-in");; esac
+          c=$(code "$SITE/vault/"); case "$c" in 200) fail+=("/vault/ answered 200 without sign-in");; esac
+          # Contact endpoint answers (GET is not allowed → 405)
+          c=$(code "$SITE/api/contact"); [ "$c" = 405 ] || fail+=("/api/contact returned $c")
+
+          # TLS certificate must be valid for at least 14 more days
+          end=$(echo | openssl s_client -servername dermi.ro -connect dermi.ro:443 2>/dev/null | openssl x509 -noout -enddate | cut -d= -f2)
+          if [ -n "$end" ]; then
+            days=$(( ( $(date -d "$end" +%s) - $(date +%s) ) / 86400 ))
+            [ "$days" -ge 14 ] || fail+=("TLS certificate expires in $days days")
+          else
+            fail+=("could not read TLS certificate")
+          fi
+
+          if [ ${#fail[@]} -gt 0 ]; then
+            printf -- '- %s\n' "${fail[@]}" > problems.md
+            echo "failed=true" >> "$GITHUB_OUTPUT"
+            cat problems.md
+          else
+            echo "failed=false" >> "$GITHUB_OUTPUT"
+            echo "All checks passed"
+          fi
+
+      - name: Open or update issue
+        if: steps.check.outputs.failed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          body="$(printf 'The hourly check of https://dermi.ro failed at %s UTC:\n\n%s\n\n[Workflow run](%s/%s/actions/runs/%s)' "$(date -u '+%F %H:%M')" "$(cat problems.md)" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$GITHUB_RUN_ID")"
+          num=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --label site-monitor --json number -q '.[0].number')
+          if [ -n "$num" ]; then
+            gh issue comment "$num" --repo "$GITHUB_REPOSITORY" --body "$body"
+          else
+            gh label create site-monitor --repo "$GITHUB_REPOSITORY" --color B60205 --description "Automatic site health alerts" 2>/dev/null || true
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "🚨 dermi.ro health check failing" --label site-monitor --body "$body"
+          fi
+          exit 1
+
+      - name: Close resolved issue
+        if: steps.check.outputs.failed == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          num=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --label site-monitor --json number -q '.[0].number')
+          [ -z "$num" ] || gh issue close "$num" --repo "$GITHUB_REPOSITORY" --comment "✅ All checks are passing again."
