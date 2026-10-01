@@ -26,7 +26,7 @@
     "html_handling": "auto-trailing-slash",
     "binding": "ASSETS",
     // The Worker handles only these paths; everything else is served straight from ./dist
-    "run_worker_first": ["/api/*"]
+    "run_worker_first": ["/api/*", "/vault", "/vault/*", "/s/*", "/media/*"]
   },
 
   // Contact form e-mail via Cloudflare Email Routing. Locked to ONE destination, which must be a
@@ -34,10 +34,26 @@
   "send_email": [
     { "name": "MAILER", "destination_address": "drmadalinalincu@gmail.com" }
   ],
+  // Private file storage and article images (R2 bucket "dermi-vault", location WEUR)
+  "r2_buckets": [
+    { "binding": "VAULT", "bucket_name": "dermi-vault" }
+  ],
+
   "vars": {
     "CONTACT_FROM": "formular@dermi.ro",
-    "CONTACT_TO": "drmadalinalincu@gmail.com"
+    "CONTACT_TO": "drmadalinalincu@gmail.com",
+    // Zero Trust team domain (shared with geoli.eu) and the "Dermi Vault" Access application's AUD tag
+    "ACCESS_TEAM_DOMAIN": "plain-block-9dbd.cloudflareaccess.com",
+    "ACCESS_AUD": "2e3dc0afec5e60f7f010a39f4ca5d09dba0229ba11095fdcff6e6a91672b897a",
+    // Admins: files, share links, articles (incl. delete). Both must also be in the Access policy.
+    "ADMIN_EMAILS": "drmadalinalincu@gmail.com,george.lincu@gmail.com",
+    // Editors: write/publish articles and add images, files view-only (none for now)
+    "EDITOR_EMAILS": "",
+    "GITHUB_REPO": "GeorgeLincu/dermi.ro"
   },
+  // Secrets (not in git, set in the dashboard → Worker dermi → Settings → Variables and Secrets):
+  //   SHARE_SECRET  random string, ≥ 32 characters (share links)
+  //   GITHUB_TOKEN  fine-grained token for GeorgeLincu/dermi.ro only, "Contents: Read and write"
 
   // At most 5 contact messages per minute per IP (free Workers rate-limiting binding)
   "ratelimits": [
