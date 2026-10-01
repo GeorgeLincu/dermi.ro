@@ -25,7 +25,12 @@ The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermat
 | Add the doctor's photo | Put a square JPG at `public/assets/madalina-lincu.jpg` (≈800×800) |
 | Add a redirect | `public/_redirects` |
 | Change security headers / CSP | `public/_headers` |
-| Type-check | `npm run check` |
+| Type-check | `npm run check` (site + Worker) |
+| Write/publish articles from the browser | https://dermi.ro/vault/ — see [docs/VAULT.md](docs/VAULT.md) |
+| Run the Worker + vault locally | `cp .dev.vars.example .dev.vars` then `npm run preview` |
+| Check the live site's health | GitHub → Actions → **Site monitor** (runs hourly; opens an issue on failure) |
+| Cloudflare settings (DNS, e-mail, WAF, Access) | [docs/CLOUDFLARE-SETUP.md](docs/CLOUDFLARE-SETUP.md) |
+| Record where an image comes from | [docs/IMAGE-RIGHTS.md](docs/IMAGE-RIGHTS.md) |
 
 ## Structure
 
@@ -36,6 +41,7 @@ src/lib/seo.ts         JSON-LD (WebSite, Person, BlogPosting, BreadcrumbList, FA
 src/lib/agents.ts      llms.txt, llms-full.txt, Markdown twins for AI agents
 src/i18n/ui.ts         UI strings (ro/en) and the RO↔EN page pairs
 src/pages/             routes (Romanian at /, English at /en/)
+worker/                Worker: vault (auth, files, share links, article editor), /media, /api/contact
 public/_headers        security headers + caching
 public/_redirects      redirects (old Jekyll URLs are added by scripts/postbuild.mjs)
 scripts/postbuild.mjs  Markdown header rules, old-URL redirects, [TODO] guard
