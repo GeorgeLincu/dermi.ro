@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONFIG } from '../config';
+import { pathIn, type Lang } from '../i18n/ui';
+
+// Shown after a contact form POST without JavaScript (the Worker redirects here)
+interface Props { lang: Lang; ok: boolean }
+const { lang, ok } = Astro.props;
+const ro = lang === 'ro';
+const title = ok ? (ro ? 'Mesaj trimis' : 'Message sent') : (ro ? 'Mesajul nu a fost trimis' : 'Message not sent');
+const body = ok
+  ? (ro ? 'Mulțumim! Îți vom răspunde pe e-mail.' : 'Thank you! We will reply by e-mail.')
+  : (ro ? `Verifică datele din formular și încearcă din nou, sau scrie direct la ${CONFIG.email}.` : `Please check the form and try again, or write to ${CONFIG.email}.`);
+---
+<Base lang={lang} title={`${title} | Dermi`} description={body} noindex>
+  <div class="page">
+    <div class="container container--narrow">
+      <h1>{title}</h1>
+      <p class="section__lead">{body}</p>
+      <p class="hero__actions">
+        <a href={pathIn(lang, ok ? '/' : '/contact/')} class="btn btn--primary">{ok ? (ro ? 'Înapoi la pagina principală' : 'Back to the homepage') : (ro ? 'Înapoi la formular' : 'Back to the form')}</a>
+      </p>
+    </div>
+  </div>
+</Base>
