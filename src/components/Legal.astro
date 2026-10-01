@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONFIG } from '../config';
+import type { Lang } from '../i18n/ui';
+
+// Operator of a private, non-commercial site in Romania: name, country, contact (Legea 365/2002
+// requires company identification only for PFA/SRL activity — no home address needed).
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const ro = lang === 'ro';
+const updated = '1 octombrie 2026';
+---
+<Base lang={lang} title={ro ? 'Informații legale | Dermi' : 'Legal notice | Dermi'}
+      description={ro ? 'Cine operează dermi.ro, cum ne contactezi și condițiile de utilizare a conținutului.' : 'Who operates dermi.ro, contact details and terms of use.'}>
+  <div class="page">
+    <div class="container container--narrow">
+      <header class="page__head">
+        <h1>{ro ? 'Informații legale' : 'Legal notice'}</h1>
+        <p>{ro ? `Ultima actualizare: ${updated}` : 'Last updated: 1 October 2026'}</p>
+      </header>
+      <div class="prose">
+        {ro ? (
+          <>
+            <h2>Operatorul site-ului</h2>
+            <p>{CONFIG.doctor.name}, {CONFIG.doctor.title.ro}<br />România<br />E-mail: <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></p>
+            <p>dermi.ro este un site informativ, personal, necomercial. Nu vinde produse sau servicii online.</p>
+            <h2>Conținut medical</h2>
+            <p>Articolele au scop exclusiv informativ și educativ. Nu constituie consult medical, diagnostic sau recomandare de tratament și nu înlocuiesc relația cu medicul tău. Pentru orice problemă de sănătate, adresează-te unui medic. În caz de urgență, sună la 112.</p>
+            <p>Depunem efort ca informațiile să fie corecte și actuale, dar medicina evoluează. Dacă observi o eroare, scrie-ne la {CONFIG.email}.</p>
+            <h2>Reclame, afiliere și sponsorizări</h2>
+            <p>În prezent site-ul nu conține reclame, linkuri afiliate sau conținut sponsorizat. Dacă acestea vor apărea, vor fi marcate clar în fiecare articol și pe această pagină.</p>
+            <h2>Drepturi de autor</h2>
+            <p>Textele și imaginile de pe dermi.ro sunt protejate de Legea nr. 8/1996 privind dreptul de autor. Poți cita fragmente scurte cu menționarea sursei și link către articol. Pentru alte utilizări, cere acordul scris.</p>
+            <h2>Linkuri externe</h2>
+            <p>Site-ul conține linkuri către surse externe (ghiduri, studii, organizații). Nu răspundem pentru conținutul acestora.</p>
+            <h2>Confidențialitate</h2>
+            <p>Detalii în <a href="/confidentialitate/">politica de confidențialitate</a>.</p>
+          </>
+        ) : (
+          <>
+            <h2>Operator</h2>
+            <p>{CONFIG.doctor.name}, {CONFIG.doctor.title.en}<br />Romania<br />E-mail: <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></p>
+            <p>dermi.ro is a personal, non-commercial information site. It does not sell products or services online.</p>
+            <h2>Medical content</h2>
+            <p>Articles are for information and education only. They are not medical advice, diagnosis or treatment and do not replace your doctor. In an emergency, call 112.</p>
+            <h2>Advertising and affiliate links</h2>
+            <p>The site currently has no advertising, affiliate links or sponsored content. If that changes, it will be clearly labelled.</p>
+            <h2>Copyright</h2>
+            <p>Texts and images are protected by Romanian copyright law (Law 8/1996). Short quotes with attribution and a link are welcome.</p>
+            <h2>Privacy</h2>
+            <p>See the <a href="/en/privacy/">privacy policy</a>.</p>
+          </>
+        )}
+      </div>
+    </div>
+  </div>
+</Base>

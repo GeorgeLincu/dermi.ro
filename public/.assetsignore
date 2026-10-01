@@ -1,0 +1,4 @@
+# Files under public/ that must not be served
+_headers
+_redirects
+.assetsignore

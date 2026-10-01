@@ -1,31 +1,52 @@
+# dermi.ro
 
-# Dermi.ro — Jekyll + GitHub Pages starter 
+The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermatology and venereology
+(Romania): evidence-based articles in Romanian about skin, hair and nail health and STIs.
 
-A clean, fast dermatology site with blog and optional shop. Built with Jekyll and the Minimal Mistakes theme.
+- **Stack:** [Astro](https://astro.build) static site → Cloudflare Workers (static assets), free tier.
+- **Deploys:** every push to `main` is built and deployed by Cloudflare *Workers Builds* (Worker `dermi`).
+- **Languages:** Romanian at `/`, English core pages under `/en/` (articles are Romanian only).
+- **Never push to `main` directly** — open a pull request; CI must be green before merging.
 
-## Quick start (GitHub Pages)
-1. Create a GitHub repository and upload this folder.
-2. In **Settings → Pages**, choose **GitHub Actions** (Jekyll) or a branch as the source to publish.
-3. (Custom domain) In **Settings → Pages**, set the custom domain to `dermi.ro`. This will create or manage the `CNAME` automatically.
-4. Configure your DNS per GitHub’s docs (ALIAS/ANAME or A records for the apex). HTTPS will be issued automatically.
+## Everyday tasks
 
-## Alternative: Netlify
-1. Click **New site from Git** and select your repo.
-2. Build command: `bundle exec jekyll build` — Publish directory: `_site/`.
-3. Add the custom domain `dermi.ro` in **Site configuration → Domains** and follow the external DNS instructions.
+| I want to… | Do this |
+|---|---|
+| Write or edit an article | `src/content/blog/<slug>.md` — follow [docs/CONTENT-GUIDE.md](docs/CONTENT-GUIDE.md). New articles start with `draft: true`. |
+| Publish an article | Set `draft: false` (after the doctor has reviewed it and removed every `[TODO …]`). The build refuses published articles that still contain `[TODO`. |
+| See drafts locally | `npm run dev` → http://localhost:4321 (drafts are shown with a "CIORNĂ" badge) |
+| Build exactly like production | `npm run build` (output in `dist/`) |
+| Build including drafts | `PREVIEW_DRAFTS=1 npm run build` — never in production |
+| Create social images for new articles | `npm run og` (uses local Edge/Chrome; `--force` re-renders all) |
+| Change the doctor's details, booking link, e-mail | `src/config.ts` — empty fields are hidden on the site |
+| Add the doctor's photo | Put a square JPG at `public/assets/madalina-lincu.jpg` (≈800×800) |
+| Add a redirect | `public/_redirects` |
+| Change security headers / CSP | `public/_headers` |
+| Type-check | `npm run check` |
 
-## Edit content
-- Blog posts: `_posts/` (Markdown).
-- Pages: `_pages/`.
-- Shop products: `_data/products.yml`. Replace `YOUR_SNIPCART_PUBLIC_API_KEY` in `_pages/shop.md`.
-- Contact form: replace `YOUR_FORM_ID` in `_pages/contact.md` (Formspree).
+## Structure
 
-## Local build
-```bash
-bundle install
-bundle exec jekyll serve
+```
+src/content/blog/      articles (Markdown + frontmatter, schema in src/content.config.ts)
+src/lib/categories.ts  topic clusters (afectiuni, venerologie, ingrediente, …)
+src/lib/seo.ts         JSON-LD (WebSite, Person, BlogPosting, BreadcrumbList, FAQPage)
+src/lib/agents.ts      llms.txt, llms-full.txt, Markdown twins for AI agents
+src/i18n/ui.ts         UI strings (ro/en) and the RO↔EN page pairs
+src/pages/             routes (Romanian at /, English at /en/)
+public/_headers        security headers + caching
+public/_redirects      redirects (old Jekyll URLs are added by scripts/postbuild.mjs)
+scripts/postbuild.mjs  Markdown header rules, old-URL redirects, [TODO] guard
+scripts/og-images.mjs  1200×630 social cards + icons
 ```
 
-## Notes
-- Theme: Minimal Mistakes (remote_theme). Do not remove `jekyll-include-cache` from plugins.
-- Images are placeholders. Replace with your own.
+## For AI agents and search engines
+
+`/llms.txt`, `/llms-full.txt`, `/index.md`, `/blog/<slug>.md`, `/sitemap.xml`, `/rss.xml`.
+`robots.txt` allows search and AI use (`Content-Signal: search=yes, ai-input=yes, ai-train=yes`).
+
+## Content rules (short version)
+
+No invented testimonials, patient stories, statistics or credentials; no brand names; no doses for
+prescription medicines; EU cosmetics claim rules and the CMR deontology code apply. Full rules:
+[docs/CONTENT-GUIDE.md](docs/CONTENT-GUIDE.md). Review checklist for the drafts:
+[docs/REVIEW-ARTICOLE.md](docs/REVIEW-ARTICOLE.md).

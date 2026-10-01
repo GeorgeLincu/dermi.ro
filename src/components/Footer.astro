@@ -1,0 +1,50 @@
+---
+import { CONFIG } from '../config';
+import { CATEGORIES, type CategoryId } from '../lib/categories';
+import { useTranslations, pathIn, type Lang } from '../i18n/ui';
+import Logo from './Logo.astro';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const year = new Date().getFullYear();
+---
+<footer class="footer">
+  <div class="container footer__grid">
+    <div class="footer__brand">
+      <a href={pathIn(lang, '/')} class="nav__logo" aria-label="Dermi"><Logo /></a>
+      <p>{t('footer.tagline')}</p>
+      <p class="footer__doctor">{CONFIG.doctor.name}<br /><span>{CONFIG.doctor.title[lang]}</span></p>
+      <p><a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></p>
+    </div>
+    <nav class="footer__col" aria-label={t('nav.topics')}>
+      <h2>{t('nav.topics')}</h2>
+      <ul>
+        {(Object.keys(CATEGORIES) as CategoryId[]).map(id => (
+          <li><a href={`/blog/categorie/${id}/`}>{CATEGORIES[id][lang].name}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <nav class="footer__col" aria-label="Dermi">
+      <h2>Dermi</h2>
+      <ul>
+        <li><a href="/blog/">{t('nav.articles')}</a></li>
+        <li><a href={pathIn(lang, '/despre/')}>{t('nav.about')}</a></li>
+        <li><a href={pathIn(lang, '/contact/')}>{t('nav.contact')}</a></li>
+        <li><a href={pathIn(lang, '/legal/')}>{t('footer.legal')}</a></li>
+        <li><a href={pathIn(lang, '/confidentialitate/')}>{t('footer.privacy')}</a></li>
+        <li><a href="/rss.xml">RSS</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="container footer__bottom">
+    <p>{t('footer.medical')}</p>
+    <p>
+      © {year} {CONFIG.doctor.name} · {CONFIG.domain} ·
+      <a href="/vault/" rel="nofollow" class="footer__login">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>
+        {t('footer.login')}
+      </a>
+    </p>
+  </div>
+</footer>

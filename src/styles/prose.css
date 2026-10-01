@@ -1,0 +1,41 @@
+/* ── Article page ───────────────────────────────────────────────────── */
+.post__header { max-width: var(--measure); }
+.post__header h1 { font-size: clamp(2rem, 1.4rem + 2.8vw, 3.3rem); font-weight: 450; }
+.post__lead { margin-top: 18px; font-size: clamp(1.08rem, 1rem + .4vw, 1.25rem); color: var(--ink-2); }
+.post__meta { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: .92rem; color: var(--ink-2); }
+.post__meta a { color: var(--clay); font-weight: 600; text-decoration: none; }
+.post__meta a:hover { text-decoration: underline; }
+.post__body { display: grid; grid-template-columns: minmax(0, 1fr); gap: 28px; max-width: var(--measure); margin-top: 32px; }
+.post__cover { border-radius: var(--radius); width: 100%; height: auto; }
+.post__section-title { font-size: 1.6rem; margin-bottom: 16px; }
+.sources { padding-left: 1.2em; display: grid; gap: 8px; color: var(--ink-2); font-size: .95rem; }
+.related { margin-top: clamp(48px, 7vw, 80px); }
+
+/* ── Prose (rendered Markdown) ──────────────────────────────────────── */
+.prose { font-size: clamp(1.04rem, 1rem + .25vw, 1.13rem); line-height: 1.75; }
+.prose > * + * { margin-top: 1.1em; }
+.prose h2 { margin-top: 2.1em; font-size: clamp(1.45rem, 1.2rem + 1vw, 1.9rem); }
+.prose h3 { margin-top: 1.7em; font-size: clamp(1.15rem, 1.05rem + .5vw, 1.35rem); }
+.prose h2 + *, .prose h3 + * { margin-top: .6em; }
+.prose ul, .prose ol { padding-left: 1.35em; }
+.prose li + li { margin-top: .4em; }
+.prose li::marker { color: var(--clay); }
+.prose strong { font-weight: 650; color: var(--ink); }
+.prose a { font-weight: 500; }
+/* First paragraph = the direct answer (what Google and AI assistants quote) */
+.prose > p:first-child { font-size: 1.12em; color: var(--ink); }
+.prose blockquote {
+  border-left: 3px solid var(--clay); padding: .2em 0 .2em 1.1em; color: var(--ink-2); font-style: italic;
+  font-family: var(--font-display); font-size: 1.08em;
+}
+/* "Pe scurt" key-takeaways list right after its heading */
+.prose h2#pe-scurt { margin-top: 1.4em; font-size: 1rem; font-family: var(--font-body); font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--clay); }
+.prose h2#pe-scurt + ul { list-style: none; padding: 20px 22px; background: var(--blush); border-radius: var(--radius-sm); display: grid; gap: 8px; }
+.prose h2#pe-scurt + ul li { margin: 0; padding-left: 1.5em; position: relative; }
+.prose h2#pe-scurt + ul li::before { content: ''; position: absolute; left: 0; top: .62em; width: .55em; height: .55em; border-radius: 50%; background: var(--accent); }
+.prose table { width: 100%; border-collapse: collapse; font-size: .94em; display: block; overflow-x: auto; }
+.prose th, .prose td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
+.prose th { font-weight: 700; background: var(--surface-2); }
+.prose img { border-radius: var(--radius-sm); }
+.prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.2em 0; }
+.prose code { font-size: .9em; background: var(--surface-2); padding: .1em .35em; border-radius: 4px; }

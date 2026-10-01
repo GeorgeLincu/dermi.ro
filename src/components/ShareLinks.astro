@@ -1,0 +1,22 @@
+---
+// Plain share links — no third-party scripts, no tracking
+import { useTranslations, type Lang } from '../i18n/ui';
+interface Props { url: string; title: string; lang?: Lang }
+const { url, title, lang = 'ro' } = Astro.props;
+const t = useTranslations(lang);
+const u = encodeURIComponent(url);
+const tt = encodeURIComponent(title);
+const links = [
+  { name: 'Facebook', href: `https://www.facebook.com/sharer/sharer.php?u=${u}` },
+  { name: 'WhatsApp', href: `https://wa.me/?text=${tt}%20${u}` },
+  { name: 'LinkedIn', href: `https://www.linkedin.com/sharing/share-offsite/?url=${u}` },
+  { name: 'E-mail',   href: `mailto:?subject=${tt}&body=${u}` },
+];
+---
+<div class="share">
+  <p class="share__label">{t('blog.share')}</p>
+  <ul>
+    {links.map(l => <li><a href={l.href} rel="noopener noreferrer" target={l.name === 'E-mail' ? undefined : '_blank'}>{l.name}</a></li>)}
+    <li><button type="button" class="share__copy" data-copy={url} data-done={lang === 'ro' ? 'Link copiat ✓' : 'Copied ✓'}>{t('blog.copy')}</button></li>
+  </ul>
+</div>

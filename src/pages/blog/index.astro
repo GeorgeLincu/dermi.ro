@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORIES, type CategoryId } from '../../lib/categories';
+import { getPosts } from '../../lib/site';
+import { collectionJsonLd } from '../../lib/seo';
+import { useTranslations } from '../../i18n/ui';
+
+const t = useTranslations('ro');
+const posts = await getPosts();
+const ids = (Object.keys(CATEGORIES) as CategoryId[]).filter(id => posts.some(p => p.data.category === id));
+---
+<Base title="Articole despre sănătatea pielii | Dermi"
+      description="Toate articolele Dermi: afecțiuni ale pielii, venerologie, ingrediente, protecție solară și rutine, explicate de un medic dermatolog."
+      jsonLd={collectionJsonLd('Articole', '/blog/', posts)}>
+  <div class="page">
+    <div class="container">
+      <header class="page__head">
+        <p class="section__label">Dermi</p>
+        <h1>{t('blog.title')}</h1>
+        <p>{t('blog.lead')}</p>
+      </header>
+      {posts.length === 0 && <p>{t('home.empty')}</p>}
+      {ids.map(id => (
+        <section class="blog-cat" aria-labelledby={`cat-${id}`}>
+          <h2 id={`cat-${id}`} class="post__section-title"><a href={`/blog/categorie/${id}/`}>{CATEGORIES[id].ro.name}</a></h2>
+          <div class="grid">
+            {posts.filter(p => p.data.category === id).map(p => <PostCard post={p} />)}
+          </div>
+        </section>
+      ))}
+      <p class="blog-rss"><a href="/rss.xml">{t('blog.rss')}</a></p>
+    </div>
+  </div>
+</Base>

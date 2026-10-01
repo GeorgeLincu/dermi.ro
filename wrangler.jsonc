@@ -1,0 +1,23 @@
+// Cloudflare Workers config — deployed by "Workers Builds: dermi" on every push to main.
+// https://developers.cloudflare.com/workers/static-assets/
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dermi",
+  "compatibility_date": "2026-09-30",
+  // Workers Builds installs npm dependencies; wrangler then runs this before deploying
+  "build": { "command": "npm run build" },
+
+  // Only reachable via dermi.ro — no workers.dev or preview URLs
+  "workers_dev": false,
+  "preview_urls": false,
+
+  "assets": {
+    "directory": "./dist",
+    // Serve /404.html with a real 404 status for unknown URLs
+    "not_found_handling": "404-page",
+    // /despre -> /despre/ (serves despre/index.html)
+    "html_handling": "auto-trailing-slash"
+  },
+
+  "observability": { "enabled": true }
+}

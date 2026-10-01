@@ -1,0 +1,21 @@
+# Redirects for Cloudflare Workers static assets
+# https://developers.cloudflare.com/workers/static-assets/redirects/
+# Old Jekyll pages (2025)
+/feed.xml            /rss.xml              301
+/servicii/           /despre/              301
+/servicii            /despre/              301
+/magazin/            /                     301
+/magazin             /                     301
+# Friendly aliases
+/privacy             /confidentialitate/   301
+/privacy/            /confidentialitate/   301
+/politica-de-confidentialitate/ /confidentialitate/ 301
+/gdpr                /confidentialitate/   301
+/termeni             /legal/               301
+/about               /en/about/            301
+/about/              /en/about/            301
+# Old per-article URLs are appended at build time by scripts/postbuild.mjs
+# The 2025 "Bun venit" post is replaced by the About page
+/noutati/2025/08/21/bun-venit-dermi/ /despre/ 301
+/noutati/2025/08/21/bun-venit-dermi  /despre/ 301
+/2025/08/21/bun-venit-dermi/         /despre/ 301

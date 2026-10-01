@@ -1,0 +1,62 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONFIG } from '../config';
+import { publicFileExists } from '../lib/site';
+import { aboutJsonLd } from '../lib/seo';
+import { pathIn, type Lang } from '../i18n/ui';
+
+// Only facts that are configured in src/config.ts are shown — nothing is invented here.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const ro = lang === 'ro';
+const doc = CONFIG.doctor;
+const photo = publicFileExists(doc.photo) ? doc.photo : '';
+const path = pathIn(lang, '/despre/');
+---
+<Base lang={lang} type="profile"
+      title={ro ? `${doc.name}, medic dermatovenerolog | Dermi` : `${doc.name}, dermatologist | Dermi`}
+      description={ro
+        ? `${doc.name} este ${doc.title.ro.toLowerCase()} și autoarea articolelor de pe dermi.ro.`
+        : `${doc.name} is a ${doc.title.en.toLowerCase()} and the author of dermi.ro.`}
+      jsonLd={aboutJsonLd(lang, path)}>
+  <div class="page">
+    <div class="container about">
+      <div class="about__media">
+        {photo
+          ? <img src={photo} alt={doc.name} width="480" height="480" class="about__photo" />
+          : <div class="about__photo about__photo--placeholder" aria-hidden="true"><span>ML</span></div>}
+      </div>
+      <div class="about__text">
+        <p class="section__label">{ro ? 'Despre' : 'About'}</p>
+        <h1>{doc.name}</h1>
+        <p class="about__title">{doc.title[lang]}</p>
+        <dl class="facts">
+          {doc.practice.name && <><dt>{ro ? 'Practică' : 'Practice'}</dt><dd>{doc.practice.url ? <a href={doc.practice.url} rel="noopener">{doc.practice.name}</a> : doc.practice.name}</dd></>}
+          {doc.practice.city && <><dt>{ro ? 'Oraș' : 'City'}</dt><dd>{doc.practice.city}</dd></>}
+          {doc.cmrCode && <><dt>{ro ? 'Cod CMR' : 'CMR code'}</dt><dd>{doc.cmrRegisterUrl ? <a href={doc.cmrRegisterUrl} rel="noopener">{doc.cmrCode}</a> : doc.cmrCode}</dd></>}
+          <dt>{ro ? 'Limbi' : 'Languages'}</dt><dd>{ro ? 'română, engleză' : 'Romanian, English'}</dd>
+          <dt>E-mail</dt><dd><a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></dd>
+        </dl>
+        <div class="prose">
+          {ro ? (
+            <>
+              <p>Dermi.ro este site-ul în care explic, pe înțelesul tuturor, ce se întâmplă cu pielea, părul și unghiile: de ce apar afecțiunile frecvente, ce tratamente au dovezi și când e cazul să mergi la medic.</p>
+              <p>Articolele pornesc de la ghidurile actuale ale societăților de dermatologie și de la studii solide. Fiecare articol are sursele la vedere, data publicării și data ultimei actualizări.</p>
+              <p>Conținutul are scop informativ și nu înlocuiește consultul medical. Nu ofer diagnostic sau sfaturi individuale prin e-mail ori pe site.</p>
+            </>
+          ) : (
+            <>
+              <p>dermi.ro explains skin, hair and nail health in plain language: why common conditions happen, which treatments have evidence and when to see a doctor. Articles are in Romanian.</p>
+              <p>Content is based on current dermatology guidelines and solid research, with sources, publication and update dates shown on every article.</p>
+              <p>The content is informational and does not replace a medical consultation. No individual advice is given by e-mail.</p>
+            </>
+          )}
+        </div>
+        <p class="about__actions">
+          <a href="/blog/" class="btn btn--primary">{ro ? 'Citește articolele' : 'Read the articles (RO)'}</a>
+          {CONFIG.bookingUrl && <a href={CONFIG.bookingUrl} class="btn btn--ghost" rel="noopener">{ro ? 'Programează o consultație' : 'Book a consultation'}</a>}
+        </p>
+      </div>
+    </div>
+  </div>
+</Base>

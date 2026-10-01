@@ -1,0 +1,16 @@
+---
+import type { MarkdownHeading } from 'astro';
+import { useTranslations, type Lang } from '../i18n/ui';
+interface Props { headings: MarkdownHeading[]; lang?: Lang }
+const { headings, lang = 'ro' } = Astro.props;
+const t = useTranslations(lang);
+const items = headings.filter(h => h.depth === 2 && h.text !== 'Pe scurt');
+---
+{items.length >= 4 && (
+  <details class="toc" open>
+    <summary>{t('blog.toc')}</summary>
+    <ol>
+      {items.map(h => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+    </ol>
+  </details>
+)}
