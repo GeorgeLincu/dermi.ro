@@ -15,8 +15,8 @@ export const CONFIG = {
     // Colegiul Medicilor din România — public register entry / CMR code (shown when set)
     cmrCode:   '2620033311',
     cmrRegisterUrl: '',
-    // Where she practises, e.g. { name: 'Clinica X', city: 'București', url: 'https://…' }
-    practice:  { name: '', city: '', url: '' },
+    // Where she practises: collaborator (PFI) at Dr. Leventer Centre, two Bucharest locations
+    practice:  { name: 'Dr. Leventer Centre', city: 'București', url: 'https://drleventercentre.com' },
     // Square portrait in public/, ~800×800, e.g. '/assets/madalina-lincu.jpg' (shown once the file exists)
     photo:     '/assets/madalina-lincu.jpg',
     // Small version for avatars (192×192)

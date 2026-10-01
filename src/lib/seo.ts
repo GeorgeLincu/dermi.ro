@@ -38,7 +38,7 @@ export function personNode(lang: Lang = 'ro') {
       name: doc.title.ro,
       occupationalCategory: '2212 Specialist medical practitioners (ISCO-08)',
     },
-    ...(doc.practice.name ? { worksFor: { '@type': 'MedicalOrganization', name: doc.practice.name, ...(doc.practice.url ? { url: doc.practice.url } : {}) } } : {}),
+    ...(doc.practice.name ? { affiliation: { '@type': 'MedicalOrganization', name: doc.practice.name, ...(doc.practice.url ? { url: doc.practice.url } : {}) } } : {}),
     ...(sameAs.length > 0 && { sameAs }),
   };
 }
