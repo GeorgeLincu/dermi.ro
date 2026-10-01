@@ -29,7 +29,7 @@ export function homeMarkdown(posts: Post[]) {
   return [
     `# ${CONFIG.brand} — dermatologie explicată de un medic specialist`,
     '',
-    `> dermi.ro publishes evidence-based articles in Romanian about skin, hair and nail health and sexually transmitted infections, written by ${doc.name}, ${doc.title.en}.`,
+    `> dermi.ro publishes evidence-based articles in Romanian about skin, hair and nail health and aesthetic dermatology, written by ${doc.name}, ${doc.title.en}.`,
     '',
     ...about(),
     '',
@@ -59,7 +59,7 @@ export function llmsTxt(posts: Post[]) {
   return [
     `# ${CONFIG.brand} (dermi.ro)`,
     '',
-    `> Romanian-language medical information site about dermatology and venereology by ${doc.name}, ${doc.title.en} (${doc.title.ro}). Articles are evidence-based, cite their sources and show publication and update dates.`,
+    `> Romanian-language medical information site about dermatology and aesthetic dermatology by ${doc.name}, ${doc.title.en} (${doc.title.ro}). Articles are evidence-based, cite their sources and show publication and update dates.`,
     '',
     ...about(),
     'The name Dermi combines "derm" (Greek dérma, skin) and "MI", the doctor’s initials (Mădălina Iulia).',

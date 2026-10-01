@@ -4,9 +4,9 @@ export const CATEGORIES = {
     ro: { name: 'Afecțiuni ale pielii', desc: 'Acnee, rozacee, dermatită, psoriazis, alunițe și alte boli de piele, păr și unghii — explicate clar.' },
     en: { name: 'Skin conditions', desc: 'Acne, rosacea, eczema, psoriasis, moles and other skin, hair and nail conditions.' },
   },
-  'venerologie': {
-    ro: { name: 'Venerologie', desc: 'Infecții cu transmitere sexuală: simptome, testare, tratament și prevenție, fără judecăți.' },
-    en: { name: 'Venereology', desc: 'Sexually transmitted infections: symptoms, testing, treatment and prevention.' },
+  'estetica': {
+    ro: { name: 'Dermatologie estetică', desc: 'Toxina botulinică, fillere, peelinguri, laser și alte proceduri: ce pot face, ce riscuri au și cum alegi corect.' },
+    en: { name: 'Aesthetic dermatology', desc: 'Botulinum toxin, fillers, peels, lasers and other procedures: realistic results and risks.' },
   },
   'ingrediente': {
     ro: { name: 'Ingrediente', desc: 'Retinol, niacinamidă, vitamina C, acizi, ceramide: ce fac, ce dovezi există și cum le folosești.' },

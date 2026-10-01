@@ -22,8 +22,8 @@ export function personNode(lang: Lang = 'ro') {
     url: `${site}/despre/`,
     email: `mailto:${CONFIG.email}`,
     knowsLanguage: ['ro', 'en'],
-    knowsAbout: ['Dermatologie', 'Venerologie', 'Dermatoscopie', 'Acnee', 'Rozacee', 'Dermatită atopică',
-      'Psoriazis', 'Infecții cu transmitere sexuală', 'Îngrijirea pielii', 'Protecție solară'],
+    knowsAbout: ['Dermatologie', 'Dermatologie estetică', 'Dermatoscopie', 'Acnee', 'Rozacee', 'Dermatită atopică',
+      'Psoriazis', 'Toxină botulinică', 'Peeling chimic', 'Îngrijirea pielii', 'Protecție solară'],
     hasOccupation: {
       '@type': 'Occupation',
       name: doc.title.ro,

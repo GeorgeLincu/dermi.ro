@@ -9,7 +9,7 @@ import type { Env } from './index';
 const BLOG_DIR = 'src/content/blog';
 const SLUG_RE = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-export const CATEGORIES = ['afectiuni', 'venerologie', 'ingrediente', 'protectie-solara', 'rutine', 'consultatii'] as const;
+export const CATEGORIES = ['afectiuni', 'estetica', 'ingrediente', 'protectie-solara', 'rutine', 'consultatii'] as const;
 
 export interface Faq { q: string; a: string }
 export interface Source { title: string; publisher?: string; url?: string }
