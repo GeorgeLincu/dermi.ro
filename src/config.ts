@@ -20,7 +20,7 @@ export const CONFIG = {
     // Square portrait in public/, ~800×800, e.g. '/assets/madalina-lincu.jpg' (shown once the file exists)
     photo:     '/assets/madalina-lincu.jpg',
     // Public professional profiles (LinkedIn, clinic page, CMR register…) — used for sameAs in JSON-LD
-    profiles:  [] as string[],
+    profiles:  ['https://www.linkedin.com/in/m%C4%83d%C4%83lina-lincu-7ab696186'] as string[],
   },
 
   email: 'contact@dermi.ro',

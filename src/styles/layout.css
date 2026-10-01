@@ -65,15 +65,23 @@
   .nav__links a { padding: 12px 14px; border-radius: var(--radius-sm); }
 }
 
-/* ── Logo ───────────────────────────────────────────────────────────── */
-.logo { display: inline-flex; align-items: center; gap: 8px; }
-.logo__mark { width: 26px; height: 26px; }
-.logo__leaf { fill: var(--accent); }
-.logo__vein { fill: none; stroke: var(--bg); stroke-width: 1.6; stroke-linecap: round; }
+/* ── Logo: der·mi (derm = skin, MI = Mădălina Iulia) ─────────────────── */
+.logo { display: inline-flex; align-items: center; gap: 10px; }
 .logo__word {
-  font-family: var(--font-display); font-size: 1.6rem; font-weight: 560; letter-spacing: -.03em;
-  font-variation-settings: 'SOFT' 100, 'WONK' 1; line-height: 1;
+  font-family: var(--font-display); font-size: 1.9rem; font-weight: 520; letter-spacing: -.035em;
+  line-height: 1; font-variation-settings: 'SOFT' 100, 'WONK' 0;
 }
+.logo__mi { font-style: italic; color: var(--accent); font-weight: 480; font-variation-settings: 'SOFT' 100, 'WONK' 1; padding-right: .04em; }
+.logo__i { position: relative; }
+.logo__i::after {
+  content: ''; position: absolute; left: 64%; bottom: .74em; width: .18em; height: .18em;
+  border-radius: 50%; background: var(--clay); transform: translateX(-50%);
+}
+.seal { display: block; }
+.seal__bg { fill: var(--accent); }
+.seal__ring { fill: none; stroke: var(--clay); stroke-width: 1.4; opacity: .8; }
+.seal__mi { fill: none; stroke: var(--bg); stroke-width: 4.2; stroke-linecap: round; stroke-linejoin: round; }
+.seal__dot { fill: var(--clay); }
 
 /* ── Hero ───────────────────────────────────────────────────────────── */
 .hero { position: relative; overflow: hidden; padding: clamp(48px, 9vw, 120px) 0 clamp(56px, 8vw, 104px); isolation: isolate; }
@@ -154,7 +162,7 @@
 .about__photo--placeholder {
   display: grid; place-items: center; background:
     repeating-radial-gradient(circle at 50% 60%, var(--contour) 0 1px, transparent 1.5px 14px), var(--blush);
-  font-family: var(--font-display); font-style: italic; font-size: clamp(3rem, 8vw, 6rem); color: var(--accent);
+  color: var(--accent);
 }
 .about__title { margin-top: 10px; font-size: 1.15rem; color: var(--clay); font-weight: 600; }
 .about__text .prose { margin-top: 24px; }
@@ -173,3 +181,15 @@
 .nf__code { font-family: var(--font-display); font-style: italic; font-size: clamp(5rem, 20vw, 9rem); line-height: 1; color: var(--clay); }
 .nf h1 { margin-top: 12px; }
 .nf p { margin-top: 12px; color: var(--ink-2); }
+
+/* ── "De ce Dermi?" — derm + MI ─────────────────────────────────────── */
+.name-story { margin-top: clamp(48px, 7vw, 80px); padding: clamp(24px, 4vw, 44px); border-radius: var(--radius); background: var(--surface-2); }
+.name-eq { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2em .45em; font-family: var(--font-display); font-size: clamp(2rem, 1.3rem + 3.5vw, 3.6rem); line-height: 1.1; margin: 10px 0 22px; }
+.name-eq__op { color: var(--ink-2); font-weight: 300; }
+.name-eq__mi { font-style: italic; color: var(--accent); font-variation-settings: 'SOFT' 100, 'WONK' 1; }
+.name-eq .logo__word { font-size: 1em; }
+.name-story dl { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); }
+.name-story dt { font-family: var(--font-display); font-size: 1.3rem; }
+.name-story dt i { color: var(--accent); }
+.name-story dd { margin: 4px 0 0; color: var(--ink-2); }
+.about__seal { width: 46%; height: auto; }

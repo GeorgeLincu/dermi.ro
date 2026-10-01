@@ -1,4 +1,5 @@
 ---
+import Seal from './Seal.astro';
 import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import Topics from './Topics.astro';
@@ -33,7 +34,7 @@ const ro = lang === 'ro';
       <div class="hero__doctor">
         {photo
           ? <img class="author__photo" src={photo} alt="" width="72" height="72" />
-          : <span class="author__photo author__photo--initials" aria-hidden="true">ML</span>}
+          : <Seal class="author__photo" />}
         <p><strong>{doc.name}</strong>{doc.title[lang]}{doc.practice.city && ` · ${doc.practice.city}`}</p>
       </div>
     </div>

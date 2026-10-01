@@ -42,7 +42,6 @@ const FONTS = `
 @font-face{font-family:Figtree;src:url('${fonts}/figtree.woff2');font-weight:300 900}
 @font-face{font-family:Figtree;src:url('${fonts}/figtree-ext.woff2');font-weight:300 900;unicode-range:U+0100-02FF}`;
 
-const LEAF = `<svg viewBox="0 0 32 32" width="44" height="44"><path d="M16 3C9 9 6 14 6 19a10 10 0 0 0 20 0c0-5-3-10-10-16Z" fill="#2d5a4d"/><path d="M16 9v19M16 17l-4.5-3.5M16 22l5-4" fill="none" stroke="#f8f4ee" stroke-width="1.6" stroke-linecap="round"/></svg>`;
 
 function card({ title, tag }) {
   const size = title.length > 62 ? 60 : title.length > 42 ? 68 : 80;
@@ -52,20 +51,20 @@ html,body{margin:0;width:1200px;height:630px;overflow:hidden;background:#f8f4ee;
   background:radial-gradient(closest-side,transparent 0 30%,#f8f4ee 100%),repeating-radial-gradient(circle at 46% 54%,rgba(45,90,77,.13) 0 1.5px,transparent 2px 18px)}
 .blush{position:absolute;width:640px;height:640px;right:-120px;top:-160px;border-radius:50%;background:radial-gradient(circle at 40% 40%,#f1d9ca,transparent 68%)}
 .c{position:absolute;inset:70px 84px 64px;display:flex;flex-direction:column}
-.logo{display:flex;align-items:center;gap:12px;font-family:Fraunces;font-weight:560;font-size:42px;letter-spacing:-1px}
+.logo{font-family:Fraunces;font-weight:520;font-size:54px;letter-spacing:-1.8px;line-height:1}.logo i{color:#2d5a4d;font-weight:480;font-variation-settings:'SOFT' 100,'WONK' 1}.logo b{position:relative;font-weight:inherit}.logo b:after{content:'';position:absolute;left:64%;bottom:.74em;width:.18em;height:.18em;border-radius:50%;background:#9f4b2b;transform:translateX(-50%)}
 .tag{margin-top:auto;font-size:22px;font-weight:700;letter-spacing:4px;text-transform:uppercase;color:#9f4b2b}
 h1{font-family:Fraunces;font-weight:450;font-size:${size}px;line-height:1.06;margin:18px 0 0;letter-spacing:-1px;max-width:1000px}
 .f{margin-top:38px;padding-top:22px;border-top:2px solid #e2d8ca;display:flex;justify-content:space-between;font-size:26px;color:#4b5651}
 .f b{color:#1b2622;font-weight:600}
 </style></head><body><div class="blush"></div><div class="rings"></div>
-<div class="c"><div class="logo">${LEAF}dermi</div>
+<div class="c"><div class="logo">der<i>m<b>ı</b></i></div>
 <div class="tag">${esc(tag)}</div><h1>${esc(title)}</h1>
 <div class="f"><span><b>Dr. Mădălina Iulia Lincu</b> · medic dermatovenerolog</span><span>dermi.ro</span></div></div></body></html>`;
 }
 
 function defaultCard() {
   return card({ title: 'Pielea ta, explicată de un medic.', tag: 'Dermatologie · Venerologie · Îngrijirea pielii' })
-    .replace('<h1>Pielea ta, explicată de un medic.</h1>', '<h1>Pielea ta, <i style="color:#2d5a4d">explicată de un medic.</i></h1>');
+    .replace('<h1>Pielea ta, explicată de un medic.</h1>', '<h1>Pielea ta,<br><i style="color:#2d5a4d">explicată de un medic.</i></h1>');
 }
 
 function icon(px) {

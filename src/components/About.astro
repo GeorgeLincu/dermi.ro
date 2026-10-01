@@ -1,4 +1,6 @@
 ---
+import Seal from './Seal.astro';
+import Logo from './Logo.astro';
 import Base from '../layouts/Base.astro';
 import { CONFIG } from '../config';
 import { publicFileExists } from '../lib/site';
@@ -24,7 +26,7 @@ const path = pathIn(lang, '/despre/');
       <div class="about__media">
         {photo
           ? <img src={photo} alt={doc.name} width="480" height="480" class="about__photo" />
-          : <div class="about__photo about__photo--placeholder" aria-hidden="true"><span>ML</span></div>}
+          : <div class="about__photo about__photo--placeholder" aria-hidden="true"><Seal class="about__seal" /></div>}
       </div>
       <div class="about__text">
         <p class="section__label">{ro ? 'Despre' : 'About'}</p>
@@ -36,6 +38,7 @@ const path = pathIn(lang, '/despre/');
           {doc.cmrCode && <><dt>{ro ? 'Cod CMR' : 'CMR code'}</dt><dd>{doc.cmrRegisterUrl ? <a href={doc.cmrRegisterUrl} rel="noopener">{doc.cmrCode}</a> : doc.cmrCode}</dd></>}
           <dt>{ro ? 'Limbi' : 'Languages'}</dt><dd>{ro ? 'română, engleză' : 'Romanian, English'}</dd>
           <dt>E-mail</dt><dd><a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></dd>
+          {doc.profiles.filter(u => u.includes('linkedin.com')).map(u => <><dt>LinkedIn</dt><dd><a href={u} rel="noopener me">{ro ? 'Profil LinkedIn' : 'LinkedIn profile'}</a></dd></>)}
         </dl>
         <div class="prose">
           {ro ? (
@@ -57,6 +60,25 @@ const path = pathIn(lang, '/despre/');
           {CONFIG.bookingUrl && <a href={CONFIG.bookingUrl} class="btn btn--ghost" rel="noopener">{ro ? 'Programează o consultație' : 'Book a consultation'}</a>}
         </p>
       </div>
+    </div>
+    <div class="container">
+      <section class="name-story" aria-labelledby="name-story">
+        <p class="section__label">{ro ? 'De unde vine numele' : 'Where the name comes from'}</p>
+        <h2 id="name-story" class="visually-hidden">{ro ? 'De ce Dermi?' : 'Why Dermi?'}</h2>
+        <p class="name-eq" aria-hidden="true">
+          <span>derm</span><span class="name-eq__op">+</span><span class="name-eq__mi">MI</span><span class="name-eq__op">=</span><Logo />
+        </p>
+        <dl>
+          <div>
+            <dt>derm</dt>
+            <dd>{ro ? 'de la grecescul dérma, „piele”, rădăcina cuvântului dermatologie.' : 'from the Greek dérma, “skin”, the root of dermatology.'}</dd>
+          </div>
+          <div>
+            <dt><i>MI</i></dt>
+            <dd>{ro ? 'inițialele medicului: Mădălina Iulia.' : 'the doctor’s initials: Mădălina Iulia.'}</dd>
+          </div>
+        </dl>
+      </section>
     </div>
   </div>
 </Base>

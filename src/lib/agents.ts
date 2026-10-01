@@ -62,6 +62,7 @@ export function llmsTxt(posts: Post[]) {
     `> Romanian-language medical information site about dermatology and venereology by ${doc.name}, ${doc.title.en} (${doc.title.ro}). Articles are evidence-based, cite their sources and show publication and update dates.`,
     '',
     ...about(),
+    'The name Dermi combines "derm" (Greek dérma, skin) and "MI", the doctor’s initials (Mădălina Iulia).',
     `Content may be quoted and summarised with attribution to "${doc.name}, dermi.ro" and a link to the article. ${DISCLAIMER}`,
     '',
     '## About',
