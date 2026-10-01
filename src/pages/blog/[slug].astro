@@ -25,6 +25,9 @@ const cat = CATEGORIES[d.category].ro;
 const ogImage = ogImageFor(post.id);
 const related = relatedPosts(post, all);
 const url = `${CONFIG.site}/blog/${post.id}/`;
+// Vault images carry their size in the file name: "…-1600x900.webp"
+const coverSize = d.image?.match(/-(\d{2,5})x(\d{2,5})\.[a-z]+$/i);
+const [coverW, coverH] = coverSize ? [Number(coverSize[1]), Number(coverSize[2])] : [1200, 675];
 ---
 <Base type="article" title={`${d.title} | Dermi`} ogTitle={d.title} description={d.description} ogImage={d.image ?? ogImage}
       publishedTime={d.pubDate} modifiedTime={d.updatedDate} jsonLd={postJsonLd(post, ogImage)}
@@ -47,7 +50,7 @@ const url = `${CONFIG.site}/blog/${post.id}/`;
       </header>
 
       <div class="post__body">
-        {d.image && <img class="post__cover" src={d.image} alt={d.imageAlt ?? ''} width="1200" height="675" fetchpriority="high" />}
+        {d.image && <img class="post__cover" src={d.image} alt={d.imageAlt ?? ''} width={coverW} height={coverH} fetchpriority="high" />}
         <Toc headings={headings} />
         <div class="prose">
           <Content />
