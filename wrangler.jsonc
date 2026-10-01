@@ -11,6 +11,12 @@
   // Only reachable via dermi.ro — no workers.dev or preview URLs
   "workers_dev": false,
   "preview_urls": false,
+  // Custom domains (Cloudflare creates the DNS records and certificates). www is redirected to the
+  // apex by a zone Redirect Rule before it reaches the Worker.
+  "routes": [
+    { "pattern": "dermi.ro", "custom_domain": true },
+    { "pattern": "www.dermi.ro", "custom_domain": true }
+  ],
 
   "assets": {
     "directory": "./dist",
