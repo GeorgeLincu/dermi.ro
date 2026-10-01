@@ -14,7 +14,7 @@ One file per article: `src/content/blog/<slug>.md`. The slug is lowercase ASCII 
 title: "Acneea la adulți: cauze, tratamente și când mergi la dermatolog"   # 40–65 characters ideally
 description: "Ce declanșează acneea după 25 de ani, ce tratamente au dovezi și ce poți face acasă."  # 50–170 characters, unique
 pubDate: 2026-10-01
-category: afectiuni        # afectiuni | venerologie | ingrediente | protectie-solara | rutine | consultatii
+category: afectiuni        # afectiuni | estetica | ingrediente | protectie-solara | rutine | consultatii
 tags: [acnee, adulți, tratament]   # 2–5 lowercase Romanian tags
 draft: true                # AI-written or unreviewed => always true. Only the doctor publishes.
 faq:                       # optional, 3–5 questions people really search for; answers 1–3 sentences
@@ -66,6 +66,15 @@ sources:                   # 3–6 authoritative sources
 - Sources: real, authoritative, verifiable. If you are not sure a specific URL exists, give the title
   and publisher without `url`. Never fabricate a DOI or URL.
 
+## Aesthetic dermatology (category `estetica`)
+
+- Informative, never promotional: no prices, offers, "programează-te", before/after claims,
+  guaranteed or permanent results, "fără riscuri", or comparisons with other doctors.
+- Botulinum toxin is a prescription-only medicine: never a brand name, no advertising of the medicine.
+- Always cover realistic expectations, candidates, contraindications, procedure, recovery, risks and
+  complications (including rare serious ones), duration of effect, how to choose a qualified doctor,
+  and red flags (non-medical settings, home devices).
+
 ## Article plan (slugs reserved for internal linking)
 
 Existing (migrated, rewritten as drafts): `cum-alegi-crema-hidratanta-potrivita`,
@@ -77,7 +86,11 @@ New:
 - afectiuni: `acneea-la-adulti`, `dermatita-atopica`, `psoriazis`, `dermatita-seboreica`, `melasma`,
   `alunite-semne-de-alarma`, `herpes-labial`, `micoza-unghiilor`, `urticaria`,
   `caderea-parului-la-femei`, `negii-veruci`, `hiperhidroza`, `keratoza-pilara`, `vitiligo`
-- venerologie: `infectii-cu-transmitere-sexuala`, `hpv-si-condiloamele`, `herpesul-genital`, `sifilisul`
+- estetica: `toxina-botulinica`, `fillerele-cu-acid-hialuronic`, `peelingul-chimic`,
+  `laserul-in-dermatologia-estetica`, `microneedlingul`, `cicatricile-post-acnee`,
+  `plasma-bogata-in-trombocite-prp`, `imbatranirea-pielii-ce-functioneaza`
+
+(The venereology topic was removed on 2026-10-01; its four drafts are in the Git history.)
 - ingrediente: `retinolul-si-retinoizii`, `niacinamida`, `vitamina-c-in-skincare`, `acidul-azelaic`,
   `ceramidele-si-bariera-pielii`
 - protectie-solara: `cum-aplici-corect-protectia-solara`, `protectia-solara-la-copii`

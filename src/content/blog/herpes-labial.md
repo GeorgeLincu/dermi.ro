@@ -46,7 +46,7 @@ Herpesul labial este o infecție virală care apare, de obicei, pe marginea buze
 
 După prima infecție, virusul migrează de-a lungul nervilor și rămâne inactiv într-un ganglion nervos al feței. Din când în când se poate „trezi”, coborî din nou spre piele și produce un nou episod, de obicei în același loc.
 
-Herpesul labial poate fi produs și de HSV-2 (tipul asociat mai des cu herpesul genital), prin contact oral-genital. Despre această formă găsești detalii în articolul despre [herpesul genital](/blog/herpesul-genital/).
+Herpesul labial poate fi produs și de HSV-2 (tipul asociat mai des cu herpesul genital), prin contact oral-genital. Pentru herpesul genital, discută cu medicul dermatovenerolog.
 
 ## Cum arată și cum evoluează un episod
 

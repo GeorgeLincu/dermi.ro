@@ -16,7 +16,7 @@ const fonts   = pathToFileURL(join(assets, 'fonts')).href;
 const force   = process.argv.includes('--force');
 
 const CATEGORY = {
-  'afectiuni': 'Afecțiuni ale pielii', 'venerologie': 'Venerologie', 'ingrediente': 'Ingrediente',
+  'afectiuni': 'Afecțiuni ale pielii', 'estetica': 'Dermatologie estetică', 'ingrediente': 'Ingrediente',
   'protectie-solara': 'Protecție solară', 'rutine': 'Rutine de îngrijire', 'consultatii': 'Consultații',
 };
 
@@ -63,7 +63,7 @@ h1{font-family:Fraunces;font-weight:450;font-size:${size}px;line-height:1.06;mar
 }
 
 function defaultCard() {
-  return card({ title: 'Pielea ta, explicată de un medic.', tag: 'Dermatologie · Venerologie · Îngrijirea pielii' })
+  return card({ title: 'Pielea ta, explicată de un medic.', tag: 'Dermatologie · Estetică · Îngrijirea pielii' })
     .replace('<h1>Pielea ta, explicată de un medic.</h1>', '<h1>Pielea ta,<br><i style="color:#2d5a4d">explicată de un medic.</i></h1>');
 }
 

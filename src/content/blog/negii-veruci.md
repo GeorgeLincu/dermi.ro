@@ -42,7 +42,7 @@ Negii (verucile) sunt mici excrescențe benigne ale pielii produse de virusul pa
 
 Negii sunt îngroșări ale stratului superficial al pielii, produse de infecția celulelor pielii cu anumite tipuri de **virus papiloma uman (HPV)**. Virusul pătrunde prin mici fisuri sau zgârieturi și face celulele să se înmulțească mai repede, formând o mică „excrescență” cu suprafață aspră.
 
-Există peste o sută de tipuri de HPV. Cele care produc negi pe mâini și picioare sunt diferite de cele care produc negi genitali sau de cele asociate cu cancerul de col uterin. Despre infecția genitală găsești detalii în articolul [HPV și condiloamele](/blog/hpv-si-condiloamele/).
+Există peste o sută de tipuri de HPV. Cele care produc negi pe mâini și picioare sunt diferite de cele care produc negi genitali sau de cele asociate cu cancerul de col uterin. Pentru negii din zona genitală, adresează-te medicului dermatovenerolog.
 
 ## Tipuri de negi
 

@@ -94,7 +94,7 @@ ${header}
             <select id="fCategory" required>
               <option value="">— alege —</option>
               <option value="afectiuni">Afecțiuni ale pielii</option>
-              <option value="venerologie">Venerologie</option>
+              <option value="estetica">Dermatologie estetică</option>
               <option value="ingrediente">Ingrediente</option>
               <option value="protectie-solara">Protecție solară</option>
               <option value="rutine">Rutine de îngrijire</option>
@@ -304,7 +304,7 @@ const encKey = (k) => k.split('/').map(encodeURIComponent).join('/');
 const size = (n) => n < 1024 ? n + ' B' : n < 1048576 ? (n / 1024).toFixed(1) + ' KB' : n < 1073741824 ? (n / 1048576).toFixed(1) + ' MB' : (n / 1073741824).toFixed(2) + ' GB';
 const date = (s) => new Date(s).toLocaleString('ro-RO', { dateStyle: 'medium', timeStyle: 'short' });
 const base = (k) => k.replace(/\\/$/, '').split('/').pop();
-const CATS = { 'afectiuni': 'Afecțiuni', 'venerologie': 'Venerologie', 'ingrediente': 'Ingrediente', 'protectie-solara': 'Protecție solară', 'rutine': 'Rutine', 'consultatii': 'Consultații' };
+const CATS = { 'afectiuni': 'Afecțiuni', 'estetica': 'Estetică', 'ingrediente': 'Ingrediente', 'protectie-solara': 'Protecție solară', 'rutine': 'Rutine', 'consultatii': 'Consultații' };
 
 let me = { admin: false, sharing: false, publishing: false };
 const prefix = () => location.hash.startsWith('#!') ? '' : decodeURIComponent(location.hash.replace(/^#\\/?/, ''));

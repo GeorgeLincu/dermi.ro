@@ -19,7 +19,7 @@ const ui = {
     'meta.title':       'Dermi — dermatologie explicată de un medic specialist',
     'meta.description': 'Articole clare, bazate pe dovezi, despre sănătatea pielii, părului și unghiilor, scrise de Dr. Mădălina Iulia Lincu, medic specialist dermatovenerolog.',
 
-    'hero.kicker':   'Dermatologie · Venerologie · Îngrijirea pielii',
+    'hero.kicker':   'Dermatologie · Estetică · Îngrijirea pielii',
     'hero.title1':   'Pielea ta,',
     'hero.title2':   'explicată de un medic.',
     'hero.lead':     'Informații clare și verificate despre afecțiunile pielii, ingrediente și rutine — ca să iei decizii bune și să știi când e momentul unei consultații.',
@@ -87,7 +87,7 @@ const ui = {
     'meta.title':       'Dermi — dermatology explained by a specialist',
     'meta.description': 'Clear, evidence-based articles on skin, hair and nail health by Dr. Mădălina Iulia Lincu, specialist in dermatology and venereology (Romania).',
 
-    'hero.kicker':   'Dermatology · Venereology · Skin care',
+    'hero.kicker':   'Dermatology · Aesthetics · Skin care',
     'hero.title1':   'Your skin,',
     'hero.title2':   'explained by a doctor.',
     'hero.lead':     'Clear, evidence-based information about skin conditions, ingredients and routines. Articles are written in Romanian.',

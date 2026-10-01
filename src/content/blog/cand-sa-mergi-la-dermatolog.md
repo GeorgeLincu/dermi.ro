@@ -41,7 +41,7 @@ Dermatovenerologia este specialitatea medicală care se ocupă de bolile pielii,
 - pune diagnosticul și tratează afecțiuni precum acneea, eczemele, psoriazisul, rozaceea, urticaria, infecțiile fungice sau virale ale pielii;
 - evaluează alunițele și alte leziuni pigmentate, pentru depistarea precoce a melanomului și a altor cancere de piele;
 - investighează căderea părului și modificările unghiilor;
-- diagnostichează și tratează [infecțiile cu transmitere sexuală](/blog/infectii-cu-transmitere-sexuala/);
+- diagnostichează și tratează infecțiile cu transmitere sexuală;
 - face, la nevoie, mici proceduri: biopsii, îndepărtarea unor leziuni, crioterapie.
 
 ## Când să mergi la dermatolog: motive frecvente

@@ -11,7 +11,7 @@ const posts = await getPosts();
 const ids = (Object.keys(CATEGORIES) as CategoryId[]).filter(id => posts.some(p => p.data.category === id));
 ---
 <Base title="Articole despre sănătatea pielii | Dermi"
-      description="Toate articolele Dermi: afecțiuni ale pielii, venerologie, ingrediente, protecție solară și rutine, explicate de un medic dermatolog."
+      description="Toate articolele Dermi: afecțiuni ale pielii, dermatologie estetică, ingrediente, protecție solară și rutine, explicate de un medic dermatolog."
       jsonLd={collectionJsonLd('Articole', '/blog/', posts)}>
   <div class="page">
     <div class="container">

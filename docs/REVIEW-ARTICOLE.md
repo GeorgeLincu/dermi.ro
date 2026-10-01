@@ -1,6 +1,6 @@
 # Verificarea articolelor înainte de publicare
 
-Toate cele 39 de articole sunt **ciorne** (`draft: true`), scrise cu ajutorul AI după
+Toate articolele sunt **ciorne** (`draft: true`), scrise cu ajutorul AI după
 [CONTENT-GUIDE.md](CONTENT-GUIDE.md). Nimic nu apare pe site până când Dr. Mădălina nu le verifică
 și le publică. Site-ul refuză automat publicarea unui articol care mai conține `[TODO`.
 
@@ -38,15 +38,22 @@ Toate cele 39 de articole sunt **ciorne** (`draft: true`), scrise cu ajutorul AI
   — disponibilitate în România `[TODO]`; prevalența 0,5–2%; asociații de pacienți `[TODO]`.
 - **cum-tratezi-rozaceea**: oximetazolina topică în România `[TODO]`.
 
-### Venerologie
-- **infectii-cu-transmitere-sexuala**: cifra OMS „peste 1 milion de ITS curabile pe zi”; U=U;
-  fereastra de 72 h pentru PEP; testare gratuită/anonimă, PrEP, vaccinare HPV în România `[TODO]`.
-  Doxy-PEP omis intenționat.
-- **hpv-si-condiloamele**: programul național anti-HPV și screeningul de col uterin `[TODO]`;
-  tratamentele în sarcină (acid tricloracetic) vs. IUSTI 2019.
-- **herpesul-genital**: risc maxim la primoinfecția din trimestrul III; titlul sursei RCOG/BASHH.
-- **sifilisul**: limita pentru sifilisul latent precoce (1 an IUSTI / 2 ani OMS); testarea în sarcină
-  în România `[TODO]`.
+### Dermatologie estetică (8 articole noi)
+Reguli: informativ, fără prețuri, mărci, programări, garanții sau „înainte/după”. Toxina botulinică e
+medicament pe rețetă: nu se promovează. În toate: `[TODO: verifică denumirea și adresa actuală a registrului]` (CMR).
+- **toxina-botulinica**: intervale (debut 2–5 zile, maxim ~2 săptămâni, durată 3–4 luni); contraindicații
+  (miastenie, Lambert-Eaton, aminoglicozide); semnele de difuzare care cer 112; cine poate administra în România.
+- **fillerele-cu-acid-hialuronic**: durate pe zone (6–18 luni); dispozitive medicale CE (Reg. UE 2017/745);
+  zonele cu risc de ocluzie vasculară, hialuronidaza, 112 la tulburări de vedere; injectoarele fără ac.
+- **peelingul-chimic**: tabelul tipurilor și recuperarea; sarcina; isotretinoina orală; riscul cardiac la fenol.
+- **laserul-in-dermatologia-estetica**: tabelul tipurilor; contraindicații (săruri de aur, lupus); melasma se
+  poate agrava; diagnostic înainte de laser pe pete/alunițe; cine poate face laser în România `[TODO]`.
+- **microneedlingul**: cine poate face microneedling medical în România `[TODO]`; 3–6 ședințe; risc de pete pe pielea închisă la culoare.
+- **cicatricile-post-acnee**: consensul 2017 (Spring et al., JAMA Dermatology) privind isotretinoina și procedurile superficiale.
+- **plasma-bogata-in-trombocite-prp**: dovezi insuficiente pentru căderea părului (ghid S3 2018, Kanti et al.);
+  autorizarea procedurilor PRP în România `[TODO]`; raportul CDC 2024 despre infecții la un spa nelicențiat.
+- **imbatranirea-pielii-ce-functioneaza**: studiul Hughes 2013 (protecție solară zilnică); tretinoina doar pe rețetă;
+  „celule stem” din plante; formulările despre afirmațiile cosmetice (Reg. 655/2013).
 
 ### Ingrediente și protecție solară
 - **retinolul-si-retinoizii**: Regulamentul (UE) 2024/996 (limite vitamina A în cosmetice, termene
