@@ -4,7 +4,10 @@ The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermat
 (Romania): evidence-based articles in Romanian about skin, hair and nail health and STIs.
 
 - **Stack:** [Astro](https://astro.build) static site → Cloudflare Workers (static assets), free tier.
-- **Deploys:** every push to `main` is built and deployed by Cloudflare *Workers Builds* (Worker `dermi`).
+- **Deploys:** every push to `main` is built and deployed by Cloudflare *Workers Builds* (Worker `dermi`,
+  deploy command `npx wrangler deploy`, non-production branch builds off). Check what is live at
+  `https://dermi.ro/version.json` (commit SHA). **Never delete the "Workers Builds" API token** that
+  Cloudflare created for this — every build fails afterwards ("build token deleted or rolled").
 - **Languages:** Romanian at `/`, English core pages under `/en/` (articles are Romanian only).
 - **Never push to `main` directly** — open a pull request; CI must be green before merging.
 
