@@ -27,7 +27,7 @@ const linkedin = doc.profiles.find(u => u.includes('linkedin.com'));
     <div class="container about">
       <div class="about__media">
         {photo
-          ? <img src={photo} alt={doc.name} width="480" height="480" class="about__photo" />
+          ? <img src={photo} alt={`${doc.name}, medic specialist dermatovenerolog`} width="800" height="800" class="about__photo" fetchpriority="high" />
           : <div class="about__photo about__photo--placeholder" aria-hidden="true"><Seal class="about__seal" /></div>}
       </div>
       <div class="about__text">

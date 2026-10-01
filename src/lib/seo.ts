@@ -21,6 +21,8 @@ export function personNode(lang: Lang = 'ro') {
     honorificPrefix: 'Dr.',
     jobTitle: doc.title[lang],
     url: `${site}/despre/`,
+    image: `${site}${doc.photo}`,
+    ...(doc.cmrCode ? { identifier: { '@type': 'PropertyValue', propertyID: 'Cod CMR (Colegiul Medicilor din România)', value: doc.cmrCode } } : {}),
     email: `mailto:${CONFIG.email}`,
     knowsLanguage: ['ro', 'en'],
     knowsAbout: [...AREAS, 'Acnee', 'Rozacee', 'Dermatită atopică', 'Psoriazis', 'Îngrijirea pielii', 'Protecție solară'],

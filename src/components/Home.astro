@@ -15,7 +15,7 @@ const posts = await getPosts();
 const counts: Record<string, number> = {};
 for (const p of posts) counts[p.data.category] = (counts[p.data.category] ?? 0) + 1;
 const doc = CONFIG.doctor;
-const photo = publicFileExists(doc.photo) ? doc.photo : '';
+const photo = publicFileExists(doc.photoSmall) ? doc.photoSmall : '';
 const ro = lang === 'ro';
 ---
 <Base lang={lang} title={t('meta.title')} description={t('meta.description')} jsonLd={websiteJsonLd(lang)}
@@ -33,7 +33,7 @@ const ro = lang === 'ro';
       </div>
       <div class="hero__doctor">
         {photo
-          ? <img class="author__photo" src={photo} alt="" width="72" height="72" />
+          ? <img class="author__photo" src={photo} alt="" width="72" height="72" fetchpriority="low" />
           : <Seal class="author__photo" />}
         <p><strong>{doc.name}</strong>{doc.title[lang]}{doc.practice.city && ` · ${doc.practice.city}`}</p>
       </div>
