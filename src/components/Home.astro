@@ -1,0 +1,96 @@
+---
+import Seal from './Seal.astro';
+import Base from '../layouts/Base.astro';
+import PostCard from './PostCard.astro';
+import Topics from './Topics.astro';
+import { CONFIG } from '../config';
+import { getPosts, publicFileExists } from '../lib/site';
+import { websiteJsonLd } from '../lib/seo';
+import { useTranslations, pathIn, type Lang } from '../i18n/ui';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const posts = await getPosts();
+const counts: Record<string, number> = {};
+for (const p of posts) counts[p.data.category] = (counts[p.data.category] ?? 0) + 1;
+const doc = CONFIG.doctor;
+const photo = publicFileExists(doc.photo) ? doc.photo : '';
+const ro = lang === 'ro';
+---
+<Base lang={lang} title={t('meta.title')} description={t('meta.description')} jsonLd={websiteJsonLd(lang)}
+      markdown={ro ? '/index.md' : undefined}>
+  <section class="hero">
+    <div class="container">
+      <p class="hero__kicker">{t('hero.kicker')}</p>
+      <h1>{t('hero.title1')} <em>{t('hero.title2')}</em></h1>
+      <p class="hero__lead">{t('hero.lead')}</p>
+      <div class="hero__actions">
+        <a href="/blog/" class="btn btn--primary">{t('hero.cta')}</a>
+        {CONFIG.bookingUrl
+          ? <a href={CONFIG.bookingUrl} class="btn btn--ghost" rel="noopener">{t('nav.book')}</a>
+          : <a href={pathIn(lang, '/despre/')} class="btn btn--ghost">{t('hero.cta2')}</a>}
+      </div>
+      <div class="hero__doctor">
+        {photo
+          ? <img class="author__photo" src={photo} alt="" width="72" height="72" />
+          : <Seal class="author__photo" />}
+        <p><strong>{doc.name}</strong>{doc.title[lang]}{doc.practice.city && ` · ${doc.practice.city}`}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--tint" aria-labelledby="latest">
+    <div class="container">
+      <div class="section__head">
+        <div>
+          <p class="section__label">{t('nav.articles')}</p>
+          <h2 id="latest">{t('home.latest')}</h2>
+        </div>
+        {posts.length > 0 && <a href="/blog/" class="btn btn--ghost btn--sm">{t('home.all')} →</a>}
+      </div>
+      {posts.length
+        ? <div class="grid">{posts.slice(0, 6).map(p => <PostCard post={p} lang={lang} />)}</div>
+        : <p class="section__lead">{t('home.empty')}</p>}
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="topics">
+    <div class="container">
+      <div class="section__head">
+        <div>
+          <p class="section__label">{t('nav.topics')}</p>
+          <h2 id="topics">{t('home.topics')}</h2>
+          <p class="section__lead">{t('home.topicsLead')}</p>
+        </div>
+      </div>
+      <Topics lang={lang} counts={counts} />
+    </div>
+  </section>
+
+  <section class="section section--tint" aria-labelledby="principles">
+    <div class="container">
+      <p class="section__label">Dermi</p>
+      <h2 id="principles" class="post__section-title">{t('home.principles')}</h2>
+      <div class="principles">
+        <div class="principle"><h3>{t('p1.title')}</h3><p>{t('p1.body')}</p></div>
+        <div class="principle"><h3>{t('p2.title')}</h3><p>{t('p2.body')}</p></div>
+        <div class="principle"><h3>{t('p3.title')}</h3><p>{t('p3.body')}</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band">
+        <div>
+          <h2>{ro ? 'Ai o întrebare despre site?' : 'A question about the site?'}</h2>
+          <p>{ro
+            ? 'Scrie-ne pe e-mail. Nu oferim sfaturi medicale individuale prin e-mail: pentru asta e nevoie de o consultație.'
+            : 'Write to us by e-mail. We cannot give individual medical advice by e-mail.'}</p>
+        </div>
+        <a class="btn" href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>
+      </div>
+    </div>
+  </section>
+</Base>

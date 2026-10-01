@@ -1,0 +1,5 @@
+Contact: mailto:contact@dermi.ro
+Expires: 2027-09-30T00:00:00.000Z
+Preferred-Languages: ro, en
+Policy: https://dermi.ro/legal/
+Canonical: https://dermi.ro/.well-known/security.txt

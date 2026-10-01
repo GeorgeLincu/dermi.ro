@@ -1,0 +1,78 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONFIG } from '../config';
+import type { Lang } from '../i18n/ui';
+
+// GDPR information (art. 13). Keep this in sync with what the site actually uses.
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const ro = lang === 'ro';
+---
+<Base lang={lang} title={ro ? 'Politica de confidențialitate | Dermi' : 'Privacy policy | Dermi'}
+      description={ro ? 'Ce date personale prelucrează dermi.ro, de ce, cât timp le păstrăm și ce drepturi ai conform GDPR.' : 'What personal data dermi.ro processes, why, for how long, and your GDPR rights.'}>
+  <div class="page">
+    <div class="container container--narrow">
+      <header class="page__head">
+        <h1>{ro ? 'Politica de confidențialitate' : 'Privacy policy'}</h1>
+        <p>{ro ? 'Ultima actualizare: 1 octombrie 2026' : 'Last updated: 1 October 2026'}</p>
+      </header>
+      <div class="prose">
+        {ro ? (
+          <>
+            <p><strong>Pe scurt:</strong> dermi.ro nu folosește cookie-uri pentru vizitatori, nu are reclame și nu te urmărește. Prelucrăm doar datele tehnice minime necesare pentru funcționarea și securitatea site-ului și mesajele pe care ni le trimiți pe e-mail.</p>
+
+            <h2>1. Operatorul de date</h2>
+            <p>{CONFIG.doctor.name}, România. Contact pentru orice întrebare privind datele personale: <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>.</p>
+
+            <h2>2. Găzduire și securitate (Cloudflare)</h2>
+            <p>Site-ul este găzduit prin Cloudflare, Inc. (rețea globală, cu centre de date și în UE). La fiecare vizită, serverele primesc automat date tehnice: adresa IP, data și ora, pagina cerută, browserul și sistemul de operare. Le folosim doar pentru livrarea paginilor și pentru protecția împotriva atacurilor (de exemplu, blocarea traficului abuziv).</p>
+            <p>Temei legal: interesul legitim de a oferi un site sigur și funcțional (art. 6 alin. (1) lit. f GDPR). Cloudflare păstrează aceste jurnale pentru o perioadă scurtă, conform politicilor proprii.</p>
+
+            <h2>3. Statistici de vizitare (Cloudflare Web Analytics)</h2>
+            <p>Folosim Cloudflare Web Analytics, un serviciu de statistici <strong>fără cookie-uri</strong>, care nu creează profiluri și nu te urmărește pe alte site-uri. Vedem doar cifre agregate (de exemplu, câte vizite a avut un articol). Temei legal: interes legitim (art. 6 alin. (1) lit. f GDPR).</p>
+
+            <h2>4. E-mail</h2>
+            <p>Dacă ne scrii la {CONFIG.email}, folosim adresa ta și conținutul mesajului doar pentru a-ți răspunde. Mesajele sunt găzduite de furnizorul nostru de e-mail (Zoho, centru de date în UE). Le păstrăm cât este necesar pentru corespondență, apoi le ștergem. Temei legal: art. 6 alin. (1) lit. b și f GDPR.</p>
+            <p><strong>Te rugăm să nu trimiți date despre sănătatea ta sau fotografii medicale prin e-mail.</strong> Nu oferim consultații prin e-mail.</p>
+
+            <h2>5. Zona privată (doar pentru autori)</h2>
+            <p>Zona de administrare (/vault/) este folosită exclusiv de autorii site-ului. Autentificarea se face prin Cloudflare Access (cod unic pe e-mail), cu un cookie strict necesar valabil 24 de ore. Fișierele încărcate de autori sunt stocate în Cloudflare R2 (UE). Vizitatorii obișnuiți nu sunt afectați.</p>
+
+            <h2>6. Stocare locală în browser</h2>
+            <p>Dacă alegi manual tema luminoasă sau întunecată, preferința este salvată în browserul tău (localStorage), fără a fi trimisă către noi. Aceasta este strict necesară pentru serviciul cerut explicit de tine (art. 4 alin. (5) din Legea nr. 506/2004), așa că nu este nevoie de un banner de consimțământ.</p>
+
+            <h2>7. Transferuri în afara UE</h2>
+            <p>Cloudflare, Inc. are sediul în SUA și este certificată în cadrul EU-U.S. Data Privacy Framework; în plus, aplică clauzele contractuale standard aprobate de Comisia Europeană.</p>
+
+            <h2>8. Drepturile tale</h2>
+            <p>Conform GDPR, ai dreptul de acces, rectificare, ștergere, restricționare, portabilitate și opoziție, precum și dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrare automată. Scrie-ne la <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>; răspundem în cel mult o lună.</p>
+            <p>Ai dreptul să depui o plângere la <strong>Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)</strong>, B-dul G-ral. Gheorghe Magheru nr. 28–30, sector 1, București, <a href="https://www.dataprotection.ro/" rel="noopener">www.dataprotection.ro</a>.</p>
+
+            <h2>9. Modificări</h2>
+            <p>Vom actualiza această pagină când se schimbă serviciile folosite (de exemplu, dacă adăugăm programări online sau un newsletter), cu data actualizării afișată sus.</p>
+          </>
+        ) : (
+          <>
+            <p><strong>In short:</strong> dermi.ro uses no cookies for visitors, has no ads and does not track you. We process only the minimal technical data needed to run and protect the site, and e-mails you send us.</p>
+            <h2>1. Controller</h2>
+            <p>{CONFIG.doctor.name}, Romania. Contact: <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>.</p>
+            <h2>2. Hosting and security (Cloudflare)</h2>
+            <p>The site is served by Cloudflare, Inc. Servers receive technical data (IP address, time, requested page, browser) used only to deliver pages and protect against attacks. Legal basis: legitimate interest (Art. 6(1)(f) GDPR).</p>
+            <h2>3. Analytics</h2>
+            <p>Cloudflare Web Analytics: cookie-free, aggregated statistics, no profiling. Legal basis: legitimate interest.</p>
+            <h2>4. E-mail</h2>
+            <p>If you write to {CONFIG.email}, we use your address and message only to reply (provider: Zoho, EU data centre). Please do not send health data or medical photos by e-mail.</p>
+            <h2>5. Private area (authors only)</h2>
+            <p>The admin area (/vault/) is used only by the site's authors, signed in via Cloudflare Access (24-hour, strictly necessary cookie). Files are stored in Cloudflare R2 (EU).</p>
+            <h2>6. Local storage</h2>
+            <p>If you pick a light or dark theme, the choice is stored in your browser only (strictly necessary, Art. 4(5) Romanian Law 506/2004). No consent banner is required.</p>
+            <h2>7. Transfers outside the EU</h2>
+            <p>Cloudflare, Inc. (USA) is certified under the EU-U.S. Data Privacy Framework and uses Standard Contractual Clauses.</p>
+            <h2>8. Your rights</h2>
+            <p>You have the rights of access, rectification, erasure, restriction, portability and objection. Contact <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>. You may complain to the Romanian supervisory authority ANSPDCP, B-dul G-ral. Gheorghe Magheru 28–30, Bucharest, <a href="https://www.dataprotection.ro/" rel="noopener">www.dataprotection.ro</a>.</p>
+          </>
+        )}
+      </div>
+    </div>
+  </div>
+</Base>

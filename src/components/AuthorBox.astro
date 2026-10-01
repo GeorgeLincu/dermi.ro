@@ -1,0 +1,25 @@
+---
+import Seal from './Seal.astro';
+import { CONFIG } from '../config';
+import { publicFileExists } from '../lib/site';
+import { useTranslations, pathIn, type Lang } from '../i18n/ui';
+
+interface Props { lang?: Lang }
+const { lang = 'ro' } = Astro.props;
+const t = useTranslations(lang);
+const doc = CONFIG.doctor;
+const photo = publicFileExists(doc.photo) ? doc.photo : '';
+---
+<aside class="author" aria-label={t('author.label')}>
+  {photo
+    ? <img class="author__photo" src={photo} alt={doc.name} width="96" height="96" loading="lazy" decoding="async" />
+    : <Seal class="author__photo" />}
+  <div>
+    <p class="author__label">{t('author.label')}</p>
+    <p class="author__name"><a href={pathIn(lang, '/despre/')}>{doc.name}</a></p>
+    <p class="author__title">
+      {doc.title[lang]}{doc.practice.city && ` · ${doc.practice.city}`}
+      {doc.cmrCode && <span> · CMR {doc.cmrCode}</span>}
+    </p>
+  </div>
+</aside>

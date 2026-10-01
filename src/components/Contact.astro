@@ -1,0 +1,46 @@
+---
+import Base from '../layouts/Base.astro';
+import { CONFIG } from '../config';
+import type { Lang } from '../i18n/ui';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const ro = lang === 'ro';
+---
+<Base lang={lang} title={ro ? 'Contact | Dermi' : 'Contact | Dermi'}
+      description={ro ? 'Cum iei legătura cu dermi.ro: adresa de e-mail și ce fel de mesaje putem primi.' : 'How to contact dermi.ro by e-mail.'}>
+  <div class="page">
+    <div class="container container--narrow">
+      <header class="page__head">
+        <p class="section__label">{ro ? 'Contact' : 'Contact'}</p>
+        <h1>{ro ? 'Scrie-ne' : 'Get in touch'}</h1>
+        <p>{ro
+          ? 'Pentru întrebări despre site, colaborări sau corecturi la articole, scrie-ne pe e-mail.'
+          : 'For questions about the site, collaborations or corrections, write to us by e-mail.'}</p>
+      </header>
+      <div class="panel">
+        <p class="section__label">E-mail</p>
+        <a class="mail-link" href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>
+      </div>
+      <div class="panel">
+        <h2 class="post__section-title">{ro ? 'Important despre întrebările medicale' : 'About medical questions'}</h2>
+        <div class="prose">
+          {ro ? (
+            <ul>
+              <li>Nu putem pune diagnostice și nu putem recomanda tratamente prin e-mail. Pentru asta e nevoie de o consultație.</li>
+              <li>Te rugăm să nu trimiți fotografii sau date medicale prin e-mail.</li>
+              <li>În caz de urgență, sună la <strong>112</strong>.</li>
+            </ul>
+          ) : (
+            <ul>
+              <li>We cannot diagnose or recommend treatment by e-mail; that requires a consultation.</li>
+              <li>Please do not send photos or medical data by e-mail.</li>
+              <li>In an emergency, call <strong>112</strong>.</li>
+            </ul>
+          )}
+        </div>
+        {CONFIG.bookingUrl && <p><a href={CONFIG.bookingUrl} class="btn btn--primary" rel="noopener">{ro ? 'Programează o consultație' : 'Book a consultation'}</a></p>}
+      </div>
+    </div>
+  </div>
+</Base>

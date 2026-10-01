@@ -1,0 +1,14 @@
+{
+  "name": "Dermi — dermatologie explicată de un medic",
+  "short_name": "Dermi",
+  "lang": "ro",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f8f4ee",
+  "theme_color": "#2d5a4d",
+  "icons": [
+    { "src": "/assets/favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/assets/icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/assets/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

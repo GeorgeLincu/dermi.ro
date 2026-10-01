@@ -1,0 +1,17 @@
+---
+import { CATEGORIES, type CategoryId } from '../lib/categories';
+import type { Lang } from '../i18n/ui';
+interface Props { lang?: Lang; counts?: Record<string, number> }
+const { lang = 'ro', counts = {} } = Astro.props;
+const ids = Object.keys(CATEGORIES) as CategoryId[];
+---
+<ul class="topics">
+  {ids.map((id, i) => (
+    <li class="topic">
+      <span class="topic__num" aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>
+      <h3 class="topic__name"><a href={`/blog/categorie/${id}/`} class="card__link">{CATEGORIES[id][lang].name}</a></h3>
+      <p class="topic__desc">{CATEGORIES[id][lang].desc}</p>
+      {counts[id] ? <p class="topic__count">{counts[id]} {lang === 'ro' ? (counts[id] === 1 ? 'articol' : 'articole') : (counts[id] === 1 ? 'article' : 'articles')}</p> : null}
+    </li>
+  ))}
+</ul>

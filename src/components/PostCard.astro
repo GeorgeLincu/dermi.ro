@@ -1,0 +1,23 @@
+---
+import { CATEGORIES } from '../lib/categories';
+import { formatDate, readingMinutes, type Post } from '../lib/site';
+import { useTranslations, type Lang } from '../i18n/ui';
+
+interface Props { post: Post; lang?: Lang; headingLevel?: 'h2' | 'h3' }
+const { post, lang = 'ro', headingLevel: H = 'h3' } = Astro.props;
+const t = useTranslations(lang);
+const d = post.data;
+---
+<article class="card">
+  <p class="card__meta">
+    <a class="card__cat" href={`/blog/categorie/${d.category}/`}>{CATEGORIES[d.category][lang].name}</a>
+    <span aria-hidden="true">·</span>
+    <span>{readingMinutes(post.body)} {t('blog.minRead')}</span>
+  </p>
+  <H class="card__title"><a href={`/blog/${post.id}/`} hreflang="ro" class="card__link">{d.title}</a></H>
+  <p class="card__desc">{d.description}</p>
+  <p class="card__date">
+    {d.draft && <span class="badge badge--draft">{t('blog.draft')}</span>}
+    <time datetime={(d.updatedDate ?? d.pubDate).toISOString()}>{formatDate(d.updatedDate ?? d.pubDate, lang)}</time>
+  </p>
+</article>

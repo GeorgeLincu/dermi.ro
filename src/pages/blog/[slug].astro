@@ -1,0 +1,89 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import AuthorBox from '../../components/AuthorBox.astro';
+import Disclaimer from '../../components/Disclaimer.astro';
+import PostCard from '../../components/PostCard.astro';
+import ShareLinks from '../../components/ShareLinks.astro';
+import Toc from '../../components/Toc.astro';
+import { CONFIG } from '../../config';
+import { CATEGORIES } from '../../lib/categories';
+import { getPosts, formatDate, readingMinutes, relatedPosts, ogImageFor } from '../../lib/site';
+import { postJsonLd } from '../../lib/seo';
+import { useTranslations } from '../../i18n/ui';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map(post => ({ params: { slug: post.id }, props: { post, all: posts } }));
+}
+
+const { post, all } = Astro.props;
+const { Content, headings } = await render(post);
+const t = useTranslations('ro');
+const d = post.data;
+const cat = CATEGORIES[d.category].ro;
+const ogImage = ogImageFor(post.id);
+const related = relatedPosts(post, all);
+const url = `${CONFIG.site}/blog/${post.id}/`;
+---
+<Base type="article" title={`${d.title} | Dermi`} ogTitle={d.title} description={d.description} ogImage={d.image ?? ogImage}
+      publishedTime={d.pubDate} modifiedTime={d.updatedDate} jsonLd={postJsonLd(post, ogImage)}
+      markdown={`/blog/${post.id}.md`} noindex={d.draft}>
+  <article class="page post">
+    <div class="container">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="/">Acasă</a> / <a href={`/blog/categorie/${d.category}/`}>{cat.name}</a>
+      </nav>
+      <header class="post__header">
+        {d.draft && <p><span class="badge badge--draft">{t('blog.draft')}</span></p>}
+        <h1>{d.title}</h1>
+        <p class="post__lead">{d.description}</p>
+        <p class="post__meta">
+          <span>de <a href="/despre/" rel="author">{CONFIG.doctor.name}</a></span>
+          <span>{t('blog.published')} <time datetime={d.pubDate.toISOString()}>{formatDate(d.pubDate)}</time></span>
+          {d.updatedDate && <span>{t('blog.updated')} <time datetime={d.updatedDate.toISOString()}>{formatDate(d.updatedDate)}</time></span>}
+          <span>{readingMinutes(post.body)} {t('blog.minRead')}</span>
+        </p>
+      </header>
+
+      <div class="post__body">
+        {d.image && <img class="post__cover" src={d.image} alt={d.imageAlt ?? ''} width="1200" height="675" fetchpriority="high" />}
+        <Toc headings={headings} />
+        <div class="prose">
+          <Content />
+        </div>
+
+        {d.faq.length > 0 && (
+          <section aria-labelledby="faq">
+            <h2 id="faq" class="post__section-title">{t('blog.faq')}</h2>
+            <div class="faq">
+              {d.faq.map(f => <details><summary>{f.q}</summary><p>{f.a}</p></details>)}
+            </div>
+          </section>
+        )}
+
+        {d.sources.length > 0 && (
+          <section aria-labelledby="sources">
+            <h2 id="sources" class="post__section-title">{t('blog.sources')}</h2>
+            <ol class="sources">
+              {d.sources.map(s => (
+                <li>{s.url ? <a href={s.url} rel="noopener">{s.title}</a> : s.title}{s.publisher && <span> · {s.publisher}</span>}</li>
+              ))}
+            </ol>
+          </section>
+        )}
+
+        <Disclaimer />
+        <AuthorBox />
+        <ShareLinks url={url} title={d.title} />
+      </div>
+
+      {related.length > 0 && (
+        <section class="related" aria-labelledby="related">
+          <h2 id="related" class="post__section-title">{t('blog.related')}</h2>
+          <div class="grid">{related.map(p => <PostCard post={p} />)}</div>
+        </section>
+      )}
+    </div>
+  </article>
+</Base>

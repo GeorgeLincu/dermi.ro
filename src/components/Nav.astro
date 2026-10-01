@@ -1,0 +1,39 @@
+---
+import { CONFIG } from '../config';
+import { useTranslations, pathIn, type Lang } from '../i18n/ui';
+import Logo from './Logo.astro';
+
+interface Props { lang: Lang; alternate?: string }
+const { lang, alternate } = Astro.props;
+const t = useTranslations(lang);
+const path = Astro.url.pathname;
+const links = [
+  { href: '/blog/', label: t('nav.articles'), active: path.startsWith('/blog/') },
+  { href: pathIn(lang, '/despre/'), label: t('nav.about'), active: path === pathIn(lang, '/despre/') },
+  { href: pathIn(lang, '/contact/'), label: t('nav.contact'), active: path === pathIn(lang, '/contact/') },
+];
+const otherLang: Lang = lang === 'ro' ? 'en' : 'ro';
+const langHref = alternate ?? (otherLang === 'en' ? '/en/' : '/');
+---
+<header class="nav" id="nav">
+  <div class="nav__inner">
+    <a href={pathIn(lang, '/')} class="nav__logo" aria-label={`Dermi — ${t('nav.home')}`}><Logo /></a>
+    <nav aria-label={lang === 'ro' ? 'Principal' : 'Main'}>
+      <ul class="nav__links" id="navLinks">
+        {links.map(l => <li><a href={l.href} aria-current={l.active ? 'page' : undefined}>{l.label}</a></li>)}
+        {CONFIG.bookingUrl && <li><a href={CONFIG.bookingUrl} class="btn btn--primary btn--sm" rel="noopener">{t('nav.book')}</a></li>}
+      </ul>
+    </nav>
+    <div class="nav__right">
+      <a class="nav__lang" href={langHref} hreflang={otherLang} lang={otherLang}
+         aria-label={`${t('lang.label')}: ${otherLang === 'en' ? 'English' : 'Română'}`}>{otherLang.toUpperCase()}</a>
+      <button class="icon-btn theme-toggle" id="themeToggle" type="button" aria-label={t('theme.toggle')} title={t('theme.toggle')}>
+        <svg class="theme-toggle__sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.93 4.93l1.41 1.41m11.32 11.32 1.41 1.41M2 12h2m16 0h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+        <svg class="theme-toggle__moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+      <button class="icon-btn nav__burger" id="burger" type="button" aria-label={t('nav.menu')} aria-expanded="false" aria-controls="navLinks">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>

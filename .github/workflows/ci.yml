@@ -1,0 +1,70 @@
+# Checks every pull request (and main) — deployment itself is done by Cloudflare Workers Builds.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Type-check, build & Lighthouse
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Type-check
+        run: npm run check
+
+      - name: Build
+        run: npm run build
+
+      - name: Guard — no inline scripts/styles (the CSP would block them)
+        run: |
+          if grep -rEl ' style="|<style|<script>|<script type="module">' dist --include='*.html'; then
+            echo "::error::Inline <script>/<style> or style=\"\" found — the Content-Security-Policy will block it."
+            exit 1
+          fi
+
+      - name: Guard — no repo or config files in the build output
+        run: |
+          if find dist -name '.git*' -o -name '*.config.*' -o -name 'wrangler.*' -o -name 'package*.json' | grep .; then
+            echo "::error::Repository/config files must never be served."
+            exit 1
+          fi
+
+      - name: Lighthouse
+        run: npx --yes @lhci/cli@0.15.x autorun
+        env:
+          LHCI_BUILD_CONTEXT__CURRENT_BRANCH: ${{ github.head_ref || github.ref_name }}
+
+  preview-drafts:
+    # Builds once more with all drafts included, so a broken draft is caught before anyone publishes it
+    name: Build with drafts
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+        env:
+          PREVIEW_DRAFTS: '1'

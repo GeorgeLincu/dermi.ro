@@ -1,0 +1,33 @@
+---
+import Base from '../../../layouts/Base.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { CATEGORIES, CATEGORY_IDS, type CategoryId } from '../../../lib/categories';
+import { getPosts } from '../../../lib/site';
+import { collectionJsonLd } from '../../../lib/seo';
+import { useTranslations } from '../../../i18n/ui';
+
+export function getStaticPaths() {
+  return CATEGORY_IDS.map(category => ({ params: { category } }));
+}
+
+const id = Astro.params.category as CategoryId;
+const cat = CATEGORIES[id].ro;
+const t = useTranslations('ro');
+const posts = (await getPosts()).filter(p => p.data.category === id);
+---
+<Base title={`${cat.name}: articole | Dermi`} description={cat.desc} noindex={posts.length === 0}
+      jsonLd={collectionJsonLd(cat.name, `/blog/categorie/${id}/`, posts)}>
+  <div class="page">
+    <div class="container">
+      <nav class="crumbs" aria-label="Breadcrumb"><a href="/">Acasă</a> / <a href="/blog/">Articole</a></nav>
+      <header class="page__head">
+        <p class="section__label">{t('blog.category')}</p>
+        <h1>{cat.name}</h1>
+        <p>{cat.desc}</p>
+      </header>
+      {posts.length
+        ? <div class="grid">{posts.map(p => <PostCard post={p} headingLevel="h2" />)}</div>
+        : <p>{t('blog.empty')}</p>}
+    </div>
+  </div>
+</Base>
