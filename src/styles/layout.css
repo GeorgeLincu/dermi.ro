@@ -193,3 +193,27 @@
 .name-story dt i { color: var(--accent); }
 .name-story dd { margin: 4px 0 0; color: var(--ink-2); }
 .about__seal { width: 46%; height: auto; }
+
+/* ── About: statement, courses, essay ───────────────────────────────── */
+.statement { margin: clamp(48px, 7vw, 80px) 0 0; padding: clamp(24px, 4vw, 44px); border-left: 3px solid var(--clay); background: var(--surface); border-radius: 0 var(--radius) var(--radius) 0; }
+.statement blockquote { margin: 0; }
+.statement p { font-family: var(--font-display); font-size: clamp(1.15rem, 1rem + .6vw, 1.45rem); line-height: 1.5; font-style: italic; color: var(--ink); max-width: 70ch; }
+.statement figcaption { margin-top: 14px; font-weight: 600; color: var(--ink-2); }
+.statement figcaption::before { content: '— '; }
+.cv { margin-top: clamp(48px, 7vw, 80px); }
+.cv__groups { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
+.cv__group { padding: 22px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); }
+.cv__group h3 { font-size: 1.15rem; color: var(--accent); margin-bottom: 12px; }
+.cv__group ul { list-style: none; padding: 0; display: grid; gap: 14px; }
+.cv__group li { display: grid; gap: 2px; }
+.cv__title { font-weight: 600; }
+.cv__detail { color: var(--ink-2); font-size: .94rem; }
+.cv__meta { color: var(--clay); font-size: .85rem; font-weight: 600; }
+.cv-social { margin-top: clamp(48px, 7vw, 80px); max-width: var(--measure); }
+.essay { margin-top: clamp(48px, 7vw, 80px); max-width: var(--measure); }
+.essay h2 { margin-bottom: 18px; }
+.essay__quote { margin: 28px 0 0; }
+.essay__quote blockquote { margin: 0; padding: 18px 22px; background: var(--blush); border-radius: var(--radius-sm); }
+.essay__quote p { font-family: var(--font-display); font-style: italic; font-size: 1.15rem; line-height: 1.5; }
+.essay-note { margin-top: 40px; color: var(--ink-2); }
+.about__disclaimer { margin-top: 40px; color: var(--ink-2); font-size: .92rem; max-width: var(--measure); }

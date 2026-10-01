@@ -3,6 +3,7 @@
 import { CONFIG } from '../config';
 import { CATEGORIES, type CategoryId } from './categories';
 import { isoDay, type Post } from './site';
+import { EDUCATION, MEMBERSHIPS, AREAS } from '../data/profile';
 
 const site = CONFIG.site;
 const doc  = CONFIG.doctor;
@@ -16,6 +17,9 @@ const about = () => [
   `${doc.name} — ${doc.title.ro} (${doc.title.en})${doc.practice.city ? `, ${doc.practice.city}` : ''}, Romania.`,
   ...(doc.practice.name ? [`Practice: ${doc.practice.name}${doc.practice.url ? ` (${doc.practice.url})` : ''}.`] : []),
   ...(doc.cmrCode ? [`Colegiul Medicilor din România code: ${doc.cmrCode}.`] : []),
+  `Education: ${EDUCATION.university.en} (${EDUCATION.university.year}); ${EDUCATION.residency.en}.`,
+  `Member of: ${MEMBERSHIPS.map(m => `${m.en} (${m.short})`).join(', ')}.`,
+  `Training and interests: ${AREAS.join(', ')}.`,
 ];
 
 const contact = [

@@ -5,21 +5,23 @@ import Base from '../layouts/Base.astro';
 import { CONFIG } from '../config';
 import { publicFileExists } from '../lib/site';
 import { aboutJsonLd } from '../lib/seo';
+import { EDUCATION, MEMBERSHIPS, BIO, STATEMENT, COURSES, SOCIAL, ESSAY } from '../data/profile';
 import { pathIn, type Lang } from '../i18n/ui';
 
-// Only facts that are configured in src/config.ts are shown — nothing is invented here.
+// Facts come from src/data/profile.ts (provided by the doctor) and src/config.ts — nothing is invented here.
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const ro = lang === 'ro';
 const doc = CONFIG.doctor;
 const photo = publicFileExists(doc.photo) ? doc.photo : '';
 const path = pathIn(lang, '/despre/');
+const linkedin = doc.profiles.find(u => u.includes('linkedin.com'));
 ---
 <Base lang={lang} type="profile"
-      title={ro ? `${doc.name}, medic dermatovenerolog | Dermi` : `${doc.name}, dermatologist | Dermi`}
+      title={ro ? `${doc.name}, medic specialist dermatovenerolog | Dermi` : `${doc.name}, dermatologist | Dermi`}
       description={ro
-        ? `${doc.name} este ${doc.title.ro.toLowerCase()} și autoarea articolelor de pe dermi.ro.`
-        : `${doc.name} is a ${doc.title.en.toLowerCase()} and the author of dermi.ro.`}
+        ? `${doc.name}: medic specialist dermatovenerolog, absolventă UMF „Carol Davila”, membră SRD, EADV și IDS. Formare în dermatoscopie, chirurgie dermatologică și estetică.`
+        : `${doc.name}: specialist in dermatology and venereology (Bucharest), member of SRD, EADV and IDS. Training in dermoscopy, dermatologic surgery and aesthetics.`}
       jsonLd={aboutJsonLd(lang, path)}>
   <div class="page">
     <div class="container about">
@@ -33,27 +35,17 @@ const path = pathIn(lang, '/despre/');
         <h1>{doc.name}</h1>
         <p class="about__title">{doc.title[lang]}</p>
         <dl class="facts">
+          <dt>{ro ? 'Formare' : 'Education'}</dt><dd>{EDUCATION.university.short}, {EDUCATION.university.year}</dd>
+          <dt>{ro ? 'Rezidențiat' : 'Residency'}</dt><dd>{EDUCATION.residency.short}</dd>
+          <dt>{ro ? 'Membră' : 'Member of'}</dt><dd>{MEMBERSHIPS.map(m => m.short).join(' · ')}</dd>
           {doc.practice.name && <><dt>{ro ? 'Practică' : 'Practice'}</dt><dd>{doc.practice.url ? <a href={doc.practice.url} rel="noopener">{doc.practice.name}</a> : doc.practice.name}</dd></>}
-          {doc.practice.city && <><dt>{ro ? 'Oraș' : 'City'}</dt><dd>{doc.practice.city}</dd></>}
           {doc.cmrCode && <><dt>{ro ? 'Cod CMR' : 'CMR code'}</dt><dd>{doc.cmrRegisterUrl ? <a href={doc.cmrRegisterUrl} rel="noopener">{doc.cmrCode}</a> : doc.cmrCode}</dd></>}
           <dt>{ro ? 'Limbi' : 'Languages'}</dt><dd>{ro ? 'română, engleză' : 'Romanian, English'}</dd>
           <dt>E-mail</dt><dd><a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a></dd>
-          {doc.profiles.filter(u => u.includes('linkedin.com')).map(u => <><dt>LinkedIn</dt><dd><a href={u} rel="noopener me">{ro ? 'Profil LinkedIn' : 'LinkedIn profile'}</a></dd></>)}
+          {linkedin && <><dt>LinkedIn</dt><dd><a href={linkedin} rel="noopener me">{ro ? 'Profil LinkedIn' : 'LinkedIn profile'}</a></dd></>}
         </dl>
         <div class="prose">
-          {ro ? (
-            <>
-              <p>Dermi.ro este site-ul în care explic, pe înțelesul tuturor, ce se întâmplă cu pielea, părul și unghiile: de ce apar afecțiunile frecvente, ce tratamente au dovezi și când e cazul să mergi la medic.</p>
-              <p>Articolele pornesc de la ghidurile actuale ale societăților de dermatologie și de la studii solide. Fiecare articol are sursele la vedere, data publicării și data ultimei actualizări.</p>
-              <p>Conținutul are scop informativ și nu înlocuiește consultul medical. Nu ofer diagnostic sau sfaturi individuale prin e-mail ori pe site.</p>
-            </>
-          ) : (
-            <>
-              <p>dermi.ro explains skin, hair and nail health in plain language: why common conditions happen, which treatments have evidence and when to see a doctor. Articles are in Romanian.</p>
-              <p>Content is based on current dermatology guidelines and solid research, with sources, publication and update dates shown on every article.</p>
-              <p>The content is informational and does not replace a medical consultation. No individual advice is given by e-mail.</p>
-            </>
-          )}
+          {BIO[lang].map(p => <p>{p}</p>)}
         </div>
         <p class="about__actions">
           <a href="/blog/" class="btn btn--primary">{ro ? 'Citește articolele' : 'Read the articles (RO)'}</a>
@@ -61,7 +53,51 @@ const path = pathIn(lang, '/despre/');
         </p>
       </div>
     </div>
+
     <div class="container">
+      <figure class="statement">
+        <blockquote><p>{STATEMENT[lang]}</p></blockquote>
+        <figcaption>{doc.name}</figcaption>
+      </figure>
+
+      <section class="cv" aria-labelledby="cv-title">
+        <p class="section__label">{ro ? 'Formare continuă' : 'Continuing education'}</p>
+        <h2 id="cv-title" class="post__section-title">{ro ? 'Cursuri și workshopuri de specializare' : 'Specialist courses and workshops'}</h2>
+        <div class="cv__groups">
+          {COURSES.map(g => (
+            <section class="cv__group">
+              <h3>{g[lang]}</h3>
+              <ul>
+                {g.courses.map(c => (
+                  <li>
+                    <span class="cv__title">{c.title}</span>
+                    {c.detail && <span class="cv__detail">{c.detail[lang]}</span>}
+                    <span class="cv__meta">{c.place} · {c.date}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))}
+        </div>
+      </section>
+
+      <section class="cv-social" aria-labelledby="social-title">
+        <p class="section__label">{ro ? 'Implicare' : 'Community'}</p>
+        <h2 id="social-title" class="post__section-title">{ro ? 'Responsabilitate socială' : 'Social responsibility'}</h2>
+        <div class="prose"><p>{SOCIAL[lang]}</p></div>
+      </section>
+
+      {ro ? (
+        <article class="essay" id="de-ce-dermatologia" aria-labelledby="essay-title">
+          <p class="section__label">Personal</p>
+          <h2 id="essay-title">{ESSAY.title}</h2>
+          <div class="prose">{ESSAY.paragraphs.map(p => <p>{p}</p>)}</div>
+          <figure class="essay__quote"><blockquote><p>{ESSAY.quote}</p></blockquote></figure>
+        </article>
+      ) : (
+        <p class="essay-note">Dr. Lincu’s personal essay “Why I chose dermatology” is available <a href="/despre/#de-ce-dermatologia" hreflang="ro" lang="ro">in Romanian</a>.</p>
+      )}
+
       <section class="name-story" aria-labelledby="name-story">
         <p class="section__label">{ro ? 'De unde vine numele' : 'Where the name comes from'}</p>
         <h2 id="name-story" class="visually-hidden">{ro ? 'De ce Dermi?' : 'Why Dermi?'}</h2>
@@ -79,6 +115,10 @@ const path = pathIn(lang, '/despre/');
           </div>
         </dl>
       </section>
+
+      <p class="about__disclaimer">{ro
+        ? 'Conținutul dermi.ro are scop informativ și nu înlocuiește consultul medical. Nu se oferă diagnostic sau sfaturi individuale prin e-mail ori pe site.'
+        : 'dermi.ro content is informational and does not replace a medical consultation. No individual advice is given by e-mail or on the site.'}</p>
     </div>
   </div>
 </Base>

@@ -1,5 +1,6 @@
 import { CONFIG } from '../config';
 import { CATEGORIES } from './categories';
+import { AREAS, EDUCATION, MEMBERSHIPS } from '../data/profile';
 import type { Post } from './site';
 import type { Lang } from '../i18n/ui';
 
@@ -22,8 +23,14 @@ export function personNode(lang: Lang = 'ro') {
     url: `${site}/despre/`,
     email: `mailto:${CONFIG.email}`,
     knowsLanguage: ['ro', 'en'],
-    knowsAbout: ['Dermatologie', 'Dermatologie estetică', 'Dermatoscopie', 'Acnee', 'Rozacee', 'Dermatită atopică',
-      'Psoriazis', 'Toxină botulinică', 'Peeling chimic', 'Îngrijirea pielii', 'Protecție solară'],
+    knowsAbout: [...AREAS, 'Acnee', 'Rozacee', 'Dermatită atopică', 'Psoriazis', 'Îngrijirea pielii', 'Protecție solară'],
+    alumniOf: { '@type': 'CollegeOrUniversity', name: 'Universitatea de Medicină și Farmacie „Carol Davila” din București' },
+    memberOf: MEMBERSHIPS.map(m => ({ '@type': 'MedicalOrganization', name: m.name, alternateName: m.short })),
+    hasCredential: [
+      { '@type': 'EducationalOccupationalCredential', credentialCategory: 'degree', name: lang === 'ro' ? 'Diplomă de medic' : 'Medical degree',
+        recognizedBy: { '@type': 'CollegeOrUniversity', name: EDUCATION.university.short }, dateCreated: String(EDUCATION.university.year) },
+      { '@type': 'EducationalOccupationalCredential', credentialCategory: 'specialization', name: doc.title.ro },
+    ],
     hasOccupation: {
       '@type': 'Occupation',
       name: doc.title.ro,
