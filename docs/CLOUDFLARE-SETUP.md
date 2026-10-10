@@ -1,6 +1,6 @@
 # Cloudflare setup (dermi.ro)
 
-Everything runs on Cloudflare's free plan; the domain (registrar: Hostinger) is the only cost.
+Everything runs on Cloudflare's free plan; the domain (.ro registry: RoTLD) is the only cost.
 State as configured on 2026-10-01. Keep this file accurate when something changes.
 
 ## Worker and deploys
@@ -29,6 +29,11 @@ State as configured on 2026-10-01. Keep this file accurate when something change
   address is dropped. The contact form sends from `formular@dermi.ro` through the Worker.
 - Zoho Mail was removed on 2026-10-01 (its MX/SPF/DKIM records are gone).
 - The site shows only `contact@dermi.ro`, never the Gmail address.
+
+## DNSSEC and CAA
+
+DNSSEC is active (signed by Cloudflare; DS record key tag 2371, algorithm 13, digest type 2 added at RoTLD).
+CAA: `issue`/`issuewild` letsencrypt.org, pki.goog, ssl.com; `iodef` mailto:contact@dermi.ro.
 
 ## TLS
 
@@ -66,11 +71,9 @@ SSL mode **Full (strict)**, minimum TLS **1.2**, TLS 1.3 on, **Always Use HTTPS*
 
 ## Still to do by the owner (needs the dashboard or the registrar)
 
-- [ ] **DNSSEC**: DNS → Settings → Enable DNSSEC, then add the DS record at Hostinger
-      (flags 257, algorithm 13, protocol 3, public key from Cloudflare).
 - [ ] Crawler Hints and Web Analytics (the API token has no permission for these).
-- [ ] Registrar lock + auto-renew for dermi.ro at Hostinger; 2FA/passkeys on Cloudflare, GitHub,
-      Gmail and Hostinger.
+- [ ] Domain auto-renew at RoTLD; 2FA/passkeys on Cloudflare, GitHub, Gmail and RoTLD.
+- [ ] DMARC `_dmarc` TXT (after checking DKIM of a contact-form e-mail) — see docs/STATUS.md.
 
 ## API token
 

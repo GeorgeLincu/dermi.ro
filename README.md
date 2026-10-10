@@ -11,6 +11,8 @@ The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermat
 - **Languages:** Romanian at `/`, English core pages under `/en/` (articles are Romanian only).
 - **Never push to `main` directly** — open a pull request; CI must be green before merging.
 
+**New here (human or AI)?** Read [CLAUDE.md](CLAUDE.md) and [docs/STATUS.md](docs/STATUS.md) first.
+
 ## Everyday tasks
 
 | I want to… | Do this |
@@ -31,6 +33,8 @@ The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermat
 | Check the live site's health | GitHub → Actions → **Site monitor** (runs hourly; opens an issue on failure) |
 | Cloudflare settings (DNS, e-mail, WAF, Access) | [docs/CLOUDFLARE-SETUP.md](docs/CLOUDFLARE-SETUP.md) |
 | Record where an image comes from | [docs/IMAGE-RIGHTS.md](docs/IMAGE-RIGHTS.md) |
+| See what's done / open / planned | [docs/STATUS.md](docs/STATUS.md) |
+| Growth strategy (Romanian) | [docs/STRATEGIE.md](docs/STRATEGIE.md) |
 
 ## Structure
 
