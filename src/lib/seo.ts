@@ -1,6 +1,7 @@
 import { CONFIG } from '../config';
 import { CATEGORIES } from './categories';
 import { AREAS, EDUCATION, MEMBERSHIPS } from '../data/profile';
+import { LOCATIONS, mapLinks, type Location } from '../data/locations';
 import type { Post } from './site';
 import type { Lang } from '../i18n/ui';
 
@@ -8,6 +9,24 @@ const site = CONFIG.site;
 const doc  = CONFIG.doctor;
 const personRef  = { '@id': `${site}/#doctor` };
 const websiteRef = { '@id': `${site}/#website` };
+
+/** A practice location as a schema.org MedicalClinic with the doctor's consulting hours there */
+export function placeNode(l: Location) {
+  return {
+    '@type': 'MedicalClinic',
+    '@id': `${site}/program/#${l.id}`,
+    name: `${l.name} – ${l.short.ro}`,
+    url: doc.practice.url || undefined,
+    medicalSpecialty: 'Dermatology',
+    address: { '@type': 'PostalAddress', streetAddress: l.street, addressLocality: l.city, postalCode: l.postalCode,
+      addressRegion: 'București', addressCountry: 'RO' },
+    geo: { '@type': 'GeoCoordinates', latitude: l.lat, longitude: l.lng },
+    hasMap: mapLinks(l).google,
+    // Hours when Dr. Lincu consults at this location (not the clinic's full opening hours)
+    openingHoursSpecification: l.hours.map(h => ({ '@type': 'OpeningHoursSpecification',
+      dayOfWeek: `https://schema.org/${h.day}`, opens: h.opens, closes: h.closes })),
+  };
+}
 
 /** The doctor as a schema.org Person — referenced by every article as author */
 export function personNode(lang: Lang = 'ro') {
@@ -39,6 +58,7 @@ export function personNode(lang: Lang = 'ro') {
       occupationalCategory: '2212 Specialist medical practitioners (ISCO-08)',
     },
     ...(doc.practice.name ? { affiliation: { '@type': 'MedicalOrganization', name: doc.practice.name, ...(doc.practice.url ? { url: doc.practice.url } : {}) } } : {}),
+    workLocation: LOCATIONS.map(l => ({ '@id': `${site}/program/#${l.id}` })),
     ...(sameAs.length > 0 && { sameAs }),
   };
 }
@@ -64,6 +84,18 @@ export function websiteJsonLd(lang: Lang) {
   };
 }
 
+export function scheduleJsonLd(lang: Lang, path: string) {
+  return {
+    '@context': 'https://schema.org',
+    '@graph': [
+      { '@type': 'WebPage', '@id': `${site}${path}#page`, url: `${site}${path}`, inLanguage: lang,
+        about: personRef, isPartOf: websiteRef },
+      personNode(lang),
+      ...LOCATIONS.map(placeNode),
+    ],
+  };
+}
+
 export function aboutJsonLd(lang: Lang, path: string) {
   return {
     '@context': 'https://schema.org',
@@ -71,6 +103,7 @@ export function aboutJsonLd(lang: Lang, path: string) {
       { '@type': 'ProfilePage', '@id': `${site}${path}#profile`, url: `${site}${path}`, inLanguage: lang,
         mainEntity: personRef, isPartOf: websiteRef },
       personNode(lang),
+      ...LOCATIONS.map(placeNode),
     ],
   };
 }

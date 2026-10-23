@@ -1,0 +1,19 @@
+---
+// Compact weekly consulting schedule (all locations), Monday first. Today's row is highlighted by
+// src/scripts/schedule.ts (data-day = JS weekday number).
+import { WEEK, DAY_NAMES } from '../data/locations';
+import { pathIn, type Lang } from '../i18n/ui';
+
+interface Props { lang?: Lang; linkToPage?: boolean }
+const { lang = 'ro', linkToPage = false } = Astro.props;
+const base = linkToPage ? pathIn(lang, '/program/') : '';
+---
+<ul class="week__list">
+  {WEEK.map(s => (
+    <li data-day={DAY_NAMES[s.day].index}>
+      <span class="week__day">{DAY_NAMES[s.day][lang]}</span>
+      <span class="week__time">{s.opens} – {s.closes}</span>
+      <a class="week__place" href={`${base}#loc-${s.location.id}`}>{s.location.short[lang]}</a>
+    </li>
+  ))}
+</ul>

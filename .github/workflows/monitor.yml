@@ -35,7 +35,7 @@ jobs:
             grep -qi "^$h:" headers.txt || fail+=("$h header missing")
           done
 
-          for p in /en/ /blog/ /despre/ /contact/ /legal/ /confidentialitate/ /robots.txt /sitemap.xml /llms.txt /rss.xml /version.json /.well-known/security.txt; do
+          for p in /en/ /blog/ /despre/ /program/ /contact/ /legal/ /confidentialitate/ /robots.txt /sitemap.xml /llms.txt /rss.xml /version.json /.well-known/security.txt; do
             c=$(code "$SITE$p"); [ "$c" = 200 ] || fail+=("$p returned $c")
           done
           # Redirects

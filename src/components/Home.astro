@@ -4,6 +4,7 @@ import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import Topics from './Topics.astro';
 import NewsletterForm from './NewsletterForm.astro';
+import WeekList from './WeekList.astro';
 import { CONFIG } from '../config';
 import { getPosts, publicFileExists } from '../lib/site';
 import { websiteJsonLd } from '../lib/seo';
@@ -78,6 +79,20 @@ const ro = lang === 'ro';
         <div class="principle"><h3>{t('p2.title')}</h3><p>{t('p2.body')}</p></div>
         <div class="principle"><h3>{t('p3.title')}</h3><p>{t('p3.body')}</p></div>
       </div>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="where">
+    <div class="container home-where">
+      <div>
+        <p class="section__label">{t('nav.schedule')}</p>
+        <h2 id="where">{ro ? 'Unde consultă' : 'Where she consults'}</h2>
+        <p class="section__lead">{ro
+          ? `La ${doc.practice.name}, în două locații din Sectorul 1, București.`
+          : `At ${doc.practice.name}, in two locations in Sector 1, Bucharest.`}</p>
+        <p class="hero__actions"><a href={pathIn(lang, '/program/')} class="btn btn--ghost btn--sm">{ro ? 'Program, hărți și indicații' : 'Hours, maps and directions'} →</a></p>
+      </div>
+      <WeekList lang={lang} linkToPage />
     </div>
   </section>
 

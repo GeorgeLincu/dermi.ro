@@ -1,0 +1,46 @@
+---
+// "Program și locații" page (RO /program/, EN /en/schedule/)
+import Base from '../layouts/Base.astro';
+import Locations from './Locations.astro';
+import WeekList from './WeekList.astro';
+import { CONFIG } from '../config';
+import { scheduleJsonLd } from '../lib/seo';
+import { pathIn, type Lang } from '../i18n/ui';
+
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const ro = lang === 'ro';
+const doc = CONFIG.doctor;
+---
+<Base lang={lang}
+      title={ro ? `Program și locații: ${doc.name}, dermatolog București | Dermi` : `Schedule and locations: ${doc.name}, dermatologist Bucharest | Dermi`}
+      description={ro
+        ? `Unde și când consultă ${doc.name}: Dr. Leventer Centre, Strada Monetăriei 8 și Strada Herăstrău 9, București. Program săptămânal, hartă și indicații.`
+        : `Where and when ${doc.name} sees patients: Dr. Leventer Centre, Monetăriei 8 and Herăstrău 9, Bucharest. Weekly hours, map and directions.`}
+      jsonLd={scheduleJsonLd(lang, pathIn(lang, '/program/'))}>
+  <div class="page">
+    <div class="container">
+      <header class="page__head">
+        <p class="section__label">{ro ? 'Program' : 'Schedule'}</p>
+        <h1>{ro ? 'Unde și când consultă' : 'Where and when she consults'}</h1>
+        <p>{ro
+          ? `${doc.name} consultă la Dr. Leventer Centre, în două locații din Sectorul 1, București.`
+          : `${doc.name} sees patients at Dr. Leventer Centre, in two locations in Sector 1, Bucharest.`}</p>
+      </header>
+
+      <section class="week" aria-labelledby="week-title">
+        <h2 id="week-title" class="post__section-title">{ro ? 'Programul săptămânii' : 'Weekly schedule'}</h2>
+        <WeekList lang={lang} />
+      </section>
+
+      <section aria-labelledby="loc-title" class="locations-section">
+        <h2 id="loc-title" class="post__section-title">{ro ? 'Locații' : 'Locations'}</h2>
+        <Locations lang={lang} heading="h3" />
+      </section>
+
+      <p class="about__disclaimer">{ro
+        ? 'Prin acest site nu se fac programări și nu se oferă consultații. Pentru urgențe, sună la 112.'
+        : 'Appointments and consultations are not handled through this site. In an emergency, call 112.'}</p>
+    </div>
+  </div>
+</Base>

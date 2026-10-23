@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import { CONFIG } from '../config';
 import { pathIn, type Lang } from '../i18n/ui';
+import Locations from './Locations.astro';
 
 // The form posts to the Worker (/api/contact), which e-mails the doctor via Cloudflare Email Routing.
 // Works without JavaScript (303 redirect to /contact/trimis/); with JS it stays on the page.
@@ -80,6 +81,11 @@ const T = ro ? {
       </form>
 
       <p class="form__alt">{T.or} <a href={`mailto:${CONFIG.email}`}>{CONFIG.email}</a>.</p>
+
+      <section class="contact-locations" aria-labelledby="contact-loc">
+        <h2 id="contact-loc" class="post__section-title">{ro ? 'Unde consultă Dr. Mădălina' : 'Where Dr. Lincu consults'}</h2>
+        <Locations lang={lang} heading="h3" />
+      </section>
 
       <div class="panel">
         <h2 class="post__section-title">{T.medTitle}</h2>
