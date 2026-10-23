@@ -10,6 +10,7 @@ const path = Astro.url.pathname;
 const links = [
   { href: '/blog/', label: t('nav.articles'), active: path.startsWith('/blog/') },
   { href: pathIn(lang, '/despre/'), label: t('nav.about'), active: path === pathIn(lang, '/despre/') },
+  { href: pathIn(lang, '/program/'), label: t('nav.schedule'), active: path === pathIn(lang, '/program/') },
   { href: pathIn(lang, '/contact/'), label: t('nav.contact'), active: path === pathIn(lang, '/contact/') },
 ];
 const otherLang: Lang = lang === 'ro' ? 'en' : 'ro';

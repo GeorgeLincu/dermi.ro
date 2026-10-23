@@ -1,0 +1,51 @@
+---
+// Practice locations with hours, a self-hosted mini map (no Google iframe: no cookies, CSP-safe, fast)
+// and links that open Google Maps / Waze — in the app on phones — for the place or for directions.
+import { CONFIG } from '../config';
+import { LOCATIONS, DAY_NAMES, SCHEDULE_UPDATED, mapLinks, fullAddress } from '../data/locations';
+import type { Lang } from '../i18n/ui';
+
+interface Props { lang?: Lang; heading?: 'h2' | 'h3' }
+const { lang = 'ro', heading: H = 'h2' } = Astro.props;
+const ro = lang === 'ro';
+const site = CONFIG.doctor.practice.url;
+---
+<div class="locations">
+  {LOCATIONS.map(l => {
+    const links = mapLinks(l);
+    return (
+      <article class="location" aria-labelledby={`loc-${l.id}`}>
+        <a class="location__map" href={links.google} rel="noopener" target="_blank"
+           aria-label={ro ? `Deschide în Google Maps: ${l.name}, ${l.street}` : `Open in Google Maps: ${l.name}, ${l.street}`}>
+          <img src={`/assets/maps/${l.id}.webp`} width="640" height="400" loading="lazy" decoding="async"
+               alt={ro ? `Hartă: ${l.name}, ${l.street}, București` : `Map: ${l.name}, ${l.street}, Bucharest`} />
+          <span class="location__map-cta">{ro ? 'Deschide harta' : 'Open map'}</span>
+        </a>
+        <div class="location__body">
+          <H id={`loc-${l.id}`} class="location__title">{l.name}<span> · {l.short[lang]}</span></H>
+          <p class="location__address">{fullAddress(l)}</p>
+          <table class="hours">
+            <caption class="visually-hidden">{ro ? `Program ${l.short.ro}` : `Hours ${l.short.en}`}</caption>
+            <tbody>
+              {l.hours.map(h => (
+                <tr data-day={DAY_NAMES[h.day].index}>
+                  <th scope="row">{DAY_NAMES[h.day][lang]}</th>
+                  <td><time>{h.opens}</time> – <time>{h.closes}</time></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          <p class="location__actions">
+            <a class="btn btn--primary btn--sm" href={links.directions} rel="noopener" target="_blank">{ro ? 'Indicații Google Maps' : 'Google Maps directions'}</a>
+            <a class="btn btn--ghost btn--sm" href={links.waze} rel="noopener" target="_blank">Waze</a>
+          </p>
+        </div>
+      </article>
+    );
+  })}
+</div>
+<p class="locations__note">
+  {ro
+    ? <>Program actualizat în {SCHEDULE_UPDATED.ro}. Consultațiile se programează prin clinică{site && <> (<a href={site} rel="noopener" target="_blank">drleventercentre.com</a>)</>}. Programul poate varia de la o săptămână la alta, de aceea îți recomandăm să-l confirmi la programare.</>
+    : <>Schedule updated {SCHEDULE_UPDATED.en}. Appointments are booked through the clinic{site && <> (<a href={site} rel="noopener" target="_blank">drleventercentre.com</a>)</>}; hours may vary, so please confirm when booking.</>}
+</p>

@@ -67,6 +67,7 @@ Workers Builds: every merge to main deploys in ~1–2 min; /version.json shows t
 | `src/content/blog/*.md` | articles; schema in `src/content.config.ts` (title, description 50–170, pubDate, updatedDate, category, tags, draft, image, imageAlt, faq[], sources[]) |
 | `src/lib/categories.ts` | topics: afectiuni, estetica, ingrediente, protectie-solara, rutine, consultatii (venereology was removed) |
 | `src/config.ts` | doctor facts, e-mail, booking URL (empty fields are hidden) |
+| `src/data/locations.ts` | the two Dr. Leventer Centre locations, coordinates, consulting hours (→ /program/, home, contact, JSON-LD MedicalClinic + workLocation, llms.txt); mini maps in `public/assets/maps/` |
 | `src/data/profile.ts` | CV from the doctor's synopsis (education, memberships, courses, statement, essay) |
 | `src/lib/seo.ts` | JSON-LD (Person with alumniOf/memberOf/affiliation/identifier, BlogPosting, BreadcrumbList, FAQPage, CollectionPage) |
 | `src/lib/agents.ts` | llms.txt, llms-full.txt, /index.md, /blog/<slug>.md |

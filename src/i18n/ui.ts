@@ -10,6 +10,7 @@ const ui = {
     'nav.articles':  'Articole',
     'nav.topics':    'Teme',
     'nav.about':     'Despre',
+    'nav.schedule':  'Program',
     'nav.contact':   'Contact',
     'nav.menu':      'Meniu',
     'nav.book':      'Programează o consultație',
@@ -78,6 +79,7 @@ const ui = {
     'nav.articles':  'Articles',
     'nav.topics':    'Topics',
     'nav.about':     'About',
+    'nav.schedule':  'Schedule',
     'nav.contact':   'Contact',
     'nav.menu':      'Menu',
     'nav.book':      'Book a consultation',
@@ -153,6 +155,7 @@ export const PAGE_PAIRS: Record<string, string> = {
   '/':              '/en/',
   '/despre/':       '/en/about/',
   '/contact/':      '/en/contact/',
+  '/program/':      '/en/schedule/',
   '/legal/':        '/en/legal/',
   '/confidentialitate/': '/en/privacy/',
 };

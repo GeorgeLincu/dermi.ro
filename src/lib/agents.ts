@@ -4,6 +4,7 @@ import { CONFIG } from '../config';
 import { CATEGORIES, type CategoryId } from './categories';
 import { isoDay, type Post } from './site';
 import { EDUCATION, MEMBERSHIPS, AREAS } from '../data/profile';
+import { LOCATIONS, DAY_NAMES, fullAddress } from '../data/locations';
 
 const site = CONFIG.site;
 const doc  = CONFIG.doctor;
@@ -20,6 +21,7 @@ const about = () => [
   `Education: ${EDUCATION.university.en} (${EDUCATION.university.year}); ${EDUCATION.residency.en}.`,
   `Member of: ${MEMBERSHIPS.map(m => `${m.en} (${m.short})`).join(', ')}.`,
   `Training and interests: ${AREAS.join(', ')}.`,
+  ...LOCATIONS.map(l => `Consults at ${l.name}, ${fullAddress(l)}: ${l.hours.map(h => `${DAY_NAMES[h.day].en} ${h.opens}–${h.closes}`).join(', ')} (appointments via the clinic). Details: ${site}/program/`),
 ];
 
 const contact = [

@@ -57,6 +57,8 @@ branch protection on main, delete-branch-on-merge; GitHub Pages disabled.
       (added by Brevo) — tighten to `p=reject` after a few campaigns deliver fine.
 - [ ] Send the first monthly campaign once there are published articles (`docs/NEWSLETTER.md`).
 
+- [ ] Keep the consulting hours in `src/data/locations.ts` up to date (shown on /program/, home, contact).
+
 ### Claude (when asked)
 - [ ] DMARC record (after the DKIM check), in Manual mode.
 - [ ] Booking button, locations (and `MedicalClinic`/`Place` JSON-LD) once the owner provides them.
