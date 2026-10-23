@@ -9,3 +9,5 @@ dist/
 .wrangler/
 .dev.vars
 .lighthouseci/
+newsletter-draft.html
+brevo-*.html

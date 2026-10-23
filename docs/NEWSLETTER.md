@@ -47,3 +47,19 @@ Tested end to end on 2026-10-23: sign-up → confirmation e-mail → /newsletter
 2. Recipients: the newsletter list. Sender: contact@dermi.ro. Subject: e.g. "Noutăți pe dermi.ro: <tema>".
 3. Content: 2–4 new articles — title, one sentence, link to `https://dermi.ro/blog/<slug>/`.
 4. Send a test to yourself, check links on phone, then schedule.
+
+## Automations
+
+| What | How | Where |
+|---|---|---|
+| Double opt-in e-mail | Brevo template **1** "DOI dermi.ro" (tag `optin`) | sent by Brevo on sign-up |
+| Welcome e-mail | Brevo template **2** "Bun venit dermi.ro" + a Brevo automation (trigger: contact added to list 3) | Brevo → Automations |
+| Monthly draft | `.github/workflows/newsletter-draft.yml` on the 1st at 07:00 UTC → `scripts/newsletter-draft.mjs` reads the live RSS, creates the draft "dermi.ro – <lună an>" with last month's articles, opens a GitHub issue (label `newsletter`) | needs repo secret `BREVO_API_KEY` |
+| Launch campaign | draft "Lansare dermi.ro" (campaign id 3), created by `scripts/brevo-setup-content.mjs` | Brevo → Campaigns |
+
+Nothing is ever sent to subscribers automatically except the confirmation and welcome e-mails.
+
+- Re-run `BREVO_API_KEY=… node scripts/brevo-setup-content.mjs` after changing the welcome/launch texts or
+  the consulting schedule (its `WEEK` table must match `src/data/locations.ts`). `--dry-run` writes HTML files.
+- Test the monthly draft without creating anything: `node scripts/newsletter-draft.mjs 2026-11 --dry-run`.
+- E-mail HTML lives in `scripts/lib/email-layout.mjs` (inline styles and tables — normal for e-mail clients).
