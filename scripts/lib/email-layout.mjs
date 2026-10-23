@@ -37,7 +37,7 @@ export function layout({ title, preheader = '', body }) {
 <div style="display:none;max-height:0;overflow:hidden;">${esc(preheader)}</div>
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${C.bg};"><tr><td align="center" style="padding:32px 16px;">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:600px;background:${C.card};border:1px solid ${C.line};border-radius:16px;">
-    <tr><td style="padding:30px 36px 0;font-family:${SERIF};font-size:28px;color:${C.ink};letter-spacing:-0.5px;">der<i style="color:${C.green};">mi</i></td></tr>
+    <tr><td style="padding:28px 36px 0;"><a href="https://dermi.ro/" style="text-decoration:none;"><img src="https://dermi.ro/assets/email/logo-dermi.png" width="116" height="51" alt="dermi" style="display:block;border:0;width:116px;height:51px;font-family:${SERIF};font-size:28px;color:${C.ink};"></a></td></tr>
     <tr><td style="padding:18px 36px 8px;">${body}</td></tr>
     <tr><td style="padding:18px 36px 26px;border-top:1px solid ${C.line};font-family:${SANS};font-size:13px;line-height:1.55;color:${C.muted};">
       Dr. Mădălina Iulia Lincu, medic specialist dermatovenerolog · ${link('https://dermi.ro/', 'dermi.ro')}<br>
