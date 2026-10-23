@@ -1,6 +1,6 @@
 // "Copy link" button on articles — uses the Clipboard API, no third-party code
 export function initShare() {
-  document.querySelectorAll<HTMLButtonElement>('.share__copy').forEach(btn => {
+  document.querySelectorAll<HTMLButtonElement>('.share__copy, .js-copy').forEach(btn => {
     const label = btn.textContent;
     btn.addEventListener('click', async () => {
       try {

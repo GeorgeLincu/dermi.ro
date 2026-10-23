@@ -55,7 +55,7 @@ async function main() {
     button(`${SITE}/blog/`, 'Toate articolele'),
     p('Cu drag,<br>Dr. Mădălina Iulia Lincu'),
   ].join('\n');
-  const html = layout({ title: subject, preheader: fresh.map(i => i.title).join(' · ').slice(0, 140), body });
+  const html = layout({ marketing: true, title: subject, preheader: fresh.map(i => i.title).join(' · ').slice(0, 140), body });
 
   if (dryRun) {
     writeFileSync('newsletter-draft.html', html);

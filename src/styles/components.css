@@ -169,3 +169,5 @@
 .contact-locations { margin: 36px 0; }
 @media (max-width: 760px) { .home-where { grid-template-columns: 1fr; } }
 @media (max-width: 420px) { .week__list li { grid-template-columns: 1fr 1fr; } .week__place { grid-column: 1 / -1; } }
+
+.rss__url code { font-size: 1rem; overflow-wrap: anywhere; display: inline-block; padding: 8px 12px; }

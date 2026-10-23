@@ -49,6 +49,7 @@ const welcome = {
   subject: 'Bun venit la newsletterul dermi.ro',
   html: layout({
     title: 'Bun venit la newsletterul dermi.ro',
+    marketing: true,
     preheader: 'Mulțumesc că te-ai abonat. Iată ce urmează.',
     body: [
       p('Bună,'),
@@ -57,7 +58,6 @@ const welcome = {
       p('Cel mult un e-mail pe lună, cu articolele noi: afecțiuni ale pielii, dermatologie estetică, ingrediente, protecție solară și rutine de îngrijire. Fără reclame și fără oferte.'),
       where,
       button(`${SITE}/blog/`, 'Citește articolele'),
-      p('Te poți dezabona oricând, din linkul aflat la finalul fiecărui e-mail.'),
       p('Cu drag,<br>Dr. Mădălina Iulia Lincu'),
     ].join('\n'),
   }),
@@ -69,6 +69,7 @@ const launch = {
   preview: 'Noul site al Dr. Mădălina Iulia Lincu: articole, program și locații.',
   html: layout({
     title: 'dermi.ro: dermatologie explicată de un medic',
+    marketing: true,
     preheader: 'Noul site al Dr. Mădălina Iulia Lincu: articole, program și locații.',
     body: [
       p('Bună,'),
