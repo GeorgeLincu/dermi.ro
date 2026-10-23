@@ -30,7 +30,11 @@ ${rows.map(([d, h, place]) => `  <tr><td style="padding:6px 0;font-weight:bold;w
 </table>`;
 
 /** Full e-mail document */
-export function layout({ title, preheader = '', body }) {
+export function layout({ title, preheader = '', body, marketing = false }) {
+  // Brevo replaces {{ unsubscribe }} with the subscriber's personal unsubscribe link (campaigns/automations only)
+  const unsubscribe = marketing
+    ? `<br>Primești acest e-mail pentru că te-ai abonat la newsletterul dermi.ro. <a href="{{ unsubscribe }}" style="color:${C.green};">Dezabonare</a>`
+    : '';
   return `<!doctype html>
 <html lang="ro"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light"><title>${esc(title)}</title></head>
 <body style="margin:0;padding:0;background:${C.bg};">
@@ -41,7 +45,7 @@ export function layout({ title, preheader = '', body }) {
     <tr><td style="padding:18px 36px 8px;">${body}</td></tr>
     <tr><td style="padding:18px 36px 26px;border-top:1px solid ${C.line};font-family:${SANS};font-size:13px;line-height:1.55;color:${C.muted};">
       Dr. Mădălina Iulia Lincu, medic specialist dermatovenerolog · ${link('https://dermi.ro/', 'dermi.ro')}<br>
-      Conținutul are scop informativ și nu înlocuiește consultul medical. Nu răspundem la întrebări medicale prin e-mail.
+      Conținutul are scop informativ și nu înlocuiește consultul medical. Nu răspundem la întrebări medicale prin e-mail.${unsubscribe}
     </td></tr>
   </table>
 </td></tr></table>

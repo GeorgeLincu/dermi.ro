@@ -1,0 +1,44 @@
+---
+// Human-friendly page about the RSS feed (the feed itself, /rss.xml, is raw XML meant for feed readers).
+import Base from '../layouts/Base.astro';
+import { CONFIG } from '../config';
+
+const feed = `${CONFIG.site}/rss.xml`;
+---
+<Base title="Flux RSS | Dermi" description="Urmărește articolele noi de pe dermi.ro într-un cititor de știri (RSS) sau prin newsletter.">
+  <div class="page">
+    <div class="container container--narrow">
+      <header class="page__head">
+        <p class="section__label">RSS</p>
+        <h1>Urmărește articolele noi</h1>
+        <p>Fluxul RSS anunță automat fiecare articol nou publicat pe dermi.ro. E făcut pentru aplicațiile care adună știri din mai multe site-uri, nu pentru a fi citit direct în browser.</p>
+      </header>
+
+      <div class="panel">
+        <h2 class="post__section-title">Adresa fluxului</h2>
+        <p class="rss__url"><code>{feed}</code></p>
+        <p class="hero__actions">
+          <button type="button" class="btn btn--primary js-copy" data-copy={feed} data-done="Adresă copiată ✓">Copiază adresa</button>
+          <a class="btn btn--ghost" href={`https://feedly.com/i/subscription/feed/${encodeURIComponent(feed)}`} rel="noopener" target="_blank">Deschide în Feedly</a>
+          <a class="btn btn--ghost" href={`https://www.inoreader.com/?add_feed=${encodeURIComponent(feed)}`} rel="noopener" target="_blank">Deschide în Inoreader</a>
+        </p>
+        <div class="prose">
+          <h3>Cum îl folosești</h3>
+          <ol>
+            <li>Instalează sau deschide un cititor de RSS (de exemplu Feedly, Inoreader sau NetNewsWire).</li>
+            <li>Alege „Adaugă flux” / „Add feed” și lipește adresa de mai sus.</li>
+            <li>Articolele noi de pe dermi.ro vor apărea automat acolo.</li>
+          </ol>
+        </div>
+      </div>
+
+      {CONFIG.newsletter && (
+        <div class="panel">
+          <h2 class="post__section-title">Preferi e-mailul?</h2>
+          <p>Abonează-te la newsletter și primești articolele noi o dată pe lună, direct în inbox.</p>
+          <p class="hero__actions"><a href="/newsletter/" class="btn btn--primary">Abonare la newsletter</a></p>
+        </div>
+      )}
+    </div>
+  </div>
+</Base>
