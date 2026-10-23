@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import { CONFIG } from '../../config';
+---
+<Base title="Newsletter | Dermi" noindex={!CONFIG.newsletter}
+      description="Abonează-te la newsletterul dermi.ro: articolele noi despre sănătatea pielii, scrise de un medic dermatolog, o dată pe lună.">
+  <div class="page">
+    <div class="container container--narrow">
+      <header class="page__head">
+        <p class="section__label">Newsletter</p>
+        <h1>Articolele noi, o dată pe lună</h1>
+        <p>Un e-mail scurt cu ghidurile noi de pe dermi.ro, scrise de {CONFIG.doctor.name}. Fără reclame, fără oferte, fără spam.</p>
+      </header>
+      {CONFIG.newsletter
+        ? <div class="panel"><NewsletterForm variant="page" /></div>
+        : <div class="panel"><p>Newsletterul va fi disponibil în curând.</p></div>}
+      <div class="prose newsletter__facts">
+        <h2>Ce primești</h2>
+        <ul>
+          <li>Cel mult un e-mail pe lună, cu articolele noi și actualizările importante.</li>
+          <li>Doar informații educative. Newsletterul nu înlocuiește consultul medical și nu răspunde la întrebări individuale.</li>
+          <li>Te poți dezabona oricând, cu un clic, din linkul aflat în fiecare e-mail.</li>
+        </ul>
+        <h2>Cum funcționează abonarea</h2>
+        <p>După ce îți lași adresa, primești un e-mail de confirmare. Abonarea devine activă doar după ce apeși butonul din acel e-mail (dublă confirmare). Datele sunt gestionate de furnizorul nostru de e-mail, Brevo (UE). Detalii în <a href="/confidentialitate/#newsletter">politica de confidențialitate</a>.</p>
+      </div>
+    </div>
+  </div>
+</Base>

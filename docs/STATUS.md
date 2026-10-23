@@ -52,6 +52,9 @@ branch protection on main, delete-branch-on-merge; GitHub Pages disabled.
 - [ ] Ask IT to unblock dermi.ro in Netskope (only affects the work laptop).
 - [ ] Before affiliate links, product recommendations or online consultations: confirm with CMR / a lawyer.
 
+- [ ] **Newsletter (Brevo)**: code is ready behind `newsletter: false` — finish the Brevo setup in
+      `docs/NEWSLETTER.md`, then switch the flag on.
+
 ### Claude (when asked)
 - [ ] DMARC record (after the DKIM check), in Manual mode.
 - [ ] Booking button, locations (and `MedicalClinic`/`Place` JSON-LD) once the owner provides them.

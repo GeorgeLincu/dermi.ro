@@ -2,6 +2,7 @@ import type { APIContext } from 'astro';
 import { CATEGORY_IDS } from '../lib/categories';
 import { getPosts, isoDay } from '../lib/site';
 import { PAGE_PAIRS } from '../i18n/ui';
+import { CONFIG } from '../config';
 
 type Entry = { loc: string; lastmod?: string; alt?: { ro: string; en: string } };
 
@@ -18,6 +19,7 @@ export async function GET({ site }: APIContext) {
       return [{ loc: ro, lastmod, alt: { ro, en } }, { loc: en, lastmod, alt: { ro, en } }];
     }),
     { loc: '/blog/', lastmod: newest },
+    ...(CONFIG.newsletter ? [{ loc: '/newsletter/', lastmod: today }] : []),
     ...CATEGORY_IDS.filter(id => posts.some(p => p.data.category === id)).map(id => ({ loc: `/blog/categorie/${id}/`, lastmod: newest })),
     ...posts.map(p => ({ loc: `/blog/${p.id}/`, lastmod: isoDay(p.data.updatedDate ?? p.data.pubDate) })),
   ];

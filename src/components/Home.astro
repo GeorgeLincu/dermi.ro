@@ -3,6 +3,7 @@ import Seal from './Seal.astro';
 import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import Topics from './Topics.astro';
+import NewsletterForm from './NewsletterForm.astro';
 import { CONFIG } from '../config';
 import { getPosts, publicFileExists } from '../lib/site';
 import { websiteJsonLd } from '../lib/seo';
@@ -79,6 +80,12 @@ const ro = lang === 'ro';
       </div>
     </div>
   </section>
+
+  {ro && CONFIG.newsletter && (
+    <section class="section">
+      <div class="container"><NewsletterForm heading="h2" /></div>
+    </section>
+  )}
 
   <section class="section">
     <div class="container">

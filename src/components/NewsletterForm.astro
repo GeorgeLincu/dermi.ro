@@ -1,0 +1,44 @@
+---
+// Newsletter sign-up (Brevo double opt-in via /api/subscribe). Rendered only when CONFIG.newsletter is true.
+// Works without JavaScript (303 redirect to /newsletter/verifica/); with JS it stays on the page.
+import { CONFIG } from '../config';
+
+interface Props { variant?: 'box' | 'page'; heading?: 'h2' | 'h3' }
+const { variant = 'box', heading: H = 'h2' } = Astro.props;
+const id = `nl-${Math.random().toString(36).slice(2, 8)}`;
+---
+{CONFIG.newsletter && (
+  <section class:list={['newsletter', `newsletter--${variant}`]} aria-labelledby={`${id}-title`}>
+    {variant === 'box' && (
+      <div class="newsletter__intro">
+        <p class="section__label">Newsletter</p>
+        <H id={`${id}-title`} class="newsletter__title">Articolele noi, o dată pe lună, în inbox</H>
+        <p class="newsletter__lead">Un e-mail scurt cu ghidurile noi despre sănătatea pielii. Fără reclame, fără spam.</p>
+      </div>
+    )}
+    {variant === 'page' && <H id={`${id}-title`} class="visually-hidden">Abonare la newsletter</H>}
+    <form class="newsletter__form js-newsletter" method="post" action="/api/subscribe" novalidate
+          data-ok="Aproape gata! Ți-am trimis un e-mail de confirmare. Deschide-l și apasă butonul de confirmare."
+          data-invalid="Verifică adresa de e-mail."
+          data-consent="Bifează acordul ca să te poți abona."
+          data-rate="Prea multe încercări. Încearcă din nou peste un minut."
+          data-error={`Abonarea nu a reușit acum. Încearcă mai târziu sau scrie-ne la ${CONFIG.email}.`}
+          data-sending="Se trimite…">
+      <div class="newsletter__row">
+        <label for={`${id}-email`} class="visually-hidden">Adresa de e-mail</label>
+        <input id={`${id}-email`} name="email" type="email" autocomplete="email" required maxlength="200" placeholder="adresa ta de e-mail" />
+        <button type="submit" class="btn btn--primary">Abonează-mă</button>
+      </div>
+      <label class="newsletter__consent">
+        <input type="checkbox" name="consent" value="da" required />
+        <span>Sunt de acord să primesc newsletterul dermi.ro (cel mult o dată pe lună) și am citit <a href="/confidentialitate/#newsletter">politica de confidențialitate</a>. Mă pot dezabona oricând, din linkul aflat în fiecare e-mail.</span>
+      </label>
+      <div class="form__trap" aria-hidden="true">
+        <label for={`${id}-website`}>Website</label>
+        <input id={`${id}-website`} name="website" type="text" tabindex="-1" autocomplete="off" />
+      </div>
+      <input type="hidden" name="t" value="" />
+      <p class="form__status" role="status" aria-live="polite" hidden></p>
+    </form>
+  </section>
+)}

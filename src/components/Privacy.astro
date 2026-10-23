@@ -36,6 +36,15 @@ const ro = lang === 'ro';
             <p>Pentru protecția împotriva spamului, serverul verifică pe scurt adresa IP (limită de mesaje pe minut), fără a o stoca împreună cu mesajul. Păstrăm corespondența cât este necesar pentru a-ți răspunde, apoi o ștergem. Temei legal: art. 6 alin. (1) lit. b și f GDPR.</p>
             <p><strong>Te rugăm să nu trimiți date despre sănătatea ta sau fotografii medicale.</strong> Nu oferim consultații prin mesaj sau e-mail.</p>
 
+            {CONFIG.newsletter && (
+              <>
+                <h2 id="newsletter">Newsletter</h2>
+                <p>Dacă te abonezi la newsletter, prelucrăm adresa ta de e-mail, data și ora abonării și ale confirmării, precum și adresa IP de la care ai confirmat, ca dovadă a acordului. Temei legal: consimțământul tău (art. 6 alin. (1) lit. a GDPR și art. 12 din Legea nr. 506/2004).</p>
+                <p>Abonarea se face cu <strong>dublă confirmare</strong>: adresa intră în listă doar după ce apeși butonul din e-mailul de confirmare. Newsletterul este trimis prin <strong>Brevo</strong> (Sendinblue SAS, Franța, date găzduite în UE), care acționează ca persoană împuternicită. Brevo poate înregistra dacă un e-mail a fost deschis și ce linkuri au fost accesate; folosim aceste informații doar agregat, ca să știm ce articole sunt utile.</p>
+                <p>Poți să-ți retragi acordul oricând, cu un clic pe linkul de dezabonare din fiecare e-mail sau scriindu-ne la {CONFIG.email}. Păstrăm adresa cât timp ești abonat; după dezabonare o păstrăm doar pe lista de excludere, ca să nu-ți mai scriem. Nu folosim adresa în alte scopuri și nu o transmitem altor terți.</p>
+              </>
+            )}
+
             <h2>5. Zona privată (doar pentru autori)</h2>
             <p>Zona de administrare (/vault/) este folosită exclusiv de autorii site-ului. Autentificarea se face prin Cloudflare Access (cod unic pe e-mail), cu un cookie strict necesar valabil 24 de ore. Fișierele încărcate de autori sunt stocate în Cloudflare R2 (UE). Vizitatorii obișnuiți nu sunt afectați.</p>
 
@@ -63,6 +72,13 @@ const ro = lang === 'ro';
             <p>Cloudflare Web Analytics: cookie-free, aggregated statistics, no profiling. Legal basis: legitimate interest.</p>
             <h2>4. Contact form and e-mail</h2>
             <p>If you use the contact form or write to {CONFIG.email}, we process your name, e-mail address, topic and message only to reply. The form is handled by the site's server (Cloudflare) and delivered by e-mail to the doctor's mailbox (Gmail, provided by Google); mail to {CONFIG.email} is forwarded there by Cloudflare Email Routing. Your IP address is checked briefly for spam rate limits and not stored with the message. Please do not send health data or medical photos.</p>
+
+            {CONFIG.newsletter && (
+              <>
+                <h2 id="newsletter">Newsletter</h2>
+                <p>If you subscribe, we process your e-mail address and the date, time and IP address of your sign-up and confirmation as proof of consent (Art. 6(1)(a) GDPR, Art. 12 Romanian Law 506/2004). Sign-up uses double opt-in. The newsletter is sent by Brevo (Sendinblue SAS, France, EU hosting) as our processor; Brevo may record opens and clicks, which we use only in aggregate. Unsubscribe any time with the link in every e-mail or by writing to {CONFIG.email}.</p>
+              </>
+            )}
 
             <h2>5. Private area (authors only)</h2>
             <p>The admin area (/vault/) is used only by the site's authors, signed in via Cloudflare Access (24-hour, strictly necessary cookie). Files are stored in Cloudflare R2 (EU).</p>

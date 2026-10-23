@@ -6,6 +6,7 @@ import Disclaimer from '../../components/Disclaimer.astro';
 import PostCard from '../../components/PostCard.astro';
 import ShareLinks from '../../components/ShareLinks.astro';
 import Toc from '../../components/Toc.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
 import { CONFIG } from '../../config';
 import { CATEGORIES } from '../../lib/categories';
 import { getPosts, formatDate, readingMinutes, relatedPosts, ogImageFor } from '../../lib/site';
@@ -79,6 +80,7 @@ const [coverW, coverH] = coverSize ? [Number(coverSize[1]), Number(coverSize[2])
         <Disclaimer />
         <AuthorBox />
         <ShareLinks url={url} title={d.title} />
+        <NewsletterForm heading="h2" />
       </div>
 
       {related.length > 0 && (

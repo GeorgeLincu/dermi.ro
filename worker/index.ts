@@ -4,6 +4,7 @@
 //   /s/<tok>      public, time-limited share links signed with SHARE_SECRET
 //   /media/*      public images for articles (uploaded from the vault's article editor, stored in R2 under media/)
 //   /api/contact  contact form → e-mail to the doctor via Cloudflare Email Routing
+//   /api/subscribe  newsletter sign-up → Brevo double opt-in
 //   anything else → static assets (the Worker only runs for the paths in wrangler.jsonc "run_worker_first")
 //
 // Permissions
@@ -17,8 +18,9 @@ import { createShareToken, verifyShareToken, MAX_SHARE_HOURS } from './share';
 import { APP_HTML, APP_CSS, APP_JS, pageHtml } from './ui';
 import { listPosts, getPost, savePost, deletePost, validate, claimWarnings, HttpError } from './posts';
 import { handleContact, type ContactEnv } from './contact';
+import { handleSubscribe, type NewsletterEnv } from './newsletter';
 
-export interface Env extends ContactEnv {
+export interface Env extends ContactEnv, NewsletterEnv {
   ASSETS: Fetcher;
   VAULT: R2Bucket;
   ACCESS_TEAM_DOMAIN: string; // e.g. "plain-block-9dbd.cloudflareaccess.com"
@@ -373,6 +375,10 @@ export default {
       if (url.pathname === '/api/contact') {
         if (request.method !== 'POST') return new Response('Method Not Allowed', { status: 405, headers: { Allow: 'POST' } });
         return await handleContact(request, env);
+      }
+      if (url.pathname === '/api/subscribe') {
+        if (request.method !== 'POST') return new Response('Method Not Allowed', { status: 405, headers: { Allow: 'POST' } });
+        return await handleSubscribe(request, env);
       }
     } catch (err) {
       console.error('worker error', err instanceof Error ? err.message : err);
