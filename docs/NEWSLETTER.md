@@ -20,10 +20,11 @@ Brevo e-mails the confirmation link ──► visitor clicks ──► added to 
 | What | Where |
 |---|---|
 | `BREVO_API_KEY` | Worker → Settings → Variables and Secrets, type **Secret** |
-| `BREVO_LIST_ID` | `wrangler.jsonc` `vars` (Brevo → Contacts → Lists → the list's ID) |
-| `BREVO_DOI_TEMPLATE_ID` | `wrangler.jsonc` `vars` (Brevo → Templates → the double opt-in template's ID) |
+| `BREVO_LIST_ID` | `wrangler.jsonc` `vars` — **3** ("Newsletter dermi.ro") |
+| `BREVO_DOI_TEMPLATE_ID` | `wrangler.jsonc` `vars` — **1** ("DOI dermi.ro", must stay *active*) |
 | Redirect after confirmation | `https://dermi.ro/newsletter/confirmat/` (fixed in the Worker) |
-| Sender | `Dr. Mădălina Lincu – dermi.ro <contact@dermi.ro>` (domain authenticated in Brevo) |
+| Sender | `Dr. Mădălina Lincu - dermi.ro <contact@dermi.ro>` (sender id 2; domain authenticated, DKIM brevo1/brevo2, branded links `news.dermi.ro`) |
+| Brevo API key (local, for Claude) | `C:\Users\george.lincu\.secrets\brevo-api-key.txt` — never print it |
 
 The double opt-in template must contain Brevo's confirmation link placeholder (`{{ doubleoptin }}`).
 

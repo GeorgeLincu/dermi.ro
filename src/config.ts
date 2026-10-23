@@ -32,5 +32,5 @@ export const CONFIG = {
 
   // Newsletter (Brevo double opt-in). Turn on only after BREVO_API_KEY, BREVO_LIST_ID and
   // BREVO_DOI_TEMPLATE_ID are configured — the sign-up form appears on the site when this is true.
-  newsletter: false,
+  newsletter: true,
 } as const;

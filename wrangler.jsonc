@@ -51,8 +51,8 @@
     "EDITOR_EMAILS": "",
     "GITHUB_REPO": "GeorgeLincu/dermi.ro",
     // Newsletter (Brevo): list and double opt-in template ids. The API key is the secret BREVO_API_KEY.
-    "BREVO_LIST_ID": "",
-    "BREVO_DOI_TEMPLATE_ID": ""
+    "BREVO_LIST_ID": "3",
+    "BREVO_DOI_TEMPLATE_ID": "1"
   },
   // Secrets (not in git, set in the dashboard → Worker dermi → Settings → Variables and Secrets):
   //   SHARE_SECRET  random string, ≥ 32 characters (share links)
