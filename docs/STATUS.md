@@ -36,7 +36,6 @@ branch protection on main, delete-branch-on-merge; GitHub Pages disabled.
 - [ ] **Review and publish articles** — start with acneea-la-adulti, alunite-semne-de-alarma,
       cum-aplici-corect-protectia-solara, dermatita-atopica, caderea-parului-la-femei. Checklist:
       `docs/REVIEW-ARTICOLE.md` (medical points and `[TODO: verifică …]` per article).
-- [ ] **Renew the Cloudflare API token before 2026-10-31** (local file used by Claude for API work).
 - [ ] **DMARC**: check DKIM of a contact-form e-mail (Gmail web → ⋮ → Show original) → then publish
       `_dmarc` TXT. Plan: `v=DMARC1; p=reject; adkim=s; aspf=s` if DKIM passes for dermi.ro; otherwise start with
       `p=none`. Needs Manual mode (DNS change).
@@ -87,3 +86,19 @@ branch protection on main, delete-branch-on-merge; GitHub Pages disabled.
 1. GitHub → Actions → **Site monitor** green (or run it: `gh workflow run monitor.yml`).
 2. `https://dermi.ro/version.json` shows the latest `main` commit.
 3. Locally: `npm run check` (0 errors), `npm run build`, `PREVIEW_DRAFTS=1 npm run build`.
+
+## Credentials and expiry dates (checked 2026-10-24)
+
+| Credential | Where | Expires | If it expires |
+|---|---|---|---|
+| GitHub fine-grained token `dermi-vault` (Contents R/W on dermi.ro) | Worker secret `GITHUB_TOKEN`; local `.secrets/dermi-publishing-token.txt` | never | vault can't save/publish articles |
+| Cloudflare API token (admin work by Claude) | local `.secrets/cloudflare-token.txt` | never | site keeps running; no API changes |
+| Brevo API key | Worker secret `BREVO_API_KEY`, GitHub secret `BREVO_API_KEY`, local `.secrets/brevo-api-key.txt` | never (until deleted) | sign-ups fail; no monthly drafts |
+| `SHARE_SECRET` | Worker secret; local `.secrets/dermi-share-secret.txt` | never | rotating it invalidates existing share links |
+| Workers Builds token | Cloudflare (auto-created) | — | **never delete it**: every deploy fails |
+| `/.well-known/security.txt` `Expires` | `public/.well-known/security.txt` | 2027-09-30 | the monitor warns 30 days before |
+| Domain dermi.ro | RoTLD account | [TODO: check in the RoTLD account] | the whole site goes offline |
+| TLS certificates, DNSSEC keys | Cloudflare | auto-renewed | — |
+
+Tokens without expiry are convenient but should be rotated if a laptop or account is ever compromised:
+create a new one, update the Worker/GitHub secret and the local file, then delete the old one.
