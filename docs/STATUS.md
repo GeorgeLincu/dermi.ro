@@ -52,6 +52,11 @@ branch protection on main, delete-branch-on-merge; GitHub Pages disabled.
 - [ ] Ask IT to unblock dermi.ro in Netskope (only affects the work laptop).
 - [ ] Before affiliate links, product recommendations or online consultations: confirm with CMR / a lawyer.
 
+- [x] **Newsletter (Brevo)** live: list 3 "Newsletter dermi.ro", double opt-in template 1, sender
+      contact@dermi.ro, domain authenticated (DKIM, branded links news.dermi.ro). DMARC is `p=none`
+      (added by Brevo) — tighten to `p=reject` after a few campaigns deliver fine.
+- [ ] Send the first monthly campaign once there are published articles (`docs/NEWSLETTER.md`).
+
 ### Claude (when asked)
 - [ ] DMARC record (after the DKIM check), in Manual mode.
 - [ ] Booking button, locations (and `MedicalClinic`/`Place` JSON-LD) once the owner provides them.

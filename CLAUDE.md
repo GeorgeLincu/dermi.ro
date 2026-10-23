@@ -72,6 +72,7 @@ Workers Builds: every merge to main deploys in ~1–2 min; /version.json shows t
 | `src/lib/agents.ts` | llms.txt, llms-full.txt, /index.md, /blog/<slug>.md |
 | `src/i18n/ui.ts` | UI strings RO/EN and RO↔EN page pairs (EN core pages only; articles are Romanian) |
 | `worker/` | `index.ts` router, `auth.ts` (Access JWT, fails closed), `share.ts` (HMAC links), `posts.ts` (GitHub Contents API, validation, claim warnings), `ui.ts` (vault UI, Romanian), `contact.ts` (form → Email Routing) |
+| `worker/newsletter.ts`, `src/components/NewsletterForm.astro` | newsletter sign-up → Brevo double opt-in; visible only when `CONFIG.newsletter` is true (docs/NEWSLETTER.md) |
 | `public/_headers`, `public/_redirects` | security headers/CSP, caching; redirects (old Jekyll URLs are added by postbuild) |
 | `scripts/postbuild.mjs` | [TODO] guard, unlink links to drafts, image lazy/size, Markdown header rules, old-URL redirects |
 | `scripts/og-images.mjs` | `npm run og` — 1200×630 cards + icons via headless Edge |

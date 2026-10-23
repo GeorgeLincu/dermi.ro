@@ -50,6 +50,7 @@ jobs:
           c=$(code "$SITE/vault/"); case "$c" in 200) fail+=("/vault/ answered 200 without sign-in");; esac
           # Contact endpoint answers (GET is not allowed → 405)
           c=$(code "$SITE/api/contact"); [ "$c" = 405 ] || fail+=("/api/contact returned $c")
+          c=$(code "$SITE/api/subscribe"); [ "$c" = 405 ] || fail+=("/api/subscribe returned $c")
 
           # TLS certificate must be valid for at least 14 more days
           end=$(echo | openssl s_client -servername dermi.ro -connect dermi.ro:443 2>/dev/null | openssl x509 -noout -enddate | cut -d= -f2)

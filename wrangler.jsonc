@@ -49,11 +49,15 @@
     "ADMIN_EMAILS": "drmadalinalincu@gmail.com,george.lincu@gmail.com",
     // Editors: write/publish articles and add images, files view-only (none for now)
     "EDITOR_EMAILS": "",
-    "GITHUB_REPO": "GeorgeLincu/dermi.ro"
+    "GITHUB_REPO": "GeorgeLincu/dermi.ro",
+    // Newsletter (Brevo): list and double opt-in template ids. The API key is the secret BREVO_API_KEY.
+    "BREVO_LIST_ID": "3",
+    "BREVO_DOI_TEMPLATE_ID": "1"
   },
   // Secrets (not in git, set in the dashboard → Worker dermi → Settings → Variables and Secrets):
   //   SHARE_SECRET  random string, ≥ 32 characters (share links)
   //   GITHUB_TOKEN  fine-grained token for GeorgeLincu/dermi.ro only, "Contents: Read and write"
+  //   BREVO_API_KEY Brevo API key (newsletter sign-up)
 
   // At most 5 contact messages per minute per IP (free Workers rate-limiting binding)
   "ratelimits": [

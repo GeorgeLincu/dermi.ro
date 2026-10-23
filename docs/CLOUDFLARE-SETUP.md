@@ -45,7 +45,7 @@ SSL mode **Full (strict)**, minimum TLS **1.2**, TLS 1.3 on, **Always Use HTTPS*
 - **WAF custom rules** (Security → WAF → Custom rules):
   1. Block scanner paths (`/.git`, `/.env`, `wp-*`, `xmlrpc`, `phpmyadmin`, `*.php`, `*.asp(x)`,
      `*.sql`, `*.bak`, `/cgi-bin`).
-  2. Only GET/HEAD/OPTIONS, except `/vault/*`, `/cdn-cgi/*` and `POST /api/contact`.
+  2. Only GET/HEAD/OPTIONS, except `/vault/*`, `/cdn-cgi/*` and `POST /api/contact` / `POST /api/subscribe`.
   3. Block Bytespider.
 - **Cloudflare Managed Free Ruleset**: deployed.
 - **Rate limiting**: `/vault/api/*`, `/s/*`, `/api/*` → 40 requests / 10 s per IP, then blocked for 10 s.
