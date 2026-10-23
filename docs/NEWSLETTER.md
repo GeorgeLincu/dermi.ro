@@ -26,7 +26,12 @@ Brevo e-mails the confirmation link ──► visitor clicks ──► added to 
 | Sender | `Dr. Mădălina Lincu - dermi.ro <contact@dermi.ro>` (sender id 2; domain authenticated, DKIM brevo1/brevo2, branded links `news.dermi.ro`) |
 | Brevo API key (local, for Claude) | `C:\Users\george.lincu\.secrets\brevo-api-key.txt` — never print it |
 
-The double opt-in template must contain Brevo's confirmation link placeholder (`{{ doubleoptin }}`).
+The double opt-in template must contain Brevo's confirmation link placeholder (`{{ doubleoptin }}`),
+be **active**, and carry the tag **`optin`** — otherwise Brevo answers "An active DOI template does not
+exist" and the site shows "Abonarea nu a reușit". Templates made in the Brevo editor don't get the tag; set it
+via the API (`PUT /v3/smtp/templates/1` with `{"tag":"optin"}`).
+
+Tested end to end on 2026-10-23: sign-up → confirmation e-mail → /newsletter/confirmat/ → contact in list 3.
 
 ## Rules for every campaign
 
