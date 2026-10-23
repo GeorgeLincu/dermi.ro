@@ -53,7 +53,7 @@ jobs:
           c=$(code "$SITE/api/subscribe"); [ "$c" = 405 ] || fail+=("/api/subscribe returned $c")
 
           # security.txt must not expire (RFC 9116) — warn 30 days ahead
-          exp=$(curl -s -A "$UA" --max-time 20 "$SITE/.well-known/security.txt" | sed -n 's/^Expires: *//p' | tr -d '')
+          exp=$(curl -s -A "$UA" --max-time 20 "$SITE/.well-known/security.txt" | sed -n 's/^Expires: *//p' | tr -d '\r')
           if [ -n "$exp" ]; then
             left=$(( ( $(date -d "$exp" +%s) - $(date +%s) ) / 86400 ))
             [ "$left" -ge 30 ] || fail+=("security.txt expires in $left days — update public/.well-known/security.txt")
