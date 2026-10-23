@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dermi.ro — plan de îmbunătățiri</title>
+<style>
+  :root {
+    --bg: #f8f4ee; --card: #fffdf9; --line: #e2d8ca; --ink: #1b2622; --soft: #4b5651;
+    --green: #2d5a4d; --clay: #9f4b2b; --tint: #f1eae0; --p0: #9f4b2b; --p1: #2d5a4d; --p2: #5a6b8a; --p3: #6b6b6b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #111915; --card: #17211d; --line: #2a3832; --ink: #efe8dd; --soft: #b4bcb5;
+      --green: #93c9b2; --clay: #eba183; --tint: #1d2924; --p0: #eba183; --p1: #93c9b2; --p2: #a9b8d6; --p3: #b0b0b0;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #111915; --card: #17211d; --line: #2a3832; --ink: #efe8dd; --soft: #b4bcb5;
+    --green: #93c9b2; --clay: #eba183; --tint: #1d2924; --p0: #eba183; --p1: #93c9b2; --p2: #a9b8d6; --p3: #b0b0b0;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 "Segoe UI", system-ui, -apple-system, sans-serif; }
+  main { max-width: 980px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; font-size: clamp(1.8rem, 1.2rem + 2.5vw, 2.6rem); margin: 6px 0 8px; line-height: 1.15; }
+  h1 i { color: var(--green); }
+  h2 { font-family: Georgia, serif; font-weight: 500; font-size: 1.5rem; margin: 40px 0 6px; }
+  .lead { color: var(--soft); max-width: 70ch; }
+  .kicker { font-size: .78rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: var(--clay); }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px 14px; margin: 18px 0 8px; font-size: .9rem; color: var(--soft); }
+  .pill { display: inline-block; padding: 2px 10px; border-radius: 100px; font-size: .75rem; font-weight: 700; letter-spacing: .04em; border: 1px solid currentColor; white-space: nowrap; }
+  .p0 { color: var(--p0); } .p1 { color: var(--p1); } .p2 { color: var(--p2); } .p3 { color: var(--p3); }
+  .who { background: var(--tint); border-color: var(--line); color: var(--soft); }
+  .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); margin-top: 14px; }
+  .item { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; display: flex; flex-direction: column; gap: 8px; }
+  .item h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+  .item p { margin: 0; color: var(--soft); font-size: .95rem; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .done { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; }
+  .done ul { margin: 6px 0 0; padding-left: 1.2em; color: var(--soft); }
+  .done li { margin: 4px 0; }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; font-size: .95rem; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { background: var(--tint); font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--soft); }
+  tr:last-child td { border-bottom: 0; }
+  .table-wrap { overflow-x: auto; }
+  footer { margin-top: 48px; color: var(--soft); font-size: .88rem; border-top: 1px solid var(--line); padding-top: 16px; }
+  a { color: var(--green); }
+</style>
+</head>
+<body>
+<main>
+  <p class="kicker">dermi.ro · octombrie 2026</p>
+  <h1>Plan de îmbunătățiri pentru der<i>mi</i></h1>
+  <p class="lead">Recomandările echipei (securitate, medical-legal, SEO, conținut, marketing, tehnic), după lansarea site-ului. Fiecare punct are o prioritate și spune cine îl face: <strong>Voi</strong> (George / Dr. Mădălina) sau <strong>Claude</strong> (într-o sesiune nouă, pornită în <code>C:\Users\george.lincu\dermi.ro</code>).</p>
+  <div class="legend">
+    <span><span class="pill p0">ACUM</span> securitate și continuitate</span>
+    <span><span class="pill p1">LUNA ASTA</span> conținut și vizibilitate</span>
+    <span><span class="pill p2">TRIMESTRUL VIITOR</span> funcții noi</span>
+    <span><span class="pill p3">MAI TÂRZIU</span> când există nevoie</span>
+  </div>
+
+  <h2>Ce funcționează deja</h2>
+  <div class="done">
+    <ul>
+      <li>Site rapid și sigur pe Cloudflare: HTTPS strict, firewall, protecție anti-spam, DNSSEC, monitor orar cu alerte pe e-mail.</li>
+      <li>Zona privată <a href="https://dermi.ro/vault/">dermi.ro/vault</a>: autentificare cu cod pe e-mail, editor de articole cu poze, publicare din browser.</li>
+      <li>43 de articole ciornă (afecțiuni, estetică, ingrediente, protecție solară, rutine, consultații), pagina Despre cu CV, foto și cod CMR.</li>
+      <li>Program și locații (Monetăriei 8, Herăstrău 9) cu hărți și indicații Google Maps / Waze.</li>
+      <li>Formular de contact și contact@dermi.ro → Gmail; newsletter cu dublă confirmare, e-mail de bun venit, draft lunar automat.</li>
+      <li>Optimizare pentru Google și asistenți AI (ChatGPT, Claude, Perplexity): date structurate, <code>llms.txt</code>, sitemap, RSS.</li>
+    </ul>
+  </div>
+
+  <h2>Securitate și continuitate</h2>
+  <div class="grid">
+    <article class="item"><div class="tags"><span class="pill p0">ACUM</span><span class="pill who">Voi</span></div>
+      <h3>Reînnoiți tokenul GitHub al geoli.eu (expiră pe 30 octombrie)</h3>
+      <p>Pentru dermi.ro e rezolvat. Pentru geoli.eu: GitHub → tokenul vechi → Regenerate (1 an) → secretul <code>GITHUB_TOKEN</code> din Worker-ul geoli + fișierul local. Altfel publicarea pe geoli.eu se oprește.</p></article>
+    <article class="item"><div class="tags"><span class="pill p0">ACUM</span><span class="pill who">Voi</span></div>
+      <h3>Autentificare în doi pași (2FA / passkey) peste tot</h3>
+      <p>GitHub, Cloudflare, ambele Gmail, Brevo și RoTLD. Codurile de recuperare, notate pe hârtie sau într-un manager de parole. E cea mai importantă protecție împotriva spargerii conturilor.</p></article>
+    <article class="item"><div class="tags"><span class="pill p0">ACUM</span><span class="pill who">Voi</span></div>
+      <h3>Domeniul dermi.ro: data de expirare și reînnoire automată</h3>
+      <p>Verificați în contul RoTLD și porniți reînnoirea automată. Dacă domeniul expiră, cade tot site-ul și e-mailul.</p></article>
+    <article class="item"><div class="tags"><span class="pill p0">ACUM</span><span class="pill who">Voi</span></div>
+      <h3>Înscrieți dermi.ro pe lista HSTS preload</h3>
+      <p>Pe <a href="https://hstspreload.org">hstspreload.org</a>: browserele vor folosi doar HTTPS pentru dermi.ro, chiar de la prima vizită. Site-ul e deja pregătit.</p></article>
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Claude</span></div>
+      <h3>DMARC strict (anti-falsificare e-mail)</h3>
+      <p>După primele 2 newslettere livrate corect: trecem de la „observare” la „carantină”, apoi la „respingere”. Nimeni nu va mai putea trimite e-mailuri false în numele dermi.ro. Necesită modul Manual.</p></article>
+    <article class="item"><div class="tags"><span class="pill p2">TRIMESTRUL VIITOR</span><span class="pill who">Claude</span></div>
+      <h3>Backup lunar automat</h3>
+      <p>Copie a fișierelor din zona privată și a listei de abonați, păstrată 3 luni. Codul și articolele sunt deja salvate în GitHub, cu tot istoricul.</p></article>
+  </div>
+
+  <h2>Conținut medical</h2>
+  <div class="grid">
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Voi</span></div>
+      <h3>Publicați primele 5 articole</h3>
+      <p>Recomandate: acneea la adulți, alunițele (semne de alarmă), protecția solară, dermatita atopică, căderea părului la femei. Revizuire medicală după <code>docs/REVIEW-ARTICOLE.md</code>, apoi 2 articole pe lună. Ștergeți ciorna „testingarticle”.</p></article>
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Claude</span></div>
+      <h3>„Revizuit medical la data …” pe articole</h3>
+      <p>Un câmp nou în editor; apare pe articol și în datele pentru Google. Crește încrederea la subiectele de sănătate (E-E-A-T).</p></article>
+    <article class="item"><div class="tags"><span class="pill p3">MAI TÂRZIU</span><span class="pill who">Voi</span></div>
+      <h3>Fotografii originale</h3>
+      <p>Imagini proprii la articole (cu acord scris dacă apar persoane identificabile), notate în registrul de imagini.</p></article>
+    <article class="item"><div class="tags"><span class="pill p3">MAI TÂRZIU</span><span class="pill who">Claude</span></div>
+      <h3>Versiuni în engleză ale celor mai citite articole</h3>
+      <p>Doar dacă Analytics arată cititori din afara României.</p></article>
+  </div>
+
+  <h2>Vizibilitate (Google, AI, social)</h2>
+  <div class="grid">
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Voi</span></div>
+      <h3>Search Console, Bing, Web Analytics</h3>
+      <p>Trimiteți <code>https://dermi.ro/sitemap.xml</code> în Google Search Console; în Bing Webmaster Tools importați din Google. În Cloudflare porniți Web Analytics și Crawler Hints.</p></article>
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Voi</span></div>
+      <h3>Pagina medicului pe site-ul clinicii</h3>
+      <p>Cereți clinicii Dr. Leventer să o listeze pe Dr. Mădălina la echipă, cu link spre dermi.ro, și s-o adauge în profilurile Google ale clinicilor. E cel mai puternic semnal pentru căutările locale.</p></article>
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Voi</span></div>
+      <h3>Lansarea newsletterului</h3>
+      <p>Trimiteți draftul „Lansare dermi.ro” din Brevo după primele articole. Draftele lunare apar singure; GitHub vă anunță pe e-mail.</p></article>
+    <article class="item"><div class="tags"><span class="pill p3">MAI TÂRZIU</span><span class="pill who">Voi</span></div>
+      <h3>Video scurt (Reels, TikTok, Shorts)</h3>
+      <p>Un mit demontat sau o întrebare frecventă, cu link spre articol. E canalul prin care cresc cei mai vizibili dermatologi.</p></article>
+  </div>
+
+  <h2>Funcții noi pe site</h2>
+  <div class="grid">
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Voi + Claude</span></div>
+      <h3>Buton „Programează o consultație”</h3>
+      <p>Aveți nevoie de linkul de programare al clinicii; butonul apare apoi pe tot site-ul. Dacă site-ul promovează serviciile, adăugăm pe pagina legală datele PFI (denumire, CIF, adresă profesională).</p></article>
+    <article class="item"><div class="tags"><span class="pill p2">TRIMESTRUL VIITOR</span><span class="pill who">Claude</span></div>
+      <h3>Editor mai bun în zona privată</h3>
+      <p>Evidențierea notelor [TODO], status „gata de revizuit”, publicare programată la o dată anume.</p></article>
+    <article class="item"><div class="tags"><span class="pill p2">TRIMESTRUL VIITOR</span><span class="pill who">Claude</span></div>
+      <h3>Căutare pe site</h3>
+      <p>Când există peste 20 de articole publicate. Rapidă, fără servicii externe.</p></article>
+    <article class="item"><div class="tags"><span class="pill p2">TRIMESTRUL VIITOR</span><span class="pill who">Claude</span></div>
+      <h3>Imagini de distribuire automate</h3>
+      <p>Articolele publicate din zona privată vor primi automat imaginea lor pentru Facebook, WhatsApp și LinkedIn.</p></article>
+    <article class="item"><div class="tags"><span class="pill p3">MAI TÂRZIU</span><span class="pill who">Claude</span></div>
+      <h3>Protecție anti-spam suplimentară (Turnstile)</h3>
+      <p>Doar dacă apare spam prin formulare. E un filtru discret, fără „bifează imaginile cu semafoare”.</p></article>
+  </div>
+
+  <h2>Legal și deontologie</h2>
+  <div class="grid">
+    <article class="item"><div class="tags"><span class="pill p1">LUNA ASTA</span><span class="pill who">Voi</span></div>
+      <h3>Acordul fotografului pentru portret</h3>
+      <p>Dacă fotografia e făcută de un fotograf, confirmați dreptul de folosire online.</p></article>
+    <article class="item"><div class="tags"><span class="pill p3">MAI TÂRZIU</span><span class="pill who">Voi</span></div>
+      <h3>Linkuri afiliate, recomandări de produse, consultații online</h3>
+      <p>Doar după confirmare scrisă de la CMR și un jurist. Apoi le facem pe pagini separate, marcate clar, cu politica de confidențialitate actualizată.</p></article>
+  </div>
+
+  <h2>Rutina de întreținere</h2>
+  <div class="table-wrap">
+  <table>
+    <thead><tr><th>Când</th><th>Ce</th><th>Cine</th></tr></thead>
+    <tbody>
+      <tr><td>Lunar</td><td>Revizuiți și trimiteți draftul de newsletter (issue „📬 Newsletter de revizuit”). Aprobați actualizările automate de securitate (Dependabot) când CI e verde.</td><td>Voi / Claude</td></tr>
+      <tr><td>Lunar</td><td>Uitați-vă dacă au venit e-mailuri „Site monitor”: o alertă înseamnă o problemă reală.</td><td>Voi</td></tr>
+      <tr><td>La schimbarea programului</td><td>Actualizați orele în <code>src/data/locations.ts</code> și în e-mailul de bun venit.</td><td>Claude</td></tr>
+      <tr><td>Trimestrial</td><td>Recitiți tabelul cu chei și termene din <code>docs/STATUS.md</code>; politica de confidențialitate.</td><td>Voi + Claude</td></tr>
+      <tr><td>Anual</td><td>Rotiți cheile fără termen (GitHub, Cloudflare, Brevo); prelungiți <code>security.txt</code> (monitorul avertizează cu 30 de zile înainte).</td><td>Voi + Claude</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <footer>
+    Pentru o sesiune nouă cu Claude: porniți-o în <code>C:\Users\george.lincu\dermi.ro</code>. Claude citește automat <code>CLAUDE.md</code>, apoi <code>docs/STATUS.md</code> și <code>docs/ROADMAP.md</code>. Spuneți-i doar ID-ul punctului dorit (de exemplu „fă C2”) sau descrieți ce vreți.
+  </footer>
+</main>
+</body>
+</html>

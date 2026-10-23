@@ -1,7 +1,7 @@
 # dermi.ro
 
 The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermatology and venereology
-(Romania): evidence-based articles in Romanian about skin, hair and nail health and STIs.
+(Romania): evidence-based articles in Romanian about skin, hair and nail health and aesthetic dermatology.
 
 - **Stack:** [Astro](https://astro.build) static site → Cloudflare Workers (static assets), free tier.
 - **Deploys:** every push to `main` is built and deployed by Cloudflare *Workers Builds* (Worker `dermi`,
@@ -35,12 +35,14 @@ The professional website of **Dr. Mădălina Iulia Lincu**, specialist in dermat
 | Record where an image comes from | [docs/IMAGE-RIGHTS.md](docs/IMAGE-RIGHTS.md) |
 | See what's done / open / planned | [docs/STATUS.md](docs/STATUS.md) |
 | Growth strategy (Romanian) | [docs/STRATEGIE.md](docs/STRATEGIE.md) |
+| Next improvements (AI backlog / human page) | [docs/ROADMAP.md](docs/ROADMAP.md) · [docs/recomandari.html](docs/recomandari.html) |
+| Newsletter (Brevo) | [docs/NEWSLETTER.md](docs/NEWSLETTER.md) |
 
 ## Structure
 
 ```
 src/content/blog/      articles (Markdown + frontmatter, schema in src/content.config.ts)
-src/lib/categories.ts  topic clusters (afectiuni, venerologie, ingrediente, …)
+src/lib/categories.ts  topic clusters (afectiuni, estetica, ingrediente, …)
 src/lib/seo.ts         JSON-LD (WebSite, Person, BlogPosting, BreadcrumbList, FAQPage)
 src/lib/agents.ts      llms.txt, llms-full.txt, Markdown twins for AI agents
 src/i18n/ui.ts         UI strings (ro/en) and the RO↔EN page pairs

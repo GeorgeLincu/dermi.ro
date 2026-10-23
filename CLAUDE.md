@@ -1,6 +1,13 @@
 # CLAUDE.md — dermi.ro
 
-Read this first, then `docs/STATUS.md` (what is done, what is open). Everything below was true on 2026-10-01.
+Read this first, then `docs/STATUS.md` (state, credentials, open items) and `docs/ROADMAP.md` (prioritised
+backlog with IDs like S4, C2). Human version of the roadmap: `docs/recomandari.html` (Romanian). Last updated 2026-10-24.
+
+**Resume in 30 seconds:** site live and green (Site monitor hourly). 0 articles published, 43 drafts awaiting the
+doctor's review. Newsletter live (Brevo list 3, DOI template 1 tagged `optin`, welcome template 2, launch draft
+campaign 3, monthly draft workflow). Schedule/locations live at /program/. Most urgent open item: **S1** — the
+geoli.eu GitHub token expires 2026-10-30 (dermi.ro already has its own non-expiring token). Feature docs:
+`docs/VAULT.md`, `docs/NEWSLETTER.md`, `docs/CLOUDFLARE-SETUP.md`, `docs/CONTENT-GUIDE.md`.
 
 ## What this is
 
@@ -27,7 +34,8 @@ People:
    drugs, botulinum toxin is never promoted, EU cosmetics claims rules (Reg. 1223/2009, 655/2013). See
    `docs/CONTENT-GUIDE.md`.
 6. **Secrets**: never print, log or commit tokens. Read them only inside commands from
-   `C:\Users\george.lincu\.secrets\` (`cloudflare-token.txt` — expires **2026-10-31**; `dermi-share-secret.txt`).
+   `C:\Users\george.lincu\.secrets\`: `cloudflare-token.txt` (no expiry), `dermi-publishing-token.txt` (GitHub,
+   no expiry), `brevo-api-key.txt`, `dermi-share-secret.txt`. Expiry table: docs/STATUS.md.
    Worker secrets `GITHUB_TOKEN` and `SHARE_SECRET` are set by George in the dashboard as type **Secret**
    (a "Text" variable is wiped on the next deploy). Don't enter tokens into services yourself.
 7. **Never delete the "Workers Builds" API token** in Cloudflare (all builds fail afterwards).
@@ -67,6 +75,7 @@ Workers Builds: every merge to main deploys in ~1–2 min; /version.json shows t
 | `src/content/blog/*.md` | articles; schema in `src/content.config.ts` (title, description 50–170, pubDate, updatedDate, category, tags, draft, image, imageAlt, faq[], sources[]) |
 | `src/lib/categories.ts` | topics: afectiuni, estetica, ingrediente, protectie-solara, rutine, consultatii (venereology was removed) |
 | `src/config.ts` | doctor facts, e-mail, booking URL (empty fields are hidden) |
+| `scripts/lib/email-layout.mjs`, `scripts/brevo-setup-content.mjs`, `scripts/newsletter-draft.mjs` | e-mail HTML (logo `public/assets/email/logo-dermi.png`; marketing e-mails carry `{{ unsubscribe }}`), Brevo templates/drafts via API, monthly draft workflow `.github/workflows/newsletter-draft.yml` |
 | `src/data/locations.ts` | the two Dr. Leventer Centre locations, coordinates, consulting hours (→ /program/, home, contact, JSON-LD MedicalClinic + workLocation, llms.txt); mini maps in `public/assets/maps/` |
 | `src/data/profile.ts` | CV from the doctor's synopsis (education, memberships, courses, statement, essay) |
 | `src/lib/seo.ts` | JSON-LD (Person with alumniOf/memberOf/affiliation/identifier, BlogPosting, BreadcrumbList, FAQPage, CollectionPage) |

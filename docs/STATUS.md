@@ -1,6 +1,6 @@
 # Project status — dermi.ro
 
-Last updated: 2026-10-01 (end of the initial build). Update this file whenever a phase item changes.
+Last updated: 2026-10-24. Update this file whenever something changes. Backlog with IDs: docs/ROADMAP.md.
 
 ## Snapshot
 
@@ -9,6 +9,10 @@ Last updated: 2026-10-01 (end of the initial build). Update this file whenever a
   The homepage shows "Primele articole sunt în pregătire" until the doctor publishes.
 - Vault at https://dermi.ro/vault/ works end to end (login, files, share links, article editor, publishing).
 - Contact form and `contact@dermi.ro` deliver to drmadalinalincu@gmail.com (tested by George).
+- Newsletter live and tested end to end (Brevo, double opt-in); welcome automation set up by George in Brevo.
+- Schedule and locations at /program/ (Dr. Leventer Centre, Monetăriei 8 and Herăstrău 9).
+- Final security audit 2026-10-24: no secrets in repo or history, `npm audit` 0 vulnerabilities, live probes
+  blocked (WAF 403 / 404), foreign-Origin form posts rejected, TLS ≥ 1.2, HSTS/CSP/COOP/XFO present, DNSSEC active.
 
 ## What was built (PRs on GeorgeLincu/dermi.ro)
 
@@ -23,6 +27,12 @@ Last updated: 2026-10-01 (end of the initial build). Update this file whenever a
 | #9 | Venereology topic removed (4 STI drafts deleted, in Git history) → **Dermatologie estetică** + 8 drafts; links to drafts render as plain text; docs/STRATEGIE.md |
 | #10 | About page with the real CV (from the doctor's synopsis), portrait, CMR code; credentials in JSON-LD and llms.txt |
 | #11 | Workplace: collaborator at Dr. Leventer Centre (JSON-LD `affiliation`), legal notice with CMR membership |
+| #12, #17, #21 | Handover docs (CLAUDE.md, STATUS), Brevo `optin` note, credentials expiry table + security.txt monitor check |
+| #14 | Newsletter sign-up: Worker /api/subscribe → Brevo double opt-in; form on articles/home/newsletter page |
+| #18 | /program/ schedule and locations, self-hosted OSM mini maps, Google Maps/Waze directions, MedicalClinic JSON-LD |
+| #19, #20 | Newsletter automations (welcome template, launch draft, monthly draft workflow), e-mail logo, unsubscribe link; /rss/ page |
+| #22 | npm audit fix (0 vulnerabilities), ROADMAP.md, recomandari.html, final docs |
+| geoli#16 | geoli.eu monitor: accept WAF 403 (stopped hourly false alarms) |
 
 Outside the repo (via API/dashboard): SSL Full (strict), TLS ≥ 1.2, Always HTTPS, Email Obfuscation off,
 Early Hints on; WAF custom rules, Free Managed Ruleset, rate limit; AI bot blocking off + managed robots.txt off;
