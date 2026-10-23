@@ -1,0 +1,48 @@
+# On the 1st of each month: create a Brevo campaign DRAFT with last month's new articles and open an issue
+# (GitHub e-mails it) so the doctor can review and send it. Nothing is sent to subscribers automatically.
+# Needs the repository secret BREVO_API_KEY (Settings → Secrets and variables → Actions).
+name: Newsletter draft
+
+on:
+  schedule:
+    - cron: '0 7 1 * *'
+  workflow_dispatch:
+    inputs:
+      month:
+        description: 'Month as YYYY-MM (empty = previous month)'
+        required: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Create the draft in Brevo
+        id: draft
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MONTH: ${{ github.event.inputs.month }}
+        # The input goes through an env var (never interpolated into the shell); the script validates it
+        run: node scripts/newsletter-draft.mjs ${MONTH:+"$MONTH"}
+
+      - name: Tell the editors
+        if: steps.draft.outputs.created == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NAME: ${{ steps.draft.outputs.name }}
+          COUNT: ${{ steps.draft.outputs.count }}
+        run: |
+          gh label create newsletter --repo "$GITHUB_REPOSITORY" --color 2D5A4D --description "Monthly newsletter drafts" 2>/dev/null || true
+          gh issue create --repo "$GITHUB_REPOSITORY" --label newsletter \
+            --title "📬 Newsletter de revizuit: $NAME" \
+            --body "$(printf 'Am pregătit în Brevo draftul **%s** cu %s articol(e) noi.\n\n1. Brevo → **Campaigns** → deschide draftul.\n2. Verifică textul, trimite un **test** la tine (Send a test).\n3. **Schedule / Send now** către lista *Newsletter dermi.ro*.\n4. Închide acest issue după trimitere.\n\nReguli: informativ, fără reclame sau oferte (vezi docs/NEWSLETTER.md).' "$NAME" "$COUNT")"
