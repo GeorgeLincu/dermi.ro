@@ -1,98 +1,112 @@
 # Content guide (dermi.ro articles)
 
 Rules for everyone (people and AI) who writes articles for dermi.ro. The site belongs to
-**Dr. Mădălina Iulia Lincu, medic specialist în Dermatovenerologie**. Articles are written in
+**Dr. Mădălina Iulia Lincu, medic specialist Dermatovenerologie**. Articles are written in
 **Romanian** with correct diacritics (ș ț with comma below, ă â î).
+
+**The authoritative editorial prompt is [`PROMPT-ARTICOLE.txt`](PROMPT-ARTICOLE.txt)** (written by the owners,
+Romanian): AIDA adapted ethically for medicine, title rules, CTA rules, sources (AAD first), final control.
+This guide adds the site-specific details. Since 2026-11-17 all articles follow it (rewrite after readers said
+the old texts "read like AI").
+
+Check any article with `npm run check:articles [-- <slug>]` (frontmatter, length, internal links, CTA, doctor's note,
+phrases to avoid, "tu" forms).
 
 ## File and frontmatter
 
 One file per article: `src/content/blog/<slug>.md`. The slug is lowercase ASCII with hyphens
-(ș→s, ț→t, ă→a, â→a, î→i). The URL becomes `https://dermi.ro/blog/<slug>/`.
+(ș→s, ț→t, ă→a, â→a, î→i). The URL becomes `https://dermi.ro/blog/<slug>/`. Never rename a published slug.
 
 ```yaml
 ---
-title: "Acneea la adulți: cauze, tratamente și când mergi la dermatolog"   # 40–65 characters ideally
-description: "Ce declanșează acneea după 25 de ani, ce tratamente au dovezi și ce poți face acasă."  # 50–170 characters, unique
+title: "Acneea la adulți: de ce apare și ce opțiuni de tratament există"   # 10–110 chars, aim 45–70
+description: "…"            # 50–170 characters, unique, „dumneavoastră” form
 pubDate: 2026-10-01
-category: afectiuni        # afectiuni | estetica | ingrediente | protectie-solara | rutine | consultatii
-tags: [acnee, adulți, tratament]   # 2–5 lowercase Romanian tags
-draft: true                # AI-written or unreviewed => always true. Only the doctor publishes.
-faq:                       # optional, 3–5 questions people really search for; answers 1–3 sentences
-  - q: "Acneea la adulți trece singură?"
-    a: "..."
-sources:                   # 3–6 authoritative sources
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "American Academy of Dermatology (JAAD, 2024)"
-    url: "https://..."     # ONLY if you are certain the URL exists; otherwise leave url out
+category: "afectiuni"       # afectiuni | estetica | ingrediente | protectie-solara | rutine | consultatii
+tags: ["acnee", "adulți"]   # 2–5 lowercase Romanian tags
+draft: true                 # AI-written or unreviewed => always true. Only the doctor publishes.
+faq:                        # 3–5 questions people really search for; answers 1–3 sentences
+  - q: "…"
+    a: "…"
+sources:                    # 3–6 sources actually consulted
+  - title: "Exact page title"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://…"        # only URLs that were opened and exist
 ---
 ```
+All strings in double quotes; inside text use Romanian quotes „…”.
 
-## Structure (optimised for Google, featured snippets and AI answers)
+## Structure
 
-1. **First paragraph = the direct answer** (2–3 sentences) to the question in the title.
-   AI agents and Google quote this. No fluff ("În zilele noastre…").
-2. `## Pe scurt` — 3–5 bullet key takeaways.
-3. Body with `##` / `###` headings phrased the way people search ("Ce este…", "Ce cauzează…",
-   "Cum se tratează…", "Ce poți face acasă", "Mituri"). Short paragraphs, lists, one table where it
-   genuinely helps (comparisons, routines).
-4. `## Când să mergi la dermatolog` — concrete red flags. Always present.
-5. Internal links: 2–5 links to related dermi.ro articles, as `[text](/blog/<slug>/)`, using only
-   slugs from the article plan below.
-6. Do **not** write an FAQ section in the body — FAQs go in frontmatter `faq` (rendered + FAQPage JSON-LD).
-7. Do **not** add a disclaimer or sources list in the body — the layout renders both.
-8. Length: 1,200–2,000 words for disease/ingredient guides, 900–1,400 for practical guides.
+1. **Attention**: a concrete, recognisable situation or common confusion, then the direct answer to the title
+   (Google and AI assistants quote the opening). Never assume the reader has the condition.
+2. Optional `## Pe scurt` (3–5 bullets) — only where it really helps; not in every article.
+3. **Interest**: `##` / `###` sections with natural, varied headings: what is known, what cannot be concluded
+   without an examination, factors, myths, signs that justify an evaluation. Explain jargon at first use.
+4. **Desire**: what correct information and an evaluation can realistically clarify, and their limits.
+5. `## Când poate fi util un consult dermatologic?` — concrete, without diagnosing the reader. Always present.
+6. A short closing paragraph with the main idea (no „În concluzie”).
+7. **Action**: one calm CTA to a consultation with Dr. Mădălina Iulia Lincu, linking to
+   **`[…](/program/)`** (schedule, locations, maps). When a direct booking link exists, replace `/program/` in all
+   articles (`CONFIG.bookingUrl` in `src/config.ts` shows a booking button site-wide). No urgency, no pressure.
+8. **Doctor's note, last**: `## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]` with the
+   editorial objective, claims to confirm, missing information, unverifiable sources. Inline uncertain claims are
+   marked `[TODO: de confirmat de medic — …]`. The site refuses to publish any text containing `[TODO`.
+9. Internal links: 2–5 links `[text](/blog/<slug>/)` to slugs that exist (`npm run check:articles` verifies).
+10. Do **not** put an FAQ, a disclaimer or a sources list in the body: the layout renders the frontmatter `faq`
+    (with FAQPage JSON-LD), the sources and the disclaimer („Acest articol are scop informativ și nu înlocuiește
+    consultația medicală…”).
+11. Length: about 1,500–1,800 words.
+
+## Voice and style (why the 2026-11 rewrite happened)
+
+- Address the reader with **„dumneavoastră”** consistently (title, description, body, FAQ).
+- Calm, competent, empathetic, non-judgemental; Romanian as a Romanian medical editor writes it, not translated.
+- Vary sentence and paragraph length; prose first, lists only for list-like content; little bold.
+- Avoid formulaic phrases: „Vestea bună este că”, „Este important de menționat”, „joacă un rol crucial”,
+  „În concluzie”, „Nu în ultimul rând”, „În zilele noastre”, „secretul”, „tratament-minune”, „scăpați definitiv”.
+  Em dashes sparingly. No reflexive triplets of adjectives.
 
 ## Medical and legal rules (non-negotiable)
 
-- **Evidence-based** and conservative: follow current guidelines (EADV/EDF/EuroGuiDerm, AAD/JAAD,
-  BAD, NICE, Cochrane, WHO, CDC STI guidelines, IUSTI for STIs). When evidence is weak, say so.
-- **Never invent**: no testimonials, patient stories, case studies, "my patients…", "in my practice
-  I've seen…", invented statistics, before/after claims, or credentials. If a personal note from the
-  doctor would help, write one line: `> [TODO: Dr. Mădălina — observație din practică, opțional]`.
-- Statistics only when well established (e.g. prevalence from a guideline) and attributed in text
-  ("potrivit OMS…"). Otherwise use qualitative wording.
-- Prescription medicines: name the class/active substance, say they are prescribed and monitored by a
-  doctor, **no doses**, no "buy this". Mention key safety points (e.g. isotretinoin and pregnancy,
-  topical steroids not long-term unsupervised).
-- **No brand or product names** (future affiliate content will be clearly labelled separately).
-- Cosmetics (EU Reg. 1223/2009 and 655/2013): don't claim a cosmetic "vindecă", "tratează",
-  "elimină definitiv", "100% natural fără chimicale", "dermatologic garantat". Medical treatments
-  may of course be described as treatments.
-- Romanian medical deontology (Codul de deontologie medicală al CMR): informative, not promotional;
-  no comparative advertising, no guarantees of results, no fear-mongering.
-- Romanian context where useful (e.g. "medicul de familie", "dermatolog"), but don't state local
-  facts you are not sure about (programmes, prices, reimbursement). Use `[TODO: verifică]` instead.
-- Tone: warm, clear, professional; address the reader as "tu"; explain jargon in plain words.
-- Sources: real, authoritative, verifiable. If you are not sure a specific URL exists, give the title
-  and publisher without `url`. Never fabricate a DOI or URL.
+- **Evidence-based** and conservative. Sources: AAD public pages first (https://www.aad.org/public/diseases), then
+  guidelines and official sources (EuroGuiDerm/EDF, JAAD, BAD, NICE/CKS, NHS, DermNet, WHO, Cochrane). When
+  evidence is weak or recommendations differ, say so. Never cite a source that was not actually consulted.
+- **Never invent**: no testimonials, patient stories, case studies, "în practica mea…", invented statistics,
+  before/after claims, credentials, or services the doctor offers. Unknown → `[TODO: de confirmat de medic — …]`.
+- Prescription medicines: name the class/active substance, say they are prescribed and monitored by a doctor,
+  **no doses**. Never suggest starting, stopping or changing a prescribed treatment without the doctor.
+- **No brand or product names.**
+- Cosmetics (EU Reg. 1223/2009 and 655/2013): no „vindecă”, „elimină definitiv”, „100% natural”,
+  „dermatologic garantat” for cosmetics. Medical treatments may be described as treatments.
+- Codul de deontologie medicală al CMR: informative, not promotional; no comparative advertising, no guarantees,
+  no fear-mongering, no prices or offers.
+- Romanian context only when certain (programmes, reimbursement, availability) — otherwise `[TODO]`.
 
 ## Aesthetic dermatology (category `estetica`)
 
-- Informative, never promotional: no prices, offers, "programează-te", before/after claims,
-  guaranteed or permanent results, "fără riscuri", or comparisons with other doctors.
-- Botulinum toxin is a prescription-only medicine: never a brand name, no advertising of the medicine.
-- Always cover realistic expectations, candidates, contraindications, procedure, recovery, risks and
-  complications (including rare serious ones), duration of effect, how to choose a qualified doctor,
-  and red flags (non-medical settings, home devices).
+- Informative: realistic expectations, candidates, contraindications, procedure, recovery, risks (including rare
+  serious ones), duration of effect, how to choose a qualified doctor, red flags (non-medical settings, home devices).
+- No prices, offers, before/after, "permanent" or "fără riscuri". The single CTA invites to an **evaluation**;
+  never claim the doctor performs a procedure unless she confirmed it.
+- Botulinum toxin is a prescription-only medicine: neutral description, never a brand, never advertised.
 
-## Article plan (slugs reserved for internal linking)
+## Articles (slugs; categories in each file)
 
-Existing (migrated, rewritten as drafts): `cum-alegi-crema-hidratanta-potrivita`,
-`cum-previi-petele-pigmentare`, `cum-tratezi-rozaceea`, `ghid-complet-despre-acid-hialuronic`,
-`importanta-exfolierii`, `mituri-despre-acnee`, `rutina-corecta-pentru-pielea-sensibila`,
-`spf-pe-scurt`, `top-5-greseli-in-ingrijirea-pielii`, (`bun-venit-dermi` is replaced by the About page).
-
-New:
-- afectiuni: `acneea-la-adulti`, `dermatita-atopica`, `psoriazis`, `dermatita-seboreica`, `melasma`,
-  `alunite-semne-de-alarma`, `herpes-labial`, `micoza-unghiilor`, `urticaria`,
-  `caderea-parului-la-femei`, `negii-veruci`, `hiperhidroza`, `keratoza-pilara`, `vitiligo`
-- estetica: `toxina-botulinica`, `fillerele-cu-acid-hialuronic`, `peelingul-chimic`,
-  `laserul-in-dermatologia-estetica`, `microneedlingul`, `cicatricile-post-acnee`,
-  `plasma-bogata-in-trombocite-prp`, `imbatranirea-pielii-ce-functioneaza`
+afectiuni: acneea-la-adulti, alunite-semne-de-alarma, caderea-parului-la-femei, cum-previi-petele-pigmentare,
+cum-tratezi-rozaceea, dermatita-atopica, dermatita-seboreica, herpes-labial, hiperhidroza, keratoza-pilara,
+melasma, micoza-unghiilor, mituri-despre-acnee, negii-veruci, psoriazis, urticaria, vitiligo, dermatita-perorala,
+foliculita, dermatita-de-contact, eczema-mainilor, pielea-uscata-xeroza, hiperpigmentarea-postinflamatorie,
+keratoza-actinica, moluscum-contagios, pitiriazis-versicolor, alopecia-areata, cheloizi-si-cicatrici-hipertrofice ·
+estetica: cicatricile-post-acnee, fillerele-cu-acid-hialuronic, imbatranirea-pielii-ce-functioneaza,
+laserul-in-dermatologia-estetica, microneedlingul, peelingul-chimic, plasma-bogata-in-trombocite-prp,
+toxina-botulinica, cuperoza-si-vasele-vizibile, cearcanele, porii-dilatati ·
+ingrediente: ghid-complet-despre-acid-hialuronic, acidul-azelaic, ceramidele-si-bariera-pielii, niacinamida,
+retinolul-si-retinoizii, vitamina-c-in-skincare, acidul-salicilic, acizii-exfolianti-aha-bha-pha ·
+protectie-solara: cum-aplici-corect-protectia-solara, protectia-solara-la-copii, spf-pe-scurt ·
+rutine: cum-alegi-crema-hidratanta-potrivita, importanta-exfolierii, ingrijirea-pielii-iarna,
+ingrijirea-pielii-in-sarcina, rutina-corecta-pentru-pielea-sensibila, rutina-de-ingrijire-de-baza,
+top-5-greseli-in-ingrijirea-pielii, pielea-in-menopauza, ingrijirea-pielii-la-barbati, rutina-pentru-pielea-grasa ·
+consultatii: cand-sa-mergi-la-dermatolog, dermatoscopia, autoexaminarea-pielii.
 
 (The venereology topic was removed on 2026-10-01; its four drafts are in the Git history.)
-- ingrediente: `retinolul-si-retinoizii`, `niacinamida`, `vitamina-c-in-skincare`, `acidul-azelaic`,
-  `ceramidele-si-bariera-pielii`
-- protectie-solara: `cum-aplici-corect-protectia-solara`, `protectia-solara-la-copii`
-- rutine: `rutina-de-ingrijire-de-baza`, `ingrijirea-pielii-in-sarcina`, `ingrijirea-pielii-iarna`
-- consultatii: `cand-sa-mergi-la-dermatolog`, `dermatoscopia`

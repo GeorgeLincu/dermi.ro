@@ -1,127 +1,139 @@
 ---
-title: "Cum alegi crema hidratantă potrivită pentru tipul tău de piele"
-description: "Ghid practic: cum alegi crema hidratantă după tipul de piele, ce înseamnă humectanți, emolienți și ocluzivi și cum o aplici corect."
+title: "Cum alegeți crema hidratantă: textură, ingrediente și mod de aplicare"
+description: "Gel, loțiune, cremă sau unguent? Cum citiți ingredientele unei creme hidratante și cum o alegeți după ten, zona corpului și anotimp."
 pubDate: 2025-08-21
 updatedDate: 2026-10-01
 category: "rutine"
-tags: ["hidratare", "cremă hidratantă", "tipuri de piele", "bariera pielii"]
+tags: ["cremă hidratantă", "emoliente", "tipuri de ten", "piele uscată"]
 draft: true
 faq:
-  - q: "Am nevoie de cremă hidratantă dacă am pielea grasă?"
-    a: "De cele mai multe ori, da. Pielea grasă produce sebum, dar poate fi totuși deshidratată, mai ales dacă folosești tratamente pentru acnee care usucă. Alege un gel sau o loțiune ușoară, fără parfum, testată pentru comedogenitate."
-  - q: "Trebuie să folosesc creme diferite dimineața și seara?"
-    a: "Nu este obligatoriu. Dimineața poți folosi o textură mai lejeră urmată de protecție solară, iar seara una mai bogată, dacă pielea ta o cere. O singură cremă bine aleasă este suficientă pentru mulți oameni."
-  - q: "O cremă hidratantă scumpă este mai bună?"
-    a: "Nu neapărat. Eficiența depinde de combinația de ingrediente și de cât de bine o tolerezi, nu de preț sau de ambalaj. Multe formule simple, fără parfum, funcționează foarte bine."
-  - q: "Cât de repede văd efectul unei creme hidratante?"
-    a: "Senzația de confort apare imediat, dar îmbunătățirea reală a uscăciunii și a texturii se vede de obicei după 2–4 săptămâni de folosire constantă."
+  - q: "Are nevoie de cremă hidratantă și pielea grasă?"
+    a: "Nu întotdeauna. Academia Americană de Dermatologie arată că pe tenul gras prea multă cremă poate înfunda porii; dacă simțiți nevoia de hidratare, de exemplu în timpul unui tratament pentru acnee, un gel ușor, non-comedogen, este de obicei suficient."
+  - q: "Este mai bună o cremă hidratantă scumpă?"
+    a: "Nu neapărat. O analiză Cochrane despre emoliente nu a găsit dovezi sigure că o cremă anume ar fi superioară celorlalte. Contează mai mult textura potrivită, toleranța și folosirea constantă."
+  - q: "Când se aplică crema hidratantă?"
+    a: "Cel mai util este imediat după duș sau după spălare, pe pielea încă ușor umedă, și apoi ori de câte ori pielea se simte uscată. Pe mâini, după fiecare spălare."
+  - q: "De ce mă ustură crema hidratantă?"
+    a: "Pe pielea foarte uscată, crăpată sau inflamată, unele creme pot produce o usturime trecătoare, mai ales cele cu uree. Dacă usturimea nu dispare în câteva zile sau apar roșeață și mâncărime, opriți produsul și discutați cu un medic."
 sources:
-  - title: "The Role of Moisturizers in Addressing Various Kinds of Dermatitis: A Review"
-    publisher: "Clinical Medicine & Research (Purnamawati și colab., 2017)"
-  - title: "Role of topical emollients and moisturizers in the treatment of dry skin barrier disorders"
-    publisher: "American Journal of Clinical Dermatology (Lodén, 2003)"
-  - title: "Emollients and moisturisers for eczema"
-    publisher: "Cochrane Database of Systematic Reviews (van Zuuren și colab., 2017)"
   - title: "How to pick the right moisturizer for your skin"
-    publisher: "American Academy of Dermatology"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-basics/dry/pick-moisturizer"
+  - title: "Dermatologists' top tips for relieving dry skin"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin"
+  - title: "Emollients and moisturisers"
+    publisher: "DermNet, Noua Zeelandă (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/emollients-and-moisturisers"
+  - title: "Emollients"
+    publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/tests-and-treatments/emollients/"
+  - title: "Emollients and moisturisers for eczema"
+    publisher: "Cochrane, van Zuuren E.J. și colab., 2017 (accesat 17.11.2026)"
+    url: "https://www.cochrane.org/CD012119/SKIN_emollients-and-moisturisers-eczema"
 ---
 
-Crema hidratantă potrivită este cea care se potrivește tipului tău de piele (uscată, grasă, mixtă sau sensibilă), conține un amestec echilibrat de humectanți, emolienți și ocluzivi și pe care o tolerezi fără usturime sau coșuri. Prețul, popularitatea și promisiunile de pe ambalaj contează mult mai puțin decât textura și lista de ingrediente.
+Raftul de creme hidratante dintr-o farmacie poate avea zeci de produse: „pentru ten uscat”, „matifiant”, „cu ceramide”, „cu acid hialuronic”, „24 de ore”. Pentru cine vrea doar o cremă care să nu usture și să nu lucească, alegerea devine surprinzător de grea.
 
-## Pe scurt
+O cremă hidratantă potrivită se alege după trei criterii: textura (gel, loțiune, cremă sau unguent), adaptată tipului de ten și zonei pe care o aplicați; o combinație de ingrediente care atrag apa și o rețin în piele; și toleranța, adică să nu provoace usturime, roșeață sau bubițe. Prețul și mesajele de marketing spun mult mai puțin decât lista de ingrediente și decât felul în care pielea dumneavoastră răspunde după câteva săptămâni.
 
-- Identifică întâi tipul și nevoile pielii tale: uscăciune, sebum în exces, roșeață, tendință acneică.
-- O cremă bună combină trei tipuri de ingrediente: **humectanți** (atrag apa), **emolienți** (netezesc) și **ocluzivi** (rețin apa).
-- Pentru pielea sensibilă sau reactivă, alege formule **fără parfum**, cu listă scurtă de ingrediente.
-- Aplică crema pe pielea ușor umedă, imediat după curățare; dimineața urmează protecția solară.
-- Dă-i unei creme noi 2–4 săptămâni înainte să tragi o concluzie, dacă nu apar iritații.
+## Ce face, de fapt, o cremă hidratantă
 
-## De ce contează hidratarea
+O cremă nu „toarnă” apă în piele pe termen lung. Rolul ei este să ajute stratul superficial al pielii să o păstreze. DermNet descrie trei tipuri de ingrediente care fac acest lucru, iar o formulă bună le combină de obicei:
 
-Stratul cel mai superficial al pielii (stratul cornos) funcționează ca un zid: celulele sunt „cărămizile”, iar lipidele dintre ele (ceramide, colesterol, acizi grași) sunt „mortarul”. Când acest zid este afectat, apa se evaporă mai ușor, iar pielea devine aspră, strânsă, se descuamează și reacționează mai ușor la produse sau la frig.
-
-O cremă hidratantă nu „adaugă apă” în piele pe termen lung, ci ajută bariera să rețină apa și să se refacă. De aceea, folosirea constantă contează mai mult decât un produs „minune”. În afecțiuni precum dermatita atopică, emolienții folosiți zilnic sunt chiar o parte de bază a tratamentului recomandat de ghiduri, alături de medicația prescrisă de medic.
-
-## Ce ingrediente să cauți într-o cremă hidratantă
-
-| Tip de ingredient | Ce face | Exemple frecvente (denumire INCI) |
+| Tip de ingredient | Ce face | Exemple de pe etichetă |
 |---|---|---|
-| Humectanți | Atrag și leagă apa în stratul superficial al pielii | glicerină (glycerin), acid hialuronic (sodium hyaluronate), uree (urea), pantenol (panthenol) |
-| Emolienți | Umplu spațiile dintre celule, netezesc și înmoaie pielea | squalan (squalane), ceramide, esteri, unele uleiuri vegetale |
-| Ocluzivi | Formează un film care reduce evaporarea apei | vaselină (petrolatum), dimeticonă (dimethicone), ceară de albine, unt de shea |
+| Umectante | atrag și leagă apa în stratul superficial | glicerină (glycerin), uree (urea), acid hialuronic, acid lactic |
+| Emoliente | umplu micile fisuri dintre celule, înmoaie și netezesc pielea | lanolină, diverși esteri, uleiuri |
+| Ocluzive | formează un film care încetinește evaporarea | vaselină (petrolatum), parafină, ulei mineral, dimeticonă |
 
-Câteva detalii utile:
+Lista de ingrediente recomandate de AAD pentru pielea uscată arată cât de banale pot fi substanțele eficiente: ulei de jojoba, dimeticonă, glicerină, acid hialuronic, acid lactic, lanolină, ulei mineral, vaselină, unt de shea. Ceramidele, lipide naturale ale barierei pielii, sunt și ele o opțiune bună; ce pot face și ce nu sunt discutate separat în articolul despre [ceramide și bariera pielii](/blog/ceramidele-si-bariera-pielii/).
 
-- **Glicerina** este unul dintre cei mai bine studiați și mai ieftini humectanți. Nu e un ingredient „de umplutură”.
-- **Ureea** hidratează în concentrații mici, iar în concentrații mai mari ajută și la înmuierea zonelor îngroșate (coate, călcâie). Pe pielea iritată sau fisurată poate înțepa.
-- **Ceramidele** ajută la refacerea „mortarului” barierei. Detalii găsești în ghidul despre [ceramide și bariera pielii](/blog/ceramidele-si-bariera-pielii/).
-- **Vaselina** are o reputație nedreaptă: este unul dintre cei mai eficienți ocluzivi și se tolerează foarte bine, inclusiv pe pielea sensibilă. Pe față poate fi prea grea pentru pielea grasă.
-- **Acidul hialuronic** este un humectant popular; funcționează cel mai bine sub o cremă care „sigilează” hidratarea. Vezi [ghidul complet despre acidul hialuronic](/blog/ghid-complet-despre-acid-hialuronic/).
+Ureea merită o mențiune aparte. Pe lângă faptul că atrage apa, ajută la desprinderea scuamelor, de aceea este utilă pe zonele îngroșate. Pe pielea zgâriată sau crăpată, însă, înțeapă adesea.
 
-## Cum alegi crema după tipul de piele
+## Textura contează mai mult decât pare
 
-### Piele uscată
+Același ingredient poate fi pus în formule foarte diferite. AAD și NHS descriu, de la cea mai lejeră la cea mai bogată:
 
-Pielea uscată are nevoie de mai multe lipide și de un ocluziv. Caută creme sau balsamuri mai bogate, cu ceramide, glicerină, uree în concentrație mică și un ocluziv precum vaselina sau dimeticona. Seara poți folosi o textură mai densă. Evită produsele cu alcool denaturat în primele poziții ale listei și curățarea agresivă.
+- Gelul: de obicei pe bază de apă, foarte ușor, potrivit tenului gras.
+- Loțiunea: fluidă, se întinde ușor, utilă pe zonele cu păr sau pe uscăciunea ușoară.
+- Crema: mai multă grăsime, hidratează mai bine decât loțiunea, se absoarbe destul de repede și e comodă ziua.
+- Unguentul: cel mai gras și cel mai protector, potrivit pentru zonele foarte uscate, îngroșate sau crăpate și pentru noapte.
 
-### Piele grasă sau cu tendință acneică
+Două precizări practice. NHS atrage atenția că unguentele nu se folosesc pe eczema care zemuiește. Iar DermNet notează că produsele foarte ocluzive pot agrava acneea, foliculita (inflamația foliculilor de păr) sau dermatita perorală, deci pe față textura grea nu este întotdeauna mai bună.
 
-Pielea grasă are nevoie tot de hidratare, mai ales dacă folosești tratamente pentru acnee (retinoizi, peroxid de benzoil), care pot usca și irita. Alege:
+## După tipul de ten
 
-- geluri, geluri-cremă sau loțiuni ușoare;
-- produse etichetate „non-comedogen” (atenție: termenul nu este standardizat, deci e un indiciu, nu o garanție);
-- humectanți precum glicerina și acidul hialuronic, eventual niacinamidă.
+Recomandările AAD pot fi rezumate astfel:
 
-Uleiurile grele și untul de cacao pot fi prost tolerate de unele persoane cu acnee. Dacă apar coșuri noi după o cremă nouă, oprește-o și observă.
+- Ten normal: o loțiune este adesea suficientă la vârste tinere; în perimenopauză și după 50 de ani, pielea reține mai greu apa, iar o cremă devine de obicei mai confortabilă.
+- Ten uscat: loțiunea nu ajunge, de regulă; o cremă sau un unguent sunt mai potrivite.
+- Ten gras: prea multă cremă poate înfunda porii. Puteți renunța la ea sau puteți folosi un gel ușor, marcat „non-comedogen”.
+- Ten mixt: hidratați zonele uscate (de obicei obrajii) și folosiți puțin sau deloc produs în zona T (frunte, nas, bărbie).
+- Ten sensibil: evitați parfumul, alcoolul și acizii alfa-hidroxi; produsele „naturale” pot provoca și ele alergii. O rutină completă pentru pielea reactivă găsiți în articolul despre [rutina pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
 
-### Piele mixtă
+Mențiunea „non-comedogen” este un indiciu util, dar nu o garanție: dacă după o cremă nouă apar bubițe, merită oprită și observată reacția pielii [TODO: de confirmat de medic — formularea despre caracterul orientativ al mențiunii „non-comedogen”].
 
-Zona T (frunte, nas, bărbie) este mai grasă, iar obrajii mai uscați. Poți folosi o loțiune ușoară pe toată fața și o cremă mai emolientă doar pe obraji, sau o singură textură medie aplicată în strat mai subțire pe zona T.
+## După zona corpului
 
-### Piele sensibilă sau reactivă
+Rareori o singură cremă se potrivește peste tot. Fața tolerează de obicei texturi mai lejere, mai ales în zona T. Corpul, în special gambele, se usucă mai ușor și primește bine o cremă bogată după duș. Mâinile, spălate de multe ori pe zi, au nevoie de o cremă aplicată după fiecare spălare; AAD sugerează o cremă de mâini care nu lasă senzație de grăsime, ca să fie folosită efectiv. Călcâiele și coatele, cu piele groasă, răspund mai bine la unguente sau la formule cu uree.
 
-Dacă pielea te înțeapă, se înroșește sau te mănâncă ușor după produse, alege:
+DermNet descrie diferența de frecvență: pielea foarte uscată poate avea nevoie de un emolient gras la câteva ore, în timp ce uscăciunea ușoară se poate rezolva cu o cremă lejeră seara. Despre pielea uscată persistentă și cauzele ei puteți citi în articolul despre [pielea uscată (xeroza)](/blog/pielea-uscata-xeroza/), iar despre mâinile care nu se mai refac, în cel despre [eczema mâinilor](/blog/eczema-mainilor/).
 
-- formule **fără parfum** („fragrance-free” / „parfum-free”) și fără uleiuri esențiale;
-- o listă de ingrediente cât mai scurtă;
-- ingrediente calmante și reparatoare: pantenol, ceramide, glicerină, niacinamidă în concentrație mică.
+## Cum se aplică
 
-Găsești o rutină completă în articolul despre [rutina corectă pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
+Momentul cel mai bun este imediat după duș sau după spălare, cât pielea este încă ușor umedă. Apa care a pătruns în stratul superficial rămâne acolo, sub filmul de cremă. AAD recomandă să închideți ușa băii în timpul dușului, să vă tamponați cu prosopul în loc să vă frecați și să aplicați crema imediat.
 
-### Piele matură
+NHS sfătuiește ca emolientul să fie întins în direcția de creștere a firelor de păr, nu frecat energic, și aplicat de mai multe ori pe zi, după nevoie. DermNet notează că efectul este cel mai mare în primele ore după aplicare, așa că pe pielea foarte uscată două-trei aplicări pe zi sunt adesea necesare.
 
-Odată cu vârsta, pielea produce mai puțin sebum și reține mai greu apa. O cremă mai bogată, cu ceramide și humectanți, ajută confortul și aspectul liniilor fine cauzate de deshidratare. Ingredientele cu efect demonstrat asupra fotoîmbătrânirii (retinoizi, protecție solară) sunt însă cele care fac diferența pe termen lung; crema hidratantă le susține toleranța.
+Dacă folosiți și un tratament prescris pe piele, de exemplu o cremă cu cortizon, NHS recomandă o pauză de 20–30 de minute între emolient și tratament; ordinea se stabilește cu medicul.
 
-## Cum aplici corect crema hidratantă
+### Câtă cremă înseamnă „suficient”
 
-1. **Curăță blând** pielea cu un produs care nu lasă senzația de „scârțâit”.
-2. **Aplică pe pielea ușor umedă**, în primele minute după curățare sau duș, ca să reții mai multă apă.
-3. **Folosește o cantitate suficientă**: un strat subțire, uniform, pe față, gât și, dacă e cazul, decolteu.
-4. **Dimineața, termină cu protecția solară** (SPF 30 sau mai mult, cu spectru larg). O cremă hidratantă cu SPF este utilă doar dacă aplici destulă cantitate; altfel, folosește un produs separat.
-5. **Pe corp**, aplică emolientul imediat după duș, mai ales iarna.
+Pe față, un strat subțire și uniform este de obicei de ajuns. Pe corp, însă, majoritatea oamenilor folosesc mult mai puțin decât ar fi nevoie, mai ales când pielea este foarte uscată sau are eczemă. Ca ordin de mărime, DermNet citează pentru eczemă cantități săptămânale de aproximativ 500 g la adulți și 150–200 g la copiii mici. Nu este o țintă de atins pentru oricine, ci un reper care arată că o cutie mică, folosită o lună întreagă pe tot corpul, înseamnă de fapt o aplicare foarte zgârcită.
 
-## Ajustează după sezon și context
+Pentru produsele în borcan, o spatulă sau o lingură curată, în locul degetelor, ajută la păstrarea cremei necontaminate. Tuburile și flacoanele cu pompă evită problema.
 
-- **Iarna**, aerul rece și încălzirea usucă pielea: trece la o textură mai bogată. Mai multe idei în ghidul despre [îngrijirea pielii iarna](/blog/ingrijirea-pielii-iarna/).
-- **Vara**, căldura și umiditatea fac texturile grele incomode: un gel-cremă poate fi suficient.
-- **În timpul unor tratamente** (retinoizi, isotretinoină prescrisă de medic, după proceduri), pielea are de obicei nevoie de mai multă hidratare decât în mod obișnuit.
+### Dimineața, înainte de protecția solară
 
-## Greșeli frecvente
+Pe față, crema hidratantă de dimineață este urmată de protecția solară. O cremă hidratantă cu SPF este utilă doar dacă este aplicată în cantitate suficientă pentru a proteja.
 
-- **Alegi după miros sau ambalaj.** Parfumul este una dintre cele mai frecvente cauze de alergie de contact la cosmetice.
-- **Schimbi produsele prea des.** Nu mai poți ști ce funcționează și ce irită.
-- **Folosești mai multe produse noi deodată.** Introdu câte unul, la 1–2 săptămâni distanță.
-- **Crezi că „natural” înseamnă „blând”.** Uleiurile esențiale și extractele de plante pot irita sau sensibiliza pielea.
-- **Renunți la hidratare pentru că ai coșuri.** Pielea iritată și uscată tolerează mai prost tratamentele anti-acnee.
+## Când crema nu este tolerată
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Nu orice disconfort înseamnă alergie. DermNet arată că usturimea sau arsura trecătoare sunt frecvente pe pielea sensibilă și nu impun întotdeauna oprirea produsului. NHS recomandă însă să cereți sfatul unui medic sau farmacist dacă usturimea nu se liniștește în câteva zile, dacă foliculii se inflamează ori dacă tenul cu acnee se agravează.
 
-## Când să mergi la dermatolog
+O alergie de contact adevărată se manifestă de obicei prin roșeață, mâncărime și uneori vezicule, exact acolo unde a fost aplicat produsul. Vinovați frecvenți sunt parfumul și unii conservanți. În acest caz, produsul se oprește, iar testele epicutane, făcute de medic, pot identifica substanța.
 
-Programează o consultație dacă:
+Un detaliu de siguranță mai puțin cunoscut: emolientele grase, mai ales cele cu parafină, se depun pe haine, pansamente și lenjerie și le pot face mai ușor inflamabile. NHS recomandă păstrarea lor departe de flacără și de țigări.
 
-- pielea rămâne uscată, aspră sau fisurată deși folosești constant o cremă potrivită de câteva săptămâni;
-- ai zone roșii, cu mâncărime intensă sau descuamare, care pot sugera dermatită atopică, dermatită de contact sau psoriazis;
-- aproape orice produs te înțeapă sau te înroșește (poate fi rozacee sau o alergie care se poate testa);
-- apar coșuri, bube sau umflături după o cremă nouă și nu dispar după ce o oprești;
-- uscăciunea este însoțită de alte simptome (oboseală, căderea părului, mâncărime generalizată), care pot avea o cauză medicală.
+## Anotimpul schimbă alegerea
+
+AAD recomandă ajustarea rutinei odată cu sezonul. Iarna, aerul rece de afară și cel încălzit din casă usucă pielea, iar o textură mai bogată devine de obicei necesară; măsurile pentru sezonul rece sunt detaliate în articolul despre [îngrijirea pielii iarna](/blog/ingrijirea-pielii-iarna/). Vara, căldura face texturile grele incomode, iar un gel-cremă poate fi suficient. Orice produs nou se introduce treptat.
+
+## Prețul și promisiunile
+
+Analiza Cochrane din 2017, care a adunat 77 de studii despre emoliente în eczemă, a arătat că majoritatea cremelor hidratante par să ajute și că reduc frecvența puseelor, dar nu a găsit dovezi sigure că o cremă ar fi mai bună decât alta. Pentru dumneavoastră, asta înseamnă că o formulă simplă, fără parfum, folosită zilnic, poate fi la fel de potrivită ca una mult mai scumpă.
+
+## Când poate fi util un consult dermatologic?
+
+AAD recomandă o evaluare dacă uscăciunea nu se ameliorează după ce v-ați ajustat rutina sau dacă pielea devine dureroasă, crăpată, sângerează, ustură sau este foarte iritată. Un consult poate fi util și dacă:
+
+- apar zone roșii, cu mâncărime și descuamare, care revin;
+- aproape orice produs vă înțeapă sau vă înroșește pielea;
+- bubițele sau iritația persistă după oprirea unei creme noi;
+- uscăciunea este însoțită de mâncărime pe tot corpul sau de alte simptome generale.
+
+Uneori, o piele care rămâne uscată în ciuda unei creme bune are nevoie de un emolient pe rețetă sau de tratarea unei afecțiuni de fond, iar asta se poate stabili doar la consultație.
+
+Crema hidratantă potrivită nu este neapărat cea mai cunoscută, ci cea care are textura potrivită pentru zona respectivă, conține ingrediente simple și eficiente și este folosită cu adevărat, zi de zi.
+
+## Dacă doriți o evaluare individuală
+
+Dacă ați încercat mai multe creme fără rezultat sau pielea dumneavoastră reacționează la ele și doriți să înțelegeți de ce, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile](/program/) pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare practică. Articolul explică textura, categoriile de ingrediente, alegerea după ten și zonă și modul de aplicare. Explicația barierei și dovezile despre ceramide sunt în articolul despre ceramide; sezonul rece, în articolul despre iarnă.
+- Afirmații de confirmat clinic: caracterul orientativ al mențiunii „non-comedogen” (marcat inline); afirmația că ureea ajută pe călcâie și coate (DermNet o descrie ca umectant și keratolitic, fără a numi zonele); recomandarea privind cantitatea suficientă pentru cremele cu SPF.
+- Informații lipsă / de completat: dacă doriți, o recomandare din practică despre emolientele disponibile pe rețetă în România.
+- Surse care nu au putut fi verificate: lucrările Purnamawati 2017 și Lodén 2003 din versiunea anterioară nu au fost deschise și au fost scoase. Analiza Cochrane a fost consultată prin rezumatul de pe cochrane.org.

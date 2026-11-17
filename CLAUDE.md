@@ -3,8 +3,9 @@
 Read this first, then `docs/STATUS.md` (state, credentials, open items) and `docs/ROADMAP.md` (prioritised
 backlog with IDs like S4, C2). Human version of the roadmap: `docs/recomandari.html` (Romanian). Last updated 2026-10-24.
 
-**Resume in 30 seconds:** site live and green (Site monitor hourly). 0 articles published, 43 drafts awaiting the
-doctor's review. Newsletter live (Brevo list 3, DOI template 1 tagged `optin`, welcome template 2, launch draft
+**Resume in 30 seconds:** site live and green (Site monitor hourly). 0 articles published, 63 drafts awaiting the
+doctor's review (rewritten 2026-11-17 per `docs/PROMPT-ARTICOLE.txt`: „dumneavoastră”, CTA to /program/, doctor's note
+at the end; lint `npm run check:articles`). Newsletter live (Brevo list 3, DOI template 1 tagged `optin`, welcome template 2, launch draft
 campaign 3, monthly draft workflow). Schedule/locations live at /program/. Most urgent open item: **S1** — the
 geoli.eu GitHub token expires 2026-10-30 (dermi.ro already has its own non-expiring token). Social media kit (prompt, specs, brand images): `docs/SOCIAL-MEDIA.md`, `brand/social/`. Feature docs:
 `docs/VAULT.md`, `docs/NEWSLETTER.md`, `docs/CLOUDFLARE-SETUP.md`, `docs/CONTENT-GUIDE.md`.
@@ -30,16 +31,18 @@ People:
 3. **Never invent content**: no testimonials, patient stories, statistics about "my results", credentials or
    facts about the doctor. Unknown → `[TODO: Dr. Mădălina …]`. The build refuses to publish text with `[TODO`.
 4. AI-written articles are always `draft: true`; only the doctor publishes (from /vault/).
-5. Medical/legal: CMR deontology (informative, not promotional), no brand names, no doses for prescription
+5. Articles follow `docs/PROMPT-ARTICOLE.txt` (owners' editorial prompt) + `docs/CONTENT-GUIDE.md`; run
+   `npm run check:articles` after any article change.
+6. Medical/legal: CMR deontology (informative, not promotional), no brand names, no doses for prescription
    drugs, botulinum toxin is never promoted, EU cosmetics claims rules (Reg. 1223/2009, 655/2013). See
    `docs/CONTENT-GUIDE.md`.
-6. **Secrets**: never print, log or commit tokens. Read them only inside commands from
+7. **Secrets**: never print, log or commit tokens. Read them only inside commands from
    `C:\Users\george.lincu\.secrets\`: `cloudflare-token.txt` (no expiry), `dermi-publishing-token.txt` (GitHub,
    no expiry), `brevo-api-key.txt`, `dermi-share-secret.txt`. Expiry table: docs/STATUS.md.
    Worker secrets `GITHUB_TOKEN` and `SHARE_SECRET` are set by George in the dashboard as type **Secret**
    (a "Text" variable is wiped on the next deploy). Don't enter tokens into services yourself.
-7. **Never delete the "Workers Builds" API token** in Cloudflare (all builds fail afterwards).
-8. Verify for real before saying "done": `npm run check`, both builds, `wrangler dev`, live curl / Site monitor.
+8. **Never delete the "Workers Builds" API token** in Cloudflare (all builds fail afterwards).
+9. Verify for real before saying "done": `npm run check`, both builds, `wrangler dev`, live curl / Site monitor.
 
 ## Environment quirks (Windows corporate laptop)
 

@@ -1,159 +1,145 @@
 ---
-title: "Cum tratezi rozaceea: tratamente, îngrijire, factori declanșatori"
-description: "Rozaceea nu se vindecă definitiv, dar se poate controla bine. Află ce tratamente au dovezi, cum îți îngrijești pielea și ce factori o agravează."
+title: "Tratamentul rozaceei: ce opțiuni există și ce puteți face zilnic"
+description: "Cum se tratează rozaceea: medicamente alese după simptome, îngrijire blândă, factori declanșatori și ce poate clarifica un consult dermatologic."
 pubDate: 2025-08-21
 updatedDate: 2026-10-01
 category: "afectiuni"
 tags: ["rozacee", "roșeață facială", "tratament", "piele sensibilă"]
 draft: true
 faq:
-  - q: "Rozaceea se vindecă?"
-    a: "Rozaceea este o afecțiune cronică, cu perioade de liniște și de acutizare. Nu se vindecă definitiv, dar cu tratament adaptat și evitarea factorilor declanșatori simptomele pot fi controlate foarte bine, de multe ori pentru perioade lungi."
+  - q: "Rozaceea se vindecă definitiv?"
+    a: "Nu există în prezent un tratament care să vindece rozaceea. Simptomele pot fi însă ținute sub control, iar perioadele fără manifestări pot fi lungi atunci când tratamentul și îngrijirea zilnică sunt potrivite."
+  - q: "În cât timp se vede efectul tratamentului pentru rozacee?"
+    a: "La tratamentele aplicate pe piele, o ușoară ameliorare poate apărea după 3–4 săptămâni, iar o diferență clară se observă de obicei după 2–3 luni. Ritmul diferă de la o persoană la alta."
   - q: "Este rozaceea contagioasă?"
-    a: "Nu. Rozaceea nu se transmite prin contact, prosoape sau sărut. Este legată de o reacție inflamatorie a pielii, de vasele de sânge și de o predispoziție individuală."
-  - q: "Pot folosi creme cu cortizon pentru roșeața de rozacee?"
-    a: "Nu fără indicația medicului. Corticosteroizii aplicați pe față pot reduce roșeața pe moment, dar pe termen lung agravează rozaceea și pot produce o erupție asemănătoare, greu de tratat."
+    a: "Nu. Rozaceea nu se transmite prin contact și nu este cauzată de lipsa de igienă."
+  - q: "Pot folosi o cremă cu cortizon pe roșeața de pe față?"
+    a: "Nu fără recomandarea medicului. Folosirea îndelungată a cremelor cu cortizon pe față poate declanșa sau agrava rozaceea."
   - q: "Rozaceea poate afecta ochii?"
-    a: "Da. Rozaceea oculară poate da ochi roșii, uscați, senzație de nisip sau pleoape iritate. Dacă ai astfel de simptome, cere și un consult oftalmologic."
-  - q: "Ce protecție solară este potrivită în rozacee?"
-    a: "Una cu spectru larg, SPF 30 sau mai mult, fără parfum, pe care o tolerezi. Filtrele minerale (oxid de zinc, dioxid de titan) sunt adesea bine tolerate, dar nu sunt singura variantă bună."
+    a: "Da. La o parte importantă dintre persoanele cu rozacee apar ochi uscați, iritați, senzație de nisip sau pleoape inflamate. Durerea oculară, vederea încețoșată sau sensibilitatea la lumină necesită o evaluare medicală rapidă."
 sources:
-  - title: "Recommendations for rosacea diagnosis, classification and management: update from the global ROSacea COnsensus 2019 panel"
-    publisher: "British Journal of Dermatology (Schaller și colab., 2020)"
-  - title: "Standard classification and pathophysiology of rosacea: The 2017 update by the National Rosacea Society Expert Committee"
-    publisher: "Journal of the American Academy of Dermatology (Gallo și colab., 2018)"
-  - title: "Interventions for rosacea"
-    publisher: "Cochrane Database of Systematic Reviews (van Zuuren și colab., 2015)"
   - title: "Rosacea: Diagnosis and treatment"
-    publisher: "American Academy of Dermatology"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/rosacea/treatment/diagnosis-treat"
+  - title: "Rosacea: Signs and symptoms"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/rosacea/what-is/symptoms"
+  - title: "7 rosacea skin care tips dermatologists recommend"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/rosacea/triggers/tips"
+  - title: "Triggers could be causing your rosacea flare-ups"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/rosacea/triggers/find"
+  - title: "Rosacea: Symptoms, Causes, and Management"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/rosacea"
   - title: "Rosacea"
-    publisher: "NICE Clinical Knowledge Summaries"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/conditions/rosacea/"
 ---
 
-Rozaceea se tratează prin trei componente care lucrează împreună: tratament medical ales după tipul de simptome (roșeață, coșuri, vase vizibile, afectarea ochilor), o îngrijire zilnică foarte blândă și evitarea factorilor care o declanșează. Este o afecțiune cronică și nu se vindecă definitiv, dar poate fi controlată bine pe termen lung, cu un plan stabilit împreună cu dermatologul.
+Mulți oameni ajung să afle că au rozacee abia după ce au încercat, pe rând, o cremă pentru acnee, una „pentru piele sensibilă” și poate un unguent cu cortizon rămas în dulapul cu medicamente. Roșeața de pe obraji se liniștește câteva zile, apoi revine, uneori mai intensă. Explicația ține de natura afecțiunii: rozaceea este o boală inflamatorie cronică a pielii feței, iar tratamentul ei nu se reduce la un singur produs.
 
-## Pe scurt
+Tratamentul rozaceei are, de fapt, trei părți care se sprijină reciproc: medicamente alese după simptomul care predomină (roșeață, bubițe inflamate, vase vizibile, afectarea ochilor), o îngrijire zilnică foarte blândă și cunoașterea factorilor care declanșează puseele. Rozaceea nu se vindecă, dar de cele mai multe ori poate fi ținută sub control.
 
-- Rozaceea afectează în special obrajii, nasul, fruntea și bărbia, cu **roșeață persistentă**, înroșiri bruște, vase subțiri vizibile, uneori **papule și pustule** și senzație de arsură.
-- Tratamentul se alege **după simptomele dominante**: creme pentru inflamație, medicamente pentru roșeață, antibiotice orale cu rol antiinflamator, laser/IPL pentru vase.
-- Îngrijirea de bază: **curățare blândă, hidratare fără parfum și protecție solară zilnică**.
-- **Nu folosi creme cu cortizon** pe față fără indicație medicală — agravează rozaceea.
-- Factorii declanșatori diferă de la o persoană la alta; un jurnal al simptomelor te ajută să-i descoperi.
+## De ce nu există un singur tratament pentru rozacee
 
-## Ce este rozaceea
+Rozaceea nu arată la fel la toată lumea. Unele persoane au mai ales înroșiri bruște (flushing), cu senzație de căldură, care durează câteva minute. Altele au o roșeață care nu mai dispare, concentrată pe nas și pe obraji. La altele predomină papulele și pustulele, adică bubițe roșii și bubițe cu puroi, asemănătoare acneei, dar fără comedoane („puncte negre”). Mai pot apărea vase subțiri vizibile, uscăciune, usturime la contactul cu apa sau cu cremele și, după mulți ani fără tratament, îngroșarea pielii nasului, numită rinofimă.
 
-Rozaceea este o boală inflamatorie cronică a pielii feței. Apare mai des la adulții de peste 30 de ani și la persoanele cu ten deschis, dar poate apărea la orice fototip; la pielea închisă la culoare roșeața se vede mai greu și diagnosticul poate întârzia.
+Pe pielea mai închisă la culoare, roșeața se vede greu. Uneori singurul semn al unui puseu este senzația de căldură, iar bubițele pot fi primul lucru care atrage atenția.
 
-Cauza exactă nu este complet înțeleasă. Contribuie o reactivitate crescută a vaselor de sânge, un răspuns imun exagerat al pielii, o barieră cutanată fragilă și, la unele persoane, un număr crescut de acarieni *Demodex* (care trăiesc în mod normal pe piele). Predispoziția familială contează.
+Fiecare dintre aceste manifestări are un mecanism propriu, așa că și medicamentele diferă. Un tratament care reduce bubițele poate lăsa neschimbată roșeața de fond, iar unul care strânge vasele nu are efect asupra inflamației. Medicul stabilește mai întâi ce anume domină tabloul și abia apoi alege.
 
-### Cum se manifestă
+Cauza exactă nu este cunoscută. Contribuie predispoziția genetică, o reglare anormală a vaselor de sânge și a răspunsului imun al pielii, o barieră cutanată fragilă și, la unele persoane, un număr crescut de acarieni *Demodex*, care trăiesc în mod normal în foliculii pielii. Rozaceea nu este contagioasă și nu ține de igienă.
 
-Clasificarea actuală (National Rosacea Society, 2017; panelul ROSCO) descrie rozaceea după **semne**, nu după „tipuri” fixe, pentru că o persoană poate avea mai multe simultan:
+## Diagnosticul și confuziile frecvente
 
-- **roșeață centrofacială persistentă**, care se poate accentua în timp;
-- **flushing** — înroșiri bruște, cu senzație de căldură;
-- **telangiectazii** — vase subțiri, vizibile;
-- **papule și pustule** — „coșuri” roșii, fără puncte negre (spre deosebire de acnee);
-- **senzație de arsură, înțepături, uscăciune**;
-- **îngroșarea pielii**, mai ales pe nas (rinofima) — mai frecventă la bărbați;
-- **afectare oculară** — ochi roșii, uscați, iritați, pleoape inflamate.
+Diagnosticul se pune clinic: dermatologul examinează pielea și ochii și pune întrebări despre evoluție, pentru că simptomele vin și pleacă. Analizele sunt rareori necesare, de exemplu pentru a exclude lupusul, iar o formă rară, rozaceea granulomatoasă, poate necesita o biopsie.
 
-Rozaceea se confundă des cu acneea, dermatita seboreică, dermatita de contact sau, rar, cu boli autoimune precum lupusul. De aceea diagnosticul pus de dermatolog este important.
+Confuziile sunt frecvente. Rozaceea seamănă cu acneea, cu [dermatita seboreică](/blog/dermatita-seboreica/) (roșeață cu scuame fine pe laturile nasului și în sprâncene), cu dermatita de contact, cu [dermatita perorală](/blog/dermatita-perorala/) sau cu pielea îmbătrânită de soare. Distincția are consecințe practice. Unele produse pentru acnee irită o piele cu rozacee, iar cremele cu cortizon, care calmează pe moment multe erupții, pot declanșa sau agrava rozaceea atunci când sunt folosite timp îndelungat pe față.
 
-## Cum se pune diagnosticul
+## Opțiunile de tratament, pe rând
 
-Diagnosticul de rozacee este în principal **clinic**: dermatologul se uită la distribuția roșeței, la tipul leziunilor, la vasele vizibile, la ochi și te întreabă despre factorii declanșatori, produsele folosite și medicamentele pe care le iei. Dermatoscopia poate ajuta la vizualizarea vaselor și a semnelor de *Demodex*. Rareori sunt necesare analize sau o biopsie, de exemplu când tabloul seamănă cu o boală autoimună sau nu răspunde la tratament.
+Tratamentul se alege și se ajustează de medic. Prezentarea de mai jos are rol informativ și nu înlocuiește această decizie.
 
-Un diagnostic corect contează, pentru că tratamentele pentru acnee sau pentru dermatită pot fi nepotrivite în rozacee și invers.
+### Pentru bubițele inflamate
 
-## Cum se tratează rozaceea
+Aici există cele mai multe opțiuni locale: ivermectina sub formă de cremă, metronidazolul, acidul azelaic în forma de medicament (despre care găsiți mai multe în articolul despre [acidul azelaic](/blog/acidul-azelaic/)) sau peroxidul de benzoil încapsulat, o formulă gândită să fie mai blândă cu pielea sensibilă. Unele dintre ele pot înțepa în primele zile.
 
-Tratamentul se stabilește de medic, în funcție de simptome, severitate, alte boli și preferințele tale. Mai jos sunt principalele opțiuni recomandate de ghiduri.
-
-### Pentru papule și pustule (inflamație)
-
-- **Ivermectina topică** — acționează asupra acarienilor *Demodex* și a inflamației; este una dintre opțiunile cu cele mai bune dovezi.
-- **Metronidazolul topic** — folosit de mult timp, bine tolerat.
-- **Acidul azelaic** în concentrație de medicament — reduce inflamația; poate înțepa la început. Mai multe în [acidul azelaic](/blog/acidul-azelaic/).
-- **Doxiciclina orală în regim antiinflamator** sau alte tetracicline — pentru forme moderate sau severe, prescrise de medic pentru o perioadă limitată. Aici rolul principal este antiinflamator, nu de „omorâre a bacteriilor”.
-- **Isotretinoina orală în doză mică** — rezervată formelor rezistente, la decizia medicului. Este strict interzisă în sarcină și necesită contracepție eficientă și monitorizare.
+Când cremele nu sunt suficiente, medicul poate recomanda un tratament oral. Doxiciclina în doză mică are rol antiinflamator, nu antibacterian, motiv pentru care poate fi folosită perioade mai lungi; alte antibiotice orale se prescriu pentru cel mai scurt timp necesar. În formele rezistente se poate discuta isotretinoina orală, un medicament cu efecte adverse importante, interzis în sarcină, care se folosește numai cu monitorizare atentă.
 
 ### Pentru roșeața persistentă
 
-- **Brimonidina** sau **oximetazolina** topică — îngustează temporar vasele de sânge și reduc roșeața pentru câteva ore. Nu tratează inflamația și, la unele persoane, roșeața poate reveni mai intens după ce efectul trece. [TODO: verifică disponibilitatea oximetazolinei topice în România]
-- Fondul de ten verde-corector sau colorat poate masca roșeața în siguranță.
+Brimonidina (gel) și oximetazolina (cremă) strâng temporar vasele mici și estompează roșeața pentru câteva ore. Nu tratează inflamația, iar roșeața revine după ce efectul trece. [TODO: de confirmat de medic — disponibilitatea oximetazolinei topice în România]
 
-### Pentru vasele vizibile și roșeața fixă
+Pentru zilele în care aspectul contează, un corector cu tentă verde neutralizează vizual roșeața, iar unul cu tentă galbenă uniformizează zonele mai închise. Machiajul pe bază de apă sau pudra irită, în general, mai puțin.
 
-- **Laserul vascular** (de exemplu laser cu colorant pulsat sau KTP) și **lumina intens pulsată (IPL)** — reduc vasele vizibile și roșeața. De obicei sunt necesare mai multe ședințe, iar efectul nu este permanent dacă factorii declanșatori persistă.
+### Pentru vasele vizibile
 
-### Pentru îngroșarea pielii (rinofima)
+Vasele subțiri și dilatate, numite telangiectazii, nu dispar cu creme. Pentru ele se folosesc laserul vascular, lumina intens pulsată (IPL) sau electrocoagularea, proceduri care reduc vasele existente, dar nu împiedică apariția altora noi. Așteptările realiste, numărul de ședințe și riscurile sunt explicate separat, în articolul despre [cuperoză și vasele vizibile de pe față](/blog/cuperoza-si-vasele-vizibile/).
 
-- Formele incipiente pot răspunde la isotretinoină; formele constituite se tratează prin proceduri (laser ablativ, electrochirurgie, chirurgie).
+### Pentru îngroșarea pielii
 
-### Pentru rozaceea oculară
+Isotretinoina poate opri progresia unei rinofime aflate la început, dar nu îndepărtează țesutul deja îngroșat. Acesta se poate corecta prin proceduri (laser, electrochirurgie, chirurgie), iar intervenția timpurie dă, de obicei, rezultate mai bune decât cea târzie.
 
-- Igiena pleoapelor, lacrimi artificiale, uneori tratament oral. Este necesar și un consult oftalmologic.
+### Pentru ochi
 
-Tratamentele pentru rozacee au nevoie de timp: cremele dau rezultate de obicei după 6–12 săptămâni. După controlul simptomelor, medicul poate recomanda un tratament de întreținere, pentru a reduce recăderile.
+Rozaceea oculară este mai frecventă decât se crede: Academia Americană de Dermatologie (AAD) estimează că aproximativ jumătate dintre persoanele cu rozacee au, la un moment dat, simptome la nivelul ochilor. Senzația de nisip, uscăciunea, lăcrimarea, pleoapele roșii sau crustele de la baza genelor se tratează de obicei cu comprese călduțe, igiena zilnică a pleoapelor și lacrimi artificiale, iar la nevoie cu medicamente prescrise. Cremele pentru piele nu se aplică în ochi. Formele care pot afecta vederea se trimit fără întârziere la oftalmolog.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Cât durează până se vede o diferență
 
-## Îngrijirea zilnică a pielii cu rozacee
+Răbdarea face parte din tratament. Potrivit AAD, la tratamentele aplicate pe piele o ușoară ameliorare poate apărea după 3–4 săptămâni, iar o diferență clară se vede de obicei după 2–3 luni. Mulți renunță prea devreme, convinși că produsul „nu merge”.
 
-Pielea cu rozacee are o barieră fragilă și reacționează ușor. O rutină simplă este mai bună decât una complicată.
+După ce simptomele sunt sub control, medicul poate propune un plan de întreținere, adesea cu un singur produs, pentru a rări recăderile. Oprirea sau schimbarea tratamentului se hotărăște împreună cu medicul, nu după cum arată pielea într-o săptămână bună.
 
-| Pas | Ce să alegi | Ce să eviți |
-|---|---|---|
-| Curățare | Produs blând, fără parfum, cu apă călduță | Apă fierbinte, scruburi, perii faciale, alcool |
-| Hidratare | Cremă fără parfum, cu ceramide, glicerină, pantenol | Uleiuri esențiale, mentol, camfor, eucalipt |
-| Protecție solară | Spectru larg, SPF 30+, fără parfum, pe care o tolerezi | Renunțarea la SPF „pentru că înțeapă” — încearcă altă formulă |
-| Machiaj | Produse minerale sau corectoare, ușor de îndepărtat | Produse rezistente la apă care necesită demachiere agresivă |
+## Îngrijirea zilnică: puțini pași, bine aleși
 
-**Despre protecția solară:** filtrele minerale (oxid de zinc, dioxid de titan) sunt adesea foarte bine tolerate în rozacee, motiv pentru care sunt frecvent recomandate. Nu este însă o regulă absolută: și multe formule moderne cu filtre organice, fără parfum, sunt bine tolerate. Contează să alegi un produs pe care îl folosești zilnic, fără usturime. Vezi [SPF pe scurt](/blog/spf-pe-scurt/).
+Pielea cu rozacee reacționează ușor, așa că o rutină scurtă este de obicei mai bine tolerată decât una cu multe produse. Recomandările AAD se pot rezuma astfel:
 
-Pentru o rutină completă, citește și [rutina corectă pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
+- curățare de două ori pe zi, cu un produs blând (nu săpun), aplicat cu degetele și clătit cu apă călduță;
+- tratamentul prescris se aplică primul, apoi o cremă hidratantă fără parfum, pe pielea deja uscată, ca să înțepe mai puțin;
+- protecție solară cu spectru larg, SPF 30 sau mai mare, în fiecare zi; dacă un produs ustură, unul cu oxid de zinc sau dioxid de titan, fără parfum, este adesea mai bine tolerat;
+- fără tonice și astringente, fără produse cu alcool, mentol, camfor sau parfum; acizii exfolianți (glicolic, lactic) și ureea irită frecvent pielea cu rozacee;
+- orice produs nou se încearcă mai întâi pe o zonă mică, nu direct pe toată fața.
 
-## Factorii declanșatori ai rozaceei
+Mai multe idei pentru o rutină care nu irită găsiți în ghidul despre [rutina corectă pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
 
-Cei mai des raportați sunt:
+## Factorii declanșatori diferă de la om la om
 
-- **soarele** — cel mai frecvent factor;
-- **căldura**: băuturi fierbinți, saună, baie fierbinte, efort intens;
-- **frigul și vântul**, variațiile bruște de temperatură;
-- **alcoolul**, în special vinul roșu;
-- **mâncarea picantă**;
-- **stresul emoțional**;
-- **unele cosmetice**: parfum, alcool, acizi, scruburi;
-- **unele medicamente** care dilată vasele.
+Soarele este considerat cel mai important factor din mediu. Urmează căldura (băuturi fierbinți, saună, încăperi supraîncălzite iarna), frigul și vântul, alcoolul (mai ales vinul roșu), mâncarea picantă, stresul, efortul fizic intens, unele cosmetice, fixativul de păr și anumite medicamente care dilată vasele.
 
-Nu toți acești factori sunt valabili pentru toată lumea. Un **jurnal al simptomelor** (ce ai mâncat, unde ai fost, ce produse ai folosit, cum a arătat pielea) timp de câteva săptămâni te ajută să-i identifici pe ai tăi, ca să nu-ți impui restricții inutile.
+Lista e lungă, dar puțini oameni reacționează la toate aceste elemente. AAD propune un jurnal: timp de cel puțin două săptămâni notați zilnic ce ați mâncat și băut, ce produse ați folosit, dacă ați stat la căldură sau în vânt și cât de intens a fost fiecare episod de înroșire. Tiparele devin vizibile, de multe ori, abia după câteva săptămâni. Câștigul este dublu: aflați ce merită evitat și nu renunțați degeaba la lucruri care, în cazul dumneavoastră, nu au legătură cu roșeața.
 
-## Ce poți face acasă în timpul unui puseu
+Jurnalul are sens mai ales înainte de începerea tratamentului sau în primele luni, pentru că puseele repetate pot masca efectul unui medicament care, altfel, ar funcționa.
 
-- **Răcește pielea**: comprese cu apă rece (nu gheață direct pe piele), timp de câteva minute.
-- **Simplifică rutina** la minimum: demachiant blând, cremă fără parfum, protecție solară. Oprește temporar acizii, retinoizii cosmetici și scruburile.
-- **Evită căldura**: duș călduț, nu fierbinte; amână sauna și efortul intens în zile caniculare.
-- **Notează ce s-a întâmplat** înainte de puseu, pentru jurnalul de simptome.
-- **Continuă tratamentul prescris** și nu adăuga creme cu cortizon din proprie inițiativă.
+## Câteva idei greșite despre rozacee
 
-Dacă puseul nu se liniștește în câteva zile sau apar pustule numeroase, ia legătura cu medicul.
+Rozaceea nu este „doar o piele sensibilă” care trece singură; netratată, poate persista și se poate accentua. Nu este provocată de alcool, chiar dacă alcoolul poate declanșa un puseu: apare și la persoane care nu beau deloc. Și nu se tratează „uscând” pielea cu produse pentru acnee, care o pot irita și mai mult.
 
-## Mituri despre rozacee
+## Ce poate clarifica o evaluare dermatologică
 
-- **„E doar o piele sensibilă, trece de la sine.”** Fără tratament, rozaceea tinde să persiste și uneori să se agraveze.
-- **„E acnee, deci trebuie uscată.”** Produsele agresive pentru acnee pot agrava rozaceea.
-- **„Cortizonul o vindecă.”** Dimpotrivă, pe termen lung o agravează.
-- **„Apare din cauza alcoolului.”** Alcoolul poate declanșa episoade, dar rozaceea apare și la persoanele care nu beau deloc.
+O consultație nu schimbă natura cronică a rozaceei, dar poate lămuri lucruri pe care informația generală nu le poate stabili: dacă roșeața este într-adevăr rozacee sau altă afecțiune, care manifestare domină, dacă ochii sunt implicați și ce combinație de tratament are sens pentru pielea, vârsta, eventuala sarcină sau celelalte boli ale dumneavoastră. Tot atunci se discută cum se folosesc corect produsele, ce efecte adverse merită urmărite și după cât timp are rost o reevaluare. Rezultatul depinde și de evoluția individuală, așa că nimeni nu îl poate garanta dinainte.
 
-## Când să mergi la dermatolog
+## Când poate fi util un consult dermatologic?
 
-Programează o consultație dacă:
+- roșeața de pe față nu dispare sau înroșirile bruște devin tot mai frecvente;
+- au apărut bubițe roșii sau cu puroi pe obraji, nas ori bărbie;
+- aproape orice produs aplicat pe față ustură sau arde;
+- pielea nasului pare să se îngroașe;
+- ați folosit o cremă cu cortizon pe față, iar după oprirea ei roșeața s-a agravat;
+- tratamentul urmat de câteva luni nu a adus ameliorarea așteptată.
 
-- ai roșeață pe față care nu dispare sau înroșiri bruște tot mai frecvente;
-- apar coșuri roșii, pustule sau umflături pe obraji și nas;
-- pielea te arde sau te înțeapă la aproape orice produs;
-- observi îngroșarea pielii nasului;
-- ai **ochii roșii, uscați, iritați** sau senzație de corp străin — în acest caz, cere și un consult oftalmologic, mai ales dacă apar durere sau vedere încețoșată;
-- ai folosit creme cu cortizon pe față și, după oprire, roșeața s-a agravat;
-- roșeața este însoțită de dureri articulare, oboseală sau o erupție în formă de „fluture” care nu seamănă cu cea obișnuită.
+Ochii roșii și dureroși, vederea încețoșată sau sensibilitatea la lumină trebuie evaluate rapid, de preferință și de un medic oftalmolog.
+
+Rozaceea se gestionează pe termen lung, nu se rezolvă dintr-odată. Un tratament potrivit simptomelor, o rutină simplă și cunoașterea propriilor factori declanșatori fac, împreună, diferența.
+
+## Dacă doriți o evaluare individuală
+
+Dacă doriți să aflați ce înseamnă roșeața de pe fața dumneavoastră și ce variante de tratament s-ar potrivi situației dumneavoastră, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile aici](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare practică despre tratamentul rozaceei (logica alegerii tratamentului după simptomul dominant, timpi realiști, îngrijire, factori declanșatori). Articolul despre vasele vizibile (cuperoza-si-vasele-vizibile) preia detaliile despre laser/IPL, ca să nu se repete.
+- Afirmații de confirmat clinic: isotretinoina în rozacee (indicație în formele rezistente, contraindicată în sarcină); peroxidul de benzoil încapsulat (citat de AAD, de verificat dacă este disponibil în România); doxiciclina în doză subantimicrobiană (disponibilitatea formei dedicate în România); lista ingredientelor de evitat (AAD include ureea și acidul lactic).
+- Informații lipsă / de completat: disponibilitatea oximetazolinei topice în România (marcat inline); opțional, o observație din practică despre aderența la tratament.
+- Surse care nu au putut fi verificate: ghidurile ROSCO 2019 și NRS 2017 și analiza Cochrane din versiunea anterioară nu au fost deschise în această sesiune, de aceea au fost scoase din lista de surse.

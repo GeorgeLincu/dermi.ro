@@ -1,154 +1,143 @@
 ---
-title: "Psoriazisul: ce este, ce îl declanșează și cum se tratează"
-description: "Ce este psoriazisul, ce forme are, ce îl agravează și ce tratamente moderne există, de la creme la medicamente biologice."
+title: "Psoriazisul: ce este, ce îl agravează și cum se alege tratamentul"
+description: "Ce este psoriazisul, cum arată plăcile, ce factori pot declanșa un puseu și cum se alege tratamentul, de la creme la terapii sistemice."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["psoriazis", "boli autoimune", "plăci", "tratament"]
+tags: ["psoriazis", "plăci", "boli inflamatorii", "tratament"]
 draft: true
 faq:
   - q: "Psoriazisul este contagios?"
-    a: "Nu. Psoriazisul este o boală inflamatorie mediată imun și nu se transmite prin atingere, prin piscină, prin obiecte comune sau prin contact intim."
-  - q: "Psoriazisul se poate vindeca definitiv?"
-    a: "Deocamdată nu există un tratament care să vindece definitiv psoriazisul. Tratamentele actuale pot însă curăța pielea în mare măsură sau complet la multe persoane și pot menține boala sub control pe termen lung."
+    a: "Nu. Psoriazisul este o boală inflamatorie legată de sistemul imunitar și nu se transmite prin atingere, prin obiecte comune, la piscină sau prin contact intim."
+  - q: "Psoriazisul se vindecă?"
+    a: "În prezent nu există un tratament care să vindece psoriazisul, iar la majoritatea persoanelor boala durează toată viața, cu perioade mai bune și mai rele. Tratamentele actuale pot însă reduce mult plăcile și pot ține boala sub control."
+  - q: "La ce vârstă apare psoriazisul?"
+    a: "Poate apărea la orice vârstă. Debutul este cel mai frecvent între 15 și 25 de ani sau între 50 și 60 de ani."
   - q: "Ce legătură are psoriazisul cu durerile articulare?"
-    a: "O parte dintre persoanele cu psoriazis dezvoltă artrită psoriazică, o inflamație a articulațiilor și tendoanelor. Dacă ai dureri, umflături sau rigiditate articulară dimineața, spune-i medicului, pentru că tratamentul precoce previne afectarea articulațiilor."
-  - q: "Ce alimente agravează psoriazisul?"
-    a: "Nu există o dietă care să vindece psoriazisul. Totuși, excesul de greutate, alcoolul și fumatul sunt asociate cu forme mai severe și cu răspuns mai slab la tratament, iar scăderea în greutate poate ameliora boala la persoanele supraponderale."
+    a: "O parte dintre persoanele cu psoriazis dezvoltă artrită psoriazică, o inflamație a articulațiilor și a tendoanelor. Durerile, umflăturile sau rigiditatea articulară merită spuse medicului, chiar dacă par minore."
 sources:
-  - title: "Global report on psoriasis"
-    publisher: "Organizația Mondială a Sănătății (OMS, 2016)"
-  - title: "EuroGuiDerm Guideline on the systemic treatment of Psoriasis vulgaris"
-    publisher: "European Dermatology Forum / EuroGuiDerm (Journal of the European Academy of Dermatology and Venereology)"
-  - title: "Joint AAD–NPF guidelines of care for the management and treatment of psoriasis"
-    publisher: "American Academy of Dermatology și National Psoriasis Foundation (Journal of the American Academy of Dermatology, 2019–2021)"
-  - title: "Psoriasis: assessment and management (CG153)"
-    publisher: "National Institute for Health and Care Excellence (NICE)"
-    url: "https://www.nice.org.uk/guidance/cg153"
+  - title: "Psoriasis: Overview"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/psoriasis/what/overview"
+  - title: "Psoriasis: Medications and light therapies"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/psoriasis/treatment/medications"
+  - title: "Are triggers causing your psoriasis flare-ups?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/psoriasis/triggers/flares"
+  - title: "Can psoriasis affect more than my skin?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/psoriasis/insider/other-conditions"
+  - title: "Psoriasis: Symptoms, Treatment, Images and More"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/psoriasis"
   - title: "Psoriasis"
-    publisher: "NHS (Marea Britanie)"
+    publisher: "NHS (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/psoriasis/"
 ---
 
-Psoriazisul este o boală inflamatorie cronică, mediată de sistemul imunitar, în care celulele pielii se înmulțesc mult mai repede decât normal și formează plăci roșii, îngroșate, acoperite de scuame albe-argintii. Nu este contagios și are o evoluție în pusee, cu perioade de ameliorare și de agravare. Deși nu se vindecă definitiv, tratamentele actuale, de la creme la medicamente biologice, pot curăța pielea în mare măsură la majoritatea persoanelor.
+Plăcile groase de pe coate sau genunchi sunt adesea puse pe seama pielii uscate, iar scuamele din păr pe seama mătreței. Uneori așa și este. Alteori este vorba de psoriazis, o boală care arată ca o problemă a suprafeței pielii, dar își are originea mai adânc, în felul în care funcționează sistemul imunitar.
+
+Psoriazisul este o boală inflamatorie cronică în care celulele pielii se reînnoiesc în câteva zile, în loc de câteva săptămâni. Ele se adună la suprafață și formează plăci bine delimitate, roșii pe pielea deschisă (gri-violacee sau maronii pe pielea închisă), acoperite cu scuame albe-argintii. Nu este contagios și nu se vindecă, dar există astăzi multe tratamente care îl pot ține sub control.
 
 ## Pe scurt
 
-- Potrivit Raportului global al OMS despre psoriazis (2016), boala afectează peste 100 de milioane de oameni din întreaga lume.
-- Cea mai frecventă formă este psoriazisul în plăci, pe coate, genunchi, scalp și zona lombară.
-- Psoriazisul nu este doar o boală a pielii: se poate asocia cu artrită psoriazică, boli cardiovasculare, diabet și depresie.
-- Formele ușoare se tratează de obicei cu creme; formele moderate și severe au astăzi tratamente sistemice foarte eficiente.
-- Fumatul, alcoolul, stresul și unele infecții sau medicamente pot agrava boala.
+- Potrivit DermNet, psoriazisul afectează aproximativ 2–4% dintre oameni, femei și bărbați deopotrivă.
+- Forma în plăci este de departe cea mai frecventă; AAD o estimează la 80–90% dintre cazuri.
+- Evoluează în pusee; infecțiile, leziunile pielii, stresul, fumatul, alcoolul și unele medicamente pot declanșa agravări.
+- Psoriazisul se poate asocia cu artrita psoriazică și cu alte boli, nu doar cu probleme ale pielii.
+- Tratamentul începe de obicei cu creme; fototerapia și medicamentele sistemice sunt pentru formele mai extinse.
 
-## Ce este psoriazisul
+## Cum arată și unde apare
 
-În mod normal, celulele pielii se reînnoiesc în aproximativ o lună. În psoriazis, semnalele inflamatorii transmise de anumite celule ale sistemului imunitar accelerează acest proces la câteva zile. Celulele noi se adună la suprafață și formează plăci groase, cu scuame.
+Plăcile tipice apar pe coate, genunchi, scalp și în zona lombară. Sunt ușor reliefate, au margini nete și, la frecare, se desprind scuame fine, albicioase. De multe ori mănâncă; unele persoane descriu usturime sau senzația de piele întinsă, care crapă.
 
-Psoriazisul are o puternică componentă genetică: riscul este mai mare dacă o rudă apropiată are boala. Pentru ca boala să apară, sunt însă necesari și factori declanșatori din mediu. Poate începe la orice vârstă, cel mai des la adultul tânăr.
+Psoriazisul are însă mai multe fețe. Pe scalp poate depăși linia părului spre frunte și după urechi, ceea ce îl deosebește de mătreața obișnuită. Când plăcile apar în zona sprâncenelor, a nasului și pe scalp, dermatologii vorbesc uneori de „sebopsoriazis”, o formă de graniță cu [dermatita seboreică](/blog/dermatita-seboreica/). În pliuri (axile, sub sâni, zona inghinală) plăcile sunt netede și lucioase, aproape fără scuame; aceasta este forma inversată.
 
-### Formele de psoriazis
+Forma în picături (gutată) arată altfel: zeci de pete mici, rotunde, apărute brusc pe trunchi și membre, frecvent la copii și tineri, după o infecție în gât cu streptococ. Ea se poate retrage după câteva luni. Unghiile pot avea mici depresiuni, ca un degetar, pete gălbui sau se pot dezlipi de pat, modificări ușor de confundat cu [micoza unghiilor](/blog/micoza-unghiilor/). Mai rare sunt formele pustuloase, cu bubițe sterile cu puroi pe palme și tălpi, și forma eritrodermică, în care roșeața cuprinde aproape tot corpul.
 
-| Formă | Cum arată | Unde apare |
-|---|---|---|
-| În plăci (vulgar) | Plăci roșii, bine delimitate, cu scuame argintii | Coate, genunchi, scalp, zona lombară |
-| În picături (gutat) | Multe leziuni mici, rotunde, apărute brusc | Trunchi, membre; adesea după o infecție în gât cu streptococ |
-| Inversat | Plăci roșii, lucioase, fără scuame | Pliuri: axile, sub sâni, zona inghinală, între fese |
-| Al scalpului | Plăci groase cu scuame, uneori depășesc linia părului | Scalp, după urechi |
-| Unghial | Mici depresiuni („ca un degetar”), pete gălbui, unghii îngroșate sau dezlipite | Unghiile mâinilor și picioarelor |
-| Pustular | Pustule sterile pe fond roșu | Palme și tălpi sau, rar, generalizat |
-| Eritrodermic | Roșeață pe aproape toată suprafața corpului | Generalizat — urgență medicală |
+## De ce apare
 
-Pe pielea închisă la culoare, plăcile pot avea o nuanță violacee sau maronie, iar roșeața este mai puțin evidentă.
+Psoriazisul are o componentă genetică puternică. DermNet notează că aproximativ o treime dintre pacienți au o rudă cu aceeași boală. Moștenirea unei predispoziții nu înseamnă însă că boala va apărea: de obicei este nevoie și de un factor declanșator.
+
+Poate începe la orice vârstă, dar există două perioade în care debutul este mai frecvent: între 15 și 25 de ani și între 50 și 60 de ani.
+
+## Factorii care pot declanșa un puseu
+
+Academia Americană de Dermatologie (AAD) insistă asupra unui lucru: factorii declanșatori diferă de la o persoană la alta, iar cunoașterea propriilor factori poate rări puseele. Cei mai des întâlniți sunt:
+
+- **Leziunile pielii.** O zgârietură, o arsură solară, o înțepătură de insectă, un tatuaj sau o tăietură de la ras pot fi urmate, la 10–14 zile, de o placă nouă exact în acel loc. Fenomenul se numește Koebner.
+- **Infecțiile.** Un puseu poate apărea la 2–6 săptămâni după o angină, o otită sau o bronșită, mai ales la copii.
+- **Unele medicamente**, între care litiul, unele antimalarice, anumite medicamente pentru tensiune și ritmul inimii și oprirea bruscă a corticosteroizilor. Puseul apare de obicei la 2–3 săptămâni de la începerea tratamentului. Niciun medicament nu se oprește însă din proprie inițiativă; întrebarea se adresează medicului care l-a prescris.
+- **Alcoolul și fumatul.** Consumul zilnic de alcool poate face tratamentele mai puțin eficiente, iar cu unele medicamente, cum este metotrexatul, alcoolul devine periculos.
+- **Stresul.**
+- **Vremea rece și uscată**, dar și arsurile solare și aerul condiționat.
+
+Excesul de greutate este și el asociat cu forme mai severe.
+
+## Mai mult decât o problemă a pielii
+
+Inflamația din psoriazis nu rămâne strict în piele. Cea mai cunoscută complicație este artrita psoriazică: dureri, umflături sau rigiditate a articulațiilor (mai ales dimineața), degete umflate în întregime sau dureri de călcâi și de spate. Studiile citate de AAD arată că ea rămâne adesea nediagnosticată, motiv pentru care merită semnalată din timp.
+
+Psoriazisul, mai ales cel moderat sau sever, se asociază și cu diabetul, cu ficatul gras nealcoolic, cu boli de rinichi, cu inflamații oculare (uveita) și cu boala Crohn. DermNet îl descrie ca factor de risc independent pentru bolile cardiovasculare și menționează frecvența crescută a sindromului metabolic (greutate în exces, tensiune mare, colesterol crescut, rezistență la insulină). Practic, aceasta înseamnă controale regulate la medicul de familie pentru tensiune, glicemie și colesterol.
+
+Boala poate afecta și starea emoțională, somnul și viața socială. Sprijinul psihologic face parte, firesc, din îngrijire.
 
 ## Cum se pune diagnosticul
 
-În cele mai multe cazuri, dermatologul recunoaște psoriazisul după aspectul plăcilor, localizarea lor și modificările unghiilor. Medicul te va întreba și despre istoricul familial, despre durerile articulare și despre medicamentele pe care le iei. Când aspectul nu este tipic, se poate face o biopsie cutanată, adică prelevarea unui fragment mic de piele, sub anestezie locală, pentru analiză la microscop. Pentru a alege tratamentul, medicul evaluează și severitatea: ce suprafață a corpului este afectată, cât de groase și de roșii sunt plăcile și cât de mult îți afectează boala viața de zi cu zi.
+Dermatologul recunoaște psoriazisul, de cele mai multe ori, după aspectul plăcilor, localizare și modificările unghiilor. Când imaginea nu este tipică, se poate face o biopsie: un fragment mic de piele, prelevat sub anestezie locală și analizat la microscop.
 
-## Ce declanșează sau agravează psoriazisul
+Confuziile cele mai frecvente sunt cu eczema (vedeți și articolul despre [dermatita atopică](/blog/dermatita-atopica/)), cu micozele pielii și cu dermatita seboreică. Pentru alegerea tratamentului, medicul evaluează și severitatea: ce suprafață este afectată, cât de groase și de inflamate sunt plăcile și cât de mult influențează boala viața de zi cu zi. După DermNet, aproximativ 60% dintre pacienți au o formă ușoară.
 
-- **Infecțiile**, mai ales cele cu streptococ în gât (tipic pentru psoriazisul în picături).
-- **Leziunile pielii**: zgârieturi, tatuaje, arsuri, frecare. Plăcile pot apărea exact pe locul traumatismului (fenomenul Koebner).
-- **Stresul psihic.**
-- **Fumatul și consumul de alcool.**
-- **Excesul de greutate.**
-- **Unele medicamente**, de exemplu litiul, unele beta-blocante sau antimalaricele. Nu întrerupe niciun tratament fără acordul medicului care ți l-a prescris.
-- **Oprirea bruscă a corticosteroizilor administrați pe cale generală**, care poate provoca pusee severe.
-- **Aerul rece și uscat** (multe persoane se simt mai bine vara).
+## Cum se alege tratamentul
 
-## Psoriazisul și restul organismului
+Nu există un tratament unic pentru psoriazis. Medicul ține cont de întindere, de zonele afectate (fața, scalpul, palmele, unghiile și zona genitală cântăresc mult, chiar dacă sunt mici), de prezența artritei, de alte boli, de vârstă și de eventualele planuri de sarcină. Tratamentul se poate schimba de-a lungul vieții.
 
-Inflamația din psoriazis nu rămâne doar în piele. Ghidurile recomandă ca persoanele cu psoriazis, mai ales cu forme moderate sau severe, să fie atente la:
+### Când boala este limitată
 
-- **Artrita psoriazică** — dureri, umflături, rigiditate matinală a articulațiilor, degete umflate „ca un cârnăcior”, dureri de călcâi sau de spate. Diagnosticul precoce, împreună cu medicul reumatolog, previne afectarea permanentă a articulațiilor.
-- **Riscul cardiovascular și metabolic** — tensiune arterială, colesterol, glicemie, greutate. Merită verificate regulat împreună cu medicul de familie.
-- **Sănătatea emoțională** — anxietatea și depresia sunt mai frecvente. Să ceri ajutor face parte din tratament.
-
-## Cum se tratează psoriazisul
-
-Tratamentul se alege în funcție de suprafața afectată, de zonele implicate (față, scalp, palme, unghii, zona genitală au un impact mare chiar dacă sunt mici), de prezența artritei, de alte boli și de planurile de sarcină.
-
-### Tratamente locale (pentru formele ușoare)
-
-- **Corticosteroizii topici**, de diferite potențe, aleși de medic în funcție de zonă.
-- **Analogii de vitamina D** (de exemplu calcipotriol), singuri sau în combinație cu un corticosteroid; combinația este unul dintre tratamentele locale cele mai folosite.
-- **Inhibitorii de calcineurină topici**, folosiți uneori pe față și în pliuri.
-- **Keratoliticele**, de exemplu acidul salicilic, care înmoaie scuamele groase, mai ales pe scalp, ca tratamentele să pătrundă mai bine.
-- **Șampoanele medicinale** pentru psoriazisul scalpului.
+Majoritatea persoanelor încep cu tratamente aplicate pe piele: corticosteroizi topici de diferite potențe, analogi de vitamina D (care subțiază plăcile și reduc scuamele), adesea combinați între ei, inhibitori de calcineurină pentru față și pliuri, retinoizi topici sau produse cu gudron. Pe scalp se folosesc loțiuni, spume și șampoane medicinale, uneori după înmuierea scuamelor.
 
 Corticosteroizii puternici nu se folosesc pe termen lung fără supraveghere, mai ales pe față și în pliuri.
 
 ### Fototerapia
 
-Fototerapia cu ultraviolete B cu bandă îngustă, făcută de mai multe ori pe săptămână într-un centru specializat, este eficientă în psoriazisul extins. Plaja sau solarul nu sunt un înlocuitor și cresc riscul de cancer de piele.
+Fototerapia cu ultraviolete B cu bandă îngustă se face într-un centru dotat, de mai multe ori pe săptămână, și este o opțiune pentru psoriazisul extins sau când cremele nu sunt suficiente. Plaja și solarul nu o înlocuiesc. Arsurile solare pot chiar declanșa plăci noi.
 
-### Tratamente sistemice (pentru formele moderate și severe)
+### Tratamentele sistemice
 
-Medicul dermatolog poate recomanda:
+Pentru formele moderate și severe sau când este prezentă artrita psoriazică, medicul dermatolog poate recomanda medicamente care acționează în tot organismul: metotrexat, ciclosporină, acitretin, apremilast sau medicamente biologice injectabile, care blochează mesageri specifici ai inflamației. Fiecare are avantaje, contraindicații și cerințe de monitorizare proprii, inclusiv analize înainte de început și pe parcurs. Unele, precum acitretinul și metotrexatul, nu sunt compatibile cu sarcina, motiv pentru care planurile de familie se discută din timp. Corticosteroizii pe cale orală se evită, de regulă, în psoriazis. Condițiile de acces la terapiile biologice în România se stabilesc prin protocoale naționale. [TODO: de confirmat de medic — protocolul actual de acces la terapiile biologice în România]
 
-- **Medicamente clasice administrate oral**: metotrexat, ciclosporină, acitretin. Acitretinul provoacă malformații la făt, iar sarcina trebuie evitată atât în timpul tratamentului, cât și o perioadă lungă după oprirea lui. Metotrexatul este, de asemenea, contraindicat în sarcină.
-- **Molecule mici administrate oral**, de exemplu apremilast, deucravacitinib sau fumarații.
-- **Medicamente biologice** injectabile, care blochează mesageri specifici ai inflamației (anti-TNF, anti-IL-17, anti-IL-23, anti-IL-12/23). Au transformat tratamentul psoriazisului moderat și sever, iar la multe persoane pielea devine curată sau aproape curată.
+## Ce ajută în viața de zi cu zi
 
-Toate tratamentele sistemice necesită analize înainte de început (inclusiv screening pentru infecții precum tuberculoza sau hepatitele, pentru unele dintre ele) și monitorizare regulată. Condițiile de acces la terapiile biologice în România se stabilesc prin protocoale naționale [TODO: verifică].
+Emolientele groase, fără parfum, aplicate după un duș scurt și călduț, reduc uscăciunea, mâncărimea și scuamele. Smulgerea scuamelor sau frecarea plăcilor irită pielea și, prin efectul Koebner, poate prelungi problema. Iarna, un umidificator și hainele care protejează de frig pot face diferența.
 
-### Psoriazisul și sarcina
+Renunțarea la fumat, limitarea alcoolului, mișcarea regulată și o greutate sănătoasă sunt recomandate atât pentru piele, cât și pentru riscurile asociate. Nu există o dietă care să vindece psoriazisul.
 
-Dacă plănuiești o sarcină, discută din timp cu dermatologul. Unele tratamente trebuie oprite cu mult timp înainte de concepție, altele pot fi continuate sau înlocuite cu opțiuni mai sigure. Emolientele, unele tratamente locale și fototerapia cu UVB sunt folosite frecvent în sarcină, cu acordul medicului.
+Tratamentul continuat și în perioadele bune, așa cum l-a stabilit medicul, previne de multe ori recăderile.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Ce poate clarifica un consult
 
-## Ce poți face acasă
+O evaluare dermatologică poate confirma dacă plăcile sunt psoriazis sau altă afecțiune, poate stabili severitatea și poate căuta semnele de artrită care altfel trec neobservate. Pe baza acestor informații se discută un tratament potrivit pentru zonele afectate și pentru etapa de viață a fiecăruia, cu așteptări realiste: scopul este controlul bolii, nu vindecarea.
 
-- **Hidratează pielea zilnic** cu emoliente groase, fără parfum; reduc uscăciunea, mâncărimea și scuamele.
-- **Fă baie sau duș cu apă călduță** și evită frecarea plăcilor sau smulgerea scuamelor.
-- **Renunță la fumat** și limitează alcoolul.
-- **Menține o greutate sănătoasă** și mișcă-te regulat.
-- **Protejează pielea de traumatisme** (zgârieturi, arsuri solare), care pot declanșa plăci noi.
-- **Ai grijă de somn și de stres**; tehnicile de relaxare sau sprijinul psihologic pot ajuta.
-- **Urmează tratamentul și în perioadele bune**, așa cum ți-a recomandat medicul.
+## Când poate fi util un consult dermatologic?
 
-O expunere moderată la soare ajută pe unii pacienți, dar arsurile solare agravează psoriazisul. Protecția solară rămâne importantă — vezi [SPF pe scurt](/blog/spf-pe-scurt/).
+- aveți plăci cu scuame și nu știți ce sunt;
+- tratamentul folosit nu mai controlează plăcile sau vă produce efecte adverse;
+- sunt afectate fața, scalpul, palmele, tălpile, unghiile sau zona genitală;
+- aveți dureri, umflături sau rigiditate articulară care revin;
+- boala vă afectează somnul, munca sau starea emoțională;
+- plănuiți o sarcină și urmați un tratament sistemic.
 
-## Mituri frecvente
+Solicitați ajutor medical de urgență dacă pielea devine roșie pe aproape tot corpul, dacă apar rapid numeroase bubițe cu puroi sau dacă acestea sunt însoțite de febră, frisoane ori stare generală alterată. Mai multe repere generale găsiți în ghidul [când merită să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
 
-- **„Psoriazisul se ia.”** Fals. Nu este contagios.
-- **„Este doar o problemă estetică.”** Fals. Este o boală inflamatorie sistemică, cu impact asupra articulațiilor, inimii și stării emoționale.
-- **„O dietă specială vindecă psoriazisul.”** Nu există dovezi. Scăderea în greutate la persoanele supraponderale poate însă ameliora boala.
-- **„Cu psoriazis nu se mai poate face nimic.”** Fals. Opțiunile de tratament sunt astăzi foarte variate și eficiente.
+Psoriazisul este o boală de lungă durată, dar nu una în fața căreia nu se poate face nimic. Înțelegerea formei, a factorilor declanșatori și a bolilor asociate face tratamentul mai eficient și mai sigur.
 
-## Când să mergi la dermatolog
+## Dacă doriți o evaluare individuală
 
-Programează o consultație dacă:
+Dacă doriți să clarificați natura unor plăci persistente sau să discutați opțiunile de tratament potrivite situației dumneavoastră, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Detaliile despre [program și locații](/program/) sunt pe site.
 
-- ai plăci cu scuame și nu știi sigur ce sunt (psoriazisul poate fi confundat cu eczema, micozele sau [dermatita seboreică](/blog/dermatita-seboreica/));
-- tratamentul local nu mai controlează boala;
-- psoriazisul îți afectează **fața, scalpul, palmele, tălpile, unghiile sau zona genitală**;
-- ai **dureri, umflături sau rigiditate articulară**;
-- boala îți afectează somnul, munca, relațiile sau starea emoțională;
-- plănuiești o sarcină și urmezi un tratament sistemic.
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
 
-**Mergi de urgență la medic** dacă:
-
-- pielea devine **roșie pe aproape tot corpul**, cu frisoane, febră sau stare generală alterată;
-- apar brusc **numeroase pustule**, mai ales cu febră.
-
-Dacă vrei să știi la ce să te aștepți la consultație, citește [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+- Obiectiv editorial: educare de bază și intermediară: ce este psoriazisul, formele, factorii declanșatori, bolile asociate și logica alegerii tratamentului; recunoașterea momentului potrivit pentru consult.
+- Afirmații de confirmat clinic: contraindicarea în sarcină pentru acitretin și metotrexat (sursele AAD consultate le numesc „medicamente puternice”, fără detalii despre sarcină); afirmația că corticosteroizii orali se evită (DermNet); lista de boli asociate (AAD: diabet, ficat gras, rinichi, uveită, Crohn; DermNet: cardiovascular, sindrom metabolic).
+- Informații lipsă / de completat: protocolul de acces la terapiile biologice în România (marcat inline); eventual asociații de pacienți din România.
+- Surse care nu au putut fi verificate: ghidul NICE CG153 (acces blocat, HTTP 403), raportul OMS 2016, ghidurile EuroGuiDerm și AAD–NPF din versiunea anterioară nu au fost deschise și au fost scoase din surse; cifra OMS „peste 100 de milioane” a fost eliminată.

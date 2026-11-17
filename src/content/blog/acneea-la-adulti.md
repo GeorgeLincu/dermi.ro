@@ -1,139 +1,137 @@
 ---
-title: "Acneea la adulți: cauze, tratamente și când mergi la dermatolog"
-description: "De ce apare acneea după 25 de ani, ce tratamente au dovezi, ce poți face acasă și când e momentul să mergi la dermatolog."
+title: "Acneea la adulți: de ce apare după 25 de ani și ce se poate face"
+description: "Acneea la adulți are particularități proprii. Aflați ce o poate întreține, cum arată, ce opțiuni de tratament există și când ajută un consult."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["acnee", "adulți", "tratament", "hormoni"]
+tags: ["acnee", "adulți", "hormoni", "tratament acnee"]
 draft: true
 faq:
-  - q: "Acneea la adulți trece singură?"
-    a: "Uneori se ameliorează cu timpul, dar acneea la adulți are adesea o evoluție lungă, cu perioade mai bune și mai rele. Un tratament potrivit, început devreme, reduce leziunile și riscul de cicatrici."
-  - q: "De ce am acnee pe bărbie și pe linia maxilarului?"
-    a: "La femeile adulte, acneea apare frecvent în treimea inferioară a feței și poate fi influențată de sensibilitatea pielii la hormonii androgeni. Dacă ai și ciclu neregulat, păr în exces sau cădere de păr, medicul poate recomanda investigații hormonale."
-  - q: "Ce tratament pentru acnee pot folosi în sarcină?"
-    a: "Unele tratamente pentru acnee, precum retinoizii orali și topici sau anumite antibiotice, nu se folosesc în sarcină. Discută cu medicul dermatolog sau cu medicul obstetrician înainte de a începe orice tratament."
-  - q: "Cât durează până se vede efectul tratamentului pentru acnee?"
-    a: "De obicei sunt necesare 8–12 săptămâni de utilizare constantă pentru a evalua corect un tratament. Primele săptămâni pot aduce iritație ușoară, iar rezultatele apar treptat."
+  - q: "De la ce vârstă se vorbește despre acnee la adulți?"
+    a: "Dermatologii vorbesc despre acneea adultului când leziunile persistă sau apar după vârsta de 25 de ani. Ea poate continua din adolescență sau poate apărea pentru prima dată la vârsta adultă."
+  - q: "De ce apare acneea mai ales pe bărbie și pe linia maxilarului?"
+    a: "La femeile adulte, leziunile inflamatorii apar frecvent pe linia maxilarului și pe gât și se pot accentua înainte de menstruație, ceea ce sugerează o influență hormonală. Localizarea, singură, nu stabilește cauza; medicul o interpretează împreună cu restul istoricului."
+  - q: "În cât timp se vede efectul unui tratament pentru acnee?"
+    a: "Potrivit Academiei Americane de Dermatologie, un tratament folosit corect reduce de obicei numărul leziunilor în 4–8 săptămâni, iar o ameliorare clară poate cere în jur de 16 săptămâni. Răspunsul diferă de la o persoană la alta."
+  - q: "Se poate trata acneea în timpul sarcinii?"
+    a: "Unele tratamente pentru acnee nu se folosesc în sarcină, iar pentru altele informațiile sunt limitate. Înainte de a folosi orice produs, discutați cu medicul dermatolog sau cu medicul obstetrician."
 sources:
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "American Academy of Dermatology (Journal of the American Academy of Dermatology, 2024)"
-  - title: "EuroGuiDerm Guideline for the Treatment of Acne"
-    publisher: "European Dermatology Forum / EuroGuiDerm"
-  - title: "Acne vulgaris: management (NG198)"
-    publisher: "National Institute for Health and Care Excellence (NICE, 2021)"
-    url: "https://www.nice.org.uk/guidance/ng198"
+  - title: "Adult acne"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/really-acne/adult-acne"
+  - title: "Adult acne treatment dermatologists recommend"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/diy/adult-acne-treatment"
+  - title: "Stubborn acne? Hormonal therapy may help"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/hormonal-therapy"
+  - title: "Is any acne treatment safe to use during pregnancy?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/pregnancy"
+  - title: "Adult acne"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/adult-acne"
   - title: "Acne"
-    publisher: "DermNet (Noua Zeelandă)"
-    url: "https://dermnetnz.org/topics/acne"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/conditions/acne/"
 ---
 
-Acneea la adulți înseamnă coșuri, puncte negre sau noduli dureroși care apar sau persistă după vârsta de 25 de ani. Este mai frecventă la femei, apare adesea pe bărbie și pe linia maxilarului și este influențată de hormoni, de predispoziția genetică, de produsele cosmetice și de unele medicamente. Vestea bună este că există tratamente eficiente, iar un dermatolog te poate ajuta să alegi combinația potrivită pentru pielea ta.
+Pentru mulți oameni, acneea rămâne asociată cu liceul. De aceea surprinde când, după 30 de ani, pe bărbie sau pe linia maxilarului apar din nou coșuri care durează săptămâni, uneori în același loc, lună de lună. Alții nu au scăpat de ele de la adolescență încoace și au ajuns să le considere „felul pielii lor”.
 
-## Pe scurt
+Acneea la adulți este o situație frecventă, mai ales la femei. Ea poate continua din adolescență sau poate apărea pentru prima dată după 25 de ani, iar în apariția ei contează variațiile hormonale, predispoziția familială, unele produse cosmetice și unele medicamente. Există tratamente eficiente, însă alegerea lor ține cont de lucruri care la 16 ani nu contau: o sarcină dorită sau în curs, o piele devenită mai sensibilă, alte boli și alte tratamente.
 
-- Acneea nu este doar o problemă a adolescenței: poate continua sau poate apărea pentru prima dată la vârsta adultă.
-- La femei, leziunile apar frecvent pe bărbie, maxilar și gât și se pot accentua înainte de menstruație.
-- Tratamentele cu cele mai bune dovezi sunt retinoizii topici, peroxidul de benzoil, acidul azelaic și, la nevoie, tratamentele orale prescrise de medic.
-- Rezultatele apar după 8–12 săptămâni de utilizare constantă, nu peste noapte.
-- Mergi la dermatolog dacă ai noduli dureroși, cicatrici sau semne de dezechilibru hormonal.
+## Două situații diferite sub același nume
 
-## Ce este acneea la adulți
+Dermatologii folosesc termenul de acnee a adultului (sau acnee postadolescentină) pentru două tablouri. Primul este acneea persistentă: a început în adolescență și nu s-a mai oprit, continuând uneori până după 40 de ani. Al doilea este acneea cu debut tardiv, care apare pentru prima dată după 25 de ani, la o persoană care nu a avut probleme notabile în tinerețe.
 
-Acneea este o afecțiune inflamatorie a foliculului pilosebaceu, adică a „porului” în care se află un fir de păr și o glandă sebacee. Patru mecanisme lucrează împreună:
+Ambele forme sunt mai des raportate la femei. DermNet, resursa dermatologică din Noua Zeelandă, menționează că acneea afectează până la 15% dintre femeile adulte. Academia Americană de Dermatologie (AAD) notează că acneea poate apărea și în jurul menopauzei, nu doar la vârste tinere.
 
-1. **Producția crescută de sebum**, stimulată de hormonii androgeni.
-2. **Blocarea porului** de celule moarte care nu se elimină normal, cu formarea comedoanelor (puncte negre și puncte albe).
-3. **Bacteria *Cutibacterium acnes***, care face parte din flora normală a pielii, dar care întreține inflamația în porul blocat.
-4. **Inflamația**, care transformă comedoanele în papule roșii, pustule și noduli.
+## Cum arată, de obicei, după 25 de ani
 
-Medicii vorbesc de obicei de două situații: acneea **persistentă**, care începe în adolescență și nu mai dispare, și acneea **cu debut tardiv**, care apare pentru prima dată după 25 de ani.
+Mecanismul este același ca la adolescenți: porul (foliculul pilosebaceu, adică firul de păr împreună cu glanda sa sebacee) se blochează cu sebum și celule moarte, iar în interiorul lui se poate declanșa inflamația. Diferă însă tabloul pe care îl vede medicul.
 
-### Cum arată
+La multe femei predomină leziunile inflamatorii: papule (umflături mici, roșii, uneori sensibile la atingere) și pustule (leziuni cu conținut purulent), mai ales pe linia maxilarului și pe gât. La altele predomină comedoanele închise, numeroase și uneori mai mari decât de obicei, pe bărbie, obraji și frunte. Puseurile dinaintea menstruației sunt frecvente, iar multe persoane spun că le deranjează mai ales porii care par dilatați.
 
-La adulți, acneea are câteva particularități:
+De cele mai multe ori, acneea adultului este ușoară sau moderată. Leziunile inflamatorii profunde pot lăsa însă urme și cicatrici, motiv pentru care nu merită tratată ca o problemă exclusiv cosmetică. Despre diferența dintre pete și cicatrici veți găsi detalii în articolul despre [cicatricile post-acnee](/blog/cicatricile-post-acnee/).
 
-- leziunile sunt mai des **inflamatorii** (papule roșii, noduli mici, dureroși) și mai puțin comedoane;
-- apar mai ales în **treimea inferioară a feței**: bărbie, maxilar, în jurul gurii și pe gât;
-- se pot agrava ciclic, **înainte de menstruație**;
-- pielea poate fi în același timp sensibilă sau uscată, mai ales dacă ai folosit multe produse „anti-acnee” agresive.
+## Ce poate declanșa sau întreține acneea la adulți
 
-## Ce cauzează acneea la vârsta adultă
+Rareori există o singură cauză. De obicei, mai mulți factori se adună.
 
-Nu există o singură cauză. Cel mai des sunt implicați mai mulți factori:
+Hormonii sunt pe primul loc. Variațiile hormonale din jurul menstruației, din sarcină, din perimenopauză și menopauză, precum și începerea sau oprirea contraceptivelor orale pot fi urmate de erupții. Nu înseamnă neapărat că există o boală hormonală: de multe ori pielea reacționează la variații normale.
 
-- **Hormonii.** Nu este neapărat vorba de valori anormale ale hormonilor în sânge; adesea pielea este pur și simplu mai sensibilă la hormonii androgeni normali. Uneori însă acneea face parte dintr-un tablou mai larg, cum este sindromul ovarelor polichistice.
-- **Predispoziția genetică.** Dacă părinții sau frații au avut acnee, riscul este mai mare.
-- **Produse cosmetice sau de păr ocluzive.** Cremele foarte grase, uleiurile sau unele produse de styling pot bloca porii (acnee cosmetică).
-- **Medicamente.** Corticosteroizii, unele tratamente hormonale (de exemplu, cu testosteron sau steroizi anabolizanți), litiul și alte câteva medicamente pot declanșa sau agrava acneea. Nu opri niciodată un tratament fără să vorbești cu medicul care ți l-a prescris.
-- **Frecarea și presiunea** pe piele: masca, casca, telefonul ținut pe obraz, obiceiul de a sprijini bărbia în palmă.
-- **Fumatul**, asociat în unele studii cu acneea cu comedoane la adulți.
-- **Stresul**, care poate agrava acneea, chiar dacă nu o cauzează singur.
+Predispoziția familială contează. Dacă părinții sau frații au avut acnee, mai ales acnee care a lăsat cicatrici, probabilitatea este mai mare.
 
-### Și alimentația?
+Produsele de îngrijire și de păr pot bloca porii. Cremele foarte grase, uleiurile pentru păr sau produsele de styling care ajung pe frunte sunt exemple obișnuite. AAD recomandă, pentru pielea predispusă la acnee, produse etichetate „non-comedogen”, inclusiv pentru demachiant, cremă hidratantă și protecție solară.
 
-Dovezile sunt modeste. Unele studii sugerează o legătură între dietele bogate în alimente cu indice glicemic mare (dulciuri, produse rafinate) sau consumul de lapte și acnee, dar efectul diferă de la o persoană la alta. Ghidurile actuale nu recomandă diete restrictive pentru tratarea acneei. O alimentație echilibrată ajută sănătatea în general; dacă observi că un anumit aliment îți agravează constant pielea, discută acest lucru cu medicul. Mai multe despre ce este adevărat și ce nu găsești în articolul despre [miturile despre acnee](/blog/mituri-despre-acnee/).
+Unele medicamente au acneea ca efect secundar, de exemplu corticosteroizii sau tratamentele cu hormoni androgeni. Dacă bănuiți o legătură, nu opriți medicamentul pe cont propriu: discutați cu medicul care l-a prescris dacă există o alternativă, iar dacă nu există, acneea poate fi tratată în paralel.
 
-## Cum se tratează acneea la adulți
+Stresul nu pare să provoace singur acneea, dar o poate agrava pe cea existentă. Fumatul a fost asociat în mai multe studii cu acneea cu comedoane la femei.
 
-Tratamentul se alege în funcție de tipul leziunilor, de severitate, de riscul de cicatrici, de dorința unei sarcini și de cum tolerează pielea ta produsele. De cele mai multe ori se combină mai multe substanțe, pentru că acționează pe mecanisme diferite.
+În sfârșit, acneea poate face parte, uneori, dintr-o afecțiune generală nediagnosticată, cum este sindromul ovarelor polichistice. Medicul poate întreba despre regularitatea ciclului menstrual, despre pilozitatea în exces sau căderea părului și, în funcție de răspunsuri, poate recomanda investigații. [TODO: de confirmat de medic — semnele care orientează spre investigații hormonale și ce analize se recomandă de obicei]
 
-### Tratamente locale (aplicate pe piele)
+Alimentația este subiectul celor mai multe întrebări. Dovezile există, dar sunt limitate și diferă de la o persoană la alta; le-am discutat separat în articolul despre [miturile despre acnee](/blog/mituri-despre-acnee/).
 
-| Substanță | Ce face | De reținut |
-|---|---|---|
-| Retinoizi topici (de exemplu adapalen, tretinoin) | Deblochează porii, previn comedoanele, reduc inflamația | Pot irita la început; nu se folosesc în sarcină |
-| Peroxid de benzoil | Reduce bacteriile și inflamația, nu induce rezistență bacteriană | Poate decolora textilele; poate usca pielea |
-| Acid azelaic | Antiinflamator, antibacterian, ajută și petele rămase după coșuri | Bine tolerat, util pentru pielea sensibilă |
-| Antibiotice topice (de exemplu clindamicină) | Reduc bacteriile și inflamația | Se folosesc doar în combinație cu peroxid de benzoil, pentru a limita rezistența |
+## Nu orice erupție de pe față este acnee
 
-Majoritatea acestor tratamente sunt prescrise sau recomandate de medic. Detalii despre retinoizi și despre acidul azelaic găsești în ghidurile despre [retinol și retinoizi](/blog/retinolul-si-retinoizii/) și despre [acidul azelaic](/blog/acidul-azelaic/).
+La adulți, câteva afecțiuni seamănă cu acneea și se tratează diferit. Rozaceea dă roșeață persistentă pe centrul feței, uneori cu papule și pustule, dar fără comedoane. [Dermatita perorală](/blog/dermatita-perorala/) apare ca papule mici în jurul gurii și al nasului, adesea după folosirea îndelungată a unor creme cu corticosteroizi. [Foliculita](/blog/foliculita/), inflamația foliculilor de păr, poate apărea pe piept, spate sau în zona bărbii, iar forma produsă de o levură numită Malassezia dă coșuri mici, toate la fel, însoțite de mâncărime.
 
-### Tratamente orale (prescrise de medic)
+Diferența contează în practică: unele produse pentru acnee nu ajută în aceste afecțiuni, iar cremele cu corticosteroizi, folosite „să calmeze” pielea, pot agrava dermatita perorală. Distincția se face la examinare, nu după o fotografie sau o descriere.
 
-Pentru acneea moderată sau severă, ori pentru acneea care lasă cicatrici, medicul poate recomanda:
+## Ce opțiuni de tratament există
 
-- **Antibiotice orale din clasa tetraciclinelor**, pe o durată limitată, întotdeauna împreună cu un tratament local, pentru a reduce riscul de rezistență bacteriană.
-- **Contraceptive orale combinate**, la femei, atunci când nu există contraindicații. Sunt evaluate împreună cu medicul ginecolog sau dermatolog.
-- **Spironolactona**, un medicament care blochează efectul androgenilor asupra pielii, folosit la femeile adulte cu acnee influențată hormonal. Necesită evaluare medicală și nu se folosește în sarcină.
-- **Isotretinoinul oral**, pentru acneea severă, nodulară, cu cicatrici sau care nu a răspuns la alte tratamente. Este foarte eficient, dar provoacă malformații grave la făt, așa că la femei se administrează doar în cadrul unui program strict de prevenire a sarcinii, cu teste și monitorizare medicală regulată.
+Dermatologii combină adesea două sau mai multe tratamente, pentru că acestea acționează pe mecanisme diferite. Prezentarea de mai jos este orientativă și nu înlocuiește alegerea făcută împreună cu medicul.
 
-Dozele și durata se stabilesc exclusiv de medic, în funcție de fiecare persoană.
+Pentru acneea ușoară, cu comedoane și papule mici, AAD descrie câteva substanțe disponibile și fără prescripție: adapalenul (un retinoid), peroxidul de benzoil, acidul azelaic și [acidul salicilic](/blog/acidul-salicilic/). Sfatul practic este să alegeți un singur produs potrivit tipului de leziuni, să îl aplicați în strat subțire pe toată zona predispusă, nu doar pe coșurile vizibile, și să îl folosiți 6–8 săptămâni fără să adăugați sau să scoateți alte produse între timp. AAD notează că leziunile se răresc de obicei în 4–8 săptămâni, iar o ameliorare clară poate cere în jur de 16 săptămâni.
 
-### Proceduri
+Pentru acneea moderată sau persistentă, medicul poate recomanda tratamente cu prescripție:
 
-Extracția comedoanelor făcută de un profesionist, peelingurile chimice sau injectarea unui corticosteroid într-un nodul dureros pot completa tratamentul, dar nu îl înlocuiesc. Pentru cicatricile deja formate există tratamente dedicate (de exemplu laser sau microneedling), discutate după ce acneea activă este controlată.
+- retinoizi topici mai puternici și antibiotice topice, acestea din urmă folosite în asociere, nu singure;
+- antibiotice orale din familia tetraciclinelor, pentru o perioadă limitată;
+- la femei, anumite contraceptive orale combinate, după evaluarea riscurilor individuale; efectul asupra acneei apare, potrivit AAD, în aproximativ 2–3 luni;
+- spironolactona, un medicament care reduce efectul hormonilor androgeni asupra pielii, folosit doar la femei; necesită analize de sânge la început și contracepție sigură pe toată durata tratamentului;
+- izotretinoinul oral, pentru acneea severă, nodulară sau care lasă cicatrici; este interzis în sarcină și se administrează doar cu monitorizare medicală strictă.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+DermNet subliniază un aspect pe care mulți îl află târziu: tratamentele locale controlează acneea, dar nu o vindecă definitiv, așa că de obicei trebuie continuate și după ce pielea arată bine.
 
-## Ce poți face acasă
+## Particularitățile de care se ține cont la vârsta adultă
 
-Îngrijirea zilnică nu vindecă acneea, dar poate face tratamentul mai eficient și mai ușor de tolerat:
+Sarcina schimbă mult alegerea. Potrivit AAD, izotretinoinul, tazarotenul și spironolactona trebuie evitate, iar majoritatea experților recomandă oprirea retinoizilor topici. Acidul azelaic și acidul salicilic folosit pe perioade limitate sunt considerate, în general, mai sigure, însă AAD recunoaște că informațiile sunt puține și recomandă discuția cu medicul înainte de orice tratament. Același lucru este valabil când plănuiți o sarcină.
 
-- **Curăță pielea blând**, de două ori pe zi, cu un produs fără săpun agresiv. Frecatul puternic și scruburile cu granule agravează inflamația.
-- **Hidratează.** Multe tratamente pentru acnee usucă pielea. O cremă ușoară, non-comedogenă, ajută la toleranță. Vezi [cum alegi crema hidratantă potrivită](/blog/cum-alegi-crema-hidratanta-potrivita/).
-- **Folosește protecție solară zilnic**, mai ales dacă folosești retinoizi sau acizi, care fac pielea mai sensibilă la soare.
-- **Alege produse etichetate „non-comedogenic”** pentru machiaj și îngrijire și demachiază-te în fiecare seară.
-- **Nu stoarce coșurile.** Crește riscul de pete și de cicatrici.
-- **Folosește tratamentul constant.** Schimbarea produselor la fiecare câteva zile nu lasă timp niciunui tratament să funcționeze.
-- **Spală regulat** fețele de pernă, prosoapele și pensulele de machiaj.
+Pielea adultă este adesea mai uscată sau mai reactivă, mai ales după ani de produse „anti-acnee” aplicate prin încercări. O piele iritată tolerează mai greu tratamentul, de aceea medicul ține cont și de rutina de îngrijire, nu doar de leziuni.
 
-## Mituri frecvente
+Mai contează celelalte boli și medicamente, preferințele legate de machiaj și de timp, precum și impactul emoțional. NHS menționează explicit că acneea poate contribui la anxietate și la scăderea stimei de sine; este un motiv legitim de a cere ajutor.
 
-- **„Acneea apare din cauza murdăriei.”** Fals. Acneea pornește din interiorul porului, nu de la o piele nespălată. Spălatul excesiv poate chiar irita pielea.
-- **„Soarele usucă acneea.”** Efectul este temporar, iar expunerea la soare poate accentua petele lăsate de coșuri.
-- **„Dacă am acnee, nu am voie să mă hidratez.”** Fals. Pielea cu acnee are nevoie de hidratare, mai ales în timpul tratamentului.
-- **„Pasta de dinți pe coș ajută.”** Nu există dovezi, iar iritația poate agrava leziunea.
+## Ce poate clarifica o evaluare dermatologică
 
-## Când să mergi la dermatolog
+Informațiile generale ajută să înțelegeți fenomenul, dar nu pot stabili ce anume se întâmplă pe pielea dumneavoastră. La consultație, medicul examinează tipul și localizarea leziunilor, verifică dacă este într-adevăr acnee sau o afecțiune asemănătoare, întreabă despre produsele folosite, medicamente, ciclu menstrual și planuri de sarcină și apreciază riscul de cicatrici.
 
-Programează o consultație dacă:
+Pe baza acestora se poate discuta un plan realist: ce tratament are sens, cât timp trebuie urmat înainte de a fi judecat, ce efecte secundare sunt de așteptat și cum se menține rezultatul. O consultație nu garantează un anumit rezultat, iar uneori sunt necesare ajustări pe parcurs. Câștigul principal este că deciziile se iau pe baza unei examinări, nu a încercărilor succesive.
 
-- ai **noduli sau chisturi** dureroase, adânci;
-- acneea **lasă cicatrici** sau pete închise la culoare care persistă;
-- după **2–3 luni** de îngrijire corectă și produse fără prescripție nu vezi o ameliorare;
-- acneea a apărut brusc, la vârstă adultă, împreună cu **ciclu menstrual neregulat, păr în exces pe față sau corp, cădere de păr** ori creștere în greutate — pot fi semne de dezechilibru hormonal care merită investigat;
-- acneea a apărut după ce ai început **un medicament nou**;
-- ești **însărcinată sau plănuiești o sarcină** și ai nevoie de un tratament sigur;
-- acneea îți afectează starea emoțională, încrederea în tine sau viața socială.
+## Când poate fi util un consult dermatologic?
 
-Dacă nu știi ce să aștepți de la o consultație, citește și [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+O evaluare poate fi utilă mai ales în situațiile următoare:
+
+- apar noduli profunzi, dureroși, care pot lăsa cicatrici;
+- rămân pete închise la culoare sau adâncituri după ce coșurile se vindecă;
+- după câteva luni de îngrijire corectă și produse fără prescripție nu observați o ameliorare;
+- erupția a apărut după începerea unui medicament nou;
+- acneea a apărut brusc la vârsta adultă, împreună cu tulburări ale ciclului menstrual, pilozitate în exces sau cădere a părului;
+- sunteți însărcinată, alăptați sau plănuiți o sarcină;
+- pielea din jurul unei leziuni devine caldă, umflată și dureroasă;
+- nu sunteți sigur că este vorba de acnee;
+- acneea vă afectează starea emoțională sau viața socială.
+
+Niciuna dintre aceste situații nu indică, singură, un diagnostic. Ele arată doar momentele în care examinarea aduce mai mult decât informația generală.
+
+Acneea care persistă sau apare după 25 de ani nu este o rămășiță neînsemnată a adolescenței și nici un semn de neglijență. Are cauze proprii, se poate controla în majoritatea cazurilor și se tratează mai ușor când alegerea ține cont de întregul context al persoanei.
+
+## Dacă doriți o evaluare individuală
+
+Dacă doriți să înțelegeți ce întreține acneea în cazul dumneavoastră și ce opțiuni sunt potrivite, inclusiv în contextul unei sarcini sau al altor tratamente, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile aici](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare și recunoașterea momentului potrivit pentru consult; articolul de bază al seriei „Acneea și exfolierea” (miturile, cicatricile, acidul salicilic, dermatita perorală și foliculita sunt tratate în articole separate, cu linkuri).
+- Afirmații de confirmat clinic: cifra „până la 15% dintre femei” (DermNet); intervalele de timp ale AAD (4–8 săptămâni, aproximativ 16 săptămâni; 2–3 luni pentru contraceptive); lista din sarcină preluată de la AAD; formularea despre spironolactonă (doar la femei, analize la început, contracepție); descrierea pe scurt a rozaceei („roșeață persistentă, fără comedoane”), care nu provine dintr-o sursă deschisă în această revizie.
+- Informații lipsă / de completat: semnele care orientează spre investigații hormonale și analizele recomandate uzual (marcat în text); eventuală observație din practică, dacă doriți.
+- Surse care nu au putut fi verificate: ghidurile JAAD 2024, EuroGuiDerm și NICE NG198 din versiunea anterioară nu au fost redeschise în această revizie și au fost scoase din listă; afirmațiile din text se sprijină pe paginile AAD, DermNet și NHS listate.

@@ -5,7 +5,8 @@ Last updated: 2026-10-24. Update this file whenever something changes. Backlog w
 ## Snapshot
 
 - **Live** at https://dermi.ro on the Cloudflare Worker `dermi`; Site monitor (hourly) green.
-- **0 articles published, 43 drafts** + 1 test draft (`testingarticle` — delete it from the vault).
+- **0 articles published, 63 drafts** (43 rewritten + 20 new on 2026-11-17 after the editorial prompt
+  `docs/PROMPT-ARTICOLE.txt`; review checklist `docs/REVIEW-ARTICOLE.md`) + 1 test draft (`testingarticle` — delete it from the vault).
   The homepage shows "Primele articole sunt în pregătire" until the doctor publishes.
 - Vault at https://dermi.ro/vault/ works end to end (login, files, share links, article editor, publishing).
 - Contact form and `contact@dermi.ro` deliver to drmadalinalincu@gmail.com (tested by George).

@@ -21,7 +21,8 @@ Rules: read CLAUDE.md first; one small PR per item; never push to main; never in
 
 - **C1 · Owner · Publish the first 5 articles** (acneea-la-adulti, alunite-semne-de-alarma,
   cum-aplici-corect-protectia-solara, dermatita-atopica, caderea-parului-la-femei) after medical review
-  (`docs/REVIEW-ARTICOLE.md`); then 2 per month. Delete the `testingarticle` draft from the vault.
+  (`docs/REVIEW-ARTICOLE.md`: resolve inline `[TODO: de confirmat de medic`, delete the „Notă pentru medic”
+  section); then 2 per month. When a direct booking URL exists, replace `](/program/)` in all article CTAs. Delete the `testingarticle` draft from the vault.
 - **C2 · Claude · `reviewedDate` field**: add optional `reviewedDate` to the schema (src/content.config.ts +
   worker/posts.ts validate/serialize + vault UI), render "Revizuit medical la …", JSON-LD `lastReviewed` +
   `reviewedBy` (personRef). Only when the doctor actually reviewed.

@@ -1,159 +1,137 @@
 ---
-title: "Herpesul labial: cauze, tratament și cum previi recidivele"
-description: "De ce reapare herpesul pe buză, cât timp este contagios, ce tratamente funcționează și când ai nevoie de un dermatolog."
+title: "Herpesul labial: de ce revine, cât este contagios și ce ajută"
+description: "De ce reapare herpesul labial, cât timp este contagios, ce ajută la un episod și în ce situații este bine să cereți părerea unui medic."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["herpes", "buze", "infecții virale", "tratament"]
+tags: ["herpes labial", "infecții virale", "buze"]
 draft: true
 faq:
   - q: "Cât timp este contagios herpesul labial?"
-    a: "Riscul cel mai mare de transmitere este de la primele furnicături până când leziunea s-a acoperit complet cu crustă și s-a vindecat. Virusul se poate elimina ocazional și fără leziuni vizibile, dar în cantitate mult mai mică."
+    a: "Riscul de transmitere există de la primele furnicături până la vindecarea completă a leziunii, fiind cel mai mare cât timp există bășicuțe și răni deschise. Virusul se poate transmite ocazional și de pe pielea care arată normal, dar riscul este mai mic."
   - q: "Herpesul labial trece singur?"
-    a: "Da, la majoritatea oamenilor sănătoși un episod se vindecă singur în aproximativ 7–10 zile. Tratamentul antiviral poate scurta episodul și reduce disconfortul, mai ales dacă este început devreme."
-  - q: "Pot scăpa definitiv de virusul herpetic?"
-    a: "Nu. După prima infecție, virusul rămâne inactiv în nervi toată viața. Tratamentele controlează episoadele și pot reduce frecvența lor, dar nu elimină virusul din organism."
-  - q: "Pot săruta un bebeluș dacă am herpes pe buză?"
-    a: "Nu. Nou-născuții și sugarii mici pot face forme grave de infecție herpetică. Evită sărutul și contactul direct până la vindecarea completă și spală-te des pe mâini."
-  - q: "Ajută pasta de dinți sau alcoolul pe herpes?"
-    a: "Nu există dovezi că ar ajuta, iar ambele pot irita pielea și întârzia vindecarea. Este mai util un tratament antiviral început devreme și protejarea zonei."
+    a: "La persoanele sănătoase, un episod se vindecă de obicei singur, în aproximativ una până la două săptămâni, de cele mai multe ori fără cicatrice. Tratamentul antiviral început devreme poate scurta episodul și reduce disconfortul."
+  - q: "Se poate elimina definitiv virusul herpetic?"
+    a: "Nu. După prima infecție, virusul rămâne în nervi toată viața. Tratamentele scurtează episoadele și, la nevoie, le pot reduce frecvența, dar nu elimină virusul."
+  - q: "Puteți săruta un bebeluș dacă aveți herpes pe buză?"
+    a: "Nu. La nou-născuți, infecția herpetică poate fi foarte gravă. Evitați sărutul și contactul apropiat cu fața copilului până la vindecarea completă și spălați-vă des pe mâini."
 sources:
-  - title: "Herpes simplex virus – fact sheet"
-    publisher: "Organizația Mondială a Sănătății (OMS)"
-    url: "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus"
-  - title: "Herpes simplex"
-    publisher: "DermNet"
-    url: "https://dermnetnz.org/topics/herpes-simplex"
+  - title: "Cold sores: Signs and symptoms"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/cold-sores-symptoms"
+  - title: "Cold sores: Who gets and causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/cold-sores-causes"
+  - title: "Cold sores: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/cold-sores-treatment"
+  - title: "Cold sores: Should I keep a child with eczema away?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/eczema/childhood/health-concerns/cold-sores"
   - title: "Cold sores"
-    publisher: "NHS (National Health Service, Marea Britanie)"
+    publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/cold-sores/"
-  - title: "Herpes simplex: overview, diagnosis and treatment"
-    publisher: "American Academy of Dermatology"
+  - title: "Herpes simplex virus (fact sheet)"
+    publisher: "Organizația Mondială a Sănătății (accesat 17.11.2026)"
+    url: "https://www.who.int/news-room/fact-sheets/detail/herpes-simplex-virus"
 ---
 
-Herpesul labial („bășica de răceală”) este o infecție a pielii produsă de obicei de virusul herpes simplex tip 1 (HSV-1), care rămâne „ascuns” în nervi după prima infecție și se poate reactiva periodic. Un episod se vindecă de regulă singur în 7–10 zile, dar tratamentul antiviral început la primele furnicături îl poate scurta. Dacă ai episoade foarte dese, leziuni aproape de ochi sau o boală a pielii precum dermatita atopică, merită să vorbești cu un medic.
+Pentru mulți oameni, scenariul e cunoscut: o furnicătură pe marginea buzei cu o zi înaintea unui eveniment important, după o răceală sau după prima zi la schi, apoi câteva bășicuțe dureroase exact în același loc ca data trecută. Herpesul labial este produs, de cele mai multe ori, de virusul herpes simplex tip 1 (HSV-1), care rămâne în nervi după prima infecție și se poate reactiva periodic. La o persoană sănătoasă, un episod se vindecă de obicei singur în una până la două săptămâni; tratamentul antiviral început la primele furnicături îl poate scurta, iar riscul de a transmite virusul durează până la vindecarea completă.
 
-## Pe scurt
+Nu este o boală gravă pentru majoritatea oamenilor, dar este una care se întoarce. Ce o declanșează, cum vă protejați apropiații și în ce situații merită să cereți sfatul unui medic sunt întrebările la care răspunde articolul de față.
 
-- Herpesul labial este produs în special de HSV-1 și este foarte frecvent: potrivit OMS, aproximativ două treimi dintre persoanele sub 50 de ani au fost infectate cu acest virus.
-- Virusul nu dispare din organism, dar episoadele pot fi controlate.
-- Cel mai contagios este în faza de vezicule (bășicuțe), până la vindecarea completă.
-- Tratamentul funcționează cel mai bine dacă este început în primele ore, la apariția furnicăturilor.
-- Herpesul lângă ochi, la nou-născuți sau pe pielea cu eczemă necesită consult medical rapid.
+## Un virus pe care îl poartă majoritatea adulților
 
-## Ce este herpesul labial
+Herpesul labial nu este o infecție rară și nici una legată de lipsa de igienă. Organizația Mondială a Sănătății (OMS) estima că, în 2020, aproximativ 64% dintre oamenii sub 50 de ani aveau infecție cu HSV-1. Cei mai mulți se infectează încă din copilărie, prin contact direct, de exemplu un sărut.
 
-Herpesul labial este o infecție virală care apare, de obicei, pe marginea buzelor sau în jurul lor. Prima infecție are loc adesea în copilărie, prin contact direct (de exemplu un sărut) și poate trece neobservată sau se poate manifesta ca o inflamație a gingiilor și a gurii (gingivostomatită), cu febră și dureri la înghițire.
+Prima infecție trece adesea neobservată. Când dă simptome, mai ales la copii, poate apărea ca o inflamație dureroasă a gurii, cu leziuni pe limbă, gingii și buze, febră, dureri la înghițire și ganglioni măriți, care durează una până la două săptămâni. Adulții infectați pentru prima dată se pot simți ca într-o gripă.
 
-După prima infecție, virusul migrează de-a lungul nervilor și rămâne inactiv într-un ganglion nervos al feței. Din când în când se poate „trezi”, coborî din nou spre piele și produce un nou episod, de obicei în același loc.
+După această primă întâlnire, virusul nu dispare. Se retrage în nervii feței și rămâne acolo inactiv, uneori ani întregi, alteori trezindu-se de câteva ori pe an. Medicamentele de astăzi pot scurta și atenua episoadele, dar nu pot elimina virusul din organism.
 
-Herpesul labial poate fi produs și de HSV-2 (tipul asociat mai des cu herpesul genital), prin contact oral-genital. Pentru herpesul genital, discută cu medicul dermatovenerolog.
+## Cum arată un episod obișnuit
 
-## Cum arată și cum evoluează un episod
+Academia Americană de Dermatologie (AAD) descrie patru etape, utile pentru a ști ce urmează:
 
-Un episod tipic trece prin câteva etape:
+1. **Semnele de avertizare.** Cu o zi sau două înainte, pielea poate furnica, ustura, mânca, pulsa sau deveni ușor amorțită. Unele persoane au aceste senzații fără să apară, în final, nicio leziune.
+2. **Bășicuțele.** Apar vezicule mici, grupate, pline cu lichid, dureroase, de obicei pe buză sau în jurul ei, uneori și pe alte zone ale feței.
+3. **Crusta.** În aproximativ 48 de ore de la primele semne, veziculele se sparg, zemuiesc și se acoperă cu cruste.
+4. **Vindecarea.** La persoanele sănătoase, leziunile dispar de obicei în 5 până la 15 zile, cel mai adesea fără cicatrice.
 
-1. **Faza de avertizare (prodrom)** – furnicături, mâncărime, arsură sau senzație de tensiune în zona unde va apărea leziunea, cu câteva ore până la o zi înainte.
-2. **Vezicule** – apar mici bășicuțe grupate, pline cu lichid clar, pe o zonă roșie.
-3. **Ulcerare** – veziculele se sparg și lasă mici răni dureroase, umede.
-4. **Crustă** – rănile se acoperă cu o crustă gălbuie sau maronie.
-5. **Vindecare** – crusta cade, de obicei fără cicatrice, în 7–10 zile de la debut.
+Ritmul recidivelor diferă mult: unii oameni au un episod la câțiva ani, alții mai multe pe an. AAD observă că, după vârsta de 35 de ani, recidivele devin în general mai rare.
 
-La unele persoane episoadele apar o dată la câțiva ani, la altele de mai multe ori pe an. Primul episod este adesea cel mai intens; recidivele tind să fie mai ușoare și mai scurte.
+## Ce trezește virusul
 
-## Ce declanșează reactivarea
+Factorii declanșatori diferă de la o persoană la alta. Cei descriși cel mai des sunt:
 
-Nu toată lumea are aceiași factori declanșatori, dar cei mai des descriși sunt:
+- stresul și oboseala;
+- o boală febrilă, o răceală sau o gripă;
+- soarele puternic, inclusiv o arsură solară, dar și solarul;
+- menstruația și alte variații hormonale;
+- o rană sau o iritație în zona în care apare de obicei herpesul;
+- tratamentele stomatologice;
+- procedurile estetice sau tratamentele laser în jurul gurii.
 
-- **expunerea la soare** (radiațiile UV), inclusiv la munte sau la schi;
-- **febra și infecțiile** (de aici denumirea populară de „bubă de răceală”);
-- **stresul fizic sau emoțional** și oboseala;
-- **menstruația** și alte variații hormonale;
-- **traumatisme locale** – buze crăpate, proceduri stomatologice, tratamente estetice în zona buzelor;
-- **imunitatea scăzută**, de exemplu în timpul unor tratamente care scad apărarea organismului.
+Dacă ați observat că herpesul apare, de exemplu, după zilele lungi pe pârtie sau la mare, un balsam de buze cu factor de protecție solară, aplicat de fiecare dată când stați afară, este una dintre puținele măsuri preventive simple. NHS recomandă cel puțin SPF 15, iar AAD sugerează un balsam cu SPF 30 sau mai mult, cu protecție pe spectru larg. Despre alegerea protecției solare găsiți mai multe în [SPF pe scurt](/blog/spf-pe-scurt/). Iar dacă urmează o procedură în zona gurii și știți că faceți herpes frecvent, merită să îi spuneți medicului dinainte.
 
-Dacă îți cunoști factorii declanșatori, îi poți evita sau poți lua măsuri de protecție înainte (de exemplu, protecție solară pe buze înainte de o zi pe pârtie).
+## Cât de contagios este și cum îi protejați pe ceilalți
 
-## Cât de contagios este
+Serviciul britanic de sănătate (NHS) consideră că herpesul labial este contagios de la primele furnicături până la vindecarea completă. Riscul este cel mai mare cât timp există bășicuțe și răni deschise. OMS precizează că virusul se poate transmite ocazional și de pe pielea care arată normal, ceea ce explică de ce mulți oameni nu știu de la cine l-au luat.
 
-Herpesul labial se transmite prin contact direct cu leziunea sau cu saliva unei persoane infectate: sărut, contact oral-genital, folosirea în comun a paharelor, tacâmurilor, balsamului de buze sau prosoapelor.
+În timpul unui episod, câteva reguli simple reduc riscul de transmitere:
 
-- Riscul este **cel mai mare** când există vezicule și răni deschise.
-- Riscul **scade** după formarea crustei, dar persistă până la vindecarea completă.
-- Virusul se poate elimina ocazional și **fără leziuni vizibile**, în cantitate mai mică, motiv pentru care uneori nu știi de la cine l-ai luat.
+- nu sărutați pe nimeni și evitați contactul oral-genital până la vindecare; virusul poate produce și herpes genital la partener;
+- nu folosiți în comun pahare, tacâmuri, prosoape, aparate de ras, ruj sau balsam de buze;
+- nu atingeți leziunea, iar dacă o atingeți, spălați-vă imediat pe mâini cu apă și săpun;
+- aplicați cremele cu un bețișor curat, nu cu degetul;
+- aruncați produsele de buze folosite în timpul episodului.
 
-Măsuri simple în timpul unui episod:
+Grija trebuie să fie și mai mare față de trei categorii de persoane. Nou-născuții nu trebuie sărutați deloc cât timp aveți o leziune, pentru că herpesul neonatal este foarte periculos. Copiii și adulții cu eczemă au o piele prin care virusul pătrunde ușor. Iar persoanele cu imunitate scăzută pot face forme mai severe.
 
-- nu săruta și evită contactul oral-genital;
-- nu folosi în comun pahare, tacâmuri, prosoape, ruj sau balsam de buze;
-- nu atinge leziunea, iar dacă o atingi, spală-te imediat pe mâini;
-- nu atinge ochii după ce ai atins buza – virusul poate ajunge la ochi;
-- **nu săruta bebeluși**, mai ales nou-născuți.
+Virusul se poate muta și pe propriul corp: atingând leziunea și apoi ochiul, degetele sau zona genitală, îl puteți duce acolo. De aceea, spălarea mâinilor este mai importantă decât pare.
 
-## Cum se tratează herpesul labial
+## Ce ajută în timpul unui episod
 
-Un episod se vindecă și fără tratament la persoanele sănătoase. Tratamentul are rolul de a scurta durata, de a reduce durerea și, în anumite situații, de a preveni recidivele. Nu există un tratament care să elimine definitiv virusul.
+Pentru că un episod se vindecă oricum, de cele mai multe ori, scopul tratamentului este să îl scurteze, să reducă durerea și să limiteze transmiterea.
 
-### Creme antivirale
+**Cremele antivirale** din farmacie dau cele mai bune rezultate dacă sunt aplicate de la primele furnicături. NHS avertizează că, odată ce bășicuțele au apărut, s-ar putea să nu mai ajute. Se aplică prin tamponare ușoară, nu prin frecare. Pentru cine are episoade previzibile, are sens ca produsul recomandat de medic sau de farmacist să fie la îndemână, în geantă sau în bagajul de vacanță: diferența dintre o aplicare la prima furnicătură și una a doua zi, când bășicuțele sunt deja vizibile, poate conta.
 
-Cremele cu antivirale (de exemplu aciclovir sau penciclovir) se aplică pe leziune de mai multe ori pe zi. Studiile arată un beneficiu **modest** – scurtează episodul cu aproximativ o zi, în medie – și doar dacă sunt aplicate foarte devreme, ideal în faza de furnicături. Aplicate după ce s-au format crustele, ajută foarte puțin.
+**Plasturii pentru herpes** acoperă leziunea, o feresc de atingeri și de frecare. Nu vindecă virusul, dar pot fi utili pentru confort.
 
-### Antivirale orale (pe rețetă)
+**Calmantele obișnuite**, precum paracetamolul sau ibuprofenul, pot reduce durerea și umflătura, dacă le puteți lua. Aspirina nu se dă copiilor sub 16 ani.
 
-Comprimatele antivirale (aciclovir, valaciclovir, famciclovir) sunt mai eficiente decât cremele, pentru că acționează asupra virusului din interior. Medicul le poate recomanda:
+**Antiviralele sub formă de comprimate** se eliberează pe bază de rețetă. Potrivit OMS, ele scurtează episodul dacă sunt începute în primele 48 de ore de la apariția simptomelor. Medicul le poate recomanda pentru episoade mari, dureroase sau frecvente, iar la persoanele cu recidive foarte dese poate discuta un tratament zilnic, pe o perioadă stabilită, care reduce numărul episoadelor. Alegerea medicamentului și a schemei ține de medic, în funcție de vârstă, de alte boli și de celelalte tratamente.
 
-- **la nevoie (episodic)** – pentru persoanele cu episoade supărătoare, cu tratament scurt început la primele semne;
-- **preventiv (supresiv)** – zilnic, pe o perioadă stabilită, pentru persoanele cu episoade foarte frecvente sau severe, cu persoane imunodeprimate în familie, sau înaintea unor proceduri care pot declanșa herpesul (de exemplu anumite tratamente laser sau estetice pe față).
+Câteva lucruri nu ajută. Spargerea bășicuțelor sau smulgerea crustelor întârzie vindecarea și crește riscul de suprainfecție. Dispozitivele cu lumină sau laser vândute pentru uz casnic au, potrivit NHS, puține dovezi de eficacitate. Iar alimentele acide sau sărate pot face leziunea mai dureroasă, așa că le puteți evita câteva zile, dacă observați că vă deranjează.
 
-Alegerea medicamentului, durata și schema se stabilesc de medic, în funcție de vârstă, funcția rinichilor, alte boli și alte medicamente pe care le iei.
+## Situații care cer atenție imediată
 
-### Plasturi și alte produse
+**Herpesul aproape de ochi.** Dacă după o leziune în apropierea ochiului apar sensibilitate la lumină, durere, senzație de nisip sau secreții, AAD recomandă îngrijire medicală imediată, pentru că virusul poate afecta ochiul și vederea.
 
-Plasturii speciali pentru herpes acoperă leziunea, reduc riscul de a o atinge și o ascund. Nu au efect antiviral demonstrat în sine, dar pot fi utili pentru confort și igienă.
+**Pielea cu eczemă.** La persoanele cu [dermatită atopică](/blog/dermatita-atopica/), virusul se poate răspândi pe pielea inflamată și poate produce o complicație rară, dar potențial gravă, numită eczema herpeticum. AAD o descrie ca pe o erupție cu bășicuțe care mănâncă, se extind rapid și dor, adesea cu febră, oboseală și ganglioni măriți. Este o urgență: o astfel de erupție trebuie văzută de medic fără întârziere.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+**Nou-născuții, sarcina și imunitatea scăzută.** La sugarii mici, la femeile însărcinate și la persoanele cu imunitatea scăzută din cauza unei boli sau a unor tratamente, chiar și un herpes labial aparent banal merită discutat cu medicul.
 
-## Ce poți face acasă
+## Când poate fi util un consult dermatologic?
 
-- **Începe tratamentul devreme**: dacă știi că ai episoade, păstrează la îndemână tratamentul recomandat de medic sau farmacist.
-- **Nu sparge veziculele și nu smulge crustele** – crește riscul de suprainfecție și de cicatrice.
-- **Răcește zona** cu o compresă rece, curată (nu gheață direct pe piele) pentru durere.
-- **Calmante obișnuite** (de exemplu paracetamol sau ibuprofen, dacă le poți lua) ajută la durere.
-- **Hidratează buzele** cu un balsam doar al tău, aplicat cu un bețișor curat în timpul episodului.
-- **Protejează-ți buzele de soare** cu un balsam cu SPF, mai ales dacă soarele îți declanșează episoadele. Mai multe despre protecție găsești în [SPF pe scurt](/blog/spf-pe-scurt/).
-- **Înlocuiește** balsamul de buze sau rujul folosit în timpul episodului.
+AAD enumeră câteva situații în care herpesul labial justifică îngrijire medicală, iar NHS adaugă altele. Un consult este potrivit dacă:
 
-## Mituri despre herpesul labial
+- leziunea nu începe să se vindece după aproximativ zece zile sau durează mai mult de două săptămâni;
+- aveți leziuni multiple, foarte mari sau foarte dureroase;
+- aveți șase sau mai multe episoade pe an și doriți să discutați despre prevenție;
+- aveți dermatită atopică sau imunitate scăzută;
+- gingiile sunt umflate și dureroase, cu leziuni în gură;
+- nu sunteți sigur că este herpes: impetigoul, aftele sau o iritație pot arăta asemănător [TODO: de confirmat de medic — diagnosticul diferențial menționat], iar uneori medicul poate recolta o probă din leziune pentru confirmare.
 
-- **„Pasta de dinți, alcoolul sau usturoiul usucă herpesul.”** Nu există dovezi că ar grăbi vindecarea, iar ele pot irita și răni pielea.
-- **„Herpesul apare doar la oamenii care nu au grijă de igienă.”** Fals. Este o infecție virală foarte răspândită, fără legătură cu igiena.
-- **„Dacă nu am bășici, nu pot transmite virusul.”** Riscul este mult mai mic, dar transmiterea fără leziuni vizibile este posibilă.
-- **„Herpesul labial și herpesul genital sunt boli complet diferite.”** Sunt produse de aceleași virusuri (HSV-1 și HSV-2), care pot afecta ambele zone.
+Pentru o imagine mai largă asupra problemelor de piele care merită o programare, consultați și ghidul [când să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
 
-## Situații care cer atenție specială
+Herpesul labial este, pentru cei mai mulți oameni, un oaspete neplăcut, dar previzibil. Cunoașterea propriilor declanșatori, tratamentul început la primul semn și câteva reguli de igienă pot face episoadele mai scurte și mai ușor de gestionat, iar pentru cei la care recidivele sunt dese există opțiuni care merită discutate cu medicul.
 
-### Persoanele cu dermatită atopică
+## Dacă doriți o evaluare individuală
 
-Pe pielea cu eczemă, virusul herpetic se poate răspândi rapid pe suprafețe mari, producând o complicație numită **eczema herpeticum**: multe vezicule și mici răni rotunde, dureroase, adesea cu febră și stare generală alterată. Este o urgență medicală. Dacă ai [dermatită atopică](/blog/dermatita-atopica/) și observi astfel de leziuni, mergi imediat la medic.
+Dacă episoadele sunt frecvente, durează mult sau aveți o boală a pielii care complică lucrurile, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Veți putea discuta ce opțiuni de tratament și de prevenție sunt potrivite pentru situația dumneavoastră. Găsiți [programul și locațiile aici](/program/).
 
-### Herpesul aproape de ochi
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
 
-Leziunile pe pleoape sau în jurul ochiului, împreună cu ochi roșu, dureros, lăcrimare sau vedere încețoșată, pot însemna că virusul a afectat ochiul (keratită herpetică). Ai nevoie de consult oftalmologic în aceeași zi.
-
-### Nou-născuții, sarcina și imunitatea scăzută
-
-La nou-născuți, infecția herpetică poate fi gravă. La persoanele cu imunitate scăzută (de exemplu sub chimioterapie, după transplant sau cu infecție HIV netratată) episoadele pot fi mai extinse și mai lungi și necesită tratament supravegheat de medic. Dacă ești însărcinată și ai herpes, spune-i medicului care îți urmărește sarcina.
-
-## Când să mergi la dermatolog
-
-Programează un consult (sau mergi de urgență, unde este cazul) dacă:
-
-- ai **leziuni lângă ochi** sau ochiul este roșu, dureros ori vezi încețoșat – **urgent**;
-- ai **dermatită atopică** și apar brusc multe vezicule sau răni, mai ales cu febră – **urgent**;
-- leziunile **nu se vindecă în aproximativ două săptămâni**;
-- ai **episoade foarte dese** (de exemplu de mai multe ori pe an) și vrei să discuți tratamentul preventiv;
-- leziunile sunt **foarte extinse**, foarte dureroase sau apar și în alte zone;
-- apar semne de **suprainfecție**: puroi, roșeață care se extinde, durere în creștere, febră;
-- ai **imunitatea scăzută** din cauza unei boli sau a unor tratamente;
-- nu ești sigur că este herpes – alte afecțiuni (impetigo, afte, dermatită) pot arăta asemănător.
-
-Dacă nu știi ce tip de specialist să alegi, ghidul despre [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/) te poate ajuta.
+- Obiectiv editorial: educare și clarificarea unor confuzii (contagiozitate, tratament la timp, situații de risc); recunoașterea momentului potrivit pentru consult.
+- Afirmații de confirmat clinic: prevalența de 64% (OMS, estimare 2020, persoane sub 50 de ani); durata vindecării 5–15 zile (AAD) față de „aproximativ 10 zile” (NHS), redată ca „una până la două săptămâni”; pragul de „șase sau mai multe episoade pe an” (AAD); mențiunea despre posibilitatea recoltării unei probe pentru confirmare (AAD).
+- Informații lipsă / de completat: nu am indicat doze sau scheme pentru antiviralele orale, conform regulilor; dacă doriți, o recomandare proprie privind profilaxia înaintea procedurilor estetice sau stomatologice (AAD nu o detaliază în pagina deschisă). Diferențierea de impetigo și afte este menționată doar pe scurt.
+- Surse care nu au putut fi verificate: DermNet (acces blocat din rețea); pagina NHS despre eczema herpeticum nu a fost găsită (404), informația provine din pagina AAD despre copiii cu eczemă.

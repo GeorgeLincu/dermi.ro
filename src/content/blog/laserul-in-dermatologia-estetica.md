@@ -1,165 +1,129 @@
 ---
-title: "Laserul în dermatologia estetică: tipuri, indicații, riscuri"
-description: "Ce tipuri de laser se folosesc în dermatologia estetică, la ce ajută, cine nu ar trebui să le facă, cum arată recuperarea și ce riscuri au."
+title: "Tratamentul cu laser pe față: ce tipuri există și ce riscuri au"
+description: "Cum diferă laserele ablative, non-ablative, vasculare și pentru pigment, ce pot ameliora, cine trebuie să fie prudent, cum arată recuperarea și ce riscuri există."
 pubDate: 2026-10-01
 category: "estetica"
-tags: ["laser", "dermatologie estetică", "proceduri", "cicatrici"]
+tags: ["laser", "dermatologie estetică", "cicatrici", "proceduri"]
 draft: true
 faq:
-  - q: "Epilarea definitivă cu laser există?"
-    a: "Laserul reduce semnificativ și de durată numărul de fire de păr, dar rezultatul nu este garantat ca definitiv și pot fi necesare ședințe de întreținere. Funcționează cel mai bine pe părul închis la culoare și mai slab pe părul blond, roșcat sau alb."
-  - q: "Se poate face laser vara?"
-    a: "Pielea bronzată sau arsă de soare are un risc mai mare de arsuri și pete după laser. Multe proceduri se programează de aceea în lunile cu soare mai puțin intens, iar protecția solară este obligatorie înainte și după."
-  - q: "Pot îndepărta o aluniță cu laser?"
-    a: "O aluniță nu ar trebui tratată cu laser fără o evaluare dermatologică, deoarece laserul distruge țesutul și nu mai permite analiza lui. Dacă există orice suspiciune, alunița se îndepărtează chirurgical și se trimite la analiză."
   - q: "Câte ședințe de laser sunt necesare?"
-    a: "Depinde de tipul de laser și de problemă. Multe tratamente se fac în serii de mai multe ședințe, la câteva săptămâni distanță, iar medicul stabilește numărul după evaluare și după reacția pielii."
-  - q: "Laserul ajută la melasmă?"
-    a: "Melasma răspunde imprevizibil la laser și poate chiar să se agraveze sau să revină după tratament. De obicei, prima linie rămâne protecția solară strictă și tratamentul topic, iar laserul se discută doar în cazuri selectate."
+    a: "Depinde de tipul de laser și de problemă. Laserele non-ablative și cele vasculare cer de obicei mai multe ședințe, iar laserele ablative pot da un efect mai mare dintr-o ședință, cu o recuperare mai lungă."
+  - q: "Cât durează recuperarea după un laser ablativ?"
+    a: "Vindecarea durează de obicei în jur de două săptămâni, cu variații între una și patru. În acest timp pielea este umflată, roșie și se descuamează, iar protecția față de soare este obligatorie."
+  - q: "Se poate face laser pe pielea bronzată?"
+    a: "Nu. Pe pielea bronzată sau arsă de soare, laserul poate produce arsuri sau modificări de culoare, de aceea tratamentul se amână."
+  - q: "Laserul poate șterge complet o cicatrice?"
+    a: "Nu. Laserul poate face o cicatrice mai puțin vizibilă și uneori ameliorează mâncărimea sau durerea, dar nu o poate îndepărta complet. Rezultatele apar treptat, de-a lungul lunilor."
 sources:
-  - title: "Laser therapy for skin conditions"
-    publisher: "DermNet (Noua Zeelandă)"
-  - title: "Laser hair removal"
-    publisher: "American Academy of Dermatology Association"
-  - title: "Fitzpatrick's Dermatology, ediția a 9-a — capitolele despre laserele și sursele de lumină"
-    publisher: "McGraw-Hill, 2019"
-  - title: "Dermatology (Bolognia), capitolele despre laserele în dermatologie"
-    publisher: "Elsevier"
-  - title: "Melasma"
-    publisher: "DermNet (Noua Zeelandă)"
+  - title: "Skin conditions that lasers can treat"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/skin-conditions-lasers-treat"
+  - title: "10 things to know before having laser treatment for your scar"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/scars-stretch-marks/laser-treatment-scar"
+  - title: "Laser resurfacing"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/laser-resurfacing"
+  - title: "Choosing who will do your cosmetic procedure"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/choosing-who-will-do-your-procedure/"
+  - title: "Best questions to ask when considering a cosmetic treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/safety/ask-questions"
 ---
 
-Laserul în dermatologia estetică înseamnă folosirea unui fascicul de lumină de o anumită lungime de undă pentru a trata ținte precise din piele: vase de sânge mici, pigment, foliculi de păr sau țesut cu cicatrici și riduri. Nu există „un laser” bun pentru toate problemele; fiecare tip are indicațiile, riscurile și recuperarea lui. Rezultatele depind de diagnostic, de tipul de piele și de aparat și se obțin, de obicei, după mai multe ședințe.
+„Câte ședințe de laser îmi trebuie?” este una dintre cele mai frecvente întrebări despre procedurile estetice. Răspunsul cinstit începe cu o altă întrebare: care laser? Sub același cuvânt se ascund aparate foarte diferite, unele pentru riduri, altele pentru vase de sânge, pete, păr sau tatuaje.
 
-## Pe scurt
+Tratamentul cu laser folosește o lumină concentrată, de o anumită lungime de undă, care încălzește sau îndepărtează țintit o structură din piele: apa din țesut, pigmentul sau sângele din vasele mici. Tipul de laser stabilește ce se poate ameliora, câte ședințe sunt necesare, cât durează recuperarea și ce riscuri există. Laserele ablative au efectul cel mai mare și recuperarea cea mai lungă, cele non-ablative sunt mai blânde și cer mai multe ședințe. Rezultatul depinde mult de experiența celui care face procedura.
 
-- Fiecare laser este făcut pentru o anumită țintă (vase, pigment, păr sau textură); alegerea corectă pornește de la un diagnostic corect.
-- Laserele ablative (care îndepărtează straturi de piele) au efect mai mare, dar și recuperare mai lungă și riscuri mai mari decât cele non-ablative.
-- O aluniță sau o pată pigmentată se evaluează dermatologic înainte de orice laser.
-- Pielea bronzată, sarcina, infecțiile active și unele medicamente fotosensibilizante sunt motive de amânare.
-- Riscurile includ arsuri, pete, zone decolorate, cicatrici și leziuni ale ochilor dacă protecția nu este corectă.
+## Un singur nume, mai multe aparate
 
-## Ce este un laser și cum funcționează
+Laserele de reîntinerire a pielii se împart în două mari grupe. Cele ablative, precum laserul cu CO2 sau cel cu erbiu, îndepărtează straturile de la suprafață și acționează și în derm. Cele non-ablative încălzesc dermul și lasă intact stratul de suprafață. Varianta fracționată, folosită astăzi frecvent pentru ambele grupe, tratează pielea în coloane microscopice, lăsând între ele zone neatinse, ceea ce scurtează vindecarea [TODO: de confirmat de medic — mecanismul tratamentului fracționat nu este descris în detaliu în sursele consultate].
 
-Laserul emite lumină de o singură lungime de undă, concentrată. Fiecare lungime de undă este absorbită preferențial de o anumită „țintă” din piele: hemoglobina din vasele de sânge, melanina din pete și din firele de păr, pigmentul din tatuaje sau apa din țesut. Energia absorbită încălzește și distruge ținta, iar pielea din jur ar trebui să fie cât mai puțin afectată.
+Pe lângă acestea există lasere vasculare, care țintesc vasele mici de sânge; lasere pentru pigment și tatuaje; lasere pentru epilare. Lumina pulsată intensă (IPL) este adesea pusă în aceeași categorie, deși nu este un laser propriu-zis.
 
-Lumina pulsată intensă (IPL) este adesea pusă în aceeași categorie, dar nu este un laser: emite lumină într-un spectru mai larg, filtrat. Are indicații asemănătoare cu unele lasere, dar și propriile riscuri.
+| Tip | Ce țintește | Exemple de utilizare | Recuperare orientativă |
+|---|---|---|---|
+| Ablativ | straturile superficiale și dermul | riduri, piele afectată de soare, unele cicatrici | aproximativ 2 săptămâni |
+| Non-ablativ | dermul, fără a îndepărta suprafața | textură, riduri fine, cicatrici | minimă, dar mai multe ședințe |
+| Vascular | vasele mici de sânge | roșeața din rozacee, vase vizibile, unele semne din naștere | de obicei minimă; uneori vânătăi câteva zile |
+| Pentru pigment | pigmentul din piele | pete solare, tatuaje | variabilă |
+| IPL (nu este laser) | pigment și vase | roșeață, pete | de obicei minimă |
 
-## Tipuri de laser și la ce se folosesc
+## Ce poate și ce nu poate face tratamentul cu laser
 
-| Tip | Ținta principală | Folosit de obicei pentru |
-|---|---|---|
-| Lasere vasculare | hemoglobina | vase mici dilatate pe față, roșeața din rozacee, unele angioame și pete vasculare |
-| Lasere pentru pigment (Q-switched, picosecunde) | melanina, pigmentul din tatuaje | pete solare (lentigine), unele pete pigmentare benigne, îndepărtarea tatuajelor |
-| Lasere pentru epilare | melanina din firul de păr | reducerea părului nedorit |
-| Lasere ablative (CO2, erbium), clasice sau fracționate | apa din țesut | riduri, leziuni cauzate de soare, cicatrici, unele leziuni benigne |
-| Lasere non-ablative fracționate | apa din țesut, fără îndepărtarea suprafeței | textură, cicatrici post-acnee, riduri fine |
+Laserele de reîntinerire pot reduce ridurile fine și moderate, pot îmbunătăți tonul și textura pielii afectate de soare și pot trata pete solare, keratoze actinice sau îngroșarea nasului din rozaceea avansată. Laserele vasculare reduc roșeața din rozacee și vasele mici vizibile, subiect tratat separat în articolul despre [cuperoză și vasele vizibile](/blog/cuperoza-si-vasele-vizibile/).
 
-Laserele „fracționate” tratează pielea în coloane microscopice, lăsând între ele zone neatinse, ceea ce scurtează recuperarea.
+În cazul cicatricilor, AAD este foarte clară: laserul poate face o cicatrice mai puțin vizibilă, poate reduce durerea și mâncărimea și poate îmbunătăți mobilitatea atunci când cicatricea o limitează, dar nu o poate îndepărta. Cicatricile foarte adânci nu dispar complet. Adesea dermatologii combină metodele, de exemplu laser și filler pentru cicatricile adânci de acnee, despre care puteți citi în articolul despre [cicatricile post-acnee](/blog/cicatricile-post-acnee/).
 
-## Ce poate și ce nu poate face
+Limitele merită spuse direct. Laserul poate da un aspect mai odihnit și o ușoară fermitate, dar nu corectează pielea lăsată accentuat, pentru care se discută intervenția chirurgicală. Pentru cicatrici, rezultatele apar treptat, de-a lungul lunilor, iar primele schimbări pot fi abia vizibile. Locul laserului printre celelalte opțiuni pentru pielea care îmbătrânește este discutat în articolul despre [îmbătrânirea pielii](/blog/imbatranirea-pielii-ce-functioneaza/).
 
-**Poate ajuta la:**
+## Cine trebuie să fie prudent
 
-- roșeața persistentă și vasele mici dilatate din rozacee (vezi [cum se tratează rozaceea](/blog/cum-tratezi-rozaceea/));
-- pete solare și unele pete pigmentare benigne, după diagnostic;
-- [cicatricile post-acnee](/blog/cicatricile-post-acnee/), de obicei în serie de ședințe și uneori combinat cu alte metode;
-- riduri fine și textură neregulată;
-- reducerea părului nedorit;
-- îndepărtarea tatuajelor, în mai multe ședințe.
+Laserele se pot folosi pe toate tipurile de piele, dar pielea închisă la culoare este mai predispusă la arsuri și la pete închise după tratament. Pentru unele tipuri de laser, medicul poate recomanda o testare pe o zonă mică înainte de tratamentul complet. Contează aici, mai mult decât oriunde, experiența medicului cu acest tip de piele.
 
-**Nu poate:**
+Alte situații care schimbă decizia:
 
-- înlocui un diagnostic: o leziune pigmentată suspectă nu se tratează cu laser;
-- corecta pielea foarte lăsată sau pierderea de volum;
-- garanta dispariția completă a unei cicatrici, a unui tatuaj sau a părului;
-- „vindeca” melasma — aceasta poate chiar să se agraveze după laser (detalii în articolul despre [melasmă](/blog/melasma/)).
+- pielea bronzată sau arsă de soare nu se tratează, pentru că laserul o poate arde sau îi poate modifica culoarea;
+- vitiligo este o contraindicație pentru laserele de reîntinerire, deoarece tratamentul poate declanșa noi zone depigmentate;
+- unele medicamente și suplimente cresc sensibilitatea pielii la anumite lungimi de undă, așa că medicul trebuie să le cunoască pe toate;
+- persoanele care fac des herpes labial primesc de obicei tratament preventiv;
+- fumatul încetinește vindecarea.
 
-## De ce contează diagnosticul înainte de laser
+Tratamentul cu izotretinoină, sarcina și alăptarea, ca și tendința la cheloizi, se discută obligatoriu la consultație și duc adesea la amânarea procedurii [TODO: de confirmat de medic — aceste situații nu apar ca atare în sursele consultate pentru laser].
 
-Laserele pentru pigment distrug celulele pigmentate. Dacă o pată sau o aluniță este de fapt un melanom sau altă leziune suspectă, laserul poate masca problema și întârzia diagnosticul. De aceea, orice leziune pigmentată se evaluează mai întâi de un dermatolog, adesea cu [dermatoscopia](/blog/dermatoscopia/). Află și care sunt [semnele de alarmă ale alunițelor](/blog/alunite-semne-de-alarma/).
+## Pregătirea
 
-## Cine este un candidat potrivit
+Înainte de un laser pe cicatrici, de exemplu, AAD recomandă oprirea fumatului cu cel puțin două săptămâni înainte, întreruperea produselor cu retinoizi sau acid glicolic cu două până la patru săptămâni înainte și oprirea vitaminei E, a aspirinei și a altor produse care pot încetini vindecarea, doar cu acordul medicului care le-a recomandat. Expunerea la soare, solarul și lămpile de bronzat se evită.
 
-- persoane cu o problemă diagnosticată pentru care există un laser potrivit;
-- persoane care pot evita soarele înainte și după tratament;
-- persoane care acceptă că pot fi necesare mai multe ședințe și că rezultatul variază.
+Medicul trebuie să afle la consultație toate medicamentele și suplimentele, afecțiunile precum diabetul, istoricul de herpes și obiceiul fumatului. AAD formulează și un sfat simplu: dacă cineva vă tratează fără o consultație prealabilă, este un motiv să plecați.
 
-Tipul de piele contează: la pielea mai închisă la culoare, riscul de pete sau de zone decolorate este mai mare cu unele lasere. Medicul alege lungimea de undă și setările în funcție de fototip.
+## Cum arată recuperarea
 
-## Contraindicații: când nu se face
+După laserele non-ablative, majoritatea oamenilor își pot relua imediat activitățile și se pot machia. Imediat după tratament se pot aplica comprese reci. Compensația pentru recuperarea scurtă este numărul mai mare de ședințe necesare.
 
-- **sarcina** — procedurile estetice cu laser se amână de regulă;
-- **bronz recent sau arsură solară** în zona de tratat;
-- **infecție activă**, inclusiv herpes, în zonă;
-- **medicamente fotosensibilizante** sau care cresc riscul de reacții (de exemplu, unele antibiotice) — spune-i medicului tot ce iei;
-- **tratament recent cu isotretinoin oral**, mai ales pentru laserele ablative — intervalul se stabilește de medic;
-- **boli agravate de lumină** (de exemplu, unele forme de lupus) sau boli ale pielii active în zonă;
-- **tendință la cheloide** sau cicatrici hipertrofice;
-- **tratament în trecut cu săruri de aur**, important pentru anumite lasere;
-- leziuni pigmentate nediagnosticate.
+După laserele ablative, pielea este umflată, roșie, zemuiește și se descuamează. În primele zile ajută compresele reci, dormitul cu capul ușor ridicat și unguentul sau pansamentul recomandat de medic. Vindecarea completă durează de obicei în jur de două săptămâni, cu variații între una și patru. Machiajul corector se poate folosi după aproximativ două săptămâni, iar protecția solară blândă rămâne necesară până dispare complet roșeața.
 
-## Cum se desfășoară procedura
-
-1. **Consultul.** Medicul pune diagnosticul, îți evaluează tipul de piele, istoricul medical și medicamentele, îți explică opțiunile, riscurile și numărul probabil de ședințe. Semnezi consimțământul informat.
-2. **Testul.** Uneori se face o testare pe o zonă mică, pentru a vedea reacția pielii.
-3. **Pregătirea.** Pielea se curăță; se poate aplica o cremă anestezică. Tu și cei din cameră purtați ochelari de protecție potriviți pentru lungimea de undă folosită.
-4. **Tratamentul.** Senzația variază de la căldură sau „pocnituri de elastic” până la disconfort mai mare la laserele ablative. Se poate folosi răcirea pielii.
-5. **După.** Primești instrucțiuni scrise de îngrijire.
-
-## Recuperarea
-
-- **Lasere vasculare și pentru pigment:** roșeață, umflătură, uneori vânătăi sau cruste fine care cad în 1–2 săptămâni.
-- **Epilare:** roșeață și umflături mici în jurul foliculilor, de obicei pentru câteva ore sau zile.
-- **Non-ablative fracționate:** roșeață și umflătură câteva zile, cu descuamare ușoară.
-- **Ablative:** piele deschisă, cu zemuire și cruste, care necesită îngrijire atentă timp de 1–2 săptămâni sau mai mult; roșeața poate dura săptămâni până la luni.
-
-După orice laser: nu zgâria crustele, folosește produse blânde și protecție solară zilnic.
-
-## Cât durează rezultatele
-
-Durata depinde de problemă. Vasele dilatate și petele solare pot reapărea în timp, mai ales la expunere la soare. Reducerea părului este de durată, dar pot fi necesare ședințe de întreținere. Efectele asupra cicatricilor și texturii sunt, de obicei, de durată, însă pielea continuă să îmbătrânească.
+În toate cazurile, pielea tratată se protejează de soare până la vindecare. Expunerea prea devreme poate lăsa pete sau chiar o cicatrice nouă.
 
 ## Riscuri și complicații
 
-- **roșeață și umflătură** prelungite;
-- **arsuri și bășici**, mai ales pe piele bronzată sau cu setări nepotrivite;
-- **hiperpigmentare** (pete mai închise) sau **hipopigmentare** (zone mai deschise), uneori de durată;
-- **cicatrici**, rare, mai frecvente după laserele ablative sau după infecție;
-- **infecții** și reactivarea herpesului;
-- **leziuni ale ochilor**, dacă nu se folosesc ochelari de protecție corecți — pot fi grave și permanente;
-- **creșterea paradoxală a părului** în zonele vecine, rar, după epilare;
-- **agravarea melasmei** sau revenirea ei;
-- la tatuaje, schimbarea culorii unor pigmenți sau îndepărtare incompletă.
+Riscurile cresc odată cu intensitatea tratamentului și scad considerabil atunci când acesta este făcut corect. Printre efectele descrise:
 
-## Cum alegi un medic calificat
+- roșeață și umflare, uneori prelungite;
+- modificări de culoare ale pielii, mai închise sau mai deschise;
+- erupții acneiforme sau de tip eczematos;
+- infecții, inclusiv reactivarea herpesului;
+- vânătăi după laserele vasculare;
+- arsuri și cicatrici.
 
-- alege un medic care pune diagnosticul înainte de a propune un aparat;
-- verifică faptul că este medic în registrul public al Colegiului Medicilor din România [TODO: verifică denumirea și adresa actuală a registrului];
-- întreabă ce tip de laser se folosește, de ce este potrivit pentru pielea ta și ce alternative există;
-- întreabă cine face efectiv procedura și ce pregătire are; [TODO: verifică cadrul legal din România privind cine poate efectua proceduri cu laser și în ce condiții]
-- cere informații scrise despre riscuri și îngrijirea de după.
+## Spa, centre comerciale și aparate de acasă
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+AAD atrage atenția asupra procedurilor laser făcute în spații nemedicale, precum unele saloane sau standuri din centre comerciale: confortul și prețul pot veni cu o pregătire, o supraveghere și un echipament limitate. Ghidul public al NHS adaugă alte semnale de prudență: plata înainte de consultație, tratamentele în grup sau la evenimente, voucherele cumpărate de pe site-uri de reduceri, serviciile mobile la domiciliu sau la hotel și practicienii care se promovează doar pe rețelele sociale.
 
-## Semnale de alarmă
+Aparatele cu lumină de uz casnic au, de regulă, o putere mult mai mică decât cele medicale, iar efectele lor sunt pe măsură [TODO: de confirmat de medic — nu am consultat o sursă dedicată aparatelor laser sau IPL de uz casnic]. Dacă folosiți un astfel de aparat și apare o arsură, o veziculă sau o pată nouă, întrerupeți-l și cereți un consult.
 
-- ți se propune laser pe o aluniță sau o pată fără examinare dermatologică;
-- nu ți se pune nicio întrebare despre medicamente, sarcină, bronz sau herpes;
-- nu ți se dau ochelari de protecție;
-- ți se promite epilare „definitivă garantată” sau dispariția completă a cicatricilor;
-- ți se recomandă un laser „universal” pentru orice problemă;
-- ți se propune tratament pe piele proaspăt bronzată.
+## Cum alegeți și ce întrebați
 
-## Când să mergi la dermatolog
+Înainte de consultație, AAD sugerează câteva întrebări pe care vi le puteți pune singuri. Ce anume vreți să se schimbe: roșeața, petele, textura, o cicatrice? Câte zile de recuperare vă puteți permite, ținând cont de serviciu, de familie sau de un concediu la mare planificat? Ce nivel de risc vi se pare acceptabil? Răspunsurile clare la aceste întrebări îl ajută pe medic să vă propună varianta potrivită, care poate fi un laser mai blând cu mai multe ședințe sau, dimpotrivă, un tratament mai intens, cu o pauză mai lungă.
 
-Mergi la un dermatolog înainte de laser dacă ai o aluniță sau o pată care și-a schimbat forma, culoarea sau dimensiunea, sângerează sau arată diferit de celelalte.
+Dacă răspunsurile primite la consultație nu vă lămuresc sau nu vă liniștesc, este perfect rezonabil să alegeți altă variantă ori să amânați decizia.
 
-După procedură, contactează medicul care ți-a făcut-o sau un dermatolog dacă:
+Rezultatul unui laser depinde în mare măsură de cine îl face. Merită întrebat cine efectuează concret procedura, de câte ori a făcut-o, cât de des tratează persoane cu pielea ca a dumneavoastră, câte ședințe sunt realiste, ce recuperare să planificați și ce se întâmplă dacă apare o complicație. Uneori răspunsul potrivit este alt tratament, de exemplu un [peeling chimic](/blog/peelingul-chimic/), ori o combinație de metode.
 
-- apar bășici, cruste groase sau zone deschise după un laser care nu ar trebui să le producă;
-- durerea, roșeața sau umflătura se accentuează după primele zile;
-- apar puroi, febră sau vezicule grupate;
-- observi pete închise, zone albe sau o piele îngroșată care persistă.
+## Când poate fi util un consult dermatologic?
 
-Mergi **de urgență** dacă, în timpul sau după o procedură cu laser, ai durere în ochi, vedere încețoșată sau pete în câmpul vizual.
+Un consult dermatologic este util înainte de orice tratament cu laser, pentru că alegerea tipului de aparat depinde de diagnostic. O pată care pare „solară” trebuie examinată înainte de a fi tratată cu un laser pentru pigment; o pată nouă, care se schimbă, sângerează sau nu se vindecă are nevoie de evaluare, nu de un tratament estetic. Consultul ajută și dacă aveți pielea închisă la culoare, istoric de herpes, vitiligo sau cicatrici îngroșate ori dacă după un tratament anterior a rămas o modificare de culoare.
+
+Laserul este o tehnologie utilă, cu indicații precise. Alegerea corectă a aparatului, pregătirea, recuperarea respectată și protecția solară cântăresc la fel de mult ca aparatul în sine.
+
+## Dacă vreți să clarificați ce vi s-ar potrivi
+
+Dacă vă gândiți la un tratament cu laser și doriți să aflați dacă este potrivit pentru pielea dumneavoastră, ce alternative există și ce așteptări sunt realiste, puteți programa o consultație de evaluare la Dr. Mădălina Iulia Lincu. Vedeți [programul și locațiile](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: explicarea unei proceduri și a diferențelor dintre tipurile de laser; strict informativ, fără promovarea unui aparat. Cuvânt-cheie principal: „tratament cu laser” (variantă: „laser facial”).
+- Afirmații de confirmat clinic: tabelul cu tipurile de laser și recuperarea orientativă; vitiligo drept contraindicație (DermNet); recomandările de pregătire, preluate din pagina AAD despre laserul pe cicatrici și generalizate cu prudență.
+- Informații lipsă / de completat: [TODO: de confirmat de medic — oferă dr. Lincu tratamente laser sau IPL și cu ce tipuri de aparate?]; izotretinoina, sarcina, cheloizii, aparatele de uz casnic, mecanismul fracționat (marcate inline).
+- Surse care nu au putut fi verificate: pagina DermNet despre laser resurfacing menționează că este în curs de actualizare; nu am găsit o pagină AAD dedicată laserului de reîntinerire (resurfacing) pentru publicul larg.

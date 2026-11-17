@@ -1,121 +1,146 @@
 ---
-title: "SPF pe scurt: filtre minerale vs. chimice și cum alegi corect"
-description: "Ce înseamnă SPF, ce diferență reală e între filtrele minerale și cele „chimice”, cât produs aplici și când reaplici protecția solară."
+title: "Ce înseamnă SPF și cum citiți eticheta unei protecții solare"
+description: "Ce măsoară SPF, cum recunoașteți protecția UVA, ce diferențe reale există între filtrele minerale și cele organice și cum alegeți un produs potrivit."
 pubDate: 2025-08-21
 updatedDate: 2026-10-01
 category: "protectie-solara"
 tags: ["spf", "protecție solară", "filtre uv", "uva"]
 draft: true
 faq:
-  - q: "Ce SPF să aleg?"
-    a: "Pentru folosirea zilnică, minimum SPF 30 cu spectru larg (UVA și UVB). Pentru expunere prelungită, piele foarte deschisă, pete pigmentare, istoric de cancer de piele sau tratamente care cresc sensibilitatea la soare, alege SPF 50 sau 50+."
-  - q: "Trebuie să pun SPF dacă stau în casă?"
-    a: "Dacă stai departe de ferestre, riscul este mic, dar radiațiile UVA trec prin geam. Dacă lucrezi lângă fereastră, ieși în pauze sau ai melasmă, aplicarea zilnică de dimineață este o idee bună."
-  - q: "La cât timp reaplic protecția solară?"
-    a: "Când ești afară mult timp, aproximativ la 2 ore, și întotdeauna după înot, transpirație abundentă sau ștergere cu prosopul. Reaplicarea nu depinde de tipul de filtru, ci de expunere și de cât produs s-a îndepărtat."
-  - q: "Filtrele minerale sunt mai sigure decât cele chimice?"
-    a: "Ambele categorii, folosite în produsele autorizate în UE, sunt evaluate pentru siguranță. Filtrele minerale sunt adesea mai bine tolerate de pielea foarte sensibilă și de copii, dar alegerea cea mai bună este produsul pe care îl folosești zilnic, în cantitate suficientă."
-  - q: "Machiajul cu SPF este suficient?"
-    a: "De obicei nu, pentru că se aplică mult mai puțin produs decât cantitatea folosită la testare. Folosește un produs de protecție solară separat, iar machiajul cu SPF poate fi un plus."
+  - q: "Ce înseamnă SPF 50?"
+    a: "SPF arată cât de bine protejează produsul împotriva radiațiilor UVB, cele care produc arsura solară. În condiții de laborator, SPF 50 filtrează aproximativ 98% din UVB, față de circa 97% pentru SPF 30, însă protecția reală depinde mult de cantitatea aplicată."
+  - q: "Cum recunosc o protecție solară care protejează și de UVA?"
+    a: "Pe produsele din Uniunea Europeană, căutați simbolul „UVA” încercuit. El arată că protecția UVA reprezintă cel puțin o treime din valoarea SPF de pe ambalaj."
+  - q: "Filtrele minerale sunt mai sigure decât cele organice?"
+    a: "Ambele tipuri de filtre sunt folosite de zeci de ani, fără efecte nocive demonstrate la om. Filtrele minerale (oxid de zinc, dioxid de titan) sunt adesea mai bine tolerate de pielea sensibilă, dar cel mai potrivit produs rămâne cel pe care îl folosiți constant, în cantitate suficientă."
+  - q: "Este suficient machiajul cu SPF?"
+    a: "De regulă nu, pentru că se aplică mult mai puțin fond de ten decât cantitatea folosită la testare. Machiajul cu SPF poate completa o protecție solară aplicată separat, dar nu o înlocuiește."
+  - q: "Mai pot folosi protecția solară de vara trecută?"
+    a: "Dacă nu a expirat și nu și-a schimbat culoarea sau consistența, de obicei da. Un produs ținut zile întregi în mașina încinsă este mai prudent să fie înlocuit."
 sources:
-  - title: "Commission Recommendation 2006/647/EC on the efficacy of sunscreen products and the claims made relating thereto"
-    publisher: "Comisia Europeană"
-  - title: "Reduced melanoma after regular sunscreen use: randomized trial follow-up"
-    publisher: "Journal of Clinical Oncology (Green și colab., 2011)"
-  - title: "Radiation: Ultraviolet (UV) radiation and skin cancer"
-    publisher: "Organizația Mondială a Sănătății (OMS)"
   - title: "Sunscreen FAQs"
-    publisher: "American Academy of Dermatology"
-  - title: "Metal oxide sunscreens protect skin by absorption, not by reflection or scattering"
-    publisher: "Photodermatology, Photoimmunology & Photomedicine (Cole și colab., 2016)"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/sun-protection/sunscreen-patients/sunscreen-faqs"
+  - title: "How to decode a sunscreen label"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/understand-sunscreen-labels"
+  - title: "How to select a sunscreen"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-select-sunscreen"
+  - title: "Sunscreens: A Complete Overview"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/sunscreen-testing-and-classification"
+  - title: "Ultraviolet radiation (fact sheet)"
+    publisher: "Organizația Mondială a Sănătății (accesat 17.11.2026)"
+    url: "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation"
 ---
 
-SPF (factorul de protecție solară) arată cât de bine te protejează un produs de radiațiile UVB, cele care provoacă arsurile; pentru protecție completă ai nevoie și de protecție UVA, indicată pe produsele din UE de simbolul „UVA” într-un cerc. Atât filtrele minerale, cât și cele organice („chimice”) protejează eficient; diferența ține mai ales de textură și toleranță. Cel mai bun SPF este cel cu spectru larg, de minimum 30, aplicat în cantitate suficientă și reaplicat când stai mult la soare.
+Pe raftul farmaciei stau alăturate două tuburi aproape identice. Pe unul scrie SPF 30, pe celălalt SPF 50+, iar doar unul are în colț un mic cerc cu literele „UVA”. Cifra mare atrage privirea, dar informația cu adevărat utilă este, de multe ori, cea mică.
 
-## Pe scurt
+Pe scurt, SPF (factorul de protecție solară) arată cât de bine vă protejează un produs de radiațiile UVB, cele care produc arsura. Nu spune însă nimic despre radiațiile UVA, care pătrund mai adânc în piele. Pentru ele, pe produsele vândute în Uniunea Europeană, căutați simbolul „UVA” încercuit. Dacă vă întrebați ce înseamnă SPF în practică: un produs cu spectru larg, de cel puțin SPF 30, pe care îl folosiți cu plăcere în fiecare zi, contează mai mult decât orice diferență de câteva unități pe etichetă.
 
-- **SPF măsoară protecția față de UVB**; pentru UVA caută simbolul **UVA în cerc** sau mențiunea „spectru larg”.
-- Alege **SPF 30 pentru zilnic** și **SPF 50/50+** pentru expunere prelungită sau risc crescut.
-- **Ambele tipuri de filtre absorb** radiațiile UV; ideea că cele minerale doar „reflectă” razele este în mare parte un mit.
-- Cantitatea contează enorm: cei mai mulți oameni aplică **jumătate sau mai puțin** din cât ar trebui.
-- **Reaplică** la aproximativ 2 ore când ești afară și după baie, transpirație sau ștergere — indiferent de tipul de filtru.
+## Două tipuri de radiații, două tipuri de protecție
 
-## De ce contează protecția solară
+Lumina soarelui conține radiații ultraviolete de mai multe lungimi de undă. Pentru piele contează două categorii.
 
-Radiațiile ultraviolete sunt principalul factor de mediu care favorizează **cancerele de piele**, **îmbătrânirea prematură** (riduri, pierderea elasticității) și **petele pigmentare**. Potrivit OMS, expunerea la UV este o cauză majoră, care poate fi prevenită, a cancerelor de piele.
+Radiațiile UVB sunt cele care ard. Roșeața și usturimea din seara unei zile petrecute la plajă sunt efectul lor direct. Radiațiile UVA ajung mai adânc, nu produc o arsură evidentă, dar contribuie la îmbătrânirea pielii (riduri, pierderea elasticității, pete). Ambele tipuri sunt implicate în apariția cancerelor de piele. Organizația Mondială a Sănătății enumeră printre efectele expunerii cronice melanomul, carcinomul spinocelular, carcinomul bazocelular și îmbătrânirea prematură a pielii, plus efecte asupra ochilor, cum ar fi cataracta.
 
-Există două tipuri relevante:
+De aici rezultă ideea centrală a articolului: un produs bun trebuie să acopere ambele tipuri de radiații. Industria numește asta „spectru larg”.
 
-- **UVB** — produc arsura solară, contribuie la cancerele de piele; intensitate maximă vara, la prânz.
-- **UVA** — pătrund mai adânc, sunt prezente tot anul, trec prin nori și prin geamuri; contribuie la îmbătrânire, pete și cancer.
+## Ce înseamnă SPF: cifra din spatele etichetei
 
-Un studiu randomizat realizat în Australia a arătat că folosirea regulată a protecției solare a redus riscul de carcinom spinocelular și, pe termen lung, de melanom. Protecția solară nu înlocuiește însă umbra, îmbrăcămintea și evitarea orelor de vârf.
+Valoarea SPF se stabilește în laborator, pe voluntari. Se compară doza de radiație care produce o roșeață abia vizibilă pe pielea protejată cu doza care produce aceeași roșeață pe pielea neprotejată. Produsul se aplică într-un strat standard, de 2 miligrame pe centimetru pătrat, adică un strat mult mai gros decât pun majoritatea oamenilor.
 
-## Ce înseamnă SPF, de fapt
+Procentele ajută la înțelegerea cifrelor. Potrivit DermNet și Academiei Americane de Dermatologie (AAD), aproximativ:
 
-SPF compară doza de UVB necesară pentru a produce o roșeață pe pielea protejată cu cea necesară pe pielea neprotejată, la o cantitate standard de **2 mg de produs pe cm²**.
+- SPF 15 filtrează în jur de 93–94% din UVB;
+- SPF 30 filtrează circa 97%;
+- SPF 50 filtrează circa 98%.
 
-Vechea explicație că „SPF 30 te protejează de 30 de ori mai mult timp” este înșelătoare: intensitatea soarelui variază de la oră la oră, iar produsul se îndepărtează prin transpirație și frecare. Mai util este să știi că:
+Niciun produs nu oprește 100% din radiație. De aceea termenul „sunblock” (ecran total) este considerat înșelător.
 
-- **SPF 30** filtrează aproximativ 97% din UVB, iar **SPF 50** aproximativ 98%, în condiții de testare;
-- în viața reală, aplicăm de obicei mult mai puțin produs, deci protecția obținută e mai mică decât cea de pe etichetă — de aceea un SPF mai mare oferă o marjă de siguranță.
+Explicația care circulă des, că „SPF 30 vă permite să stați la soare de 30 de ori mai mult”, este un calcul teoretic. În realitate, intensitatea soarelui se schimbă de la oră la oră, produsul se șterge cu prosopul și se elimină prin transpirație, iar cantitatea aplicată este aproape întotdeauna mai mică decât la testare. Organizația Mondială a Sănătății avertizează explicit că protecția solară nu trebuie folosită pentru a prelungi timpul petrecut la soare.
 
-### Protecția UVA
+Atunci de ce ar alege cineva SPF 50, dacă diferența față de SPF 30 pare mică? Pentru că în viața reală pierdem o parte din protecție prin aplicarea prea subțire. Un SPF mai mare oferă o marjă de siguranță, utilă la mare, la munte, pentru pielea foarte deschisă sau pentru cei care fac ușor pete. Cât produs înseamnă de fapt „suficient” și când trebuie reaplicat am explicat separat, în ghidul despre [cum se aplică corect protecția solară](/blog/cum-aplici-corect-protectia-solara/).
 
-În Uniunea Europeană, recomandarea Comisiei Europene prevede ca protecția UVA a unui produs să fie de cel puțin o treime din valoarea SPF; produsele care îndeplinesc acest criteriu poartă **simbolul „UVA” într-un cerc**. Pe ambalaje mai vezi și clasificări precum „protecție scăzută / medie / ridicată / foarte ridicată”.
+## Protecția UVA: cercul mic de pe ambalaj
 
-## Filtre minerale vs. chimice: diferențele reale
+Pentru UVA nu există o cifră la fel de cunoscută ca SPF. În Europa, informația apare sub forma unui simbol: literele „UVA” într-un cerc. El poate fi folosit atunci când protecția UVA a produsului reprezintă cel puțin o treime din valoarea SPF și când filtrele acoperă suficient de bine lungimile de undă mai mari (așa-numita lungime de undă critică, de cel puțin 370 nm).
 
-Termenii obișnuiți sunt puțin înșelători: toate filtrele sunt substanțe chimice. Specialiștii preferă **filtre anorganice (minerale)** și **filtre organice**.
+Concret, pentru dumneavoastră înseamnă un lucru simplu: dacă cercul lipsește, produsul poate avea un SPF mare și o protecție UVA modestă. Pe ambalajele din UE mai apar și categorii de protecție („scăzută”, „medie”, „ridicată”, „foarte ridicată”), iar SPF 50+ corespunde categoriei celei mai înalte.
 
-| | Filtre minerale (anorganice) | Filtre organice („chimice”) |
+Merită privite cu atenție și alte mențiuni. „Rezistent la apă” înseamnă că produsul își păstrează o parte din protecție după o imersie de durată limitată, testată în laborator. Nu există însă produse „waterproof” sau „sweatproof” în sensul propriu al cuvântului, iar după baie și ștergerea cu prosopul protecția se reaplică.
+
+## Filtre minerale și filtre organice
+
+Denumirea uzuală, „filtre chimice” față de „filtre fizice”, creează confuzie. Toate filtrele sunt substanțe chimice. Specialiștii vorbesc despre filtre anorganice (minerale) și filtre organice.
+
+| | Filtre minerale | Filtre organice |
 |---|---|---|
-| Exemple | oxid de zinc, dioxid de titan | avobenzonă, octocrilen, bemotrizinol, bisoctrizol și altele |
-| Cum acționează | În principal **absorb** UV; reflectă și împrăștie doar o mică parte | Absorb UV și eliberează energia sub formă de căldură |
-| Toleranță | Foarte bine tolerate; rar alergii | Bine tolerate de majoritatea; rar iritații sau alergii la unele filtre |
-| Textură | Pot lăsa o tentă albă, mai ales pe pielea închisă; formulele colorate o reduc | De obicei mai lejere, invizibile |
-| Stabilitate | Stabile la lumină | Unele filtre se degradează la soare, dar formulele moderne le stabilizează |
-| Potrivite pentru | Piele foarte sensibilă, reactivă, copii, după proceduri | Uz zilnic, sub machiaj, piele grasă |
+| Exemple | oxid de zinc, dioxid de titan | numeroase molecule sintetice, adesea combinate |
+| Cum acționează | în principal prin absorbția radiației; reflectă doar o mică parte | prin absorbția radiației |
+| Toleranță | foarte rar alergii; preferate de multe ori pentru pielea sensibilă | bine tolerate de majoritatea; rar, dermatită de contact sau reacții la lumină |
+| Aspect | pot lăsa o tentă albă, mai vizibilă pe pielea închisă | de obicei invizibile, texturi mai fluide |
 
-Câteva corecturi față de ideile care circulă des:
+Ideea că filtrele minerale ar funcționa „ca o oglindă” a fost în mare parte corectată de studii: și ele acționează mai ales prin absorbție. AAD recomandă formulele minerale pentru pielea sensibilă, iar multe produse moderne sunt hibride, combinând ambele tipuri.
 
-- **„Filtrele minerale doar reflectă razele, ca o oglindă.”** Studiile arată că oxidul de zinc și dioxidul de titan acționează în cea mai mare parte prin absorbție.
-- **„Filtrele chimice trebuie reaplicate mai des.”** Nu. Frecvența de reaplicare depinde de expunere, de transpirație, de apă și de frecare, nu de tipul de filtru.
-- **„Filtrele chimice sunt periculoase.”** Filtrele permise în UE sunt evaluate de comitetul științific european pentru siguranța consumatorilor; pentru unele, concentrațiile maxime au fost restricționate tocmai pe baza acestor evaluări.
-- **„Minerale = non-comedogene, chimice = comedogene.”** Comedogenitatea depinde de întreaga formulă, nu de tipul de filtru.
+Despre siguranță, discuția publică este adesea mai dramatică decât datele. DermNet notează că unele filtre organice pot fi detectate în sânge după aplicare și că semnificația acestui fapt este încă studiată. În același timp, după decenii de folosire nu au fost identificate efecte nocive la om, iar beneficiul protecției solare este considerat prioritar. Aceeași concluzie apare pentru nanoparticulele de oxid de zinc și dioxid de titan: îngrijorările sunt teoretice, nu demonstrate.
 
-Multe produse moderne sunt **hibride**, combinând ambele tipuri de filtre pentru protecție largă și textură plăcută.
+## Lumina vizibilă și produsele nuanțate
 
-## Cum alegi protecția solară potrivită
+Filtrele UV obișnuite nu opresc lumina vizibilă. Pentru majoritatea oamenilor asta nu are importanță practică. Pentru cei cu melasmă sau cu tendință la pete după inflamații, mai ales pe pielea mai închisă, lumina vizibilă poate însă accentua pigmentarea.
 
-- **Piele sensibilă sau reactivă, rozacee, copii mici**: filtre minerale sau formule fără parfum, testate pe pielea ta. Vezi [rutina corectă pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
-- **Piele grasă sau acneică**: fluide, geluri, texturi lejere, non-comedogene.
-- **Pete pigmentare sau melasmă**: SPF 50, spectru larg, ideal **colorat** (cu oxizi de fier), care protejează și de lumina vizibilă. Vezi [cum previi petele pigmentare](/blog/cum-previi-petele-pigmentare/).
-- **Sport, plajă, piscină**: produs rezistent la apă, reaplicat după ieșirea din apă.
-- **Bebeluși sub 6 luni**: în primul rând umbră și îmbrăcăminte; despre produse, vezi [protecția solară la copii](/blog/protectia-solara-la-copii/).
+Aici intervin produsele nuanțate (colorate), care conțin oxizi de fier. Pigmentul care le dă culoare blochează și o parte din lumina vizibilă. Oxizii de fier apar de obicei în lista de ingrediente, nu pe partea din față a ambalajului. Legătura dintre lumină și pete este detaliată în articolul despre [cum se previn petele pigmentare](/blog/cum-previi-petele-pigmentare/).
 
-## Cum aplici corect
+## Alegerea produsului, în funcție de situație
 
-- **Cantitate**: pentru față și gât, aproximativ cât lungimea a două degete de produs (sau o jumătate de linguriță). Pentru tot corpul, la un adult, aproximativ 30–35 ml (cam un păhărel plin).
-- **Momentul**: la final, după crema hidratantă, cu câteva minute înainte de a ieși.
-- **Nu uita**: urechile, gâtul, ceafa, dosul mâinilor, picioarele, scalpul descoperit, buzele (balsam cu SPF).
-- **Reaplicare**: la aproximativ 2 ore când ești afară, și după înot, transpirație sau ștergere. La birou, departe de ferestre, aplicarea de dimineață este de obicei suficientă; reaplică înainte de a ieși la soare.
-- **Peste machiaj**: spray-urile sau pudrele cu SPF pot ajuta la reaplicare, dar sunt greu de dozat; nu le baza ca singură protecție.
+Nu există un produs ideal pentru toată lumea, dar câteva repere ajută:
 
-Ghidul detaliat: [cum aplici corect protecția solară](/blog/cum-aplici-corect-protectia-solara/).
+- **piele sensibilă, reactivă sau cu rozacee**: formule fără parfum, adesea minerale; detalii în [rutina pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/);
+- **piele grasă sau cu tendință acneică**: fluide sau geluri, etichetate non-comedogen;
+- **pete pigmentare sau melasmă**: spectru larg, SPF ridicat, de preferat nuanțat;
+- **sport, înot, transpirație abundentă**: produs rezistent la apă, reaplicat după ieșirea din apă;
+- **bebeluși și copii**: regulile diferă de la o vârstă la alta, așa că le-am adunat în ghidul despre [protecția solară la copii](/blog/protectia-solara-la-copii/).
 
-### Și vitamina D?
+În rest, alegerea ține de textură, de cât de bine se integrează produsul în rutina de dimineață și de tentă. Un produs neplăcut, care rămâne în sertar, nu protejează pe nimeni.
 
-Protecția solară folosită corect nu provoacă de obicei deficit de vitamina D. Dacă ai risc de deficit, discută cu medicul despre analize și suplimentare, în loc să renunți la protecție.
+## Ce nu scrie pe etichetă, dar contează
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+**Termenul de valabilitate.** Un produs expirat, sau unul care și-a schimbat culoarea ori consistența, nu mai oferă protecția declarată. Căldura grăbește degradarea, așa că torpedoul mașinii, vara, nu este un loc bun de păstrare.
 
-## Când să mergi la dermatolog
+**Machiajul și crema de zi cu SPF.** Sunt utile ca supliment, dar cantitatea de fond de ten pe care o aplicăm nu se apropie de cea folosită la testare. Pentru zilele petrecute afară, ele nu înlocuiesc o protecție solară propriu-zisă.
 
-Programează o consultație dacă:
+**Zilele înnorate.** Potrivit AAD, până la 80% din radiația UV poate trece prin nori. O zi de vară cu cer acoperit, la munte sau pe malul mării, nu este o zi fără UV.
 
-- ai **o aluniță sau o pată nouă** sau una care se schimbă, sângerează sau nu se vindecă;
-- faci **reacții** (roșeață, mâncărime, vezicule) după protecția solară sau după expunerea la soare, chiar scurtă;
-- ai avut **arsuri solare repetate** sau istoric familial de melanom și vrei un control al pielii;
-- iei medicamente care cresc sensibilitatea la soare și nu știi cum să te protejezi;
-- ai **melasmă** sau pete care se accentuează în ciuda protecției solare.
+**Vitamina D.** Protecția solară poate reduce producția de vitamina D în piele. AAD recomandă ca vitamina D să provină din alimentație și, la nevoie, din suplimente stabilite împreună cu medicul, nu din expunerea neprotejată. OMS precizează, la rândul ei, că bronzarea artificială nu trebuie folosită niciodată ca sursă de vitamina D.
+
+**Umbra și hainele.** OMS consideră umbra și îmbrăcămintea o protecție mai bună decât crema. Produsul cu SPF completează aceste măsuri, nu le înlocuiește.
+
+## Ce poate clarifica o discuție cu dermatologul
+
+Pentru majoritatea oamenilor, informațiile de mai sus sunt suficiente pentru a alege singuri un produs. Există însă situații în care alegerea nu mai ține doar de textură: pielea reacționează la aproape orice protecție solară, tratamentul pe care îl urmați crește sensibilitatea la soare sau pielea are deja semne de expunere îndelungată.
+
+În cadrul unui consult, dermatologul poate examina pielea, poate discuta istoricul de expunere și reacțiile anterioare și, dacă e nevoie, poate recomanda teste pentru o posibilă alergie de contact. Consultul nu înseamnă un produs „perfect”, ci o alegere mai bine adaptată situației dumneavoastră.
+
+## Când poate fi util un consult dermatologic?
+
+- când apar roșeață, mâncărime sau mici vezicule după aplicarea mai multor produse de protecție solară diferite;
+- când pielea reacționează (erupție, înroșire, prurit) după expuneri scurte la soare, mai ales dacă ați început recent un medicament nou; nu întrerupeți însă un tratament prescris fără să discutați cu medicul;
+- când observați pe zonele expuse (față, urechi, scalp, dosul mâinilor) pete aspre la atingere, care persistă; articolul despre [keratoza actinică](/blog/keratoza-actinica/) explică de ce acestea merită evaluate;
+- când aveți multe alunițe, arsuri solare repetate în trecut sau rude apropiate cu melanom și doriți un control al pielii;
+- când petele de pe față se accentuează în ciuda unei protecții solare folosite corect.
+
+Niciuna dintre aceste situații nu înseamnă, de la sine, un diagnostic. Ele sunt doar motive rezonabile pentru o evaluare.
+
+Eticheta unei protecții solare spune mai mult decât pare la prima vedere. SPF descrie protecția față de arsură, cercul „UVA” descrie protecția față de radiațiile care pătrund mai adânc, iar tipul de filtru ține mai mult de toleranță și preferință decât de eficiență. Restul depinde de cât produs aplicați și cât de des.
+
+## Dacă doriți o evaluare individuală
+
+Dacă aveți reacții repetate la produsele de protecție solară, urmați un tratament care vă face pielea mai sensibilă la lumină sau doriți să discutați despre modificările apărute pe zonele expuse, puteți programa o consultație la Dr. Mădălina Iulia Lincu, medic specialist dermatovenerolog. Găsiți [programul și locațiile](/program/) aici.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare. Articolul explică eticheta (SPF, UVA, tipuri de filtre, mențiuni) și lasă tehnica de aplicare pentru „cum-aplici-corect-protectia-solara”, iar copiii pentru „protectia-solara-la-copii”, ca să nu se repete în serie.
+- Afirmații de confirmat clinic: procentele de filtrare UVB (după DermNet și AAD); criteriile simbolului UVA (cel puțin 1/3 din SPF, lungime de undă critică ≥ 370 nm), preluate din DermNet; afirmația despre siguranța filtrelor organice și a nanoparticulelor (DermNet); recomandarea de filtre minerale pentru pielea sensibilă (AAD).
+- Informații lipsă / de completat: valorile exacte ale categoriilor de protecție din UE (scăzută/medie/ridicată/foarte ridicată) nu au fost incluse, pentru că textul oficial nu a putut fi deschis; dacă le doriți în articol, trebuie verificate în Recomandarea 2006/647/CE. Se poate adăuga, opțional, o observație din practică despre reacțiile la protecția solară.
+- Surse care nu au putut fi verificate: Recomandarea Comisiei 2006/647/CE (EUR-Lex nu a returnat conținut); studiul Green și colab. (J Clin Oncol, 2011) și studiul Cole și colab. (2016), citate în versiunea anterioară, nu au fost deschise și au fost scoase din listă.

@@ -1,152 +1,133 @@
 ---
-title: "Cum previi petele pigmentare și cum le ții sub control"
-description: "De ce apar petele pigmentare, cum le previi cu protecție solară corectă și ce tratamente au dovezi, de la cosmetice la proceduri la dermatolog."
+title: "Cum se previn petele pigmentare și de ce contează tipul petei"
+description: "Pistrui, pete solare, urme după acnee sau melasmă: de ce apar petele pigmentare, cum le puteți preveni și când merită o evaluare dermatologică."
 pubDate: 2025-08-21
 updatedDate: 2026-10-01
 category: "afectiuni"
-tags: ["pete pigmentare", "hiperpigmentare", "melasmă", "protecție solară"]
+tags: ["pete pigmentare", "hiperpigmentare", "protecție solară", "prevenție"]
 draft: true
 faq:
   - q: "Petele pigmentare dispar singure?"
-    a: "Unele, da: petele maronii rămase după coșuri sau iritații se estompează adesea în câteva luni, dacă pielea este protejată de soare. Petele solare (lentigo) și melasma de obicei nu dispar singure și au nevoie de prevenție constantă și, uneori, de tratament."
-  - q: "Ce SPF previne petele pigmentare?"
-    a: "O protecție solară cu spectru larg (UVA și UVB), de preferat SPF 50, aplicată zilnic în cantitate suficientă. Pentru melasmă și pielea mai închisă la culoare, produsele colorate cu oxizi de fier oferă și protecție față de lumina vizibilă."
-  - q: "În cât timp se văd rezultate la tratamentul petelor?"
-    a: "De regulă după 8–12 săptămâni de tratament constant, iar rezultatele complete pot cere câteva luni. Fără protecție solară zilnică, petele revin ușor."
-  - q: "Pot folosi suc de lămâie sau oțet pe pete?"
-    a: "Nu este recomandat. Pot irita pielea, iar iritația poate închide și mai mult petele; lămâia aplicată pe piele și expusă la soare poate provoca și o reacție fototoxică."
+    a: "Unele, da. Petele rămase după un coș sau o iritație se estompează adesea în luni, dacă pielea este protejată de soare și nu este iritată din nou; petele solare și melasma, de obicei, nu dispar de la sine."
+  - q: "Ce protecție solară este potrivită pentru pielea cu tendință la pete?"
+    a: "Un produs cu spectru larg, cu SPF de cel puțin 30, folosit zilnic. Academia Americană de Dermatologie recomandă pentru pete variantele nuanțate, cu oxizi de fier, care oferă protecție și față de lumina vizibilă."
+  - q: "Pot folosi suc de lămâie pe pete?"
+    a: "Nu este recomandat. Sucul unor citrice, combinat cu expunerea la soare, poate provoca o reacție inflamatorie care lasă, paradoxal, pete închise ce pot persista mult timp."
+  - q: "În cât timp se estompează o pată pigmentară?"
+    a: "Depinde de tipul și profunzimea ei. Potrivit Academiei Americane de Dermatologie, o pată cu câteva nuanțe mai închisă decât pielea se estompează de obicei în 6–12 luni după îndepărtarea cauzei, iar pigmentul mai profund poate persista ani."
 sources:
-  - title: "Interventions for melasma"
-    publisher: "Cochrane Database of Systematic Reviews (Rajaratnam și colab., 2010)"
-  - title: "Melasma: Diagnosis and treatment"
-    publisher: "American Academy of Dermatology"
-  - title: "Regulamentul (CE) nr. 1223/2009 privind produsele cosmetice"
-    publisher: "Parlamentul European și Consiliul Uniunii Europene"
-  - title: "Visible light induces melanogenesis in human skin through a photoadaptive response"
-    publisher: "PLoS One (Randhawa și colab., 2015)"
+  - title: "How to fade dark spots in darker skin tones"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/fade-dark-spots"
+  - title: "Melasma: Self-care"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/melasma-self-care"
+  - title: "Solar lentigo"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/solar-lentigo"
+  - title: "Postinflammatory hyperpigmentation"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/postinflammatory-hyperpigmentation"
+  - title: "Phytophotodermatitis"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/phytophotodermatitis"
 ---
 
-Petele pigmentare apar când pielea produce melanină în exces într-o zonă, cel mai des din cauza expunerii la soare, a inflamației (coșuri, iritații) sau a influențelor hormonale. Cea mai eficientă prevenție este protecția solară zilnică, cu spectru larg, aplicată corect, alături de evitarea iritării pielii. Petele deja apărute se pot estompa cu ingrediente și tratamente cu dovezi, dar rezultatele cer luni de constanță.
+La sfârșitul verii, în oglinda din baie, pe pomeți sau pe frunte apar uneori câteva pete maronii care în primăvară nu erau acolo. Pentru unele persoane sunt pistrui care se vor estompa până în decembrie. Pentru altele sunt urme lăsate de câteva coșuri. Iar pentru altele, pete care se întorc în fiecare an, în același loc.
 
-## Pe scurt
+Petele pigmentare apar atunci când pielea produce, local, mai multă melanină (pigmentul care dă culoarea pielii). Cele mai frecvente cauze sunt soarele, inflamația și influențele hormonale. Cum se previn petele pigmentare, dacă le privim pe toate la un loc? Prin protecție solară zilnică, cu spectru larg, și prin evitarea iritării pielii. Dar detaliile prevenției diferă în funcție de tipul petei, iar unele pete care par banale merită privite de un dermatolog.
 
-- Cele mai frecvente pete sunt **lentigo solar** („petele de soare”), **hiperpigmentarea postinflamatorie** (după coșuri sau iritații) și **melasma** (legată de hormoni și lumină).
-- Prevenția de bază: **SPF 50 cu spectru larg în fiecare zi**, reaplicat când stai mult afară, plus pălărie și umbră.
-- Pentru melasmă, contează și **lumina vizibilă**: produsele de protecție colorate (cu oxizi de fier) ajută.
-- Ingredientele cosmetice utile (niacinamidă, acid azelaic, vitamina C, retinoizi) estompează treptat; tratamentele puternice se fac la recomandarea medicului.
-- O pată nouă, care se schimbă, sângerează sau arată diferit de celelalte trebuie văzută de dermatolog.
+## Nu toate petele sunt la fel
 
-## Ce sunt petele pigmentare și de ce apar
+Sub termenul popular de „pete pigmentare” se ascund afecțiuni diferite, cu evoluții diferite. Cele mai frecvente sunt:
 
-Melanina este pigmentul care dă culoarea pielii și o protejează de radiațiile UV. Celulele care o produc (melanocitele) pot deveni „hiperactive” local, iar rezultatul este o pată mai închisă decât pielea din jur.
-
-### Tipuri frecvente de pete
-
-| Tip | Cum arată | Cauză principală |
+| Tip | Cum arată, de obicei | Ce le favorizează |
 |---|---|---|
-| Lentigo solar | Pete maronii, bine delimitate, pe față, mâini, decolteu | Expunere cumulată la soare, de-a lungul anilor |
-| Pistrui (efelide) | Pete mici, deschise, care se închid vara | Predispoziție genetică plus soare |
-| Hiperpigmentare postinflamatorie | Pete maronii sau cenușii în locul unor coșuri, înțepături, iritații | Inflamație; mai frecventă la pielea mai închisă |
-| Melasmă | Pete simetrice pe obraji, frunte, buza superioară | Hormoni (sarcină, contraceptive), soare, lumină vizibilă, predispoziție |
+| Pistrui (efelide) | pete mici, deschise la culoare, care se închid vara și pălesc mult iarna | predispoziție genetică și soare |
+| Lentigo solar („pete de soare”, „pete de vârstă”) | pete plate, bine delimitate, de câțiva milimetri până la câțiva centimetri, pe dosul mâinilor, antebrațe, față, partea de sus a trunchiului | expunerea cumulată la UV, de-a lungul anilor |
+| Hiperpigmentare postinflamatorie | pete maronii sau cenușii exact în locul unui coș, al unei zgârieturi, arsuri sau eczeme | inflamația; mai intensă și mai persistentă pe pielea închisă |
+| Melasmă | pete simetrice, cu margini neregulate, pe obraji, frunte, buza superioară | soare, lumină vizibilă, hormoni, predispoziție |
 
-Melasma are un articol separat: [melasma — cauze și tratament](/blog/melasma/).
+Diferența dintre pistrui și lentigo solar este una dintre cele mai utile de reținut: pistruii se estompează considerabil iarna, pe când lentigo-urile solare rămân tot anul și se pot accentua vara. Cele două afecțiuni care ridică cele mai multe întrebări au articole separate: [melasma](/blog/melasma/) și [hiperpigmentarea postinflamatorie](/blog/hiperpigmentarea-postinflamatorie/).
 
-## Cum previi petele pigmentare
+## Prevenția începe de la soare, dar nu se oprește acolo
 
-### 1. Protecție solară zilnică, aplicată corect
+Pentru toate tipurile de mai sus, radiația ultravioletă fie declanșează pata, fie o închide la culoare. DermNet arată că protecția solară strictă reduce apariția de noi lentigo-uri solare și le poate estompa ușor pe cele existente, iar în hiperpigmentarea postinflamatorie previne închiderea la culoare a petelor.
 
-Radiațiile UVA, prezente tot anul și care trec prin geamuri, sunt importante pentru pigmentare. De aceea:
+Ce înseamnă concret, pentru pielea cu tendință la pete:
 
-- folosește un produs cu **spectru larg** (pe ambalajele din UE, simbolul „UVA” într-un cerc), ideal **SPF 50**;
-- aplică **o cantitate suficientă**: pentru față și gât, aproximativ cât lungimea a două degete de produs;
-- **reaplică** la aproximativ 2 ore când ești afară mult timp, și după baie, transpirație sau ștergere cu prosopul. Dacă stai la birou, departe de fereastră, aplicarea de dimineață este de obicei suficientă, cu reaplicare înainte de a ieși la prânz sau după-amiază.
+- un produs cu spectru larg, cu SPF de cel puțin 30, folosit zilnic, nu doar vara sau doar la mare;
+- reaplicarea atunci când petreceți mult timp afară;
+- pălărie cu boruri largi, umbră și ochelari de soare, care nu depind de cât de bine ați întins crema;
+- evitarea solarului, despre care Academia Americană de Dermatologie (AAD) spune că poate agrava melasma și poate interfera cu tratamentul.
 
-Detalii despre cantitate și reaplicare găsești în ghidul despre [cum aplici corect protecția solară](/blog/cum-aplici-corect-protectia-solara/).
+Pentru detaliile tehnice (cât produs, când, cât de des) puteți citi ghidul despre [cum se aplică protecția solară](/blog/cum-aplici-corect-protectia-solara/). Aici ne interesează o nuanță specifică petelor.
 
-### 2. Protecție și față de lumina vizibilă
+### Lumina vizibilă, factorul uitat
 
-Studiile arată că lumina vizibilă (în special cea albastru-violet) poate stimula pigmentarea, mai ales la fototipurile mai închise și la persoanele cu melasmă. Filtrele UV obișnuite nu o blochează. Produsele de protecție **colorate**, care conțin oxizi de fier, oferă o protecție suplimentară.
+Filtrele UV obișnuite nu opresc lumina vizibilă. Pentru persoanele cu melasmă sau cu pete după inflamații, mai ales pe pielea medie sau închisă, lumina vizibilă poate accentua pigmentarea. AAD recomandă în aceste situații o protecție solară nuanțată, cu oxizi de fier, care blochează și o parte din lumina vizibilă. Oxizii de fier apar, de regulă, în lista de ingrediente; nuanța aleasă ar trebui să se potrivească tenului, ca produsul să fie folosit cu plăcere.
 
-### 3. Protecție fizică
+## Pielea iritată produce mai mult pigment
 
-Pălăria cu boruri largi, ochelarii de soare, umbra între orele 11 și 16 și hainele cu țesătură deasă reduc mult expunerea. Sunt la fel de importante ca produsul de protecție, nu înlocuitori ai lui.
+Al doilea pilon al prevenției este mai puțin intuitiv. Orice inflamație a pielii poate lăsa în urmă o pată: un coș stors, o zgârietură, o eczemă, o arsură la cuptor, dar și un produs cosmetic care irită. AAD notează că, odată oprită iritația, petele de acest fel încetează de obicei să mai apară și se estompează treptat.
 
-### 4. Nu irita pielea
+Câteva situații frecvente:
 
-Orice inflamație poate lăsa o pată, mai ales dacă ai pielea mai închisă la culoare:
+- **Coșurile stoarse.** Manipularea leziunilor de acnee prelungește vindecarea și crește riscul de pete și cicatrici. Tratarea din timp a acneei este, în sine, o formă de prevenție.
+- **Produsele care ustură.** AAD recomandă ca un produs care arde sau înțeapă să fie oprit, pentru că iritația poate închide petele la culoare. Formulele fără parfum, pentru pielea sensibilă, sunt o alegere mai sigură.
+- **Exfolierea agresivă și peelingurile acasă.** AAD avertizează că pe pielea mai închisă la culoare chiar și variantele de uz casnic ale peelingurilor, microdermabraziunii sau dispozitivelor cu lumină pot lăsa pete închise sau, dimpotrivă, pete deschise, uneori permanente.
+- **Remediile din bucătărie.** Sucul de lămâie sau de lime, întins pe piele și urmat de expunere la soare, poate provoca o reacție numită fitofotodermatită: o inflamație cu roșeață și uneori bășici, care lasă în urmă pete închise ce pot persista ani. Este exact opusul efectului dorit.
 
-- nu stoarce coșurile și nu „scobi” crustele;
-- tratează acneea din timp — vezi [mituri despre acnee](/blog/mituri-despre-acnee/);
-- evită scrubul agresiv, exfolierea prea deasă și remediile „din bucătărie” (lămâie, oțet, bicarbonat).
+## Medicamente, hormoni și pete
 
-### 5. Fii atent la factorii hormonali și la medicamente
+Unele medicamente pot provoca sau accentua pete pigmentare, fie direct, fie prin creșterea sensibilității pielii la lumină. Sarcina și contraceptivele hormonale sunt asociate cu melasma. AAD este fermă într-un punct: nu întrerupeți singuri un tratament prescris. Întrebați medicul care l-a recomandat dacă petele pot fi un efect secundar și dacă există o alternativă.
 
-Sarcina și contraceptivele hormonale pot declanșa melasma. Unele medicamente cresc sensibilitatea la soare (anumite antibiotice, diuretice, retinoizi). Nu întrerupe singur un tratament; discută cu medicul și protejează-te mai riguros de soare.
+## Ingrediente care pot estompa petele deja apărute
 
-## Cum se tratează petele pigmentare
+Prevenția nu șterge petele existente, dar le împiedică să se închidă la culoare și să se înmulțească. Pentru cele deja apărute, AAD menționează câteva ingrediente disponibile fără rețetă care pot ajuta la estompare: acidul azelaic, acidul glicolic, acidul kojic, [vitamina C](/blog/vitamina-c-in-skincare/) și retinoizii (de exemplu retinolul). DermNet adaugă pe listă și niacinamida, printre altele.
 
-### Ingrediente cosmetice care pot estompa petele
+Două precizări realiste. Prima: efectul este lent. Potrivit AAD, o pată cu câteva nuanțe mai închisă decât pielea din jur se estompează de obicei în 6–12 luni după îndepărtarea cauzei, iar pigmentul aflat mai profund în piele, care are adesea o nuanță cenușie sau albăstruie, poate persista ani. A doua: introducerea mai multor ingrediente active simultan crește riscul de iritație, iar iritația, cum am văzut, produce pigment.
 
-Aceste ingrediente reduc treptat aspectul petelor, dacă sunt folosite constant și combinate cu protecție solară:
+### Petele solare: un caz aparte
 
-- **Niacinamida** — bine tolerată, reduce transferul pigmentului către celulele pielii. Vezi [niacinamida](/blog/niacinamida/).
-- **Acidul azelaic** — util și la pielea cu acnee sau rozacee; în concentrații mai mari este medicament, eliberat pe prescripție.
-- **Vitamina C** (acid ascorbic și derivați) — antioxidant, poate uniformiza tenul.
-- **Retinoizii** — accelerează reînnoirea pielii; pot irita la început.
-- **Alte ingrediente**: acid tranexamic topic, arbutină, acid kojic, exfolianți ușori (AHA în concentrații mici).
+Lentigo-urile solare merită o mențiune separată, pentru că sunt foarte frecvente după vârsta mijlocie, mai ales la persoanele cu pielea deschisă, și pot apărea și după arsuri solare sau ședințe repetate la solar. DermNet notează că la copii sunt neobișnuite, cu excepția celor foarte expuși la soare. Cremele cosmetice le estompează de obicei puțin.
 
-Cosmeticele nu „elimină” petele; le pot estompa. Rezultatele apar de obicei după 8–12 săptămâni.
+Tratamentul lor nu este necesar din punct de vedere medical; se face, când se face, din motive estetice. DermNet enumeră mai multe variante folosite de medici: înghețarea cu azot lichid (crioterapia), laserele care țintesc pigmentul, lumina intens pulsată, peelingurile chimice, retinoizii și depigmentantele aplicate local. Combinațiile au cele mai bune rezultate, dar metodele care distrug superficial pielea pot lăsa, temporar sau permanent, pete mai deschise ori mai închise. Fără protecție solară după tratament, petele tind să revină.
 
-### Tratamente prescrise de medic
+## Ce să evitați
 
-- **Hidrochinona** — în Uniunea Europeană nu este permisă în cosmeticele pentru piele; se folosește doar pe prescripție, pe perioade limitate și sub supraveghere, din cauza riscului de iritație și, rar, de pigmentare paradoxală (ocronoză).
-- **Combinația triplă** (hidrochinonă, un retinoid și un corticosteroid slab) — una dintre opțiunile cu cele mai bune dovezi în melasmă, folosită pe termen scurt, sub control medical.
-- **Retinoizi pe bază de prescripție** (de exemplu tretinoina).
-- **Acidul tranexamic administrat oral** — o opțiune pentru melasma rezistentă, care se decide doar de medic, după evaluarea riscului de tromboză și a contraindicațiilor.
+AAD semnalează că unele produse de „albire” a pielii, cumpărate din surse neclare, au conținut corticosteroizi nedeclarați sau mercur. Corticosteroizii puternici folosiți necontrolat pe față pot provoca acnee, erupții, subțierea pielii și modificări de culoare permanente. Lipsa unei etichete clare, promisiunea unor rezultate în câteva zile și proveniența incertă sunt motive suficiente pentru a renunța la un astfel de produs.
 
-### Proceduri la dermatolog
+## Ce nu se poate stabili privind în oglindă
 
-- **Peelingurile chimice** (de exemplu cu acid glicolic sau salicilic) pot ajuta, dar trebuie alese și dozate atent, mai ales la pielea închisă, ca să nu producă pigmentare nouă.
-- **Laserul și lumina intens pulsată (IPL)** dau rezultate bune pe lentigo solar, dar în melasmă pot agrava petele și se folosesc cu prudență, doar după o evaluare atentă.
+Cele mai multe pete pigmentare sunt benigne. Totuși, câteva lucruri nu pot fi lămurite doar din informații generale.
 
-Înaintea oricărei proceduri, dermatologul trebuie să confirme ce fel de pată este. Unele leziuni care par „simple pete” pot fi altceva (de exemplu un melanom de tip lentigo malign), iar acestea nu se tratează cu laser sau creme.
+Lentigo-urile solare sunt, în sine, inofensive, dar DermNet arată că ele reflectă o expunere îndelungată la soare și sunt asociate cu un risc mai mare de cancer de piele, inclusiv de melanom. Mai mult, unele leziuni pigmentate pot semăna cu un lentigo solar: o keratoză seboreică plată, o [keratoză actinică](/blog/keratoza-actinica/) pigmentată sau, rar, un melanom in situ. Uneori, distincția se face doar prin examinare dermatoscopică sau prin biopsie.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+De aceea, înainte de orice tratament „de estompare”, mai ales de proceduri cu laser sau lumină pulsată, este important să se știe ce fel de pată este.
 
-## O rutină simplă pentru pielea cu tendință la pete
+## Când poate fi util un consult dermatologic?
 
-| Moment | Pas | Exemple |
-|---|---|---|
-| Dimineața | Curățare blândă | Gel sau cremă de curățare fără parfum |
-| Dimineața | Antioxidant sau ingredient anti-pete (opțional) | Ser cu vitamina C sau niacinamidă |
-| Dimineața | Protecție solară | SPF 50, spectru larg, ideal colorat |
-| Seara | Curățare | Demachiere completă, fără frecare |
-| Seara | Ingredient activ (alternativ, nu toate odată) | Retinoid, acid azelaic sau un exfoliant blând |
-| Seara | Hidratare | Cremă fără parfum, care susține bariera |
+O evaluare dermatologică poate clarifica natura petelor și poate ajuta la alegerea unei abordări potrivite. Poate fi utilă în special atunci când:
 
-Introdu ingredientele active pe rând, la câteva săptămâni distanță, ca să vezi ce tolerezi. Dacă pielea se irită, reduce frecvența: o piele inflamată produce mai mult pigment, nu mai puțin.
+- o pată este nouă și arată diferit de celelalte de pe corp;
+- o pată își schimbă forma, dimensiunea sau culoarea, are mai multe nuanțe sau margini neregulate, sângerează, face crustă sau provoacă mâncărime;
+- petele de pe față se accentuează în ciuda unei protecții solare folosite corect;
+- petele au apărut după începerea unui medicament nou;
+- ați folosit luni la rând produse cosmetice fără nicio ameliorare;
+- vă gândiți la un peeling, la laser sau la un tratament pe bază de prescripție.
 
-## Mituri despre petele pigmentare
+Prezența unuia dintre aceste semne nu înseamnă un diagnostic, ci un motiv pentru o examinare.
 
-- **„Petele apar doar vara.”** Fals. UVA și lumina vizibilă acționează tot anul, iar petele se pot accentua și iarna, dacă renunți la protecție.
-- **„Dacă am pielea închisă la culoare, nu am nevoie de protecție solară.”** Fals. Pielea mai închisă face mai ușor pete postinflamatorii și melasmă, iar protecția (inclusiv față de lumina vizibilă) este esențială.
-- **„Un produs puternic le șterge în câteva zile.”** Fals. Produsele care promit rezultate foarte rapide sunt adesea iritante sau conțin substanțe interzise.
-- **„Laserul rezolvă orice pată.”** Fals. Laserul funcționează bine pe unele tipuri de pete, dar în melasmă poate agrava situația.
+Petele pigmentare au cauze diferite, dar prevenția lor are un numitor comun: protecție solară constantă, inclusiv față de lumina vizibilă acolo unde contează, și o piele cât mai puțin iritată. Tratamentul, când este nevoie de el, funcționează mai bine dacă știm exact ce fel de pată tratăm.
 
-## Ce să eviți
+## Dacă doriți o evaluare individuală
 
-- Creme „de albire” cumpărate online, fără etichetare clară: unele conțin ilegal hidrochinonă în concentrații mari, corticosteroizi puternici sau mercur.
-- Folosirea pe termen lung, fără supraveghere, a cremelor cu corticosteroizi pe față.
-- Combinarea simultană a mai multor acizi și retinoizi; iritația poate închide și mai mult petele.
-- Așteptarea unor rezultate în câteva zile.
+Dacă aveți pete pe care nu le puteți încadra, pete care se schimbă sau doriți să discutați ce opțiuni de estompare sunt potrivite pentru tipul dumneavoastră de piele, puteți programa o consultație la Dr. Mădălina Iulia Lincu, medic specialist dermatovenerolog. Consultați [programul și locațiile](/program/).
 
-## Când să mergi la dermatolog
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
 
-Mergi la dermatolog dacă:
-
-- o pată este **nouă** și apare după vârsta de 40 de ani, sau **se schimbă** ca mărime, formă sau culoare;
-- pata are **margini neregulate**, **mai multe culori**, **sângerează**, face crustă sau te mănâncă;
-- pata arată diferit de celelalte pete ale tale („semnul rățuștei urâte”) — vezi [alunițe: semne de alarmă](/blog/alunite-semne-de-alarma/);
-- petele s-au extins rapid sau apar în sarcină și te deranjează;
-- ai folosit corect produse cosmetice cel puțin 3 luni, fără nicio îmbunătățire;
-- te gândești la peeling, laser sau un tratament pe bază de prescripție.
+- Obiectiv editorial: educare și recunoașterea momentului potrivit pentru consult. Articolul este „hub-ul” seriei despre pigmentare: diferențiază tipurile de pete și trimite către „melasma” și „hiperpigmentarea-postinflamatorie” pentru detalii; tratamentele prescrise sunt discutate acolo, nu aici.
+- Afirmații de confirmat clinic: termenele de estompare (6–12 luni pentru pete superficiale, ani pentru pigmentul profund), preluate din AAD; asocierea lentigo-urilor solare cu un risc crescut de melanom (DermNet); lista ingredientelor fără rețetă (AAD, DermNet).
+- Informații lipsă / de completat: opțional, o observație din practică despre cele mai frecvente confuzii între tipurile de pete. Tabelul nu include alte cauze mai rare (pete induse de medicamente, nev Ota etc.), intenționat, pentru claritate. Procedurile pentru lentigo solar sunt descrise neutru, fără a afirma că medicul le efectuează. [TODO: de confirmat de medic — oferă vreuna dintre aceste proceduri (crioterapie, laser, IPL, peeling)?]
+- Surse care nu au putut fi verificate: Cochrane „Interventions for melasma” (2010), Regulamentul (CE) 1223/2009 și studiul Randhawa (2015) din versiunea anterioară nu au fost deschise și au fost scoase din listă.

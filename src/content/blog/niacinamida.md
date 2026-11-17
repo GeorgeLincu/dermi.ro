@@ -1,142 +1,125 @@
 ---
-title: "Niacinamida: beneficii reale, concentrații și combinații"
-description: "Ce este niacinamida, ce arată studiile despre barieră, sebum, roșeață și pete, ce concentrații are sens să cauți și cu ce o poți combina."
+title: "Niacinamida: ce arată studiile și ce așteptări sunt realiste"
+description: "Ce este niacinamida, ce dovezi există pentru sebum, acnee, pete, roșeață și barieră, ce concentrații s-au studiat și unde se opresc beneficiile ei."
 pubDate: 2026-10-01
-category: ingrediente
-tags: [niacinamidă, vitamina b3, bariera pielii, pete pigmentare]
+category: "ingrediente"
+tags: ["niacinamidă", "vitamina b3", "bariera pielii", "pete pigmentare"]
 draft: true
 faq:
-  - q: "Pot folosi niacinamida în fiecare zi?"
-    a: "Da, niacinamida se tolerează în general bine și poate fi folosită zilnic, dimineața, seara sau de două ori pe zi. Dacă apar roșeață sau furnicături, alege o concentrație mai mică."
-  - q: "Se poate combina niacinamida cu vitamina C?"
-    a: "Da. Ideea că cele două se „anulează” vine din teste vechi, în condiții care nu seamănă cu folosirea obișnuită; în practică pot fi folosite în aceeași rutină."
-  - q: "Ce concentrație de niacinamidă este cea mai bună?"
-    a: "Majoritatea studiilor pe piele au folosit concentrații între aproximativ 2% și 5%. Concentrațiile mai mari nu au dovezi clare de beneficii în plus și pot irita mai ușor."
-  - q: "Este niacinamida sigură în sarcină?"
-    a: "Niacinamida topică este considerată, în general, o opțiune compatibilă cu sarcina și alăptarea. Ca pentru orice produs nou în această perioadă, e bine să discuți cu medicul."
-  - q: "Niacinamida tratează acneea?"
-    a: "Un cosmetic cu niacinamidă poate ajuta la aspectul pielii cu tendință acneică, dar nu înlocuiește tratamentul acneei. Acneea moderată sau severă se tratează cu medicamente prescrise de medic."
+  - q: "Niacinamida este același lucru cu vitamina B3?"
+    a: "Niacinamida, numită și nicotinamidă, este una dintre formele vitaminei B3. Spre deosebire de acidul nicotinic (niacina), nu provoacă de obicei înroșirea bruscă a feței."
+  - q: "Ce concentrație de niacinamidă este potrivită?"
+    a: "Studiile publicate au folosit în general concentrații între 2% și 5%. Nu există dovezi clare că o concentrație mult mai mare aduce un beneficiu suplimentar, iar dacă pielea se usucă sau se irită, puteți rări aplicarea."
+  - q: "Niacinamida poate înlocui protecția solară?"
+    a: "Nu. Niacinamida nu previne arsurile solare și nu ține locul unui produs cu protecție solară cu spectru larg."
+  - q: "Se poate folosi niacinamida împreună cu retinolul?"
+    a: "Niacinamida este în general bine tolerată și este adesea o opțiune pentru persoanele care nu suportă retinoizii. Dacă vreți să le folosiți împreună, introduceți produsele pe rând și urmăriți reacția pielii."
 sources:
-  - title: "Niacinamide: A B vitamin that improves aging facial skin appearance"
-    publisher: "Bissett D.L. și colab., Dermatologic Surgery, 2005"
-  - title: "The effect of niacinamide on reducing cutaneous pigmentation and suppression of melanosome transfer"
-    publisher: "Hakozaki T. și colab., British Journal of Dermatology, 2002"
-  - title: "Nicotinamide increases biosynthesis of ceramides as well as other stratum corneum lipids to improve the epidermal permeability barrier"
-    publisher: "Tanno O. și colab., British Journal of Dermatology, 2000"
-  - title: "Topical nicotinamide compared with clindamycin gel in the treatment of inflammatory acne vulgaris"
-    publisher: "Shalita A.R. și colab., International Journal of Dermatology, 1995"
-  - title: "A Phase 3 Randomized Trial of Nicotinamide for Skin-Cancer Chemoprevention"
-    publisher: "Chen A.C. și colab., New England Journal of Medicine, 2015"
+  - title: "Nicotinamide"
+    publisher: "DermNet, actualizat martie 2018 (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/nicotinamide"
+  - title: "Do facial masks work, and should I add one to my skin care routine?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/facial-masks-and-skin-care"
+  - title: "Relief for skin reactions from targeted cancer therapy"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/targeted-therapy"
+  - title: "Niacinamide - mechanisms of action and its topical use in dermatology"
+    publisher: "Wohlrab J, Kreft D. Skin Pharmacology and Physiology, 2014;27(6):311–315 (rezumat consultat prin Europe PMC, 17.11.2026)"
+  - title: "Effective inhibition of melanosome transfer to keratinocytes by lectins and niacinamide is reversible"
+    publisher: "Greatens A și colab. Experimental Dermatology, 2005 (rezumat consultat prin Europe PMC, 17.11.2026)"
 ---
 
-Niacinamida (nicotinamida) este o formă de vitamina B3 care, aplicată pe piele, susține bariera cutanată, poate reduce aspectul de roșeață și de piele grasă și poate ajuta la estomparea petelor pigmentare. Este unul dintre cele mai bine tolerate ingrediente active, iar studiile pe piele au folosit mai ales concentrații între aproximativ 2% și 5%. Dovezile sunt reale, dar provin în mare parte din studii mici, iar efectele sunt moderate.
+Pe ambalajele cu niacinamidă apar, de multe ori pe același flacon, promisiuni pentru porii vizibili, pentru pete, pentru roșeață și pentru „bariera pielii”. Pare un ingredient bun la toate, iar asta ridică, firesc, o suspiciune: cât din această listă are acoperire?
 
-## Pe scurt
+Niacinamida este o formă a vitaminei B3, bine tolerată de cele mai multe tipuri de piele. Studiile, în general mici și uneori finanțate de producători, arată îmbunătățiri modeste ale sebumului, ale leziunilor de acnee, ale petelor pigmentare, ale roșeții și ale funcției de barieră. Nu este un tratament pentru o boală de piele și nu ține locul protecției solare, dar poate fi un ingredient util într-o rutină, cu așteptări pe măsură.
 
-- Niacinamida este vitamina B3 în forma „amidă”; nu este același lucru cu niacina (acidul nicotinic), care dă înroșirea feței când se ia pe gură.
-- Are dovezi pentru susținerea barierei, reducerea sebumului și a petelor, dar efectele sunt modeste și apar în câteva săptămâni.
-- Concentrațiile mici și medii (2–5%) sunt cele mai studiate; „mai mult” nu înseamnă automat „mai bine”.
-- Se combină bine cu aproape orice: retinoizi, vitamina C, protecție solară, ceramide.
-- Este considerată, în general, compatibilă cu sarcina și potrivită pentru pielea sensibilă.
+## O vitamină, două nume
 
-## Ce este niacinamida
+Nicotinamida și niacinamida sunt același lucru: forma activă, solubilă în apă, a vitaminei B3. Merită distinsă de acidul nicotinic (niacina), precursorul ei, care, luat pe cale orală, provoacă adesea înroșirea bruscă a feței și tulburări digestive. Niacinamida nu are de obicei aceste efecte.
 
-Niacinamida este o vitamină hidrosolubilă, precursor al unor coenzime (NAD și NADP) implicate în producerea de energie în celule și în repararea lor. Pe piele, efectele care interesează sunt câteva:
+În celulă, niacinamida intră în compoziția unor molecule implicate în producerea de energie. Mecanismele propuse pentru efectele pe piele includ modularea inflamației și influențarea reparării ADN-ului. O recenzie publicată în 2014 rezuma bine stadiul cunoașterii: efectele depind de concentrație și de cât de bine pătrunde substanța, ingredientul este considerat sigur, iar dovezile clinice cresc, fără să fie încă suficiente pentru concluzii ferme în multe dintre utilizări.
 
-- **stimulează producția de lipide ale barierei**, inclusiv ceramide (studiu pe celule și piele publicat în British Journal of Dermatology, 2000);
-- **reduce transferul de pigment** de la celulele care produc melanina către celulele de la suprafață;
-- **are efect antiinflamator**, ceea ce ajută la roșeață și la leziunile inflamatorii.
+## Ce s-a studiat, pe rând
 
-Pe etichetă o vei găsi sub numele INCI „Niacinamide”.
+### Sebumul și pielea grasă
 
-## Ce beneficii are niacinamida și cât de solide sunt dovezile
+Un produs hidratant cu 2% niacinamidă a redus cantitatea de sebum de pe față după patru până la șase săptămâni de folosire. Academia Americană de Dermatologie (AAD) o enumeră printre ingredientele potrivite pentru pielea grasă sau cu tendință acneică, pentru a reduce luciul. Mai puțin sebum poate face și [porii dilatați](/blog/porii-dilatati/) mai puțin vizibili, deși mărimea porilor ține și de alți factori.
 
-| Beneficiu | Ce arată studiile | Cât de solide sunt dovezile |
-|---|---|---|
-| Bariera pielii, hidratare | crește lipidele barierei, scade pierderea de apă | moderate (studii mici, consistente) |
-| Pete pigmentare | estompare treptată a hiperpigmentării ușoare | moderate; efect mai mic decât al tratamentelor medicale |
-| Semne ale îmbătrânirii | ameliorarea texturii, a roșeții și a petelor | limitate (puține studii controlate) |
-| Sebum, pori | reducerea aspectului de ten gras | limitate și inconsecvente |
-| Acnee inflamatorie | ameliorare în studii mici | limitate; nu înlocuiește tratamentul |
+### Acneea
 
-### Bariera pielii și roșeața
-
-Prin creșterea lipidelor din stratul cornos, niacinamida ajută pielea să rețină mai bine apa. Acesta este, probabil, beneficiul cel mai consecvent și explică de ce mulți o tolerează bine chiar și cu piele sensibilă. Despre rolul lipidelor în barieră, vezi [ceramidele și bariera pielii](/blog/ceramidele-si-bariera-pielii/).
+Datele cele mai citate vin dintr-un studiu controlat cu 76 de pacienți cu acnee moderată: un gel cu 4% nicotinamidă a avut un efect comparabil cu un gel cu antibiotic (clindamicină 1%). Este un rezultat interesant, dar provine dintr-un singur studiu, nu foarte mare. Acneea moderată sau persistentă are tratamente cu dovezi mai solide, care se aleg la consultație; niciun cosmetic nu le înlocuiește.
 
 ### Petele pigmentare
 
-Un studiu publicat în British Journal of Dermatology în 2002 a arătat că niacinamida aplicată pe piele reduce hiperpigmentarea, prin împiedicarea transferului de melanină. Efectul este treptat (de obicei după 4–8 săptămâni) și dispare dacă nu protejezi pielea de soare. Pentru melasma sau pete persistente, niacinamida poate fi doar un ajutor, nu tratamentul principal. Citește și [cum previi petele pigmentare](/blog/cum-previi-petele-pigmentare/).
+În laborator, niacinamida încetinește transferul pigmentului (al melanozomilor) de la celulele care îl produc spre celulele din jur. Într-un studiu pe jumătăți de față, aplicarea locală a redus petele pigmentare proporțional cu doza. Același studiu a arătat că efectul este reversibil: transferul de pigment revine după oprire. Pe înțeles, petele se pot estompa cât timp folosiți produsul, iar efectul nu este permanent.
 
-### Semnele îmbătrânirii
+Pentru afecțiuni pigmentare precum [melasma](/blog/melasma/), niacinamida poate fi cel mult o completare; ele cer o evaluare și un plan discutat cu medicul.
 
-Un studiu controlat publicat în Dermatologic Surgery în 2005 a raportat ameliorări ale ridurilor fine, ale petelor și ale texturii după câteva luni de folosire a niacinamidei 5%. Este un rezultat interesant, dar provenit din studii puține; nu se compară cu dovezile pentru retinoizi sau pentru protecția solară.
+### Semnele lăsate de soare
 
-### Pielea grasă și acneea
+Un studiu randomizat de 12 săptămâni, pe 50 de femei, a comparat pe aceeași față o cremă cu 5% niacinamidă și una fără substanță activă. Pe partea tratată s-au raportat îmbunătățiri ale liniilor fine, ale petelor, ale texturii și ale zonelor roșiatice. Studiul a fost finanțat de un producător de cosmetice, detaliu pe care sursele independente îl semnalează și care trebuie avut în vedere.
 
-Niacinamida poate reduce aspectul de ten gras la unele persoane, dar studiile au rezultate inconsecvente. În acnee, un studiu mai vechi a comparat un gel cu nicotinamidă 4% cu un antibiotic topic și a găsit rezultate asemănătoare, însă este un studiu mic. Ghidurile actuale de acnee nu o includ între tratamentele de primă linie. Dacă ai acnee, vezi [acneea la adulți](/blog/acneea-la-adulti/).
+În comparație cu retinoizii, datele sunt mai puține și efectul mai discret. Locul fiecărui ingredient în prevenția și ameliorarea îmbătrânirii pielii este discutat în articolul despre [ce funcționează în îmbătrânirea pielii](/blog/imbatranirea-pielii-ce-functioneaza/).
 
-### Nicotinamida pe gură și cancerul de piele
+### Bariera pielii și roșeața
 
-Separat de cosmetice, un studiu mare publicat în New England Journal of Medicine în 2015 a arătat că nicotinamida administrată pe gură a redus apariția unor noi cancere de piele non-melanom la persoane cu risc crescut. Asta nu înseamnă că oricine ar trebui să ia suplimente: decizia se ia doar împreună cu dermatologul, la pacienții cu risc mare.
+Niacinamida reduce pierderea de apă prin piele, iar într-un studiu a crescut producția de ceramide, lipidele care „cimentează” celulele de la suprafață. În cel puțin două studii, cremele hidratante cu nicotinamidă au îmbunătățit funcția de barieră la persoane cu rozacee și au redus reacțiile la substanțe iritante. AAD o menționează și printre ingredientele de căutat într-o cremă groasă, fără parfum, pentru pielea uscată și iritată de anumite tratamente oncologice, ceea ce spune ceva despre cât de bine este tolerată.
 
-## Ce concentrație să alegi
+Despre rolul ceramidelor și ce înseamnă concret o barieră afectată găsiți explicații în articolul despre [ceramide și bariera pielii](/blog/ceramidele-si-bariera-pielii/).
 
-- **2–5%** – intervalul folosit în cele mai multe studii; potrivit pentru majoritatea oamenilor.
-- **Concentrații mai mari (în jur de 10% sau peste)** – foarte populare, dar fără dovezi clare că aduc beneficii suplimentare; la unele persoane cresc riscul de roșeață și furnicături.
-- **Pielea sensibilă** – pornește cu concentrații mici, într-o cremă hidratantă, nu neapărat într-un ser concentrat.
+## Pentru cine are mai mult sens
 
-Niacinamida este o moleculă stabilă, deci nu are nevoie de ambalaje speciale, ca vitamina C.
+Privite împreună, datele de mai sus conturează câteva situații în care niacinamida are o justificare rezonabilă. Nu sunt indicații medicale, ci mai degrabă profiluri în care ingredientul se potrivește cu ce s-a studiat.
 
-## Cum o introduci în rutină
+Pielea grasă, cu luciu pe frunte și pe nas încă de la prânz, este primul exemplu: aici există atât studiul despre sebum, cât și recomandarea AAD. Al doilea este pielea cu tendință la pete după soare sau după coșuri, unde niacinamida poate fi o completare la protecția solară, cu condiția să înțelegeți că efectul ține cât timp folosiți produsul.
 
-Niacinamida nu cere de obicei o introducere treptată atât de prudentă ca retinoizii, dar e bine să testezi orice produs nou:
+Al treilea profil este pielea care reacționează ușor. Cine a încercat un retinoid sau un acid exfoliant și a rămas cu roșeață și usturime poate găsi în niacinamidă un ingredient activ mai blând. Iarna, când căldura din apartament usucă aerul, o cremă hidratantă care o conține poate fi o alegere comodă pentru pielea care se descuamează ușor.
 
-1. Aplică puțin produs pe o zonă mică (de exemplu, sub maxilar) timp de câteva zile.
-2. Dacă nu apar reacții, folosește-o o dată pe zi, dimineața sau seara.
-3. Poți trece la două aplicări pe zi, dacă ai nevoie.
+Există și situații în care niacinamida nu este prioritatea. Dacă pielea este iritată acut, înroșită și ustură la orice produs, de obicei ajută mai mult simplificarea rutinei decât adăugarea unui ingredient nou, oricât de blând ar fi. Iar leziunile care nu seamănă cu nimic din ce ați avut înainte cer mai întâi o explicație, nu un produs.
 
-Ordinea obișnuită: curățare, ser cu niacinamidă (dacă folosești ser), cremă hidratantă, iar dimineața protecție solară.
+Pe eticheta unui cosmetic, ingredientul apare de regulă sub denumirea „niacinamide”, în lista de ingrediente. Poziția în listă dă o idee aproximativă despre cantitate, dar nu înlocuiește o concentrație declarată.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Concentrații: mai mult nu înseamnă mai bine
 
-## Cu ce se combină niacinamida
+Studiile de mai sus au folosit 2%, 4% sau 5%. Pe raft se găsesc însă produse cu 10% sau chiar mai mult, prezentate ca „intensive”. Nu am găsit dovezi solide că aceste concentrații aduc un beneficiu suplimentar față de cele studiate [TODO: de confirmat de medic — lipsesc studii comparative între concentrații mici și mari în sursele consultate].
 
-- **Retinoizi** – combinație bună; niacinamida poate ajuta la tolerarea retinoizilor. Vezi [retinolul și retinoizii](/blog/retinolul-si-retinoizii/).
-- **Vitamina C** – pot fi folosite în aceeași rutină. Mitul că s-ar „anula” provine din experimente vechi, cu forme și temperaturi care nu reflectă folosirea reală.
-- **Acizi exfolianți (AHA, BHA)** – se pot combina, dar dacă pielea se irită, folosește-le în momente diferite ale zilei.
-- **Acid azelaic, ceramide, acid hialuronic** – combinații bine tolerate.
-- **Protecție solară** – esențială dacă urmărești reducerea petelor.
+Niacinamida este în general bine tolerată și, potrivit DermNet, este adesea o opțiune pentru cei care nu suportă retinoizii sau acizii exfolianți. Dacă aplicarea de două ori pe zi usucă pielea, sursa sugerează pur și simplu rărirea aplicărilor. Ca pentru orice produs nou, un test de câteva zile pe o zonă mică de piele înainte de folosirea pe toată fața poate evita surprizele.
 
-## Efecte adverse
+## Cum se integrează într-o rutină
 
-Niacinamida este, în general, foarte bine tolerată. Ce poate apărea:
+Niacinamida nu cere reguli speciale: se găsește în seruri, creme hidratante sau măști și poate fi folosită dimineața sau seara. Câteva lucruri merită totuși reținute.
 
-- roșeață trecătoare, furnicături sau mâncărime, mai ales la concentrații mari;
-- iritație cauzată nu de niacinamidă, ci de alte ingrediente din formulă (parfum, alcool, conservanți);
-- rar, dermatită de contact alergică.
+- Nu protejează de soare. Nu previne arsurile, așa că dimineața rămâne nevoie de un produs cu protecție solară cu spectru larg.
+- Un singur produs cu niacinamidă este de obicei suficient. Suprapunerea mai multor seruri cu același ingredient nu are dovezi de beneficiu.
+- Alături de un retinoid, poate fi o completare bine tolerată, dar produsele noi se introduc pe rând, ca să puteți observa ce anume provoacă o eventuală iritație. Despre introducerea retinoizilor găsiți detalii în articolul despre [retinol și retinoizi](/blog/retinolul-si-retinoizii/).
+- Efectele apar treptat. În studiile citate, evaluările s-au făcut după patru până la douăsprezece săptămâni.
 
-Dacă apar arsură persistentă, umflătură sau eczemă, oprește produsul.
+## Niacinamida luată pe cale orală
 
-## Niacinamida în sarcină și alăptare
+Uneori, căutarea „niacinamidă” duce la informații despre suplimente pentru prevenirea cancerului de piele. Contextul este diferit de cel cosmetic. Nicotinamida orală a fost studiată la persoane cu risc crescut, cu piele intens afectată de soare și cu numeroase leziuni precanceroase sau cancere cutanate în antecedente, unde unele studii au sugerat mai puține leziuni noi. DermNet consideră dovezile neconcludente [TODO: de confirmat de medic — pagina DermNet este din 2018; au apărut studii mai noi, neconsultate aici].
 
-Niacinamida aplicată pe piele este considerată, în general, compatibilă cu sarcina și alăptarea: este o vitamină prezentă în alimentație, iar absorbția din cosmetice este mică. Este una dintre alternativele la care se apelează când retinoizii trebuie opriți. Suplimentele pe gură în sarcină sunt altă discuție și se iau doar la recomandarea medicului.
+Pentru publicul general, aceste date nu justifică un supliment luat din proprie inițiativă. Dozele mari pot avea efecte adverse, iar decizia aparține medicului care cunoaște istoricul pacientului.
 
-## Cine ar trebui să o evite
+## Ce nu poate face niacinamida
 
-- persoanele care au avut o reacție alergică la un produs cu niacinamidă;
-- cei cu piele foarte reactivă care au observat roșeață repetată la concentrații mari (pot încerca concentrații mici);
-- suplimentele pe gură nu se iau fără acordul medicului, mai ales dacă ai boli de ficat, rinichi sau iei alte medicamente.
+Nu tratează o afecțiune de piele în sine: acneea moderată sau severă, rozaceea, melasma sau dermatita au nevoie de evaluare și, de multe ori, de tratamente cu dovezi mai solide. Nu „închide” porii, nu șterge ridurile și nu înlocuiește protecția solară. Rolul ei realist este de ingredient de sprijin, util mai ales pentru pielea grasă, cu tendință la pete ori sensibilă la ingredientele mai iritante.
 
-## Mituri despre niacinamidă
+## Când poate fi util un consult dermatologic?
 
-- **„Micșorează porii.”** Poate face porii să pară mai puțin vizibili, dar nu le schimbă dimensiunea reală.
-- **„10% sau 20% e mai eficient.”** Nu există dovezi clare în acest sens.
-- **„Înlocuiește tratamentul pentru acnee sau melasma.”** Nu; poate fi un ajutor în rutina de îngrijire.
+Un consult poate ajuta dacă acneea, roșeața sau petele persistă după câteva luni de îngrijire constantă, dacă apar leziuni dureroase sau cicatrici ori dacă nu știți dacă o modificare a pielii ține de îngrijire sau de o afecțiune care se tratează altfel. Este util și atunci când pielea reacționează la aproape orice produs nou sau când vă gândiți la suplimente cu nicotinamidă din motive medicale.
 
-## Când să mergi la dermatolog
+La examinare, medicul poate stabili ce stă în spatele simptomelor și poate discuta ce rol, dacă există unul, are niacinamida într-un plan adaptat dumneavoastră. Nu poate promite un anumit rezultat, dar poate face diferența dintre o încercare la întâmplare și o alegere informată.
 
-- ai acnee cu leziuni dureroase, cicatrici sau acnee care nu se ameliorează după câteva luni;
-- ai pete pigmentare extinse, care se accentuează sau care au apărut brusc;
-- ai roșeață persistentă pe față, cu bufeuri, vase vizibile sau pustule (poate fi rozacee);
-- apare o reacție la un produs care nu cedează după oprirea lui;
-- observi o aluniță sau o pată care își schimbă forma, culoarea sau mărimea.
+Niacinamida merită reputația de ingredient blând și versatil, însă nu pe cea de soluție universală. Dovezile susțin efecte modeste asupra sebumului, petelor, roșeții și barierei, cu condiția folosirii constante și a unor așteptări realiste.
+
+## O evaluare, dacă vă trebuie
+
+Dacă doriți să înțelegeți ce se potrivește pielii dumneavoastră și dacă o problemă persistentă are nevoie de mai mult decât un ingredient cosmetic, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Detaliile despre [program și locații](/program/) se găsesc pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare despre un ingredient și temperarea așteptărilor („ingredient bun la toate”). Cuvânt-cheie principal: „niacinamida”.
+- Afirmații de confirmat clinic: datele despre studii (2% sebum, 4% vs clindamicină la 76 de pacienți, 5% pe 50 de femei, efect reversibil asupra petelor) sunt preluate din DermNet (2018) și din rezumatul Greatens 2005; formularea despre niacina orală și înroșirea feței.
+- Informații lipsă / de completat: [TODO: de confirmat de medic — vreți o poziție despre combinația niacinamidă și vitamina C? Mitul incompatibilității nu a fost tratat, lipsind o sursă consultată]; poziția actuală privind nicotinamida orală pentru chemoprevenție (marcată inline).
+- Surse care nu au putut fi verificate: textele integrale ale studiilor (doar rezumate); pagina DermNet este datată 2018.

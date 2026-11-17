@@ -1,178 +1,140 @@
 ---
-title: "Toxina botulinică: ce poate face, cât durează, ce riscuri are"
-description: "Ce este toxina botulinică, pentru ce riduri funcționează, cine nu ar trebui să o facă, cât durează efectul și ce riscuri trebuie să cunoști."
+title: "Toxina botulinică: cum acționează, cât durează și ce riscuri are"
+description: "Informații neutre despre toxina botulinică: ce efect are asupra ridurilor, cât durează, cine nu ar trebui să o primească și ce riscuri trebuie să cunoașteți."
 pubDate: 2026-10-01
 category: "estetica"
 tags: ["toxina botulinică", "riduri", "dermatologie estetică", "proceduri"]
 draft: true
 faq:
   - q: "Cât durează efectul toxinei botulinice?"
-    a: "Efectul începe de obicei după 2–5 zile, atinge maximul în aproximativ două săptămâni și durează, în general, 3–4 luni. Durata variază de la o persoană la alta și în funcție de zona tratată."
-  - q: "Toxina botulinică este periculoasă?"
-    a: "Administrată de un medic instruit, în doze și zone potrivite, are un profil de siguranță bine documentat. Efectele adverse obișnuite sunt ușoare și temporare, dar există și complicații rare, motiv pentru care procedura se face doar după un consult medical."
-  - q: "Pot face toxină botulinică dacă sunt însărcinată sau alăptez?"
-    a: "Nu. În sarcină și în perioada de alăptare procedura se amână, deoarece siguranța nu a fost demonstrată."
-  - q: "Ce se întâmplă dacă nu repet procedura?"
-    a: "Mușchii își recapătă treptat mișcarea, iar expresia revine la cum era înainte. Ridurile nu se agravează din cauza opririi tratamentului."
-  - q: "Toxina botulinică umple ridurile?"
-    a: "Nu. Toxina botulinică relaxează temporar anumiți mușchi și atenuează ridurile care apar la mimică. Nu adaugă volum și nu corectează pielea lăsată."
+    a: "Efectul începe de obicei după câteva zile, atinge maximul în jur de zece zile și se estompează treptat, în general după 3–4 luni. Durata variază de la o persoană la alta și în funcție de zona tratată."
+  - q: "Toxina botulinică „îngheață” fața?"
+    a: "Scopul este relaxarea doar a anumitor mușchi, astfel încât expresia să rămână naturală. Un aspect rigid sau asimetric poate apărea, dar este temporar și ține mult de doza și de punctele de injectare alese."
+  - q: "Se poate face în sarcină sau în perioada de alăptare?"
+    a: "Nu se recomandă. Nu se știe dacă poate afecta sarcina, de aceea procedura se evită în sarcină și în alăptare."
+  - q: "Toxina botulinică umple ridurile adânci?"
+    a: "Nu. Ea relaxează temporar mușchii care produc ridurile de expresie, dar nu adaugă volum și nu corectează pielea lăsată."
 sources:
+  - title: "Botulinum toxin therapy: FAQs"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/wrinkles/botulinum-toxin-faqs"
+  - title: "Botulinum toxin therapy: Preparation"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/wrinkles/botulinum-toxin-preparation"
   - title: "Botulinum toxin"
-    publisher: "DermNet (Noua Zeelandă)"
-  - title: "Rezumatul caracteristicilor produsului (RCP) pentru medicamentele autorizate care conțin toxină botulinică tip A"
-    publisher: "Agenția Națională a Medicamentului și a Dispozitivelor Medicale din România (ANMDMR) / Agenția Europeană a Medicamentului (EMA)"
-  - title: "Fitzpatrick's Dermatology, ediția a 9-a — capitolul despre toxina botulinică"
-    publisher: "McGraw-Hill, 2019"
-  - title: "Dermatology (Bolognia), capitolul despre toxina botulinică"
-    publisher: "Elsevier"
-  - title: "Hyperhidrosis"
-    publisher: "American Academy of Dermatology Association"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/botulinum-toxin"
+  - title: "PrabotulinumtoxinA-xvfs Injection"
+    publisher: "MedlinePlus, U.S. National Library of Medicine (accesat 17.11.2026)"
+    url: "https://medlineplus.gov/druginfo/meds/a619021.html"
 ---
 
-Toxina botulinică este un medicament injectabil care relaxează temporar anumiți mușchi ai feței și atenuează astfel ridurile care apar la mimică, cum sunt cele dintre sprâncene, de pe frunte sau din jurul ochilor. Efectul apare treptat în câteva zile și durează, de obicei, 3–4 luni. Este un medicament eliberat pe bază de prescripție, care se administrează doar de un medic instruit, după un consult.
+Toxina botulinică este unul dintre cele mai cunoscute subiecte din dermatologia estetică și, în același timp, unul dintre cele mai încărcate de confuzii. Unii o asociază cu fețe „înghețate”, alții cu o soluție universală pentru riduri. Niciuna dintre imagini nu este corectă.
 
-## Pe scurt
+Toxina botulinică este un medicament eliberat pe bază de prescripție, care, injectat în cantități foarte mici, relaxează temporar anumiți mușchi. Pe față, efectul se vede asupra ridurilor care apar la mimică, de pe frunte, dintre sprâncene sau din colțul ochilor, și durează de regulă 3–4 luni. Ca orice medicament, are indicații, contraindicații și riscuri, de la cele frecvente și ușoare până la unele rare și serioase. Articolul de față le prezintă pe toate, fără a recomanda sau a descuraja procedura.
 
-- Toxina botulinică acționează asupra ridurilor dinamice (cele produse de contracția mușchilor), nu asupra pielii lăsate sau a pierderii de volum.
-- Efectul este temporar: apare în 2–5 zile, este maxim la circa 2 săptămâni și se estompează în general după 3–4 luni.
-- Nu se face în sarcină, în alăptare, pe o zonă cu infecție activă sau în anumite boli neuromusculare.
-- Efectele adverse frecvente (vânătăi, durere de cap, căderea temporară a pleoapei sau a sprâncenei) sunt de obicei ușoare și trec singure.
-- Alege un medic care face un consult complet, îți explică riscurile și poate gestiona o eventuală complicație.
+## Ce face toxina botulinică în mușchi
 
-## Ce este toxina botulinică
+Substanța este o proteină produsă de o bacterie, purificată și folosită ca medicament în doze mici, controlate. Ea blochează temporar semnalul chimic prin care terminația nervoasă îi transmite mușchiului să se contracte. Mușchiul injectat se relaxează parțial, iar pielea de deasupra lui nu se mai cutează la fel de puternic. Sensibilitatea pielii nu este afectată.
 
-Toxina botulinică este o proteină produsă de bacteria *Clostridium botulinum*, purificată și folosită în doze foarte mici, controlate, ca medicament. În dermatologie se folosește cel mai des toxina botulinică de tip A.
+Efectul nu este permanent. Pe măsură ce terminațiile nervoase își refac legăturile, mișcarea revine treptat. Potrivit DermNet, slăbirea mușchiului apare la 2–4 zile după injectare, atinge maximul în jur de zece zile și se estompează în aproximativ trei luni. Academia Americană de Dermatologie vorbește despre un efect de 3–4 luni asupra ridurilor, uneori mai lung. Când tratamentul se repetă, mușchiul se poate subția ușor, iar intervalele dintre ședințe se pot lungi.
 
-Mecanismul este simplu de explicat: toxina blochează temporar semnalul prin care nervul îi „spune” mușchiului să se contracte. Mușchiul injectat se relaxează parțial, iar pielea de deasupra nu se mai cutează la fel de puternic. Pe măsură ce terminațiile nervoase își refac legăturile, mișcarea revine treptat.
+Toxina botulinică are și utilizări strict medicale: transpirația excesivă a axilelor sau a palmelor, prevenția migrenei, unele spasme musculare ale pleoapelor sau ale gâtului. Despre transpirația excesivă puteți citi în articolul despre [hiperhidroză](/blog/hiperhidroza/).
 
-Pe lângă utilizarea estetică, toxina botulinică are și indicații medicale, de exemplu transpirația excesivă la nivelul axilelor. Despre acest subiect găsești mai multe în articolul despre [hiperhidroză](/blog/hiperhidroza/).
+## Ridurile de expresie și limitele tratamentului
 
-## Ce poate și ce nu poate face
+Ridurile feței nu sunt toate la fel. Unele, numite dinamice, apar doar când mimica este activă: când vă încruntați, ridicați sprâncenele sau zâmbiți larg. Altele, statice, se văd și atunci când fața este complet relaxată, pentru că pielea și-a pierdut din elasticitate și volum.
 
-Așteptările realiste sunt cea mai importantă parte a deciziei.
+Toxina botulinică acționează asupra primei categorii. Zonele tratate cel mai des sunt liniile orizontale ale frunții, ridurile verticale dintre sprâncene și ridurile fine din colțul exterior al ochilor. Ridurile statice adânci se pot atenua, dar adesea nu dispar.
 
-**Poate:**
+Câteva lucruri pe care toxina botulinică nu le face:
 
-- atenua ridurile de expresie dintre sprâncene („ridurile de încruntare”);
-- atenua liniile orizontale de pe frunte;
-- atenua ridurile fine din colțul ochilor („laba gâștei”);
-- încetini adâncirea ridurilor dinamice, atât timp cât efectul durează.
+- nu adaugă volum și nu umple pliurile sau zonele adâncite (acesta este rolul [fillerelor cu acid hialuronic](/blog/fillerele-cu-acid-hialuronic/));
+- nu strânge pielea lăsată;
+- nu modifică petele pigmentare, roșeața, porii sau textura pielii;
+- nu tratează cearcănele de sub ochi, ale căror cauze sunt de altă natură (vezi articolul despre [cearcăne](/blog/cearcanele/));
+- nu oprește îmbătrânirea pielii și nu înlocuiește protecția solară.
 
-**Nu poate:**
+### Cum arată un rezultat realist
 
-- umple riduri adânci, statice, care se văd și când fața este complet relaxată (acestea se pot atenua, dar adesea nu dispar);
-- corecta pielea lăsată sau pierderea de volum din obraji;
-- îmbunătăți textura pielii, petele pigmentare sau porii dilatați;
-- opri procesul natural de îmbătrânire.
+Scopul obișnuit nu este dispariția oricărei linii, ci o frunte sau o privire mai puțin încordată, cu mimica păstrată. Academia Americană de Dermatologie descrie tehnica drept relaxarea doar a mușchilor vizați, fără a-i afecta pe ceilalți, tocmai pentru ca expresiile să rămână firești. Aspectul „înghețat”, des invocat, ține mai ales de doze sau de puncte de injectare nepotrivite pentru fața respectivă.
 
-Pentru o imagine de ansamblu asupra a ceea ce are dovezi în îngrijirea pielii care îmbătrânește, citește și [ce funcționează cu adevărat în îmbătrânirea pielii](/blog/imbatranirea-pielii-ce-functioneaza/).
+Rezultatul nu se vede imediat după injectare, ci se instalează în câteva zile. Diferă și de la o persoană la alta: mușchii mai puternici, pielea mai groasă sau ridurile vechi, deja „săpate”, răspund altfel decât o frunte tânără, cu linii abia schițate. Dacă tratamentul nu se repetă, mușchii își recapătă treptat forța, iar fața revine la aspectul de dinainte. [TODO: de confirmat de medic — formularea despre revenirea la aspectul anterior, fără agravare, nu apare explicit în sursele accesate]
 
-## Cine este un candidat potrivit
+Pentru o imagine de ansamblu asupra a ceea ce ajută cu adevărat pielea care îmbătrânește, articolul despre [ce funcționează în îmbătrânirea pielii](/blog/imbatranirea-pielii-ce-functioneaza/) este un bun punct de plecare.
 
-Un candidat potrivit este, de regulă, o persoană adultă, sănătoasă, care:
+## Cine nu ar trebui să primească toxina botulinică
 
-- are riduri care apar sau se accentuează la mimică;
-- înțelege că efectul este temporar și că rezultatul variază de la o persoană la alta;
-- are așteptări realiste și dorește o schimbare discretă.
+Înainte de orice decizie, medicul trebuie să afle câteva lucruri despre sănătatea dumneavoastră. Procedura se evită sau se amână în situații precum:
 
-Medicul poate recomanda să nu faci procedura dacă îngrijorarea legată de aspect este disproporționată, dacă așteptările sunt nerealiste sau dacă problema principală este alta (de exemplu, pielea lăsată), pentru care toxina nu ajută.
+- sarcina și alăptarea, pentru că nu se știe dacă substanța poate afecta sarcina;
+- infecția sau inflamația în zona care ar urma să fie injectată;
+- o reacție alergică anterioară la toxina botulinică sau la componentele produsului;
+- bolile nervilor și ale mușchilor, cum sunt miastenia gravis, sindromul Lambert-Eaton sau scleroza laterală amiotrofică;
+- dificultățile preexistente de înghițire sau de respirație.
 
-## Contraindicații: când nu se face
+Alte situații nu exclud neapărat procedura, dar cer discuție atentă. Unele antibiotice (din clasele aminoglicozidelor și tetraciclinelor) pot accentua efectul toxinei. Medicamentele care subțiază sângele, inclusiv aspirina, cresc riscul de vânătăi; ele nu se opresc niciodată fără acordul medicului care le-a prescris. O pleoapă deja căzută sau o slăbiciune a mușchilor frunții pot face rezultatul mai puțin previzibil.
 
-Procedura nu se face sau se amână în situații precum:
+Este util să îi spuneți medicului despre toate medicamentele, suplimentele și plantele pe care le luați, despre intervențiile chirurgicale și procedurile estetice anterioare, precum și dacă plănuiți o sarcină.
 
-- **sarcină și alăptare** — siguranța nu a fost demonstrată;
-- **infecție activă** în zona care urmează să fie tratată (inclusiv herpes activ);
-- **boli neuromusculare**, cum ar fi miastenia gravis sau sindromul Lambert-Eaton;
-- **alergie cunoscută** la oricare dintre componentele produsului;
-- **unele medicamente** care influențează transmiterea nervoasă către mușchi (de exemplu, anumite antibiotice din clasa aminoglicozidelor);
-- tendință la sângerare sau tratament cu anticoagulante — nu este neapărat o contraindicație, dar crește riscul de vânătăi și trebuie discutat cu medicul.
+Un medic responsabil poate refuza sau amâna procedura și atunci când așteptările nu se potrivesc cu ce poate face medicamentul ori când preocuparea legată de aspect pare disproporționată.
 
-De aceea, înainte de procedură, medicul te întreabă despre boli, medicamente, suplimente, alergii, proceduri estetice anterioare și eventuale probleme apărute după ele.
+## Ce presupune procedura
 
-## Cum se desfășoară procedura
+Consultul de dinainte nu este o formalitate. Medicul privește fața în repaus și în mișcare, discută ce vă deranjează, ce se poate obține realist și care este riscul dumneavoastră de complicații, în funcție de istoricul medical. Urmează semnarea consimțământului informat.
 
-1. **Consultul.** Medicul îți evaluează fața în repaus și în mișcare, discută cu tine ce te deranjează, ce se poate obține realist și care sunt riscurile. Se semnează un consimțământ informat.
-2. **Pregătirea.** Pielea se curăță și se dezinfectează. Uneori se fac fotografii medicale, cu acordul tău, pentru dosarul medical.
-3. **Injectarea.** Cu un ac foarte fin, medicul injectează cantități mici de produs în puncte precise. Senzația este de obicei descrisă ca o înțepătură scurtă. Procedura propriu-zisă durează câteva minute.
-4. **Controlul.** Mulți medici recomandă o reevaluare la aproximativ două săptămâni, când efectul este maxim.
+Injectarea propriu-zisă durează câteva minute. Cu un ac foarte fin, medicul administrează cantități mici de produs în puncte alese după anatomia și forța mușchilor fiecărei persoane. Dozele și punctele nu sunt „standard”: se stabilesc individual. Produsele existente pe piață nu sunt interschimbabile unitate cu unitate, de aceea este util să știți ce produs vi s-a administrat, mai ales dacă reveniți la alt medic.
 
-Dozele și punctele de injectare se stabilesc individual de către medic, în funcție de anatomia și de forța mușchilor fiecărei persoane.
+După procedură, majoritatea oamenilor își reiau imediat activitățile. Recomandările obișnuite sunt să nu masați și să nu apăsați zonele tratate și să evitați efortul fizic intens în primele ore; Academia Americană de Dermatologie menționează un interval de aproximativ două ore. Machiajul se poate aplica, dar cu blândețe. Mulți medici propun o reevaluare la aproximativ două săptămâni, când efectul este complet instalat.
 
-## Recuperarea: ce urmează după
+## Riscuri: de la frecvente la rare
 
-Majoritatea oamenilor își reiau activitățile obișnuite imediat. Pot apărea mici umflături în punctele de injectare, care dispar de regulă în mai puțin de o oră, și, uneori, vânătăi mici.
+Cele mai multe efecte adverse sunt ușoare și trec singure. Ele țin adesea de injecție, nu de medicament în sine:
 
-Recomandări frecvente în primele ore (multe se bazează mai degrabă pe prudență decât pe studii solide):
+- roșeață, umflătură și sensibilitate în punctele de injectare;
+- vânătăi, care pot persista aproximativ o săptămână;
+- durere de cap ușoară, mai ales după injectarea frunții.
 
-- nu masa și nu apăsa zonele tratate;
-- evită efortul fizic intens și căldura puternică (saună) în ziua procedurii;
-- urmează instrucțiunile scrise primite de la medic.
+Mai rar, substanța acționează și asupra unui mușchi vecin. Rezultatul poate fi o pleoapă sau o sprânceană căzută temporar, o asimetrie a zâmbetului sau o senzație de greutate a frunții. DermNet estimează că astfel de efecte apar la mai puțin de un tratament din zece și pot dura până la aproximativ 12 săptămâni, până când efectul toxinei scade. Rar, organismul produce anticorpi care reduc răspunsul la tratament, motiv pentru care ședințele nu se repetă la intervale foarte scurte.
 
-## Cât durează efectul
+Foarte rar, efectul se poate răspândi la distanță de locul injectării și poate produce simptome asemănătoare botulismului. Acestea pot apărea la câteva ore, dar și la câteva săptămâni după injectare:
 
-- **Debut:** de obicei după 2–5 zile.
-- **Efect maxim:** în jur de 2 săptămâni.
-- **Durată:** în general 3–4 luni; la unele persoane și în unele zone, mai puțin sau mai mult.
-
-Dacă nu repeți procedura, mișcarea revine treptat la normal. Ridurile nu se agravează din cauza opririi tratamentului.
-
-## Riscuri și complicații
-
-Nicio procedură medicală nu este lipsită de riscuri. Administrată corect, toxina botulinică are un profil de siguranță bine documentat, dar e important să știi ce poate apărea.
-
-### Efecte adverse frecvente, de obicei ușoare și temporare
-
-- roșeață, umflătură sau sensibilitate în punctele de injectare;
-- vânătăi;
-- durere de cap în primele zile;
-- un aspect asimetric sau o expresie mai „rigidă” decât ți-ai dori.
-
-### Efecte mai puțin frecvente
-
-- **căderea temporară a pleoapei superioare sau a sprâncenei (ptoză)** — apare când produsul afectează un mușchi vecin; se remite în câteva săptămâni, pe măsură ce efectul toxinei scade;
-- senzație de greutate la nivelul frunții;
-- uscăciune sau lăcrimare a ochilor, după injectarea în jurul ochilor.
-
-### Complicații rare, dar serioase
-
-Foarte rar, efectul toxinei se poate extinde dincolo de zona injectată. Semnele pot apărea la ore până la săptămâni după procedură:
-
-- dificultăți la înghițire sau la vorbire;
-- dificultăți de respirație;
+- dificultăți la înghițire, la vorbire sau la respirație;
 - slăbiciune musculară generalizată;
-- vedere dublă sau încețoșată.
+- vedere dublă sau încețoșată, pleoape căzute.
 
-Acestea sunt **urgențe medicale**: sună la 112 sau mergi imediat la camera de gardă și spune că ai făcut recent injecții cu toxină botulinică. Riscul este mai mare când se folosesc produse falsificate, doze nepotrivite sau când procedura este făcută de persoane fără pregătire medicală.
+Dacă apar astfel de semne, sunați la 112 sau mergeți imediat la urgențe și spuneți că ați primit recent injecții cu toxină botulinică.
 
-Reacțiile alergice severe sunt foarte rare. Rar, unele persoane răspund mai slab la tratament în timp.
+Academia Americană de Dermatologie atrage atenția asupra unui risc aparte: produsele cumpărate online sau administrate în afara unui cadru medical pot fi foarte diferite de medicamentele autorizate și au fost asociate cu paralizii de durată, paralizie facială și leziuni oculare permanente.
 
-## Cum alegi un medic calificat
+## Alegerea medicului și semnale de alarmă
 
-- **Verifică faptul că este medic** și ce specialitate are. Poți verifica în registrul public al Colegiului Medicilor din România. [TODO: verifică denumirea și adresa actuală a registrului]
-- **Cere un consult înainte**, nu doar „o ședință”. Un medic responsabil îți pune întrebări despre sănătatea ta și poate refuza procedura dacă nu este potrivită pentru tine.
-- **Întreabă despre produs**: medicamentul trebuie să fie autorizat, provenit din circuitul farmaceutic legal și pregătit în fața ta sau conform instrucțiunilor producătorului.
-- **Cere informații despre riscuri și un consimțământ scris.**
-- **Întreabă ce se întâmplă dacă apare o complicație**: cum îl poți contacta pe medic și ce plan are pentru astfel de situații.
+Rezultatul și siguranța depind în mare măsură de cel care administrează medicamentul. Câteva repere:
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Verificați că persoana care face procedura este medic și ce pregătire are. [TODO: de confirmat de medic — registrul public al CMR (denumire și adresă actuală) și cine poate administra legal toxina botulinică în România] Cereți un consult înainte, nu doar „o ședință”. Întrebați câte astfel de proceduri a efectuat medicul, ce produs folosește și de unde provine, ce rezultat este realist în cazul dumneavoastră și cum îl puteți contacta dacă apare o problemă.
 
-## Semnale de alarmă: când să eviți o procedură
+Semnalele de alarmă sunt aceleași ca la orice procedură injectabilă: injecții în saloane de înfrumusețare, la domiciliu sau la „petreceri” estetice; o persoană care nu este medic; lipsa întrebărilor despre sănătatea dumneavoastră; un produs cumpărat online sau un ambalaj care nu vă este arătat; promisiuni de rezultat „garantat” sau „fără niciun risc”; presiunea de a decide pe loc.
 
-- procedura se face într-un salon de înfrumusețare, la domiciliu sau la „petreceri” cu proceduri estetice;
-- persoana care injectează nu este medic sau nu poate dovedi pregătirea medicală;
-- nu ți se face niciun consult și nu ți se pun întrebări despre sănătatea ta;
-- produsul este cumpărat online, are ambalaj în altă limbă fără autorizare locală sau nu ți se spune ce este;
-- ți se promit rezultate garantate, „permanente” sau „fără niciun risc”;
-- ești presat să decizi pe loc sau ți se propun cantități mari „ca să ții mai mult”.
+## Când poate fi util un consult dermatologic?
 
-## Când să mergi la dermatolog
+Este bine să contactați medicul care a făcut procedura sau un dermatolog dacă:
 
-Mergi la medicul care ți-a făcut procedura sau la un dermatolog dacă:
+- o pleoapă sau o sprânceană căzută vă jenează vederea sau nu se ameliorează;
+- durerea, roșeața sau umflătura cresc după primele zile, cu sau fără febră;
+- apare o asimetrie importantă care persistă după două săptămâni;
+- ochii devin foarte uscați, iritați sau nu se închid complet.
 
-- căderea pleoapei sau a sprâncenei te deranjează sau te împiedică să vezi bine;
-- ai durere, roșeață sau umflătură care se accentuează după primele zile, cu sau fără febră (posibilă infecție);
-- apar asimetrii importante care nu se ameliorează după două săptămâni;
-- ai ochii foarte uscați, iritați sau nu poți închide complet ochiul.
+Un consult este util și înainte de orice decizie, dacă vă întrebați ce tip de riduri aveți și ce poate sau nu poate face fiecare opțiune.
 
-Mergi **de urgență** (112 sau camera de gardă) dacă ai dificultăți la înghițire, la vorbire sau la respirație, vedere dublă ori slăbiciune musculară generalizată după o injecție cu toxină botulinică.
+Toxina botulinică este un medicament cu efect temporar și bine circumscris, util pentru ridurile de expresie și pentru unele probleme medicale. Beneficiile ei trebuie cântărite împreună cu limitele și riscurile, într-o discuție deschisă cu un medic.
+
+## Dacă doriți o evaluare individuală
+
+Dacă doriți să înțelegeți ce tip de riduri vă preocupă și ce opțiuni ar putea avea sens pentru dumneavoastră, inclusiv varianta de a nu face nimic, puteți programa o consultație de evaluare la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile aici](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: explicarea neutră a unui medicament pe bază de prescripție și a limitelor lui (deontologie CMR: fără promovare, fără nume de produse, fără prețuri). Delimitează clar toxina (riduri dinamice) de fillere (volum) și de cearcăne, cu trimiteri către acele articole, fără a repeta complicațiile vasculare descrise la fillere.
+- Afirmații de confirmat clinic: cronologia efectului (2–4 zile / ~10 zile / ~3 luni, DermNet; 3–4 luni, AAD); ptoza sub 10% din tratamente și durata de până la ~12 săptămâni (DermNet); lista contraindicațiilor (DermNet + MedlinePlus). Afirmația AAD că reacții grave nu au fost raportate în utilizarea de către dermatologi a fost omisă intenționat, pentru că ar putea fi citită ca promovare; o puteți adăuga dacă doriți.
+- Informații lipsă / de completat: statutul de prescripție în România și cadrul legal al administrării (marcat inline); dacă efectuați această procedură [TODO: de confirmat de medic — oferă această procedură?]. CTA-ul invită la evaluare, nu la procedură.
+- Surse care nu au putut fi verificate: RCP-urile ANMDMR/EMA, Fitzpatrick și Bolognia din versiunea anterioară nu au fost accesate online și au fost scoase. Pagina MedlinePlus folosită descrie o anumită toxină de tip A; avertismentul privind răspândirea la distanță este comun clasei, dar merită confirmat în RCP-urile europene.

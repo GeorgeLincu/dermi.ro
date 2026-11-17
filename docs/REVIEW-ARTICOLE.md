@@ -1,78 +1,126 @@
 # Verificarea articolelor înainte de publicare
 
-Toate articolele sunt **ciorne** (`draft: true`), scrise cu ajutorul AI după
-[CONTENT-GUIDE.md](CONTENT-GUIDE.md). Nimic nu apare pe site până când Dr. Mădălina nu le verifică
-și le publică. Site-ul refuză automat publicarea unui articol care mai conține `[TODO`.
+Toate cele 63 de articole sunt **ciorne** (`draft: true`), rescrise în noiembrie 2026 după promptul editorial
+[PROMPT-ARTICOLE.txt](PROMPT-ARTICOLE.txt) (adresare cu „dumneavoastră”, structură AIDA adaptată etic, surse AAD verificate,
+un singur îndemn calm către [/program/](https://dermi.ro/program/)). Nimic nu apare pe site până când Dr. Mădălina nu verifică
+și publică din [/vault/](https://dermi.ro/vault/). Site-ul refuză automat publicarea unui text care mai conține `[TODO`.
 
-## Pentru fiecare articol
+## Pași pentru fiecare articol (în vault)
 
-1. Corectitudine medicală: indicații, contraindicații, siguranța în sarcină, avertismentele.
-2. Șterge sau completează linia `> [TODO: Dr. Mădălina — observație din practică, opțional]`.
-   O observație reală din practică (fără date despre pacienți) crește încrederea (E-E-A-T).
-3. Rezolvă fiecare `[TODO: verifică …]` (situația din România).
-4. Verifică sursele: titlu, editor, an. Unde lipsește, adaugă linkul exact (`url:`).
-5. Verifică întrebările frecvente (`faq:`) din antet.
-6. Abia apoi: `draft: false` → Publică.
+1. Deschideți articolul și citiți la final secțiunea **„[TODO: Notă pentru medic …]”**: obiectivul editorial, afirmațiile
+   de confirmat, informațiile lipsă și sursele care nu au putut fi verificate.
+2. Rezolvați fiecare marcaj `[TODO: de confirmat de medic — …]` din text: confirmați, corectați sau ștergeți fraza.
+3. Verificați sursele din antet (fiecare are link și data accesării) și întrebările frecvente.
+4. Unde e cazul, răspundeți la întrebarea „oferă această procedură?” (articolele nu afirmă niciodată că doctorița face o
+   procedură; îndemnul final invită doar la o evaluare).
+5. **Ștergeți întreaga secțiune „Notă pentru medic”**, apoi debifați „ciornă” și publicați.
 
-## Puncte semnalate de echipa de redactare
+Recomandare de ordine (cele mai căutate, puține marcaje): acneea-la-adulti, alunite-semne-de-alarma, cum-aplici-corect-protectia-solara,
+dermatita-atopica, caderea-parului-la-femei, apoi câte 2 pe lună.
+
+## Articolele și numărul de marcaje din text
+
+(Marcajele din nota finală nu sunt numărate; nota se șterge oricum.)
 
 ### Afecțiuni
-- **acneea-la-adulti**: spironolactona ca opțiune la femei (off-label pentru acnee în România).
-- **dermatita-atopica**: lista de biologice și inhibitori JAK (dupilumab, tralokinumab, lebrikizumab,
-  abrocitinib, baricitinib, upadacitinib) — disponibilitate și decontare în România `[TODO]`;
-  frecvența „de 2 ori pe săptămână” pentru terapia proactivă.
-- **psoriazis**: cifra OMS „peste 100 de milioane” (raport 2016); deucravacitinib și fumarați
-  față de EuroGuiDerm; protocoalele naționale pentru biologice `[TODO]`.
-- **dermatita-seboreica**: roflumilast omis intenționat (statut UE incert).
-- **melasma**: acid tranexamic oral (off-label, risc trombotic); hidrochinona doar pe rețetă în UE;
-  acidul azelaic „în general acceptat” în sarcină.
-- **alunite-semne-de-alarma**: pragul „peste 50–100 de alunițe”, „aluniță nouă după ~40 de ani”,
-  mnemonicul EFG.
-- **herpes-labial**: cremele antivirale scurtează episodul cu ~0,5–1 zi; cifra OMS pentru HSV-1.
-- **micoza-unghiilor**: „aproximativ jumătate din unghiile modificate nu sunt micotice” (BAD).
-- **urticaria**: „1 din 5 persoane” de-a lungul vieții; omalizumab/ciclosporină în România `[TODO]`.
-- **caderea-parului-la-femei**: minoxidil oral în doză mică și spironolactonă (fără doze).
-- **negii-veruci**: „~2/3 din negii copiilor dispar în 2 ani” (BAD); banda adezivă — dovezi contradictorii.
-- **hiperhidroza**: ionoforeză la domiciliu și anticolinergice topice în România `[TODO]`.
-- **keratoza-pilara**, **vitiligo**: ruxolitinib topic (aprobat în UE ≥12 ani, vitiligo nesegmentar facial)
-  — disponibilitate în România `[TODO]`; prevalența 0,5–2%; asociații de pacienți `[TODO]`.
-- **cum-tratezi-rozaceea**: oximetazolina topică în România `[TODO]`.
 
-### Dermatologie estetică (8 articole noi)
-Reguli: informativ, fără prețuri, mărci, programări, garanții sau „înainte/după”. Toxina botulinică e
-medicament pe rețetă: nu se promovează. În toate: `[TODO: verifică denumirea și adresa actuală a registrului]` (CMR).
-- **toxina-botulinica**: intervale (debut 2–5 zile, maxim ~2 săptămâni, durată 3–4 luni); contraindicații
-  (miastenie, Lambert-Eaton, aminoglicozide); semnele de difuzare care cer 112; cine poate administra în România.
-- **fillerele-cu-acid-hialuronic**: durate pe zone (6–18 luni); dispozitive medicale CE (Reg. UE 2017/745);
-  zonele cu risc de ocluzie vasculară, hialuronidaza, 112 la tulburări de vedere; injectoarele fără ac.
-- **peelingul-chimic**: tabelul tipurilor și recuperarea; sarcina; isotretinoina orală; riscul cardiac la fenol.
-- **laserul-in-dermatologia-estetica**: tabelul tipurilor; contraindicații (săruri de aur, lupus); melasma se
-  poate agrava; diagnostic înainte de laser pe pete/alunițe; cine poate face laser în România `[TODO]`.
-- **microneedlingul**: cine poate face microneedling medical în România `[TODO]`; 3–6 ședințe; risc de pete pe pielea închisă la culoare.
-- **cicatricile-post-acnee**: consensul 2017 (Spring et al., JAMA Dermatology) privind isotretinoina și procedurile superficiale.
-- **plasma-bogata-in-trombocite-prp**: dovezi insuficiente pentru căderea părului (ghid S3 2018, Kanti et al.);
-  autorizarea procedurilor PRP în România `[TODO]`; raportul CDC 2024 despre infecții la un spa nelicențiat.
-- **imbatranirea-pielii-ce-functioneaza**: studiul Hughes 2013 (protecție solară zilnică); tretinoina doar pe rețetă;
-  „celule stem” din plante; formulările despre afirmațiile cosmetice (Reg. 655/2013).
+| Articol | Titlu | Marcaje în text | Tip |
+|---|---|---|---|
+| `acneea-la-adulti` | Acneea la adulți: de ce apare după 25 de ani și ce se poate face | 1 | rescris |
+| `alopecia-areata` | Alopecia areata: de ce apar zone fără păr și ce se poate face | 2 | nou |
+| `alunite-semne-de-alarma` | Semnele de alarmă ale alunițelor și schimbările care sunt normale | 0 | rescris |
+| `caderea-parului-la-femei` | Căderea părului la femei: cauze, analize utile și tratamente | 1 | rescris |
+| `cheloizi-si-cicatrici-hipertrofice` | Cheloizi și cicatrici hipertrofice: diferențe și opțiuni de tratament | 1 | nou |
+| `cum-previi-petele-pigmentare` | Cum se previn petele pigmentare și de ce contează tipul petei | 0 | rescris |
+| `cum-tratezi-rozaceea` | Tratamentul rozaceei: ce opțiuni există și ce puteți face zilnic | 1 | rescris |
+| `dermatita-atopica` | Dermatita atopică: cum arată, ce o agravează și cum se tratează | 2 | rescris |
+| `dermatita-de-contact` | Dermatita de contact: iritație sau alergie și cum se află cauza | 2 | nou |
+| `dermatita-perorala` | Dermatita perorală: erupția din jurul gurii confundată adesea cu acneea | 1 | nou |
+| `dermatita-seboreica` | Dermatita seboreică: de ce revine și cum poate fi ținută sub control | 1 | rescris |
+| `eczema-mainilor` | Eczema mâinilor: cauze frecvente și îngrijirea de zi cu zi | 2 | nou |
+| `foliculita` | Foliculita: de ce se inflamează foliculii de păr și ce se poate face | 0 | nou |
+| `herpes-labial` | Herpesul labial: de ce revine, cât este contagios și ce ajută | 1 | rescris |
+| `hiperhidroza` | Hiperhidroza: când transpirația este prea multă și ce opțiuni există | 1 | rescris |
+| `hiperpigmentarea-postinflamatorie` | Hiperpigmentarea postinflamatorie: de ce rămân pete după coșuri | 1 | nou |
+| `keratoza-actinica` | Keratoza actinică: petele aspre de pe pielea expusă la soare | 0 | nou |
+| `keratoza-pilara` | Keratoza pilară: ce sunt bobițele aspre de pe brațe și cum se îngrijesc | 0 | rescris |
+| `melasma` | Melasma: de ce apare, cum se tratează și de ce revine | 3 | rescris |
+| `micoza-unghiilor` | Micoza unghiilor: cum se confirmă și de ce tratamentul durează mult | 1 | rescris |
+| `mituri-despre-acnee` | Mituri despre acnee: ce spun dovezile despre igienă, dietă și soare | 0 | rescris |
+| `moluscum-contagios` | Moluscum contagios la copii și adulți: cum arată și când se tratează | 1 | nou |
+| `negii-veruci` | Negii (verucile): de ce apar, când trec singuri și ce opțiuni există | 1 | rescris |
+| `pielea-uscata-xeroza` | Pielea uscată (xeroza): cauze, îngrijire și când merită investigată | 2 | nou |
+| `pitiriazis-versicolor` | Pitiriazis versicolor: petele de pe piele care se văd mai bine după vară | 0 | nou |
+| `psoriazis` | Psoriazisul: ce este, ce îl agravează și cum se alege tratamentul | 1 | rescris |
+| `urticaria` | Urticaria: cum se recunoaște, ce o declanșează și când devine cronică | 2 | rescris |
+| `vitiligo` | Vitiligo: cum apar petele albe și ce pot face tratamentele actuale | 2 | rescris |
 
-### Ingrediente și protecție solară
-- **retinolul-si-retinoizii**: Regulamentul (UE) 2024/996 (limite vitamina A în cosmetice, termene
-  `[TODO]`); adapalenul în România — cu/fără rețetă `[TODO]`; incompatibilitate tretinoină/peroxid.
-- **acidul-azelaic**: forme cu/fără rețetă în România `[TODO]`; atenționarea despre astm `[TODO]`.
-- **niacinamida**: nicotinamida orală (NEJM 2015) doar ca decizie a dermatologului.
-- **vitamina-c-in-skincare**: pragul ~20% și pH acid (Pinnell 2001).
-- **cum-aplici-corect-protectia-solara**: ghidul de cantitate pe zone (Taylor & Diffey, BMJ 2002).
-- **protectia-solara-la-copii**: sub 6 luni (poziția AAD/AAP; unele surse europene sunt mai stricte);
-  SPF 30–50 vs. 50+.
-- **ingrijirea-pielii-in-sarcina** (cel mai sensibil): acid salicilic în concentrații mici, hidrochinonă,
-  peroxid de benzoil și clindamicină topică, tetracicline orale, prurit palmo-plantar (colestază).
+### Dermatologie estetică
 
-### Rutine și consultații
-- **cand-sa-mergi-la-dermatolog**: consultația decontată CNAS / bilet de trimitere `[TODO]`;
-  pragurile „4–6 săptămâni” și „2–3 săptămâni” sunt practice, nu din ghid; unde se fac programările `[TODO]`.
-- **dermatoscopia**: mărirea „~10x”; programări `[TODO]`.
+| Articol | Titlu | Marcaje în text | Tip |
+|---|---|---|---|
+| `cearcanele` | Cearcănele: de unde apar și ce poate ajuta, în funcție de cauză | 0 | nou |
+| `cicatricile-post-acnee` | Cicatricile post-acnee: tipuri, opțiuni de tratament și așteptări realiste | 5 | rescris |
+| `cuperoza-si-vasele-vizibile` | Cuperoza și vasele vizibile de pe față: cauze și opțiuni de tratament | 3 | nou |
+| `fillerele-cu-acid-hialuronic` | Fillerele cu acid hialuronic: ce pot corecta și ce riscuri au | 2 | rescris |
+| `imbatranirea-pielii-ce-functioneaza` | Îmbătrânirea pielii: ce are dovezi și ce ține de marketing | 2 | rescris |
+| `laserul-in-dermatologia-estetica` | Tratamentul cu laser pe față: ce tipuri există și ce riscuri au | 3 | rescris |
+| `microneedlingul` | Microneedlingul: ce poate ameliora, riscuri și așteptări realiste | 1 | rescris |
+| `peelingul-chimic` | Peelingul chimic: ce poate face, recuperarea și riscurile | 1 | rescris |
+| `plasma-bogata-in-trombocite-prp` | Plasma bogată în trombocite (PRP): ce știm și ce nu știm încă | 3 | rescris |
+| `porii-dilatati` | Porii dilatați: de ce apar și ce îi face mai puțin vizibili | 1 | nou |
+| `toxina-botulinica` | Toxina botulinică: cum acționează, cât durează și ce riscuri are | 2 | rescris |
 
-### Articolele vechi (2025), rescrise
-Corecturi importante față de textele vechi: filtrele minerale în principal absorb UV (nu doar reflectă);
-reaplicarea la 2 ore se aplică la expunere în aer liber; pH-ul demachiantului ~4,5–5,5 (nu neutru);
-clasificarea rozaceei pe semne (ROSCO 2017); hidrochinona doar pe rețetă în UE.
+### Ingrediente
+
+| Articol | Titlu | Marcaje în text | Tip |
+|---|---|---|---|
+| `acidul-azelaic` | Acidul azelaic: cum acționează în acnee, rozacee și pete | 3 | rescris |
+| `acidul-salicilic` | Acidul salicilic: cum acționează, când ajută și ce precauții are | 2 | nou |
+| `acizii-exfolianti-aha-bha-pha` | Acizii exfolianți AHA, BHA și PHA: diferențe și criterii de alegere | 1 | nou |
+| `ceramidele-si-bariera-pielii` | Ceramidele și bariera pielii: ce pot și ce nu pot face cremele | 0 | rescris |
+| `ghid-complet-despre-acid-hialuronic` | Acidul hialuronic în îngrijirea pielii: ce face și ce nu face | 2 | rescris |
+| `niacinamida` | Niacinamida: ce arată studiile și ce așteptări sunt realiste | 2 | rescris |
+| `retinolul-si-retinoizii` | Retinolul și retinoizii: diferențe, așteptări realiste și precauții | 1 | rescris |
+| `vitamina-c-in-skincare` | Vitamina C în îngrijirea pielii: ce poate face și ce nu | 1 | rescris |
+
+### Protecție solară
+
+| Articol | Titlu | Marcaje în text | Tip |
+|---|---|---|---|
+| `cum-aplici-corect-protectia-solara` | Cum se aplică protecția solară: cantitate, ordine și reaplicare | 1 | rescris |
+| `protectia-solara-la-copii` | Protecția solară la copii: ce se schimbă de la bebeluș la adolescent | 2 | rescris |
+| `spf-pe-scurt` | Ce înseamnă SPF și cum citiți eticheta unei protecții solare | 0 | rescris |
+
+### Rutine
+
+| Articol | Titlu | Marcaje în text | Tip |
+|---|---|---|---|
+| `cum-alegi-crema-hidratanta-potrivita` | Cum alegeți crema hidratantă: textură, ingrediente și mod de aplicare | 1 | rescris |
+| `importanta-exfolierii` | Exfolierea pielii: când ajută, cât de des și ce precauții contează | 1 | rescris |
+| `ingrijirea-pielii-iarna` | Îngrijirea pielii iarna: ce schimbați în rutină când vine frigul | 3 | rescris |
+| `ingrijirea-pielii-in-sarcina` | Îngrijirea pielii în sarcină: ce rămâne în rutină și ce se evită | 2 | rescris |
+| `ingrijirea-pielii-la-barbati` | Îngrijirea pielii la bărbați: rutina de bază și bărbieritul | 1 | nou |
+| `pielea-in-menopauza` | Pielea în menopauză: ce se schimbă și cum adaptați îngrijirea | 2 | nou |
+| `rutina-corecta-pentru-pielea-sensibila` | Rutina pentru pielea sensibilă: mai puține produse, alese atent | 2 | rescris |
+| `rutina-de-ingrijire-de-baza` | Rutina de îngrijire a pielii: ce este necesar și ce este opțional | 0 | rescris |
+| `rutina-pentru-pielea-grasa` | Rutina pentru pielea grasă: cum reduceți luciul fără să iritați pielea | 1 | nou |
+| `top-5-greseli-in-ingrijirea-pielii` | Cinci greșeli frecvente în îngrijirea pielii și cum le corectați | 1 | rescris |
+
+### Consultații
+
+| Articol | Titlu | Marcaje în text | Tip |
+|---|---|---|---|
+| `autoexaminarea-pielii` | Autoexaminarea pielii: cum vă verificați alunițele acasă, pas cu pas | 0 | nou |
+| `cand-sa-mergi-la-dermatolog` | Când să mergeți la dermatolog și cum vă pregătiți pentru consult | 0 | rescris |
+| `dermatoscopia` | Dermatoscopia: ce arată, cum decurge și ce limite are | 2 | rescris |
+
+## Observații generale de la echipa de redactare
+
+- Sursele vechi care nu au putut fi deschise au fost scoase; afirmațiile care depindeau doar de ele au fost eliminate sau marcate.
+  Fiecare notă pentru medic spune ce s-a scos.
+- Disponibilitatea în România a unor tratamente noi (biologice, inhibitori JAK, creme recente), decontarea CNAS și cine
+  poate face legal proceduri estetice sunt marcate pentru confirmare — nu au fost presupuse.
+- Unde sursele se contrazic (ex. PRP, proceduri pentru melasma, eczema mâinilor), textul prezintă ambele poziții.
+- Cifre corectate față de textele vechi: durata fillerelor 4–12 luni (AAD) / 3–9 luni (DermNet) în loc de 6–18 luni;
+  „aluniță nouă la adult” după 30 de ani (AAD), nu 40.

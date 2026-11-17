@@ -1,150 +1,148 @@
 ---
-title: "Urticaria: cauze, tipuri și tratament pentru acută și cronică"
-description: "Ce este urticaria, de ce apare, când e o urgență, ce analize au sens și cum se tratează urticaria acută și cea cronică."
+title: "Urticaria: cum se recunoaște, ce o declanșează și când devine cronică"
+description: "Ce este urticaria, de ce apar și dispar papulele, când vorbim de urticarie cronică, ce tratamente există și ce semne cer ajutor de urgență."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["urticarie", "mâncărime", "alergie", "angioedem"]
+tags: ["urticarie", "mâncărime", "angioedem", "alergie"]
 draft: true
 faq:
   - q: "Urticaria este contagioasă?"
-    a: "Nu. Urticaria este o reacție a pielii și nu se transmite de la o persoană la alta, chiar dacă uneori este declanșată de o infecție."
+    a: "Nu. Urticaria este o reacție a pielii și nu se transmite de la o persoană la alta, chiar și atunci când a fost declanșată de o infecție."
   - q: "Cât durează urticaria?"
-    a: "O papulă de urticarie dispare de obicei în mai puțin de 24 de ore, dar pot apărea altele noi. Urticaria acută trece în mai puțin de 6 săptămâni; dacă episoadele continuă peste 6 săptămâni, se vorbește de urticarie cronică."
-  - q: "Urticaria cronică este o alergie?"
-    a: "De cele mai multe ori nu. Urticaria cronică spontană are adesea un mecanism autoimun și rareori este cauzată de un aliment sau de o alergie anume, de aceea testele alergologice extinse nu sunt de obicei utile."
+    a: "O papulă dispare de obicei în mai puțin de 24 de ore, dar pot apărea altele noi. Multe episoade trec în câteva zile sau săptămâni; când papulele apar zilnic sau aproape zilnic timp de cel puțin 6 săptămâni, se vorbește de urticarie cronică."
+  - q: "Urticaria cronică înseamnă o alergie alimentară?"
+    a: "De cele mai multe ori, nu. În urticaria cronică spontană nu se găsește un factor extern, iar eliminarea unor alimente fără recomandare medicală rareori ajută."
   - q: "Ce fac dacă mi se umflă buzele sau limba?"
-    a: "Dacă umflarea buzelor sau a limbii este însoțită de dificultăți la respirație sau la înghițire, răgușeală, amețeală ori leșin, sună imediat la 112. Acestea pot fi semne de anafilaxie."
-  - q: "Pot lua antihistaminice mult timp?"
-    a: "Antihistaminicele moderne, nesedative, sunt considerate sigure pentru utilizare îndelungată în urticaria cronică, sub îndrumarea medicului. Medicul îți va spune ce produs, ce doză și cât timp."
+    a: "Umflarea buzelor, a limbii sau a gâtului, mai ales cu dificultăți la respirație sau la înghițire, amețeală ori leșin, este o urgență. Sunați imediat la 112."
 sources:
-  - title: "The international EAACI/GA²LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria"
-    publisher: "Allergy (2022)"
-  - title: "Urticaria"
-    publisher: "DermNet"
-    url: "https://dermnetnz.org/topics/urticaria"
+  - title: "Hives: FAQs"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hives-overview"
+  - title: "Hives: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hives-treatment"
+  - title: "Hives: How to get relief at home"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hives-self-care"
+  - title: "Chronic spontaneous urticaria: Effective treatment possible"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hives-derm-relief"
   - title: "Hives"
-    publisher: "NHS (National Health Service, Marea Britanie)"
+    publisher: "NHS (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/hives/"
-  - title: "Hives: diagnosis and treatment"
-    publisher: "American Academy of Dermatology"
 ---
 
-Urticaria este o erupție cu papule (umflături) roșii sau albe, care mănâncă intens și se mută dintr-un loc în altul, fiecare dispărând de obicei în mai puțin de 24 de ore. Poate fi acută (sub 6 săptămâni), adesea după o infecție sau un medicament, sau cronică (peste 6 săptămâni), caz în care rareori are o cauză alergică simplă. Primul tratament sunt antihistaminicele moderne, iar umflarea limbii sau dificultatea de a respira înseamnă urgență și apel la 112.
+Seara, după duș, pe abdomen apar câteva umflături roșii care mănâncă puternic. Dimineața au dispărut fără urmă, iar la prânz altele, de forme diferite, se ivesc pe brațe. Acest du-te-vino este semnătura urticariei, popular numită „blânde” sau „urzicătură”.
 
-## Pe scurt
+Urticaria este o reacție a pielii în care apar papule (umflături) roșii sau roz, care mănâncă intens și se mută dintr-un loc în altul; fiecare dispare de obicei în mai puțin de 24 de ore. Cele mai multe episoade trec în câteva zile sau săptămâni. Când papulele revin zilnic sau aproape zilnic timp de cel puțin 6 săptămâni, vorbim de urticarie cronică, o situație diferită, care rareori are o cauză alergică simplă.
 
-- Urticaria este frecventă: ghidurile internaționale estimează că aproximativ una din cinci persoane are cel puțin un episod în viață.
-- Urticaria **acută** durează sub 6 săptămâni; cea **cronică**, peste 6 săptămâni.
-- Urticaria cronică spontană **nu este, de obicei, o alergie** la un aliment și nu necesită teste alergologice extinse.
-- Tratamentul de bază: antihistaminice H1 nesedative, luate regulat; pentru formele rezistente există terapii prescrise de specialist.
-- Umflarea limbii, a gâtului sau dificultatea de respirație = urgență medicală.
+## Ce se întâmplă în piele
 
-## Ce este urticaria
+În piele există celule numite mastocite, care conțin histamină și alte substanțe. Când sunt activate, ele eliberează aceste substanțe, vasele mici se dilată și lasă lichid să iasă în țesut. Rezultatul este papula urticariană: o umflătură ușor reliefată, cu marginea roșie și centrul uneori mai palid, care poate avea mărimea unei monede sau se poate uni cu altele în plăci întinse. Pe pielea închisă la culoare, roșeața se vede mai greu, iar relieful și mâncărimea sunt principalele indicii.
 
-Urticaria apare când anumite celule din piele, numite mastocite, eliberează histamină și alte substanțe. Acestea dilată vasele mici de sânge și lasă lichid să iasă în piele, formând **papulele urticariene** (numite popular „blânde” sau „urzicătură”).
+Unele persoane au și angioedem, adică o umflare mai profundă, care cuprinde mai ales pleoapele, buzele, mâinile, picioarele sau organele genitale. Angioedemul dă mai degrabă senzație de tensiune sau durere decât mâncărime și durează mai mult decât papulele obișnuite.
 
-Caracteristic pentru urticarie:
+Urticaria nu este contagioasă.
 
-- papule ridicate, roșii sau albicioase în centru, de forme și dimensiuni variabile;
-- **mâncărime** intensă (uneori arsură);
-- fiecare papulă **dispare în mai puțin de 24 de ore**, fără urme, dar pot apărea altele în alte zone.
+## Acută sau cronică: de ce contează diferența
 
-La unele persoane apare și **angioedemul**: umflarea mai profundă a pielii, mai ales la pleoape, buze, limbă, mâini, picioare sau organe genitale. Angioedemul doare sau dă senzație de tensiune mai mult decât mâncărime și poate dura până la 2–3 zile.
+Granița de 6 săptămâni nu este arbitrară. Ea schimbă felul în care se caută o cauză și felul în care se tratează.
 
-## Tipuri de urticarie
+### Episoadele scurte
 
-### Urticaria acută
+Cele mai multe episoade sunt scurte și au adesea un declanșator identificabil:
 
-Durează **sub 6 săptămâni** și este cea mai frecventă formă. Cauze posibile:
+- o infecție (răceală, angină, infecție urinară), foarte frecvent la copii;
+- un medicament, inclusiv unele analgezice, cum sunt ibuprofenul și aspirina, sau un supliment;
+- un aliment, la persoanele cu alergie reală, caz în care reacția apare de obicei rapid după masă;
+- o înțepătură de insectă;
+- contactul cu plante, animale, latex sau substanțe chimice.
 
-- **infecții** – mai ales virale, foarte frecvent la copii;
-- **medicamente** – de exemplu antiinflamatoare nesteroidiene (ibuprofen, aspirină) sau unele antibiotice;
-- **alimente** – la persoanele cu alergie alimentară reală, reacția apare de obicei în minute până la două ore după consum;
-- **înțepături de insecte**;
-- de multe ori, **nu se găsește o cauză clară**.
+De multe ori, însă, cauza nu se află niciodată, iar urticaria trece oricum.
 
 ### Urticaria cronică
 
-Durează **peste 6 săptămâni**, cu papule care apar zilnic sau în cele mai multe zile. Are două forme principale, care pot coexista:
+Urticaria cronică are două forme mari, care pot coexista. În urticaria cronică spontană, papulele apar fără niciun factor extern evident. În urticaria inductibilă, ele sunt provocate de un stimul fizic: frecarea sau zgârierea pielii (dermografismul, cea mai frecventă formă inductibilă, în care o linie trasă cu unghia devine în câteva minute o dungă umflată), frigul, presiunea unei curele sau a unei genți, căldura, transpirația, soarele sau, rar, apa.
 
-- **Urticaria cronică spontană** – papulele apar fără un factor declanșator extern evident. La multe persoane există un mecanism autoimun, în care sistemul imunitar activează din greșeală mastocitele. Poate dura luni sau ani, dar la cei mai mulți se ameliorează și dispare în timp.
-- **Urticaria cronică inductibilă** – papulele sunt declanșate de un stimul anume: frecarea sau zgârierea pielii (dermografism), frigul, presiunea, căldura, efortul și transpirația (urticarie colinergică), soarele, apa.
+Pentru cei care trăiesc cu ea, urticaria cronică este obositoare: mâncărimea strică somnul, iar imprevizibilitatea afectează munca și viața socială. Nu este însă un semn de boală gravă ascunsă la majoritatea persoanelor.
 
-Factori care pot agrava orice formă: antiinflamatoarele nesteroidiene, alcoolul, stresul, infecțiile, căldura, hainele strâmte.
+## Ce poate agrava urticaria
+
+Indiferent de formă, câțiva factori fac papulele mai numeroase sau mai supărătoare: căldura excesivă și dușurile fierbinți, transpirația, hainele strâmte și curelele, stresul, alcoolul și unele analgezice antiinflamatoare. AAD notează că ibuprofenul și aspirina pot accentua mâncărimea în urticaria cronică; ce analgezic este potrivit în cazul dumneavoastră este bine să stabiliți împreună cu medicul.
+
+Scărpinatul merită și el pus pe listă. Pielea iritată poate produce papule noi, așa că unghiile scurte ajută mai mult decât pare.
 
 ## Cum se pune diagnosticul
 
-În cele mai multe cazuri, diagnosticul se pune pe baza discuției cu medicul și a aspectului pielii. Fotografiile făcute de tine în timpul unui episod sunt foarte utile, pentru că papulele pot dispărea până la consult.
+Urticaria se recunoaște, de obicei, la vedere. Problema este că papulele pot dispărea până la consult, de aceea fotografiile făcute în timpul unui episod sunt foarte utile. Medicul poate trece ușor un bețișor peste piele, pentru a vedea dacă apare o dungă umflată.
 
-- În **urticaria acută** nu sunt, de obicei, necesare analize, cu excepția situațiilor în care se suspectează o alergie concretă (un aliment, un medicament, o înțepătură).
-- În **urticaria cronică spontană**, ghidurile recomandă un set limitat de analize de bază (de exemplu hemoleucogramă și markeri de inflamație), iar alte investigații doar în funcție de istoric. Testarea alergologică extinsă „la tot” nu este recomandată.
-- În **urticaria inductibilă**, medicul poate face teste de provocare simple (de exemplu cu frig sau prin frecarea pielii).
-- Dacă papulele **durează peste 24 de ore**, lasă vânătăi sau pete maronii, sau dor mai mult decât mănâncă, medicul poate recomanda o **biopsie** pentru a exclude vasculita urticariană.
-- **Angioedemul fără papule**, mai ales repetat, necesită o evaluare separată: poate fi provocat de unele medicamente pentru tensiune (inhibitori ai enzimei de conversie) sau, rar, de forme ereditare.
+Partea cea mai importantă a evaluării este discuția. Medicul va întreba cât de des apar papulele, cât durează fiecare, dacă mănâncă sau dor, dacă au existat amețeli sau greață și ce s-a întâmplat în orele dinaintea episodului: alimente, medicamente și suplimente (inclusiv cele fără rețetă), efort, căldură, frig, stres, haine strâmte, o înțepătură.
 
-## Cum se tratează urticaria
+Analizele nu sunt necesare în toate cazurile. Testele de alergie au sens când există o suspiciune concretă, de exemplu o reacție repetată după un anumit aliment sau medicament. Analizele de sânge pot exclude o infecție sau o altă boală, iar biopsia este rareori necesară. Uneori, în ciuda tuturor investigațiilor, cauza rămâne necunoscută. Acest lucru nu înseamnă că urticaria nu poate fi tratată.
 
-Scopul tratamentului este controlul complet al simptomelor. Ghidul internațional EAACI/GA²LEN/EuroGuiDerm/APAAACI propune o abordare în trepte.
+## Cum se tratează
 
-| Treaptă | Ce presupune | Cine decide |
-|---|---|---|
-| 1 | Antihistaminic H1 de generație a doua (nesedativ), luat regulat | Medic / farmacist |
-| 2 | Creșterea dozei antihistaminicului peste cea standard, dacă simptomele persistă | Doar medicul |
-| 3 | Terapie biologică (de exemplu omalizumab), la urticaria cronică rezistentă | Medic specialist |
-| 4 | Ciclosporină, în cazuri selectate, cu monitorizare | Medic specialist |
+Scopul tratamentului este controlul mâncărimii și prevenirea papulelor noi. Cele existente dispar oricum singure.
 
 ### Antihistaminicele
 
-Antihistaminicele de generație a doua (nesedative) sunt baza tratamentului. În urticaria cronică ele se iau **zilnic, regulat**, nu doar „când apar bubele”, pentru că așa previn apariția papulelor. Antihistaminicele vechi, care dau somnolență, nu mai sunt recomandate ca tratament de rutină.
+Pentru episoadele ușoare, primul pas este de obicei un antihistaminic modern, nesedativ, cu efect de 24 de ore. Un farmacist sau un medic vă poate spune dacă este potrivit, mai ales dacă aveți alte boli sau dacă este vorba de un copil mic. Loțiunile calmante sau compresele reci pot ușura mâncărimea.
 
-În urticaria cronică, medicul poate crește doza peste cea de pe prospect, conform ghidurilor. **Nu face asta singur**: doza și durata se stabilesc de medic.
+În urticaria cronică, antihistaminicul se ia zilnic, regulat, nu doar „când apar bubele”, pentru că așa previne apariția lor. Dacă nu este suficient, medicul poate modifica doza, poate reevalua după aproximativ o săptămână sau poate adăuga un al doilea antihistaminic. Modificarea dozei se face numai la recomandarea medicului.
 
-### Terapiile pentru urticaria cronică rezistentă
+### Când antihistaminicele nu ajung
 
-Dacă antihistaminicele nu controlează boala, dermatologul sau alergologul poate recomanda o **terapie biologică** injectabilă (omalizumab este cea mai studiată) sau, în anumite cazuri, **ciclosporină**, cu monitorizarea tensiunii și a funcției rinichilor. Domeniul evoluează și există și alte terapii noi, aprobate sau în studiu. Accesul la aceste tratamente în România depinde de criterii și protocoale specifice [TODO: verifică].
+Pentru urticaria cronică spontană care persistă în ciuda antihistaminicelor există tratamente prescrise de specialist: medicamente biologice injectabile (omalizumab, dupilumab) și, mai nou, un medicament oral (remibrutinib), fiecare cu efecte adverse și cerințe de monitorizare proprii. Efectul nu este imediat; pentru omalizumab, AAD vorbește de până la 4–6 luni. Alte opțiuni, folosite în situații selectate, sunt ciclosporina, cu monitorizarea tensiunii arteriale, și fototerapia. [TODO: de confirmat de medic — disponibilitatea și condițiile de acces în România pentru omalizumab, dupilumab și remibrutinib în urticaria cronică]
 
-### Corticosteroizii
+Corticosteroizii pe cale orală pot fi folosiți pe termen scurt, la recomandarea medicului, în episoade severe sau extinse, de exemplu cu umflarea feței. Nu sunt un tratament de durată.
 
-Un tratament scurt cu corticosteroizi pe cale orală poate fi folosit de medic în episoadele acute severe sau în puseele de urticarie cronică. Nu este potrivit ca tratament de lungă durată, din cauza efectelor adverse.
+Persoanelor cu risc de reacții severe medicul le poate prescrie un autoinjector cu adrenalină, împreună cu instrucțiuni clare de folosire.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Ce puteți face acasă
 
-## Ce poți face acasă
+Recomandările practice ale AAD sunt simple și utile:
 
-- **Ține un jurnal** al episoadelor: ce ai mâncat, ce medicamente ai luat, efort, stres, temperatură. Ajută medicul să deosebească urticaria spontană de cea inductibilă.
-- **Fă poze** papulelor și angioedemului.
-- **Evită factorii agravanți** cunoscuți: antiinflamatoarele nesteroidiene (întreabă medicul ce poți lua pentru durere), alcoolul, hainele strâmte, dușurile foarte fierbinți.
-- **Răcorește pielea** cu comprese reci sau un duș călduț; o loțiune calmantă poate reduce mâncărimea.
-- **Folosește produse blânde** pentru spălare și hidratare – vezi și [rutina corectă pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
-- **Nu elimina** singur grupe întregi de alimente fără o recomandare medicală; în urticaria cronică, dietele restrictive rareori ajută și pot duce la carențe.
+- comprese reci și umede, câte 10–20 de minute, pe zonele care mănâncă; băile cu fulgi de ovăz coloidal calmează și ele;
+- duș cu apă călduță, nu fierbinte, iar săpunul aplicat cu mâna, nu cu buretele sau cu mănușa;
+- produse de curățare fără parfum;
+- haine largi, din bumbac;
+- unghii scurte și cât mai puțin scărpinat.
 
-## Mituri despre urticarie
+În perioadele cu urticarie, pielea devine mai sensibilă decât de obicei. O cremă hidratantă fără parfum, aplicată după duș, o face mai confortabilă și reduce iritația care poate întreține scărpinatul.
 
-- **„Urticaria e mereu de la ceva ce ai mâncat.”** În urticaria cronică, alimentele sunt rareori cauza.
-- **„Trebuie să fac teste alergologice la toate alimentele.”** Testele extinse, fără o suspiciune clară, duc adesea la rezultate fals pozitive și restricții inutile.
-- **„Urticaria se transmite.”** Nu este contagioasă.
-- **„Dacă iau antihistaminice mult timp, nu mai au efect.”** Antihistaminicele moderne nu își pierd, de regulă, eficiența prin utilizare îndelungată.
-- **„Urticaria e doar de la stres.”** Stresul poate agrava boala, dar rareori este singura cauză.
+Dacă episoadele se repetă, un jurnal ajută mult: ce ați mâncat, ce medicamente sau suplimente ați luat, dacă ați transpirat, ați stat la căldură, ați fost stresat sau bolnav. Împreună cu fotografiile, jurnalul îi oferă medicului informații pe care o singură consultație nu le poate surprinde.
 
-## Urticaria la persoanele cu alte boli de piele
+Eliminarea unor grupe întregi de alimente „pe bănuială” rareori ajută în urticaria cronică și poate duce la o alimentație dezechilibrată. Merită făcută doar după o discuție cu medicul.
 
-Mâncărimea cronică poate avea și alte cauze, cum ar fi [dermatita atopică](/blog/dermatita-atopica/), în care leziunile sunt însă persistente, uscate și nu dispar în câteva ore. Medicul te poate ajuta să faci diferența.
+## Urticaria și alte afecțiuni care mănâncă
 
-## Când să mergi la dermatolog
+Nu orice erupție care mănâncă este urticarie. Plăcile de eczemă sunt persistente, uscate și nu dispar în câteva ore; despre ele găsiți detalii în articolul despre [dermatita atopică](/blog/dermatita-atopica/). Reacțiile la un produs aplicat pe piele apar de obicei în zona de contact și durează zile; acestea sunt descrise în articolul despre [dermatita de contact](/blog/dermatita-de-contact/). Diferența dintre ele se face cel mai sigur la examinare.
 
-**Sună la 112 imediat** dacă, împreună cu urticaria sau separat:
+## Ce poate aduce o evaluare dermatologică
 
-- ți se umflă **limba, gâtul sau buzele** și ai dificultăți la înghițire sau vorbire;
-- ai **dificultăți de respirație**, respirație șuierătoare sau răgușeală bruscă;
-- ai **amețeli, leșin, puls rapid**, vărsături sau dureri abdominale intense după un aliment, un medicament sau o înțepătură.
+În urticaria cronică, o consultație nu promite găsirea unei cauze, pentru că uneori ea nu există. Poate în schimb clarifica forma de urticarie, poate exclude alte afecțiuni asemănătoare, poate evita analizele inutile și poate stabili un plan de tratament în trepte, ajustat în timp. Pentru mulți oameni, controlul mâncărimii și al somnului este deja o schimbare importantă.
 
-Programează un consult la dermatolog sau la alergolog dacă:
+## Când poate fi util un consult dermatologic?
 
-- urticaria durează **peste 6 săptămâni** sau revine des;
+- papulele apar de mai mult de 6 săptămâni sau revin des;
+- acoperă suprafețe mari sau nu se ameliorează în câteva zile;
 - antihistaminicele nu controlează simptomele;
-- papulele durează **peste 24 de ore**, lasă vânătăi sau pete, sau dor;
-- ai **angioedem repetat**, mai ales fără papule;
-- urticaria este însoțită de **febră, dureri articulare, scădere în greutate** sau stare generală alterată;
-- suspectezi o legătură cu un **medicament** pe care îl iei.
+- o papulă durează mai mult de o zi, doare mai mult decât mănâncă sau lasă vânătăi ori pete;
+- aveți umflături repetate ale feței, buzelor sau mâinilor, chiar fără papule; unele medicamente pentru tensiune pot fi implicate, dar niciunul nu se oprește fără avizul medicului care l-a prescris [TODO: de confirmat de medic — mențiunea despre angioedemul indus de inhibitorii enzimei de conversie]
+- urticaria vine cu febră, dureri articulare sau stare generală alterată;
+- bănuiți o legătură cu un medicament.
 
-Mai multe detalii despre semnele care justifică un consult găsești în [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+Sunați imediat la 112 dacă apar umflarea buzelor, a limbii sau a gâtului, dificultăți la respirație sau la înghițire, senzația de gât strâns, amețeală, leșin, puls foarte rapid ori piele palidă sau albăstruie. Acestea pot fi semnele unei reacții alergice severe. Mai multe repere generale găsiți în ghidul [când merită să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+
+Urticaria arată spectaculos, dar de cele mai multe ori trece fără urme. Când devine cronică, nu înseamnă că nu se poate face nimic: există un tratament în trepte, iar scopul lui realist este controlul simptomelor.
+
+## Dacă doriți o evaluare individuală
+
+Dacă papulele revin și doriți să înțelegeți ce formă de urticarie aveți și ce opțiuni de tratament s-ar potrivi, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile](/program/) pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: recunoașterea urticariei, diferența acută/cronică, ce poate și ce nu poate clarifica evaluarea; semnele de urgență.
+- Afirmații de confirmat clinic: tratamentele de linia a doua (omalizumab, dupilumab, remibrutinib, ciclosporină, fototerapie) sunt descrise după AAD, context american; durata de până la 4–6 luni pentru efectul omalizumabului (AAD); mențiunea despre medicamentele antihipertensive și angioedem (marcată inline).
+- Informații lipsă / de completat: accesul în România la terapiile pentru urticaria cronică rezistentă (marcat inline); eventual rolul alergologului în colaborare.
+- Surse care nu au putut fi verificate: ghidul internațional EAACI/GA²LEN/EuroGuiDerm/APAAACI 2022 nu a fost deschis în această sesiune și a fost scos din surse; cifra „una din cinci persoane” din versiunea anterioară a fost eliminată.

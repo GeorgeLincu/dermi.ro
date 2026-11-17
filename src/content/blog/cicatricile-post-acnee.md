@@ -1,173 +1,129 @@
 ---
-title: "Cicatricile post-acnee: tipuri și opțiuni de tratament"
-description: "Ce tipuri de cicatrici lasă acneea, ce tratamente au dovezi, ce rezultate sunt realiste și cum previi cicatrici noi."
+title: "Cicatricile post-acnee: tipuri, opțiuni de tratament și așteptări realiste"
+description: "Cum deosebiți o pată de o cicatrice post-acnee, ce tipuri de cicatrici există, ce opțiuni au dovezi și ce rezultate sunt realiste."
 pubDate: 2026-10-01
 category: "estetica"
-tags: ["cicatrici", "acnee", "proceduri", "dermatologie estetică"]
+tags: ["cicatrici", "acnee", "dermatologie estetică", "proceduri"]
 draft: true
 faq:
-  - q: "Cicatricile post-acnee dispar complet?"
-    a: "Cicatricile adevărate, adâncite sau îngroșate, nu dispar de la sine și, de regulă, nici complet după tratament. Tratamentele potrivite le pot face însă mai puțin vizibile, iar de multe ori este nevoie de o combinație de metode."
-  - q: "Petele roșii sau maronii rămase după coșuri sunt cicatrici?"
-    a: "De obicei nu. Petele roșii sau maronii plate sunt urme ale inflamației și se estompează adesea în câteva luni, mai ales cu protecție solară zilnică. Cicatricile adevărate modifică relieful pielii."
-  - q: "Pot trata cicatricile cât timp mai am acnee?"
-    a: "Prioritatea este controlul acneei active, pentru că fiecare leziune inflamată nouă poate lăsa o cicatrice nouă. Unele tratamente pot fi începute în paralel, dar majoritatea procedurilor se fac pe pielea fără leziuni active."
-  - q: "Ce cremă scoate cicatricile de acnee?"
-    a: "Nicio cremă nu poate umple o cicatrice adâncită. Retinoizii topici pot îmbunătăți ușor textura și ajută la tratarea acneei, iar pentru petele rămase după inflamație există produse cu acid azelaic sau alte ingrediente recomandate de dermatolog."
+  - q: "Cicatricile post-acnee dispar singure?"
+    a: "Rareori. Petele roșii sau maronii rămase după coșuri se estompează de obicei în timp, dar cicatricile adevărate, adâncite sau ridicate, persistă. Tratamentele le pot face mai puțin vizibile, fără să le poată șterge garantat complet."
+  - q: "Cum vă dați seama dacă aveți o pată sau o cicatrice după acnee?"
+    a: "Pata postinflamatorie este plată și diferă doar prin culoare. Cicatricea modifică relieful pielii: este o adâncitură sau o zonă ridicată, care se vede mai bine în lumină laterală."
+  - q: "Se pot trata cicatricile cât timp acneea este încă activă?"
+    a: "De regulă, tratamentul cicatricilor începe după ce acneea este controlată și se folosește un tratament care previne leziuni noi. Medicul decide momentul potrivit și ține cont de tratamentele pentru acnee din ultimii doi ani."
+  - q: "Există o cremă care umple cicatricile adâncite?"
+    a: "Nu. Retinoizii topici sau acidul salicilic pot ajuta în cicatricile ușoare, dar cicatricile adânci necesită de obicei proceduri efectuate de medic, adesea combinate."
 sources:
-  - title: "Interventions for acne scars"
-    publisher: "Abdel Hay R și colab. Cochrane Database of Systematic Reviews, 2016"
-  - title: "Acne scarring: a classification system and review of treatment options"
-    publisher: "Jacob CI, Dover JS, Kaminer MS. Journal of the American Academy of Dermatology, 2001"
-  - title: "Postacne scarring: a qualitative global scarring grading system"
-    publisher: "Goodman GJ, Baron JA. Dermatologic Surgery, 2006"
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "American Academy of Dermatology (Journal of the American Academy of Dermatology, 2024)"
-  - title: "Isotretinoin and Timing of Procedural Interventions: A Systematic Review With Consensus Recommendations"
-    publisher: "Spring LK și colab. JAMA Dermatology, 2017"
+  - title: "Acne scars: Overview"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/scars"
+  - title: "Acne scars: Signs and symptoms"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/scars/symptoms"
+  - title: "Acne scars: Consultation and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/scars/treatment"
+  - title: "Acne scarring"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/acne-scarring"
 ---
 
-Cicatricile post-acnee sunt modificări permanente ale reliefului pielii, care apar după leziuni de acnee inflamate și adânci: cele mai multe sunt adâncite (atrofice), mai rar îngroșate (hipertrofice sau cheloide). Ele nu dispar singure, dar pot fi ameliorate vizibil prin tratamente alese în funcție de tipul cicatricii, de obicei combinate și repetate. Primul pas este întotdeauna controlul acneei active.
+Mulți oameni își descoperă cicatricile post-acnee abia după ce acneea s-a liniștit: în oglinda din baie, cu lumina venind din lateral, obrajii par ușor ondulați, iar pe tâmple se văd câteva adâncituri mici. Alții nu sunt siguri dacă petele care persistă de luni de zile sunt cicatrici sau doar urme care vor trece.
 
-## Pe scurt
+Cicatricile post-acnee sunt modificări ale reliefului pielii care rămân după leziuni de acnee inflamate și profunde. Cele mai multe sunt adâncite, iar mai rar sunt ridicate. Rareori dispar complet de la sine, însă pot deveni mai puțin vizibile cu tratamente alese după tipul cicatricii, de obicei combinate și repetate. Primul pas este controlul acneei active, pentru ca leziunile noi să nu adauge cicatrici noi.
 
-- Cel mai bun „tratament” al cicatricilor este prevenția: tratarea din timp a acneei inflamatorii.
-- Petele roșii sau maronii plate rămase după coșuri nu sunt cicatrici și se estompează adesea în timp.
-- Există trei tipuri principale de cicatrici adâncite – „ice pick”, „boxcar” și „rolling” – și fiecare răspunde la alte metode.
-- Tratamentele cu dovezi includ peelingurile chimice, microneedlingul, laserele fracționate, subcizia și tehnicile chirurgicale mici, adesea în combinație.
-- Rezultatul realist este ameliorarea, nu pielea „ca nouă”; de obicei sunt necesare mai multe ședințe.
+## Pată sau cicatrice: diferența care schimbă tot
 
-## De ce apar cicatricile post-acnee
+Înainte de orice discuție despre tratament, merită lămurit ce anume se vede. O mare parte din urmele rămase după acnee nu sunt cicatrici.
 
-Când un coș inflamat este profund – un nodul, un chist sau o papulă care durează mult –, inflamația distruge o parte din țesutul de susținere al pielii. Vindecarea poate produce **prea puțin colagen**, și atunci rămâne o adâncitură, sau **prea mult colagen**, iar cicatricea devine îngroșată.
+Hiperpigmentarea postinflamatorie este o pată plată, apărută în locul unei leziuni inflamate. Pe pielea deschisă la culoare are adesea nuanțe roșii sau roz, iar pe pielea mai închisă este de obicei maronie, uneori gri-albăstruie. Academia Americană de Dermatologie (AAD) precizează că aceste pete se estompează de regulă în timp, iar tratamentul poate grăbi procesul. Există și pete mai deschise decât pielea din jur, tot plate, care nici ele nu sunt cicatrici. Despre petele închise la culoare găsiți detalii în articolul despre [hiperpigmentarea postinflamatorie](/blog/hiperpigmentarea-postinflamatorie/).
 
-Riscul este mai mare dacă:
+Cicatricea, în schimb, schimbă textura: este o adâncitură sau o proeminență. Un test simplu este lumina laterală, de la o fereastră sau o lampă, care accentuează denivelările. Testul nu înlocuiește examinarea, pentru că multe persoane au în același timp pete și cicatrici, iar DermNet descrie și cicatrici „hibride”, cu modificări de culoare și de relief.
 
-- acneea este inflamatorie, nodulară sau durează mult fără tratament;
-- stoarcerea sau „curățarea” agresivă a coșurilor este un obicei;
-- există o predispoziție familială la cicatrici;
-- există tendința la cicatrici îngroșate sau cheloizi, mai ales pe piept, umeri și spate.
+## De ce rămân cicatrici după unele coșuri
 
-Ghidurile de tratament al acneei subliniază că tratamentul eficient și la timp al acneei inflamatorii este cea mai importantă măsură pentru a preveni cicatricile. Despre opțiuni, vezi [acneea la adulți](/blog/acneea-la-adulti/) și mituri despre acnee.
+În timpul vindecării unei leziuni inflamate, pielea reface țesutul de susținere, adică fibrele de colagen. Dacă produce prea puțin colagen, rămâne o adâncitură. Dacă produce prea mult, cicatricea devine ridicată.
 
-## Cicatrice sau pată? Diferența contează
-
-| | Cum arată | Evoluție |
-|---|---|---|
-| **Eritem post-inflamator** | Pată roșie sau violacee, plată | Se estompează de obicei în câteva luni |
-| **Hiperpigmentare post-inflamatorie** | Pată maronie, plată, mai frecventă la pielea închisă | Se estompează lent, luni; soarele o agravează |
-| **Cicatrice atrofică** | Adâncitură în piele, relieful se schimbă | Persistă |
-| **Cicatrice hipertrofică / cheloid** | Zonă ridicată, fermă; cheloidul depășește marginile leziunii inițiale | Persistă, cheloidul poate crește |
-
-Petele plate se tratează altfel decât cicatricile: protecție solară zilnică, ingrediente precum acidul azelaic sau retinoizii topici și, uneori, proceduri.
+Riscul nu este același pentru toți. AAD enumeră trei situații care îl cresc: acneea profundă și dureroasă, existența unei rude apropiate cu cicatrici post-acnee și obiceiul de a stoarce, ciupi sau zgâria leziunile. DermNet adaugă formele severe de acnee și fumatul, asociat cu cicatrici mai accentuate. Cicatricile ridicate apar mai des la persoanele cu pielea mai închisă la culoare.
 
 ## Tipurile de cicatrici post-acnee
 
-- **„Ice pick”** – înguste, adânci, ca o înțepătură de scobitoare. Sunt cele mai greu de tratat cu proceduri de suprafață.
-- **„Boxcar”** – adâncituri rotunde sau ovale, cu margini clare, „tăiate drept”; pot fi superficiale sau adânci.
-- **„Rolling”** – ondulări largi, cu margini moi, date de benzi fibroase care trag pielea în jos. Se văd mai bine în lumină laterală.
-- **Hipertrofice și cheloide** – ridicate, mai frecvente pe trunchi și pe linia maxilarului.
+Cicatricile adâncite (numite și atrofice) au trei forme clasice, cu denumiri preluate din engleză:
 
-Majoritatea oamenilor au o combinație de tipuri, motiv pentru care un plan bun combină de obicei mai multe metode.
+- „Ice pick”: deschidere mică la suprafață, dar adâncă, ca o înțepătură îngustă. AAD le descrie ca fiind cel mai frecvent tip.
+- „Boxcar”: adâncituri rotunde sau ovale, cu margini bine delimitate, mai largi decât cele de tip „ice pick”.
+- „Rolling”: denivelări largi și puțin adânci, cu margini line; când sunt multe, dau pielii un aspect vălurit.
 
-## Cum se tratează cicatricile post-acnee
+Cicatricile ridicate au și ele câteva forme. Cea hipertrofică este fermă și rămâne în limitele leziunii inițiale; apare de obicei pe linia maxilarului, pe piept sau pe spate, la una–două luni după vindecarea leziunii. Cheloidul crește dincolo de marginile leziunii inițiale și se poate forma la câteva luni după ce acneea s-a vindecat. Cicatricile papulare sunt mici proeminențe de culoarea pielii sau mai deschise, pe nas, bărbie, maxilar sau spate, care pot fi confundate cu acneea.
 
-Analiza Cochrane din 2016 despre tratamentele cicatricilor post-acnee a constatat că multe metode arată beneficii, dar că studiile sunt în general mici, diferite între ele și de calitate scăzută până la moderată. De aceea nu există un singur tratament „cel mai bun”, iar alegerea se face individual.
+Majoritatea oamenilor au o combinație de tipuri. Din acest motiv, un plan bun de tratament combină, de obicei, mai multe metode.
 
-### Tratamente topice
+## Prevenția începe cu acneea activă
 
-Retinoizii topici, folosiți pentru tratarea acneei, pot îmbunătăți ușor textura pielii și petele după inflamație. Nu umplu însă cicatricile adâncite.
+Cea mai sigură cale de a limita cicatricile este tratarea acneei din timp, inclusiv a acneei ușoare, pentru a nu lăsa leziunile să devină profunde. Mâinile departe de coșuri contează la fel de mult. Ambele recomandări sunt mai importante dacă în familie există persoane cu cicatrici. Despre opțiunile pentru acneea care persistă la vârsta adultă găsiți detalii în articolul despre [acneea la adulți](/blog/acneea-la-adulti/).
 
-### Peelingurile chimice
+## Ce opțiuni există pentru cicatricile adâncite
 
-- **Peelingurile superficiale și medii** ajută mai ales la petele pigmentare și la cicatricile superficiale.
-- **Tehnica CROSS** constă în aplicarea punctuală a unei soluții de acid tricloracetic în concentrație mare, direct în cicatricile „ice pick” și „boxcar” înguste, pentru a stimula umplerea lor din profunzime. Se face doar de către medic, cu instrumente fine.
+Tratamentul cicatricilor este opțional. AAD îl prezintă ca pe o decizie care merită luată dacă cicatricile vă deranjează sau vă limitează viața socială ori profesională, după ce vă gândiți la obiective, la timpul disponibil pentru recuperare și la buget.
 
-Mai multe în articolul despre [peelingul chimic](/blog/peelingul-chimic/).
+Metodele se pot grupa după ce urmăresc să facă.
 
-### Microneedlingul
+Unele netezesc suprafața și stimulează producția de colagen. Aici intră [peelingul chimic](/blog/peelingul-chimic/), cu mai multe ședințe pentru peelingurile ușoare și medii și o pregătire a pielii de câteva săptămâni înainte; tehnica TCA CROSS, în care medicul aplică punctual o soluție concentrată de acid tricloracetic în cicatricile înguste; laserele de remodelare; dermabraziunea, o exfoliere profundă făcută chirurgical, cu anestezie locală; și [microneedlingul](/blog/microneedlingul/), care produce micro-înțepături controlate și este adesea combinat cu alte metode. Despre tipurile de lasere și diferențele dintre ele găsiți detalii în articolul despre [laserul în dermatologia estetică](/blog/laserul-in-dermatologia-estetica/). AAD mai menționează radiofrecvența, singură sau asociată cu microneedlingul.
 
-Stimulează producția de colagen prin micro-înțepături controlate. Are rezultate bune mai ales pentru cicatricile „rolling” și „boxcar” superficiale, cu o recuperare scurtă și un risc relativ mic de pete la pielea închisă. Detalii în [microneedlingul](/blog/microneedlingul/).
+Alte metode urmăresc să ridice zona adâncită. Fillerele adaugă volum sub cicatrice; potrivit AAD, efectul durează de la aproximativ trei luni la doi ani, în funcție de produs, iar de cele mai multe ori sunt necesare mai multe ședințe și retușuri. Subcizia eliberează benzile fibroase care trag pielea în jos, mai ales în cicatricile de tip „rolling”.
 
-### Laserele
+Pentru cicatricile adânci, izolate, se pot folosi tehnici chirurgicale mici: excizia cu un instrument circular, grefarea sau ridicarea cicatricii, urmate uneori de o procedură de netezire.
 
-- **Laserele fracționate ablative** îndepărtează coloane microscopice de țesut și au, în general, efectul cel mai puternic, dar și recuperarea cea mai lungă și un risc mai mare de pete, mai ales la fototipurile închise.
-- **Laserele fracționate non-ablative** încălzesc țesutul fără să-l îndepărteze; recuperarea este mai scurtă, dar sunt necesare mai multe ședințe.
-- **Laserele vasculare** pot reduce roșeața persistentă după acnee.
+Pentru cicatricile ușoare, AAD menționează și retinoizii topici sau acidul salicilic. Ei nu umplu o adâncitură profundă, dar pot îmbunătăți textura în formele discrete.
 
-Vezi [laserul în dermatologia estetică](/blog/laserul-in-dermatologia-estetica/).
+## Cicatricile ridicate și cheloizii
 
-### Subcizia
+Cicatricile hipertrofice se tratează cu injecții cu corticosteroizi sau cu alte substanțe în cicatrice, cu medicamente aplicate local sau cu laser. DermNet menționează și pansamentele cu silicon și crioterapia. Cheloizii necesită adesea două sau mai multe tipuri de tratament și pot reapărea chiar după un rezultat inițial bun. Procedurile care lezează pielea se aleg cu prudență la persoanele cu tendință la cheloizi.
 
-Pentru cicatricile „rolling”, medicul introduce sub piele un ac special care rupe benzile fibroase care trag pielea în jos. Se face cu anestezie locală; vânătăile sunt frecvente câteva zile.
+## Ce se discută înainte de o procedură
 
-### Fillerele
+Câteva întrebări schimbă alegerea sau momentul tratamentului:
 
-Acidul hialuronic injectat poate ridica temporar cicatricile „rolling” largi. Efectul durează, în general, câteva luni până la peste un an, în funcție de produs și de zonă. Vezi [fillerele cu acid hialuronic](/blog/fillerele-cu-acid-hialuronic/).
+- Este acneea controlată? AAD recomandă ca tratamentul cicatricilor să înceapă, de regulă, după ce acneea este sub control și se folosește un tratament care previne leziuni noi.
+- Ce tratamente pentru acnee ați folosit în ultimii doi ani? Unele proceduri făcute la scurt timp după anumite medicamente pot avea efecte adverse. [TODO: de confirmat de medic — intervalul actual recomandat între izotretinoinul oral și diferitele proceduri]
+- Ce culoare are pielea și cum reacționează la inflamație? Pielea mai închisă este mai predispusă la pete după iritație și la cheloizi, iar metodele și setările se aleg în consecință.
+- Există tendință la cheloizi, herpes recurent în zonă, o sarcină sau alăptare? [TODO: de confirmat de medic — contraindicațiile pe care doriți să le menționați explicit]
+- Cât timp de recuperare este acceptabil? Unele metode presupun zile sau săptămâni de roșeață, descuamare sau cruste. [TODO: de confirmat de medic — duratele orientative de recuperare pe metode]
 
-### Tehnici chirurgicale mici
+## Așteptări realiste și riscuri
 
-Pentru cicatrici „ice pick” sau „boxcar” adânci și izolate se pot folosi excizia cu un instrument circular (punch), ridicarea sau grefarea cicatricii. De multe ori sunt urmate de o procedură de netezire a suprafeței.
+Tratamentele pot face cicatricile mai puțin vizibile, dar nu le pot șterge garantat. AAD precizează că unele cicatrici nu dispar complet, iar cheloizii sunt deosebit de greu de tratat. DermNet descrie cicatricile post-acnee ca fiind, de obicei, permanente, chiar dacă se pot ameliora spontan sau cu tratament.
 
-### Cicatricile îngroșate și cheloizii
+De cele mai multe ori este nevoie de mai multe ședințe, de combinații de metode și de retușuri. Rezultatul se apreciază după câteva luni, nu după prima ședință, iar răspunsul diferă de la o persoană la alta.
 
-Se tratează diferit: injecții cu corticosteroizi în cicatrice, plasturi sau geluri cu silicon, uneori laser sau alte tratamente. Procedurile care rănesc pielea (de exemplu microneedlingul sau laserele ablative) se folosesc cu mare prudență la persoanele cu tendință la cheloizi.
+Ca orice procedură, și acestea au riscuri: roșeață prelungită, pete închise la culoare, infecție și, rar, cicatrici noi sau agravarea celor existente. Fillerele au propriile riscuri, inclusiv complicații rare, dar serioase, care necesită intervenție medicală rapidă. [TODO: de confirmat de medic — formularea riscurilor rare ale fillerelor]
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Unde și cu cine
 
-## Cine este un candidat potrivit
+Alegerea contează aproape la fel de mult ca metoda. Este util să discutați cu un medic dermatolog care poate face diferența dintre pete și cicatrici, poate trata și acneea activă și vă poate explica de ce propune o anumită combinație. Un plan corect include tipul cicatricilor, metodele potrivite, numărul probabil de ședințe, riscurile și ce se întâmplă dacă rezultatul este mai modest decât sperați.
 
-Ești în general un candidat bun pentru proceduri dacă acneea este controlată de câteva luni, cicatricile sunt stabile și ai așteptări realiste. Medicul îți evaluează tipul de cicatrici, fototipul și istoricul înainte să propună un plan.
+Semnale de prudență sunt promisiunile de cicatrici „eliminate definitiv” sau „dintr-o singură ședință”, peelingurile puternice și procedurile cu ace făcute în spații nemedicale, precum și dispozitivele de uz casnic prezentate ca soluție pentru cicatrici adânci. [TODO: de confirmat de medic — formularea despre dispozitivele de uz casnic]
 
-### Când se amână sau se adaptează tratamentul
+## Când poate fi util un consult dermatologic?
 
-- **Acnee activă** – se tratează mai întâi.
-- **Sarcina și alăptarea** – procedurile estetice se amână, iar multe tratamente topice și orale pentru acnee nu se folosesc în această perioadă.
-- **Tratament cu izotretinoin** în prezent sau recent – recomandarea clasică era pauza de câteva luni înainte de proceduri; un consens de experți din 2017 consideră că pentru unele proceduri superficiale pauza nu este obligatorie, dar decizia se ia individual, mai ales pentru procedurile mai agresive.
-- **Infecții active**, inclusiv herpes labial – medicul poate recomanda tratament preventiv.
-- **Tendința la cheloizi** – alegerea metodelor se adaptează.
-- **Pielea închisă la culoare** – risc mai mare de pete după inflamație, mai ales după laserele ablative și peelingurile profunde; se preferă metode și setări mai blânde și pregătirea pielii.
+O evaluare poate fi utilă dacă:
 
-## Recuperarea, pe scurt
+- aveți încă acnee inflamatorie, cu noduli sau leziuni profunde, și doriți să limitați riscul de cicatrici;
+- observați că fiecare leziune lasă o adâncitură sau o zonă ridicată;
+- nu sunteți sigur dacă urmele sunt pete sau cicatrici;
+- o cicatrice crește, doare sau mănâncă persistent ori se extinde dincolo de leziunea inițială;
+- cicatricile vă deranjează și doriți să aflați ce opțiuni ar fi realiste în cazul dumneavoastră.
 
-| Metodă | Recuperare obișnuită |
-|---|---|
-| Peeling superficial | Câteva zile de roșeață și descuamare fină |
-| Tehnica CROSS | Cruste mici, aproximativ o săptămână |
-| Microneedling | 1–3 zile de roșeață |
-| Laser non-ablativ | Câteva zile de roșeață și umflare |
-| Laser fracționat ablativ | De obicei una–două săptămâni, roșeață care poate persista mai mult |
-| Subcizie | Vânătăi și umflare, una–două săptămâni |
+Cicatricile post-acnee nu se tratează cu o singură metodă universală. Răspunsul bun pornește de la a ști exact ce tip de urme există, de la o acnee controlată și de la așteptări formulate realist.
 
-Indiferent de metodă, protecția solară zilnică este esențială în săptămânile de după procedură, pentru a reduce riscul de pete.
+## Dacă doriți o evaluare individuală
 
-## Riscuri și ce faci dacă apar
+Dacă doriți să aflați ce fel de cicatrici sau pete aveți și ce opțiuni ar putea fi potrivite pentru pielea dumneavoastră, puteți programa o consultație de evaluare la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile aici](/program/).
 
-- **Hiperpigmentare după inflamație** – protecție solară strictă și tratament recomandat de medic.
-- **Roșeață prelungită** – poate dura săptămâni după laserele ablative.
-- **Infecții bacteriene sau reactivarea herpesului** – durere în creștere, puroi sau vezicule impun contactarea medicului.
-- **Cicatrici noi sau agravarea celor existente** – rare când procedura este făcută corect, dar posibile, mai ales la cei cu tendință la cheloizi.
-- **Complicații legate de filler** – de la vânătăi și noduli până la complicații vasculare rare, care necesită intervenție de urgență.
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
 
-## Câte ședințe și cât durează rezultatele
-
-- De regulă sunt necesare **mai multe ședințe** (frecvent 3–6 pentru microneedling sau laser), la câteva săptămâni distanță.
-- Rezultatul final se vede după **câteva luni**, când se termină remodelarea colagenului.
-- Ameliorarea obținută prin metodele care stimulează colagenul tinde să fie de durată, dar pielea continuă să îmbătrânească; fillerele au efect temporar.
-- Nu se poate garanta un anumit procent de îmbunătățire; răspunsul diferă de la o persoană la alta.
-
-## Cum alegi un medic și ce semnale de alarmă să eviți
-
-- Alege un **medic dermatolog** sau un alt medic cu pregătire în proceduri, care poate pune diagnosticul diferențial între pete și cicatrici și poate trata și acneea activă.
-- Cere un plan explicat: ce tip de cicatrici ai, ce metode se potrivesc, câte ședințe sunt probabile, ce riscuri există.
-- Fii atent la promisiuni de „cicatrici eliminate definitiv” sau „o singură ședință”.
-- Evită peelingurile puternice, procedurile cu ace sau laserele făcute fără medic sau la domiciliu.
-- Dispozitivele de uz casnic nu pot trata cicatricile adâncite și pot provoca iritații, infecții și pete.
-
-## Când să mergi la dermatolog
-
-- Dacă ai acnee inflamatorie, noduli sau chisturi – cu cât tratamentul începe mai devreme, cu atât riscul de cicatrici scade.
-- Dacă observi că fiecare coș lasă o adâncitură sau o zonă ridicată.
-- Dacă ai cicatrici care te deranjează și vrei să afli ce opțiuni sunt potrivite pentru tipul tău de piele.
-- Dacă o cicatrice crește, doare, te mănâncă persistent sau se extinde dincolo de leziunea inițială.
-- Dacă după o procedură apar durere în creștere, puroi, vezicule sau pete care se închid la culoare.
+- Obiectiv editorial: explicarea opțiunilor și a așteptărilor realiste; articolul din serie dedicat consecințelor acneei; trimite la articolele despre proceduri pentru detalii.
+- Afirmații de confirmat clinic: „ice pick” ca tip cel mai frecvent (AAD); intervalele de apariție ale cicatricilor hipertrofice (1–2 luni); durata fillerelor (aproximativ 3 luni – 2 ani, AAD); recomandarea de a menționa tratamentele din ultimii doi ani; contraindicațiile, duratele de recuperare și formularea despre dispozitivele de uz casnic (marcate în text).
+- Informații lipsă / de completat: [TODO: de confirmat de medic — oferă această procedură?] Nu am afirmat că efectuați vreuna dintre proceduri; CTA-ul trimite la o consultație de evaluare. Dacă oferiți anumite metode, se pot menționa neutru.
+- Surse care nu au putut fi verificate: analiza Cochrane 2016, clasificarea Jacob 2001, sistemul Goodman 2006 și consensul JAMA Dermatology 2017 privind izotretinoinul (din versiunea anterioară) nu au putut fi deschise; au fost scoase din listă, iar afirmația despre izotretinoin este marcată pentru confirmare.

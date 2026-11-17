@@ -1,161 +1,126 @@
 ---
-title: "Plasma bogată în trombocite (PRP): ce știm și ce nu"
-description: "Ce este PRP-ul, pentru ce are dovezi în dermatologie (căderea părului, cicatrici), cine nu ar trebui să îl facă și ce riscuri are."
+title: "Plasma bogată în trombocite (PRP): ce știm și ce nu știm încă"
+description: "Cum se obține PRP-ul, ce spun dovezile pentru păr și piele, cine nu ar trebui să îl facă, ce riscuri are și ce întrebări să adresați medicului."
 pubDate: 2026-10-01
 category: "estetica"
 tags: ["prp", "căderea părului", "proceduri", "dermatologie estetică"]
 draft: true
 faq:
-  - q: "PRP-ul oprește căderea părului?"
-    a: "În căderea părului de tip androgenetic, unele studii arată o creștere modestă a densității firelor, dar dovezile sunt încă limitate și protocoalele diferă mult. PRP-ul nu înlocuiește tratamentele cu dovezi solide și nu are sens fără un diagnostic corect al cauzei căderii."
-  - q: "PRP-ul este sigur pentru că se face din sângele meu?"
-    a: "Folosirea propriului sânge elimină riscul de alergie la o substanță străină, dar nu înseamnă lipsă de riscuri. Pot apărea durere, vânătăi, umflare și infecții, iar dacă sângele este manipulat fără condiții sterile pot fi transmise infecții grave."
-  - q: "Câte ședințe de PRP sunt necesare?"
-    a: "Pentru căderea părului se folosesc frecvent 3–4 ședințe inițiale, la aproximativ o lună distanță, urmate de ședințe de întreținere la câteva luni. Nu există încă un protocol standard validat."
-  - q: "PRP-ul pe față întinerește pielea?"
-    a: "Combinația dintre microneedling și PRP pe față este promovată pentru întinerire, dar dovezile sunt slabe, iar efectele, când apar, sunt subtile. Procedura trebuie făcută doar în condiții medicale, cu materiale sterile."
+  - q: "Ajută PRP-ul la căderea părului?"
+    a: "În căderea părului de tip ereditar, unele studii arată o reducere a căderii și o ușoară îndesire a părului, dar rezultatele variază, iar metodele de preparare nu sunt standardizate. PRP-ul are sens doar după ce medicul a stabilit cauza căderii și nu înlocuiește tratamentele cu dovezi mai solide."
+  - q: "Dacă PRP-ul este făcut din sângele meu, poate avea riscuri?"
+    a: "Da. Faptul că se folosește sângele propriu elimină riscul de alergie la o substanță străină, dar nu și durerea, vânătăile sau infecțiile. Cel mai important risc ține de manipularea sângelui în condiții nesterile."
+  - q: "Câte ședințe de PRP sunt necesare pentru păr?"
+    a: "Schema descrisă frecvent este de câte o ședință pe lună timp de trei luni, apoi ședințe de întreținere la 3–6 luni. Nu există un protocol unic validat, iar medicul îl adaptează situației dumneavoastră."
+  - q: "Cât durează efectul PRP-ului pe față?"
+    a: "Când apare, efectul se instalează treptat, în câteva săptămâni sau luni, și poate dura până la aproximativ un an și jumătate. Mulți pacienți au nevoie de cel puțin trei ședințe, iar unii nu observă o diferență."
 sources:
-  - title: "Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men"
-    publisher: "Kanti V și colab. Journal of the European Academy of Dermatology and Venereology, 2018"
-  - title: "A Review of Platelet-Rich Plasma: History, Biology, Mechanism of Action, and Classification"
-    publisher: "Alves R, Grimalt R. Skin Appendage Disorders, 2018"
-  - title: "Autologous platelet-rich plasma for treating chronic wounds"
-    publisher: "Martinez-Zapata MJ și colab. Cochrane Database of Systematic Reviews, 2016"
-  - title: "Irreversible blindness following periocular autologous platelet-rich plasma skin rejuvenation treatment"
-    publisher: "Kalyam K și colab. Ophthalmic Plastic and Reconstructive Surgery, 2017"
-  - title: "HIV cluster investigation associated with cosmetic injection services at an unlicensed spa – New Mexico"
-    publisher: "Centers for Disease Control and Prevention, Morbidity and Mortality Weekly Report (MMWR), 2024"
+  - title: "Hair loss: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/hair-loss/treatment/diagnosis-treat"
+  - title: "Is platelet-rich plasma the secret to younger-looking skin?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/younger-looking/platelet-rich-plasma-secret-to-younger-skin"
+  - title: "Thinning hair and hair loss: Could it be female pattern hair loss?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/hair-loss/types/female-pattern"
+  - title: "Female pattern hair loss"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/female-pattern-hair-loss"
+  - title: "Investigation of Presumptive HIV Transmission Associated with Receipt of Platelet-Rich Plasma Microneedling Facials at a Spa Among Former Spa Clients — New Mexico, 2018–2023"
+    publisher: "CDC, Morbidity and Mortality Weekly Report (accesat 17.11.2026)"
+    url: "https://www.cdc.gov/mmwr/volumes/73/wr/mm7316a3.htm"
 ---
 
-Plasma bogată în trombocite (PRP) este un preparat obținut din propriul sânge, centrifugat pentru a concentra trombocitele, care eliberează factori de creștere implicați în vindecare. În dermatologie este folosită mai ales pentru căderea părului de tip androgenetic și, în combinație cu alte proceduri, pentru cicatricile post-acnee. Dovezile sunt promițătoare, dar încă limitate și neuniforme, iar pentru „întinerirea feței” sunt slabe.
+Plasma bogată în trombocite, cunoscută după inițialele PRP, apare tot mai des în discuțiile despre căderea părului și despre „întinerirea” feței. Ideea pare simplă și liniștitoare: se folosește propriul sânge, deci nimic străin nu ajunge în corp. În realitate, PRP-ul este o procedură medicală cu dovezi încă în curs de clarificare, cu riscuri proprii și cu rezultate care diferă mult de la o persoană la alta.
+
+Concret, PRP-ul are cele mai multe date pentru căderea părului de tip ereditar, unde poate reduce căderea la o parte dintre pacienți. Pentru față, dovezile sunt mai slabe. Nu există încă un protocol standard, iar beneficiul, când apare, se menține doar cu ședințe repetate.
 
 ## Pe scurt
 
-- PRP-ul se obține din câțiva mililitri de sânge recoltat chiar înainte de procedură și se injectează sau se aplică pe piele.
-- Cea mai studiată indicație în dermatologie este căderea părului androgenetică, unde efectul raportat este, de regulă, modest.
-- Nu există un protocol standard: concentrația, numărul de ședințe și tehnica diferă mult între studii, ceea ce face rezultatele greu de comparat.
-- „Din sângele tău” nu înseamnă „fără riscuri”: sterilitatea și pregătirea medicală sunt esențiale.
-- Înainte de PRP pentru păr este nevoie de un diagnostic corect al cauzei căderii.
+- PRP-ul se obține din câțiva mililitri de sânge recoltat chiar înaintea procedurii și centrifugat.
+- Cea mai studiată indicație în dermatologie este căderea părului de tip androgenetic; rezultatele sunt încurajatoare la unii pacienți, dar inconstante.
+- Pentru riduri, textură sau cearcăne, studiile sunt puține și mici.
+- Sângele propriu nu înseamnă lipsă de riscuri: sterilitatea și cadrul medical sunt esențiale.
+- Înainte de PRP pentru păr este nevoie de un diagnostic al cauzei căderii.
 
-## Ce este PRP-ul
+## Cum se obține plasma bogată în trombocite
 
-Trombocitele (plachetele sanguine) au rol în coagulare, dar conțin și proteine numite factori de creștere, care participă la repararea țesuturilor. Ideea PRP-ului este ca, prin concentrarea acestor trombocite și aducerea lor direct în piele sau în scalp, să fie stimulate procese precum formarea de vase de sânge noi, producția de colagen sau activitatea foliculilor de păr.
+Trombocitele sunt celule mici din sânge, cunoscute pentru rolul lor în coagulare. Ele conțin însă și factori de creștere, proteine care semnalează țesuturilor să se refacă. Raționamentul din spatele PRP-ului este că, dacă aceste trombocite sunt concentrate și aduse direct în scalp sau în piele, ar putea stimula foliculii de păr, formarea de vase mici și producția de colagen.
 
-Concret, procedura are trei etape:
+Procedura începe cu o recoltare de sânge din braț, asemănătoare unei analize obișnuite. Sângele este pus într-un tub special și rotit într-o centrifugă, care separă globulele roșii de plasmă. Stratul de plasmă bogat în trombocite este apoi injectat cu ace foarte fine în zona tratată sau aplicat pe piele în timpul unei proceduri de [microneedling](/blog/microneedlingul/), care creează microcanale prin care plasma pătrunde.
 
-1. **Recoltarea** unei cantități mici de sânge, ca la o analiză obișnuită.
-2. **Centrifugarea** într-un tub special, steril, pentru separarea plasmei bogate în trombocite de celelalte componente ale sângelui.
-3. **Administrarea**: prin injecții mici în scalp sau în piele, ori aplicată pe piele în timpul sau imediat după microneedling.
+Există numeroase sisteme de preparare, iar concentrația de trombocite obținută variază considerabil de la o metodă la alta. Este unul dintre motivele pentru care studiile ajung la rezultate diferite și pentru care nu se poate vorbi de „un PRP” standard.
 
-Există multe metode și sisteme de preparare, iar concentrația de trombocite obținută variază considerabil. Aceasta este una dintre explicațiile pentru rezultatele diferite din studii.
+## PRP pentru păr: unde sunt cele mai multe date
 
-## Pentru ce se folosește și ce spun dovezile
+Indicația cea mai studiată în dermatologie este căderea părului de tip ereditar (alopecia androgenetică), atât la bărbați, cât și la femei. Academia Americană de Dermatologie descrie PRP-ul, în materialele pentru pacienți, ca pe o opțiune care poate reduce căderea în primele luni la o parte dintre pacienți. Totuși, în pagina dedicată subțierii părului la femei, aceeași organizație îl încadrează la tratamentele încă studiate. DermNet, la rândul ei, consideră că sunt necesare studii suplimentare pentru a stabili dacă există un beneficiu și cât de mare este.
 
-### Căderea părului androgenetică
+Altfel spus, PRP-ul nu este o procedură lipsită de orice bază științifică, dar nici nu are dovezile solide ale unui tratament precum minoxidilul. Este, în cel mai bun caz, o opțiune complementară, discutată după ce tratamentele de bază au fost luate în calcul.
 
-Este indicația cea mai studiată. Mai multe studii controlate și meta-analize arată o creștere a densității și grosimii firelor de păr față de placebo, dar:
+Un lucru este însă clar: căderea părului are multe cauze, iar PRP-ul nu le tratează pe toate. Căderea difuză după o naștere sau o boală, un deficit de fier, o problemă de tiroidă sau o alopecie cicatricială cer altă abordare. De aceea, diagnosticul vine primul; despre tipurile de cădere găsiți detalii în articolul despre [căderea părului la femei](/blog/caderea-parului-la-femei/), iar pentru zonele rotunde fără păr, în cel despre [alopecia areata](/blog/alopecia-areata/), unde PRP-ul are dovezi și mai slabe.
 
-- efectul este în general **modest**;
-- studiile sunt **mici**, cu protocoale foarte diferite și urmărire scurtă;
-- ghidul european bazat pe dovezi (S3) pentru alopecia androgenetică din 2018 a considerat dovezile **insuficiente** pentru o recomandare fermă.
+PRP-ul nu poate readuce părul acolo unde foliculii au dispărut de mult, pe o zonă netedă, cheală de ani de zile.
 
-PRP-ul este discutat, de obicei, ca **opțiune adjuvantă**, alături de tratamentele cu dovezi mai solide recomandate de medic, nu ca înlocuitor al acestora. Mai multe despre cauze în [căderea părului la femei](/blog/caderea-parului-la-femei/).
+## PRP pe față: promisiuni mai mari decât dovezile
 
-PRP-ul nu este potrivit pentru orice tip de cădere a părului. Căderea poate avea cauze foarte diferite – carențe, boli tiroidiene, stres, alopecie areata, alopecii cicatriciale – care se tratează altfel. De aceea, consultul dermatologic și, la nevoie, analizele vin înaintea oricărei proceduri.
+Pe față, PRP-ul este promovat pentru riduri fine, piele lăsată, ten „obosit” sau cicatrici de acnee, adesea sub numele de „facial cu sânge”. Pacienții raportează uneori o piele mai fermă și o textură mai bună. Datele științifice sunt însă limitate: nu se știe încă de ce unii oameni răspund și alții nu, nici care este numărul optim de ședințe, cantitatea sau zona de administrare.
 
-### Cicatricile post-acnee
+În cicatricile post-acnee, PRP-ul a fost studiat mai ales în asociere cu microneedlingul sau laserul, cu rezultate amestecate: unele studii mici arată un câștig ușor sau o refacere mai rapidă, altele nu găsesc o diferență clară. Pentru zona de sub ochi, unde PRP-ul este adesea propus, merită citit și articolul despre [cearcăne](/blog/cearcanele/), care explică de ce cauza unui cearcăn decide ce poate ajuta.
 
-Combinarea PRP-ului cu microneedlingul sau cu laserul fracționat a fost studiată în mai multe studii mici. Unele arată un rezultat ușor mai bun sau o recuperare mai rapidă față de procedura fără PRP, altele nu găsesc diferențe clare. Vezi [cicatricile post-acnee](/blog/cicatricile-post-acnee/) și [microneedlingul](/blog/microneedlingul/).
+Un lucru pe care Academia Americană de Dermatologie îl spune direct: PRP-ul nu poate readuce fața la cum arăta cu ani în urmă.
 
-### Întinerirea feței
+## Cine poate lua în calcul PRP-ul și cine nu
 
-PRP-ul este promovat pentru riduri fine, cearcăne, textură sau „luminozitate”. Studiile existente sunt puține, mici și adesea fără grup de control. **Dovezile sunt slabe**, iar efectele, când apar, sunt subtile. Pentru ce funcționează cu adevărat împotriva îmbătrânirii pielii, vezi [îmbătrânirea pielii: ce funcționează](/blog/imbatranirea-pielii-ce-functioneaza/).
+Un candidat rezonabil este un adult sănătos, cu un diagnostic clar (de exemplu subțiere de tip ereditar în stadiu incipient sau moderat), care înțelege că rezultatul nu este garantat și că efectul, dacă apare, cere întreținere.
 
-### Alte utilizări
-
-PRP-ul este folosit și în medicina sportivă, ortopedie sau în tratamentul unor plăgi cronice. Chiar și pentru plăgile cronice, analiza Cochrane a găsit dovezi limitate, de calitate scăzută.
-
-## Ce nu poate face PRP-ul
-
-- Nu reface părul pe zonele unde foliculii au dispărut complet (de exemplu, chelie veche, netedă).
-- Nu oprește singur căderea părului dacă nu se tratează cauza.
-- Nu înlocuiește toxina botulinică, fillerele sau alte tratamente pentru riduri și pierderea de volum.
-- Nu are efect permanent; pentru păr sunt necesare ședințe de întreținere.
-
-## Cine este un candidat potrivit și cine nu
-
-Poate fi luat în calcul la adulții sănătoși, cu un diagnostic clar (de exemplu alopecie androgenetică în stadiu incipient sau moderat), care folosesc sau nu pot folosi tratamentele de bază și au așteptări realiste.
-
-### Contraindicații și situații care cer prudență
-
-- **Sarcina și alăptarea** – procedura se amână.
-- **Infecții active** la locul procedurii sau infecții generale, febră.
-- **Boli ale sângelui și ale trombocitelor**, de exemplu număr scăzut de trombocite sau tulburări de funcție plachetară.
-- **Tratament anticoagulant sau antiagregant** – nu se oprește niciodată fără acordul medicului care l-a prescris.
-- **Cancer activ**, în special hematologic, sau tratament oncologic în curs.
-- **Boli autoimune active** sau imunosupresie – evaluare individuală.
-- **Tendința la cheloizi**, când PRP-ul se combină cu microneedling sau laser.
-- **Tratament cu izotretinoin** în prezent sau recent, când PRP-ul se asociază unor proceduri care rănesc pielea – decizie individuală, luată de medic.
-- **Pielea închisă la culoare** – injecțiile în sine au risc mic de pete, dar procedurile asociate (microneedling, laser) pot lăsa pete după inflamație.
+Procedura nu este recomandată persoanelor cu hepatită C, infecție HIV, cancer al sângelui, cu boli cardiovasculare care impun tratament anticoagulant sau cu cancer de piele în zona care ar urma să fie tratată. De regulă, procedura se amână și în sarcină și alăptare, în prezența unei infecții active în zonă sau a febrei, iar bolile trombocitelor și tratamentele care influențează coagularea se discută individual cu medicul. [TODO: de confirmat de medic — sarcina, infecțiile active și bolile trombocitelor nu apar ca atare în sursele accesate] Un tratament anticoagulant sau antiagregant nu se oprește niciodată fără acordul medicului care l-a prescris.
 
 ## Cum decurge o ședință
 
-1. **Consultație și evaluare**: istoric medical, medicamente, uneori analize de sânge.
-2. **Pregătire**: de obicei se evită antiinflamatoarele nesteroidiene cu câteva zile înainte, la indicația medicului, pentru că pot influența funcția trombocitelor. Nu opri niciun tratament prescris fără să discuți cu medicul.
-3. **Recoltare și centrifugare**: durează, de regulă, 15–30 de minute.
-4. **Administrare**: pe scalp, prin injecții multiple și superficiale; pe față, prin injecții sau în combinație cu microneedlingul. Se poate folosi anestezic local sau răcire.
-5. **După procedură**: se recomandă de obicei să nu speli zona câteva ore și să eviți sportul intens, sauna și alcoolul în ziua respectivă.
+Consultul de dinainte este partea cea mai importantă: medicul întreabă despre boli, medicamente, sarcină, proceduri anterioare și, pentru păr, verifică diagnosticul. Urmează recoltarea, centrifugarea și administrarea. Pentru scalp, partea de injectare durează de obicei în jur de zece minute; o ședință pe față, cu pregătire cu tot, poate dura aproape o oră. Se pot folosi anestezic local sau răcirea pielii.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Pentru păr, schema descrisă frecvent este de câte o ședință pe lună timp de trei luni, apoi ședințe de întreținere la 3–6 luni. Pe față, cei care observă un rezultat au avut de obicei cel puțin trei ședințe, iar efectul se instalează treptat, în câteva săptămâni sau luni.
 
-## Recuperarea
+## Recuperare și riscuri
 
-- Durere, senzație de tensiune și sensibilitate la locul injectării, de obicei câteva ore până la o zi.
-- Umflare ușoară și vânătăi mici, care dispar în câteva zile. Pe scalp, umflarea poate coborî uneori spre frunte.
-- După combinarea cu microneedlingul: roșeață 1–3 zile.
-- Protecție solară pe zonele tratate de pe față.
+După procedură pot apărea durere, sensibilitate, umflare și vânătăi mici, care se retrag de obicei în câteva zile. Pe scalp, umflarea poate coborî uneori spre frunte. Când PRP-ul se combină cu microneedlingul, pielea feței rămâne roșie câteva zile, iar protecția solară devine obligatorie.
 
-## Riscuri și complicații
+Riscul principal nu ține de plasmă în sine, ci de felul în care este manipulat sângele. O investigație a Centrelor americane pentru Controlul și Prevenirea Bolilor a descris cazuri de infecție cu HIV la cliente ale unui salon neautorizat care oferea proceduri de PRP cu microneedling. Inspectorii au găsit tuburi de sânge neetichetate, seringi lăsate la întâmplare și echipamente de unică folosință reutilizate. Sângele trebuie recoltat și procesat cu materiale sterile, de unică folosință, etichetat corect și administrat doar persoanei de la care provine.
 
-| Complicație | Ce faci |
-|---|---|
-| Durere, umflare, vânătăi | De obicei trec singure; comprese reci |
-| Infecție locală (durere în creștere, roșeață extinsă, puroi, febră) | Contactează medicul cât mai repede |
-| Cefalee după injecțiile pe scalp | Anunță medicul dacă e intensă sau persistentă |
-| Noduli sau zone inflamate persistente | Evaluare dermatologică |
-| Tulburări de vedere, durere intensă sau albirea pielii după injecții pe față | **Urgență medicală** – anunță imediat medicul și mergi la urgențe |
+Pe față există și un risc rar, dar grav: produsul injectat poate pătrunde accidental într-un vas de sânge. În literatura medicală au fost raportate cazuri de pierdere a vederii după injectarea de PRP în zona dintre sprâncene sau din jurul ochilor. [TODO: de confirmat de medic — raport de caz Kalyam și colab., Ophthalmic Plastic and Reconstructive Surgery 2017; PubMed nu a putut fi accesat] Mecanismul este același cu cel descris pentru fillere, explicat în articolul despre [fillerele cu acid hialuronic](/blog/fillerele-cu-acid-hialuronic/).
 
-Au fost raportate, foarte rar, cazuri de pierdere a vederii după injectarea de PRP în jurul ochilor, prin pătrunderea accidentală a produsului într-un vas de sânge. Este un motiv în plus ca injecțiile pe față să fie făcute doar de un medic care cunoaște anatomia și poate interveni rapid.
+Semnalele care cer contact imediat cu medicul sunt durerea care crește în loc să scadă, roșeața care se extinde, puroiul sau febra. Tulburările de vedere, durerea intensă sau albirea ori învinețirea bruscă a pielii după o injecție pe față sunt urgențe medicale: sunați la 112.
 
-Un alt risc este legat de manipularea sângelui. Centrele pentru Controlul și Prevenirea Bolilor din SUA au investigat cazuri de infecție cu HIV asociate unor proceduri estetice cu injecții, inclusiv PRP, efectuate într-un salon neautorizat. Sângele trebuie recoltat și procesat cu materiale sterile, de unică folosință, și nu trebuie să ajungă niciodată la altă persoană.
+## Cum alegeți un medic și ce semnale de alarmă există
 
-## Câte ședințe și cât durează efectul
+PRP-ul presupune recoltare de sânge și injecții, deci se face de un medic, într-un spațiu autorizat medical. [TODO: de confirmat de medic — cadrul legal din România privind autorizarea procedurilor cu PRP] Câteva întrebări utile înainte de procedură:
 
-- **Căderea părului:** frecvent 3–4 ședințe inițiale, la aproximativ 4 săptămâni distanță, apoi întreținere la 3–6 luni. Efectul se evaluează după câteva luni, de preferat cu fotografii standardizate făcute de medic.
-- **Cicatrici:** de obicei asociat fiecărei ședințe de microneedling sau laser dintr-o serie de 3–6.
-- **Durata efectului:** neclară; în căderea părului, beneficiile tind să se diminueze în lipsa întreținerii.
+- Care este diagnosticul și ce alte opțiuni, cu dovezi mai solide, există pentru situația mea?
+- Cum se prepară plasma? Tuburile sunt sterile, de unică folosință, deschise și etichetate în fața mea?
+- Ce rezultat este realist și când îl vom evalua?
+- Ce se întâmplă dacă apare o complicație și cum vă pot contacta?
 
-Răspunsul variază mult de la o persoană la alta, iar unele persoane nu observă o îmbunătățire.
+Semnalele de alarmă sunt ușor de recunoscut: proceduri în saloane fără medic, la domiciliu sau la „petreceri” estetice; lipsa unui consult înainte; tuburi sau ace care nu sunt desfăcute în fața dumneavoastră; promisiuni de „păr nou garantat”, „efect definitiv” sau „zero riscuri, e doar sânge propriu”; presiunea de a plăti din start un număr mare de ședințe.
 
-## Cum alegi un medic calificat
+## Când poate fi util un consult dermatologic?
 
-- Procedura implică recoltare de sânge și injecții, deci trebuie făcută de un **medic**, într-un cadru medical autorizat. [TODO: verifică cadrul legal din România privind autorizarea procedurilor cu PRP]
-- Medicul ar trebui să stabilească întâi diagnosticul (de exemplu tipul de cădere a părului) și să discute alternativele cu dovezi mai solide.
-- Întreabă cum se prepară PRP-ul: tuburi sterile, de unică folosință, deschise în fața ta, etichetate cu numele tău.
-- Primești informații despre beneficii, limite și riscuri și semnezi un consimțământ informat.
+O discuție cu dermatologul este utilă înainte de orice decizie privind PRP-ul, mai ales dacă:
 
-## Semnale de alarmă
+- părul cade mai mult decât de obicei sau se rărește, iar cauza nu a fost stabilită;
+- apar zone fără păr, roșeață, descuamare sau durere pe scalp;
+- vă gândiți la PRP pentru față și vreți să știți ce alternative cu dovezi mai bune există;
+- după o ședință apar febră, durere în creștere, roșeață extinsă sau puroi.
 
-- PRP făcut în saloane fără medic, la domiciliu sau în spații neautorizate medical.
-- Tuburi sau ace refolosite, sânge procesat în altă cameră fără identificare clară.
-- Promisiuni de „păr nou garantat”, „efect definitiv” sau „întinerire fără riscuri, pentru că e sângele tău”.
-- Lipsa consultației și a unui diagnostic înainte de procedură.
-- Presiune să plătești din start un număr mare de ședințe.
+PRP-ul este o procedură cu potențial real în anumite situații, dar cu dovezi încă incomplete și fără un standard unic. Diagnosticul corect și așteptările realiste contează mai mult decât procedura în sine.
 
-## Când să mergi la dermatolog
+## Dacă doriți o evaluare individuală
 
-- Dacă îți cade părul mai mult decât de obicei sau observi că se rărește – înainte de a alege orice procedură.
-- Dacă ai zone fără păr, rotunde, sau zone cu piele roșie, cu scuame sau dureroasă pe scalp.
-- Dacă după o ședință de PRP apar febră, durere în creștere, roșeață extinsă sau puroi.
-- Dacă după o injecție pe față apar tulburări de vedere, durere intensă sau pielea se albește ori capătă o culoare violacee – aceasta este o urgență.
-- Dacă vrei să știi dacă PRP-ul are sens în cazul tău și ce alternative ai. Vezi și [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+Dacă vă întrebați dacă PRP-ul are sens în situația dumneavoastră sau ce alte opțiuni există, puteți programa o consultație de evaluare la Dr. Mădălina Iulia Lincu, pentru a discuta cauza problemei, beneficiile posibile și limitele fiecărei variante. [Programul și locațiile](/program/) sunt disponibile pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: explicarea unei proceduri și clarificarea unui mit („e sângele meu, deci nu are riscuri”). Strict informativ; face legătura între articolele despre păr (căderea părului la femei, alopecia areata) și cele despre injectabile (fillere, cearcăne), fără a repeta explicațiile lor.
+- Afirmații de confirmat clinic: schema de ședințe (lunar × 3, apoi la 3–6 luni) și durata ~10 minute pentru scalp (AAD); durata efectului pe față de până la ~18 luni (AAD); contraindicațiile completate din practica generală (marcate inline); fraza despre PRP în cicatricile post-acnee (rezultate amestecate în studii mici) este preluată din versiunea anterioară, fără sursă accesată acum. Sursele AAD sunt ușor contradictorii între ele („safe and effective” vs „still under study”) — textul redă ambele poziții.
+- Informații lipsă / de completat: cadrul legal în România (marcat inline); dacă oferiți PRP [TODO: de confirmat de medic — oferă această procedură?]; CTA-ul trimite deliberat la o consultație de evaluare, nu la procedură.
+- Surse care nu au putut fi verificate: raportul de caz despre pierderea vederii (PubMed a cerut cookie-uri, nu a putut fi citit); ghidul european S3 2018, Cochrane 2016 (plăgi cronice) și review-ul Alves & Grimalt din versiunea anterioară nu au fost accesate și au fost scoase. Pagina DermNet dedicată PRP a dat 404.

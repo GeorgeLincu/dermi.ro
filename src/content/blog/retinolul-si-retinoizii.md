@@ -1,161 +1,132 @@
 ---
-title: "Retinolul și retinoizii: ce fac, cum îi folosești și riscuri"
-description: "Diferența dintre retinol și retinoizii pe rețetă, ce dovezi există, cum îi introduci în rutină, efecte adverse și de ce se evită în sarcină."
+title: "Retinolul și retinoizii: diferențe, așteptări realiste și precauții"
+description: "Ce deosebește retinolul de retinoizii pe rețetă, ce pot face pentru acnee și riduri, de ce irită la început și când este bine să îi evitați."
 pubDate: 2026-10-01
-category: ingrediente
-tags: [retinol, retinoizi, antiaging, acnee]
+category: "ingrediente"
+tags: ["retinol", "retinoizi", "îmbătrânirea pielii", "acnee"]
 draft: true
 faq:
-  - q: "Care este diferența dintre retinol și tretinoină?"
-    a: "Retinolul este un ingredient cosmetic care trebuie transformat în piele în acid retinoic, forma activă. Tretinoina este chiar acidul retinoic, un medicament pe rețetă, mai puternic și cu dovezi mai solide, dar și mai iritant."
-  - q: "Pot folosi retinol în sarcină?"
-    a: "Nu se recomandă. Retinoizii pe rețetă sunt contraindicați sau evitați în sarcină, iar din precauție se evită și retinolul cosmetic; dacă plănuiești o sarcină sau ești însărcinată, discută cu medicul despre alternative."
-  - q: "Cât durează până se văd rezultatele retinolului?"
-    a: "Pentru acnee, primele schimbări apar de obicei după 8–12 săptămâni de folosire constantă. Pentru textură și riduri fine, efectele sunt lente și se evaluează după câteva luni."
-  - q: "Este normal ca pielea să se cojească la început?"
-    a: "Da, uscăciunea, roșeața ușoară și descuamarea sunt frecvente în primele săptămâni. Dacă apar arsură intensă, umflături sau eczemă, oprește produsul și cere sfatul medicului."
-  - q: "Pot folosi retinol vara?"
-    a: "Da, dacă îl aplici seara și folosești zilnic protecție solară cu spectru larg. Retinoizii pot face pielea mai sensibilă, iar soarele anulează o parte din beneficii."
+  - q: "Care este diferența dintre retinol și un retinoid?"
+    a: "Retinoid este numele întregii familii de derivați ai vitaminei A folosiți pe piele. Retinolul este un membru al ei, folosit în cosmetice și mai blând, în timp ce retinoizii eliberați pe rețetă au mai multe studii și o acțiune mai puternică."
+  - q: "Este normal ca pielea să se înroșească și să se descuameze după retinol?"
+    a: "Înroșirea, uscăciunea și descuamarea sunt frecvente în primele săptămâni. De obicei se reduc dacă rariți aplicarea și folosiți o cremă hidratantă; dacă iritația persistă sau apar arsură intensă, umflare ori urticarie, discutați cu medicul."
+  - q: "În cât timp se văd rezultatele unui retinoid?"
+    a: "Pentru acnee, îmbunătățirea poate dura 12 săptămâni sau mai mult. Pentru liniile fine, cu un retinoid pe rețetă, sunt necesare de obicei 3–6 luni de folosire constantă."
+  - q: "Se poate folosi retinol în sarcină sau în alăptare?"
+    a: "Nu. Retinoizii nu se folosesc în sarcină, iar produsele cu retinol sau palmitat de retinil se evită și în alăptare. Dacă plănuiți o sarcină, discutați cu medicul despre alternative."
 sources:
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "American Academy of Dermatology (Journal of the American Academy of Dermatology, 2024)"
-  - title: "Retinoids in the treatment of skin aging: an overview of clinical efficacy and safety"
-    publisher: "Mukherjee S. și colab., Clinical Interventions in Aging, 2006"
-  - title: "Improvement of naturally aged skin with vitamin A (retinol)"
-    publisher: "Kafi R. și colab., Archives of Dermatology, 2007"
-  - title: "Opinion on Vitamin A (Retinol, Retinyl Acetate, Retinyl Palmitate)"
-    publisher: "Scientific Committee on Consumer Safety (SCCS), Comisia Europeană"
-  - title: "Regulamentul (UE) 2024/996 de modificare a anexei III la Regulamentul (CE) nr. 1223/2009 privind produsele cosmetice"
-    publisher: "Comisia Europeană, Jurnalul Oficial al Uniunii Europene, 2024"
+  - title: "Retinoid or retinol?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/anti-aging/retinoid-retinol"
+  - title: "What can treat large facial pores?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/face/treat-large-pores"
+  - title: "Wrinkle remedies"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/anti-aging/wrinkle-remedies"
+  - title: "Topical retinoids (vitamin A creams)"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/topical-retinoids"
+  - title: "Topical treatment of photodamage"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/cme/lesions/topical-treatment-of-photodamage"
+  - title: "Tretinoin Topical"
+    publisher: "MedlinePlus, U.S. National Library of Medicine (accesat 17.11.2026)"
+    url: "https://medlineplus.gov/druginfo/meds/a682437.html"
 ---
 
-Retinoizii sunt derivați ai vitaminei A și se numără printre puținele ingrediente topice cu dovezi solide pentru acnee și pentru îmbătrânirea cutanată cauzată de soare. Cei mai puternici (tretinoina, adapalenul, tazarotenul) sunt medicamente pe rețetă, iar retinolul din cosmetice este o formă mai blândă, cu efecte mai lente și dovezi mai modeste. Se introduc treptat, se folosesc seara, cu protecție solară zilnică, și se evită în sarcină.
+Un ser cu retinol, cumpărat la recomandarea unei prietene, folosit în fiecare seară. După o săptămână pielea din jurul nasului se cojește, iar crema obișnuită ustură la aplicare. Este semn că produsul „lucrează” sau că face rău? Întrebarea apare des și are un răspuns nuanțat.
 
-## Pe scurt
+Retinolul face parte din familia retinoizilor, derivați ai vitaminei A care grăbesc reînnoirea celulelor de la suprafața pielii și stimulează producția de colagen. Retinoizii eliberați pe rețetă au cele mai multe dovezi pentru acnee și pentru semnele lăsate de soare, iar retinolul din cosmetice este mai blând și are mai puține date. Iritația din primele săptămâni este frecventă și, de cele mai multe ori, se poate controla introducând produsul mai lent. În sarcină, retinoizii nu se folosesc.
 
-- „Retinoizi” este numele familiei; retinolul este doar unul dintre membri, cel folosit în cosmetice.
-- Dovezile cele mai solide există pentru retinoizii pe rețetă (acnee, riduri fine, pete solare); pentru retinol există studii, dar mai puține și mai mici.
-- Începe cu o cantitate cât un bob de mazăre pentru tot fața, de 2–3 ori pe săptămână, seara.
-- Iritația din primele săptămâni este frecventă și, de obicei, trecătoare.
-- În sarcină și dacă plănuiești o sarcină, retinoizii se evită; discută cu medicul.
+## Aceeași familie, puteri diferite
 
-## Ce sunt retinoizii
+„Retinoid” este termenul-umbrelă. Sub el intră substanțe cu forță și indicații foarte diferite, de aceea merită făcută distincția înainte de orice comparație.
 
-Retinoizii sunt molecule înrudite cu vitamina A care acționează asupra receptorilor din celulele pielii. Practic, ele „reglează” modul în care se reînnoiesc celulele de la suprafață, reduc tendința porilor de a se astupa și stimulează, în timp, producția de colagen în derm.
+Retinoizii de uz topic eliberați pe rețetă includ tretinoina, adapalenul, tazarotenul și trifarotenul. Sunt medicamente: se aleg și se urmăresc de medic, în funcție de problemă și de toleranța pielii. Dintre ei, adapalenul este considerat cel mai puțin iritant, iar tretinoina cel mai iritant. Izotretinoina administrată pe cale orală, folosită în acneea severă, este un tratament separat, cu reguli stricte de monitorizare, și nu face obiectul acestui articol.
 
-Pentru a funcționa, toate formele trebuie să ajungă la acid retinoic. Cu cât un retinoid are nevoie de mai multe transformări în piele, cu atât este mai blând și mai lent:
+În cosmetice se găsesc retinolul, retinaldehida și esterii de retinil, precum palmitatul de retinil. Acestea trebuie transformate în piele în forma activă, ceea ce explică în parte de ce sunt mai blânde și acționează mai lent [TODO: de confirmat de medic — mecanismul de conversie nu apare explicit în sursele consultate].
 
-| Formă | Unde o găsești | Pe scurt |
-|---|---|---|
-| Esteri de retinil (ex. palmitat de retinil) | cosmetice | cei mai slabi, multe transformări până la forma activă |
-| Retinol | cosmetice | cel mai studiat retinoid cosmetic |
-| Retinaldehidă (retinal) | cosmetice | la un pas de forma activă; studii mai puține |
-| Tretinoină (acid retinoic) | medicament pe rețetă | forma activă, cele mai multe dovezi pentru fotoîmbătrânire |
-| Adapalen, tazaroten, trifaroten | medicamente pe rețetă | retinoizi sintetici, folosiți mai ales în acnee |
-| Isotretinoină orală | medicament pe rețetă, sub monitorizare strictă | pentru acnee severă; discuție separată |
+O precizare practică: pe multe ambalaje concentrația de retinol nu este menționată, iar denumiri ca „booster” sau „intensiv” nu spun nimic precis. Pentru început, AAD sfătuiește alegerea celei mai slabe formule disponibile.
 
-[TODO: verifică statutul adapalenului în România – exclusiv pe rețetă sau și fără rețetă]
+## Ce pot face, potrivit dovezilor
 
-## Ce beneficii au, cu adevărat, retinoizii
+În acnee, retinoizii topici sunt tratament de primă linie pentru formele ușoare și moderate, atât pentru comedoane (punctele albe și negre), cât și pentru leziunile inflamatorii. Pot ajuta și la petele închise rămase după acnee, mai ales pe pielea închisă la culoare. Pentru acneea severă, cu noduli adânci, singuri nu sunt suficienți.
 
-### Acnee
+Pentru pielea afectată de soare, cele mai solide date vin de la tretinoină folosită pe termen lung, peste șase luni: reducerea pistruilor, a petelor solare (lentigine) și a ridurilor fine. Retinolul și retinaldehida din cosmetice sunt promovate pentru efecte asemănătoare și pot estompa petele și liniile fine, dar dovezile sunt mai puține și efectul mai modest. Unde se încadrează retinoizii printre celelalte măsuri împotriva îmbătrânirii explicăm în articolul despre [ce funcționează în îmbătrânirea pielii](/blog/imbatranirea-pielii-ce-functioneaza/).
 
-Retinoizii topici sunt un pilon al tratamentului acneei în ghidurile actuale, inclusiv în ghidul Academiei Americane de Dermatologie din 2024. Ei previn formarea comedoanelor (punctele negre și albe) și ajută la reducerea leziunilor inflamatorii, mai ales în combinație cu alte tratamente. Aici vorbim de retinoizii pe rețetă, prescriși și urmăriți de medic; retinolul cosmetic nu este un tratament pentru acnee. Detalii despre ce funcționează și ce nu găsești în articolul despre [acneea la adulți](/blog/acneea-la-adulti/).
+AAD menționează retinolul și palmitatul de retinil și printre produsele care pot face [porii dilatați](/blog/porii-dilatati/) mai puțin vizibili, la pielea grasă sau mai puțin fermă.
 
-### Riduri fine și semnele îmbătrânirii prin soare
+Ce nu pot face: nu umplu ridurile adânci, nu corectează pierderea de volum și nu ridică pielea lăsată. Pentru acestea se discută alte opțiuni.
 
-Tretinoina are cele mai multe studii controlate pentru fotoîmbătrânire: poate îmbunătăți ridurile fine, textura și petele pigmentare legate de soare, cu efecte care apar în luni, nu în săptămâni. Pentru retinol există câteva studii randomizate, de exemplu unul publicat în Archives of Dermatology în 2007, care au arătat o ameliorare a ridurilor fine față de placebo. Dovezile sunt însă mai puține, pe grupuri mai mici, iar efectul este, în general, mai modest decât al tretinoinei.
+Răbdarea face parte din tratament. În acnee, îmbunătățirea poate dura 12 săptămâni sau mai mult, iar în primele 7–10 zile de tretinoină leziunile se pot chiar accentua temporar. Pentru liniile fine, efectul unui retinoid pe rețetă apare de obicei după 3–4 luni, uneori după șase.
 
-### Pete pigmentare
+## Primele săptămâni: iritația și cum se reduce
 
-Retinoizii pot ajuta la estomparea petelor solare și a hiperpigmentării după acnee, mai ales ca parte a unui plan care include protecția solară zilnică, fără de care petele revin.
+Reacția descrisă la început are un nume: dermatita retinoidă. Înseamnă roșeață, uscăciune, descuamare, uneori usturime sau mâncărime în zonele tratate. Apare cel mai des în primele săptămâni și ține de doză, de frecvență și de sensibilitatea pielii.
 
-### Ce nu fac retinoizii
+Recomandările dermatologilor merg în aceeași direcție:
 
-Nu „șterg” ridurile adânci, nu înlocuiesc protecția solară și nu au efect imediat. Un produs cosmetic cu retinol poate îmbunătăți aspectul pielii, dar nu tratează boli de piele.
+- aplicare seara, într-un strat subțire, pe pielea curată și uscată;
+- la început, o seară da, una nu, cu creșterea treptată a frecvenței dacă pielea tolerează;
+- o cremă hidratantă fără uleiuri, dacă pielea devine uscată;
+- ocolirea ochilor, a colțurilor nasului și ale gurii și a pielii arse de soare sau cu eczemă;
+- dacă retinolul cosmetic irită, AAD sugerează aplicarea la aproximativ 30 de minute după spălarea feței, pe pielea complet uscată.
 
-## Concentrații: ce înseamnă cifrele de pe etichetă
+Pe pielea închisă la culoare, iritația merită urmărită mai atent: inflamația poate lăsa pete închise, numite hiperpigmentare postinflamatorie, care persistă uneori mai mult decât iritația în sine. În acest caz, un ritm mai lent și o hidratare bună contează și mai mult.
 
-Concentrațiile nu se pot compara direct între forme: un procent mic de tretinoină este mult mai puternic decât un procent mai mare de retinol.
+Unele reacții nu țin de „acomodare”: umflarea, veziculele, urticaria sau durerea în zona tratată justifică întreruperea produsului și un consult.
 
-- **Retinolul cosmetic** se găsește, în general, în concentrații mici, sub 1%. În Uniunea Europeană, Regulamentul (UE) 2024/996 a introdus limite maxime pentru vitamina A în cosmetice (mai stricte pentru loțiunile de corp decât pentru produsele de față și mâini), pe baza evaluării Comitetului Științific pentru Siguranța Consumatorilor. [TODO: verifică termenele de aplicare a regulamentului]
-- **Concentrațiile mici** sunt potrivite pentru început și pentru pielea sensibilă; concentrațiile mai mari nu înseamnă automat rezultate mai bune, ci de multe ori doar mai multă iritație.
-- **Retinoizii pe rețetă** se aleg de medic, în funcție de diagnostic, tipul de piele și toleranță.
+## Soarele și retinoizii
 
-Formularea contează și ea: retinolul este sensibil la lumină și aer, așa că ambalajele opace, cu pompă sau tub, îl protejează mai bine.
+Retinoizii cresc sensibilitatea pielii la soare și riscul de arsură. De aceea, protecția solară zilnică cu spectru larg nu este opțională în perioada în care îi folosiți, alături de umbră, pălărie și evitarea solarului. Pentru pielea sensibilă, AAD sugerează produsele minerale, cu oxid de zinc sau dioxid de titan. Vântul și frigul pot accentua și ele iritația, ceea ce se simte în lunile reci.
 
-## Cum introduci retinolul sau un retinoid în rutină
+## Cu ce nu se combină fără sfatul medicului
 
-Regula de bază este „încet și constant”. Un plan prudent:
+O parte din iritații vin din combinații. În cazul tretinoinei, se evită folosirea simultană a peroxidului de benzoil, a acidului salicilic, a cremelor depilatoare și a șampoanelor cu sulf sau resorcinol, dacă medicul nu indică altfel. Produsele cu mult alcool, mentol sau parfum pot ustura pe pielea tratată.
 
-1. **Săptămânile 1–2:** de 2 ori pe săptămână, seara.
-2. **Săptămânile 3–4:** o seară da, una nu, dacă pielea tolerează.
-3. **După aceea:** în fiecare seară, doar dacă nu ai iritație.
+Același principiu se aplică și cosmeticelor: mai multe produse active suprapuse, de exemplu retinol, exfoliant acid și vitamina C în aceeași seară, cresc riscul de iritație fără să crească neapărat beneficiul. Persoanele care nu tolerează retinoizii pot folosi adesea [niacinamida](/blog/niacinamida/), care este în general bine tolerată, deși are alte efecte și dovezi mai modeste.
 
-Cum îl aplici:
+Dacă urmează o procedură, retinoizii se opresc de obicei cu câteva săptămâni înainte de unele tratamente, de exemplu laserul. Momentul exact îl stabilește medicul care face procedura.
 
-- Pe pielea curată și **complet uscată** (pielea umedă absoarbe mai mult și se irită mai ușor).
-- O cantitate **cât un bob de mazăre** pentru toată fața, întinsă în strat subțire.
-- Evită colțurile ochilor, colțurile gurii și aripile nasului, zone care se irită ușor.
-- Aplică apoi o cremă hidratantă. Dacă ai pielea foarte sensibilă, poți pune crema și înainte, ca „tampon”. Vezi [cum alegi crema hidratantă potrivită](/blog/cum-alegi-crema-hidratanta-potrivita/).
-- Dimineața: protecție solară cu spectru larg, în fiecare zi. Pe tema asta, citește [cum aplici corect protecția solară](/blog/cum-aplici-corect-protectia-solara/).
+## Câteva idei care circulă și ce se știe despre ele
 
-Dacă folosești un retinoid pe rețetă, urmează schema stabilită de medic, nu planul general de mai sus.
+„Cu cât e mai concentrat, cu atât e mai bun.” Nu neapărat. Dermatologii citați de AAD observă că persoanele care pornesc direct cu o formulă puternică își irită adesea pielea, iar o piele iritată nu tolerează tratamentul suficient de mult cât să se vadă beneficiul. O concentrație mică, folosită constant luni la rând, poate fi mai utilă decât una mare abandonată după două săptămâni.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+„Dacă ustură, înseamnă că funcționează.” Usturimea este un semn de iritație, nu de eficiență. O senzație ușoară în primele aplicări poate apărea, dar arsura care persistă, mai ales însoțită de roșeață accentuată, este un motiv de a rări sau a opri produsul și de a cere sfatul medicului.
 
-## Cu ce poți combina retinoizii
+„Acneea care se agravează la început înseamnă că produsul nu e potrivit.” În cazul tretinoinei, o accentuare temporară a leziunilor în primele 7–10 zile este descrisă în fișa medicamentului. Dacă însă agravarea continuă după primele săptămâni sau apar leziuni dureroase, merită reevaluat tratamentul.
 
-| Combinație | Ce să știi |
-|---|---|
-| Cremă hidratantă, ceramide | combinație recomandată; reduce iritația |
-| Niacinamidă | se tolerează în general bine împreună |
-| Vitamina C | de obicei vitamina C dimineața, retinoidul seara |
-| Acizi exfolianți (AHA, BHA) | nu în aceeași seară la început; risc mare de iritație |
-| Peroxid de benzoil | se folosesc des împreună în acnee, dar unele formule de tretinoină sunt instabile lângă el; întreabă medicul |
-| Alte retinoide | nu suprapune două produse cu retinoizi |
+„Retinolul din cremă e același lucru cu retinoidul de la medic.” Sunt rude, nu echivalente. Diferența de putere explică atât rezultatele mai clare ale retinoizilor pe rețetă, cât și iritația mai frecventă și precauțiile mai stricte.
 
-La început, cu cât rutina este mai simplă, cu atât îți dai seama mai ușor ce te irită. Exfolierea suplimentară nu este de obicei necesară, pentru că retinoizii accelerează deja reînnoirea stratului superficial.
+„Se vede după o săptămână.” O cremă hidratantă poate face liniile fine mai puțin vizibile aproape imediat, așa că o primă impresie bună nu spune mare lucru despre retinoid. Modificările legate de colagen și de pete cer luni, nu zile.
 
-## Efecte adverse
+## Cine ar trebui să fie prudent
 
-Cel mai frecvent efect advers este așa-numita „dermatită de retinoid”: uscăciune, roșeață, senzație de arsură, descuamare. Apare de obicei în primele 2–6 săptămâni și se ameliorează pe măsură ce pielea se adaptează. Ce poți face:
+Sarcina este situația cea mai clară. Retinoizii nu se folosesc în sarcină: pentru unii retinoizi topici există încă discuții privind riscul de malformații, motiv pentru care nu se prescriu gravidelor, iar pentru unii dintre ei se cere contracepție eficientă la femeile de vârstă fertilă. AAD recomandă evitarea produselor cu retinol și palmitat de retinil și în alăptare. Alternativele din această perioadă sunt discutate în articolul despre [îngrijirea pielii în sarcină](/blog/ingrijirea-pielii-in-sarcina/).
 
-- reduci frecvența la 2–3 seri pe săptămână;
-- folosești o cremă hidratantă mai bogată;
-- eviți temporar exfoliantele, scruburile și produsele cu parfum.
+Prudență se cere și în alte situații:
 
-Alte aspecte importante:
+- eczema și pielea foarte uscată sau alergică, pe care retinoizii o pot agrava;
+- pielea cu multă roșeață și inflamație, inclusiv rozaceea, pentru care există alte tratamente;
+- acneea moderată sau severă, cu cicatrici, ori acneea legată de ciclul menstrual și de alte modificări hormonale, care merită evaluată înainte de a începe un produs pe cont propriu;
+- copiii mici, la care retinoizii topici nu se folosesc de regulă fără indicația medicului.
 
-- **Sensibilitate la soare și la proceduri.** Pielea poate fi mai fragilă: anunță medicul sau cosmeticianul că folosești retinoizi înainte de epilare cu ceară, peeling sau laser.
-- **„Purging”-ul.** La unele persoane, acneea pare să se agraveze ușor în primele săptămâni. Dacă persistă după aproximativ 2–3 luni sau apar leziuni dureroase, mergi la medic.
-- **Reacții alergice.** Rare, dar posibile; umflătura, mâncărimea intensă sau eczema sunt motive de oprire.
+## Când poate fi util un consult dermatologic?
 
-## Retinoizii în sarcină și alăptare
+Un consult poate fi util dacă acneea nu se ameliorează după câteva luni de îngrijire corectă, dacă lasă pete sau cicatrici ori dacă vă întrebați dacă un retinoid pe rețetă ar fi potrivit pentru dumneavoastră. La fel de util este atunci când iritația nu se calmează în ciuda răririi aplicărilor, când aveți o afecțiune precum eczema sau rozaceea sau când plănuiți o sarcină și folosiți deja un retinoid.
 
-Vitamina A în exces poate afecta dezvoltarea fătului. Isotretinoina orală provoacă malformații grave și se administrează doar cu program strict de prevenire a sarcinii, sub supravegherea medicului. Tazarotenul topic este contraindicat în sarcină, iar tretinoina și adapalenul topice se evită ca regulă de precauție.
+La consultație, medicul examinează pielea, întreabă despre produsele și tratamentele folosite până atunci și poate discuta dacă un retinoid se potrivește, ce formă și ce ritm de aplicare. Nu poate garanta un anumit rezultat, dar poate evita multe luni de încercări și iritații inutile.
 
-Pentru retinolul cosmetic absorbția prin piele este mică, dar recomandarea prudentă este să îl eviți dacă ești însărcinată sau încerci să rămâi însărcinată. În alăptare, discută cu medicul înainte de a folosi orice retinoid. Alternative mai sigure pentru acnee sau pete în sarcină există (de exemplu [acidul azelaic](/blog/acidul-azelaic/)), dar alegerea se face împreună cu medicul.
+Retinoizii sunt unele dintre cele mai studiate ingrediente din dermatologie, dar efectul lor depinde de răbdare, de un ritm de introducere adaptat pielii și de protecția solară. Retinolul cosmetic este un punct de plecare blând; retinoizii pe rețetă sunt medicamente, cu beneficii mai clare și precauții pe măsură.
 
-## Cine ar trebui să evite retinoizii sau să-i folosească cu grijă
+## Dacă doriți să alegeți în cunoștință de cauză
 
-- femeile însărcinate sau care plănuiesc o sarcină;
-- persoanele cu eczemă activă sau cu dermatită atopică în puseu pe față;
-- persoanele cu rozacee, care tolerează adesea greu retinoizii;
-- pielea arsă de soare, iritată sau cu leziuni deschise;
-- cei care urmează tratament cu isotretinoină orală (nu se adaugă retinoizi topici fără acordul medicului).
+Dacă vă gândiți să începeți un retinoid, ați avut deja reacții neplăcute sau vreți să aflați dacă un tratament pe rețetă ar avea sens în cazul dumneavoastră, puteți programa o consultație la Dr. Mădălina Iulia Lincu pentru o evaluare individuală. [Programul și locațiile](/program/) sunt disponibile pe site.
 
-## Mituri despre retinol
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
 
-- **„Subțiază pielea.”** Stratul cel mai superficial poate părea mai fin, dar pe termen lung retinoizii tind să îngroașe dermul, prin stimularea colagenului.
-- **„Nu ai voie să-l folosești vara.”** Poți, dacă îl aplici seara și folosești consecvent protecție solară.
-- **„Mai mult înseamnă mai bine.”** Un strat gros sau o concentrație mare nu accelerează rezultatele, dar crește iritația.
-- **„Dacă te irită, nu e pentru tine.”** De multe ori e nevoie doar de o introducere mai lentă.
-
-## Când să mergi la dermatolog
-
-- ai acnee cu noduli sau chisturi, cicatrici ori acnee care nu răspunde după 2–3 luni de îngrijire corectă;
-- vrei un retinoid pe rețetă sau te gândești la isotretinoină;
-- iritația nu cedează după ce ai redus frecvența, sau apar umflături, vezicule ori eczemă;
-- ești însărcinată, alăptezi sau plănuiești o sarcină și ai nevoie de un plan sigur;
-- observi o pată sau o leziune nouă care se schimbă, sângerează sau nu se vindecă – aceasta trebuie evaluată, nu tratată cu cosmetice.
+- Obiectiv editorial: educare despre un ingredient și clarificarea confuziei retinol/retinoid; articolul răspunde la „ce diferență este și cum îl folosesc fără să-mi irit pielea”. Cuvânt-cheie principal: „retinol”.
+- Afirmații de confirmat clinic: ordinea iritabilității (adapalen cel mai blând, tretinoină cel mai iritant, după DermNet); termenele de răspuns (acnee ≥ 12 săptămâni; riduri fine 3–6 luni, după fișa MedlinePlus pentru tretinoină); combinațiile de evitat (preluate din fișa tretinoinei, nu generalizate tuturor retinoizilor); oprirea retinoizilor înainte de laser (AAD menționează 2–4 săptămâni pentru laserul pe cicatrici).
+- Informații lipsă / de completat: [TODO: de confirmat de medic — disponibilitatea în România a adapalenului fără prescripție și limitele UE de concentrație pentru retinol în cosmetice nu au fost verificate și nu au fost incluse]; conversia retinolului în forma activă (marcată inline).
+- Surse care nu au putut fi verificate: niciuna blocată; nu am inclus date despre retinoizi în alăptare dincolo de recomandarea AAD privind retinolul și palmitatul de retinil.

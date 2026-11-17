@@ -1,130 +1,133 @@
 ---
-title: "Protecția solară la copii: ghid practic pentru părinți"
-description: "Cum îți protejezi copilul de soare: umbră, haine, pălărie, ochelari și cremă cu SPF potrivită vârstei. Ce faci la arsuri și când mergi la medic."
+title: "Protecția solară la copii: ce se schimbă de la bebeluș la adolescent"
+description: "Cum protejați de soare un bebeluș sub 6 luni, un copil mic sau un adolescent, ce cremă alegeți și ce faceți dacă cel mic s-a ars la soare."
 pubDate: 2026-10-01
 category: "protectie-solara"
-tags: ["protecție solară", "copii", "spf", "arsuri solare"]
+tags: ["protecție solară", "copii", "bebeluși", "arsuri solare"]
 draft: true
 faq:
   - q: "De la ce vârstă se poate folosi cremă cu SPF la copii?"
-    a: "Pentru bebelușii sub 6 luni, prima protecție este umbra și îmbrăcămintea; crema de protecție solară se folosește, în general, de la 6 luni. Dacă un bebeluș mai mic nu poate fi ținut la umbră, discută cu medicul pediatru sau cu dermatologul despre aplicarea unei cantități mici pe zonele expuse."
-  - q: "Ce SPF este recomandat pentru copii?"
-    a: "Alege o protecție cu spectru larg (UVA și UVB), cu SPF de cel puțin 30, rezistentă la apă. Pentru zile cu soare puternic, la mare sau la munte, mulți specialiști preferă SPF 50."
-  - q: "Sunt mai bune filtrele minerale pentru copii?"
-    a: "Filtrele minerale (oxid de zinc, dioxid de titan) sunt de obicei bine tolerate de pielea sensibilă și sunt frecvent alese pentru copiii mici. Cel mai important rămâne însă ca produsul să fie aplicat în cantitate suficientă și reaplicat."
+    a: "În general, de la 6 luni. Pentru bebelușii mai mici, protecția de bază este umbra și îmbrăcămintea; dacă acestea nu sunt posibile, Academia Americană de Dermatologie acceptă o cantitate mică de produs mineral pe zonele expuse."
+  - q: "Ce SPF este potrivit pentru copii?"
+    a: "Un produs cu spectru larg (UVA și UVB), rezistent la apă, cu SPF de cel puțin 30. Pentru pielea sensibilă, produsele cu oxid de zinc sau dioxid de titan sunt adesea mai bine tolerate."
+  - q: "Când trebuie dus la medic un copil ars de soare?"
+    a: "Imediat, dacă este vorba de un sugar sub un an. La copiii mai mari, discutați cu medicul dacă apar bășici, durere intensă, febră sau dacă cel mic pare bolnav."
   - q: "Copilul are nevoie de soare pentru vitamina D?"
-    a: "Vitamina D nu ar trebui obținută prin expunere neprotejată la soare. Pentru sugari și copii, necesarul și eventuala suplimentare se stabilesc împreună cu medicul pediatru sau medicul de familie."
+    a: "Vitamina D nu ar trebui obținută prin expunere neprotejată la soare. Necesarul și eventuala suplimentare se stabilesc împreună cu medicul pediatru sau cu medicul de familie."
 sources:
-  - title: "Ultraviolet radiation (fact sheet)"
-    publisher: "Organizația Mondială a Sănătății (OMS)"
-  - title: "Global Solar UV Index: A Practical Guide"
-    publisher: "Organizația Mondială a Sănătății (OMS), 2002"
+  - title: "Infant sun protection: How parents can keep their baby safe"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/skin-cancer/prevent/sun-babies"
   - title: "Sunscreen FAQs"
-    publisher: "American Academy of Dermatology (AAD)"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/sun-protection/sunscreen-patients/sunscreen-faqs"
   - title: "Sun Safety: Information for Parents About Sunburn & Sunscreen"
-    publisher: "American Academy of Pediatrics (HealthyChildren.org)"
-  - title: "Commission Recommendation 2006/647/EC on the efficacy of sunscreen products and the claims made relating thereto"
-    publisher: "Comisia Europeană"
+    publisher: "American Academy of Pediatrics, HealthyChildren.org (accesat 17.11.2026)"
+    url: "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Sun-Safety.aspx"
+  - title: "Sunscreen and sun safety"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/live-well/seasonal-health/sunscreen-and-sun-safety/"
+  - title: "Ultraviolet radiation (fact sheet)"
+    publisher: "Organizația Mondială a Sănătății (accesat 17.11.2026)"
+    url: "https://www.who.int/news-room/fact-sheets/detail/ultraviolet-radiation"
 ---
 
-Copiii au nevoie de protecție solară mai atentă decât adulții, pentru că pielea lor se arde mai ușor, iar arsurile din copilărie cresc riscul de cancer de piele mai târziu în viață. Regula de bază: bebelușii sub 6 luni stau la umbră și îmbrăcați, iar de la 6 luni în sus se adaugă o cremă cu spectru larg, SPF 30 sau mai mare, aplicată generos și reaplicată la 2 ore și după baie.
+Prima vară cu un bebeluș aduce multe întrebări practice. Se poate pune cremă cu SPF la trei luni? E suficient parasolarul căruciorului? Iar câțiva ani mai târziu, aceleași întrebări se schimbă: cum convingeți un copil de cinci ani să stea cu pălăria pe cap sau un adolescent să nu plece la plajă fără protecție?
+
+Protecția solară la copii urmează aceleași principii ca la adulți, dar cu accente diferite în funcție de vârstă. Pentru bebelușii sub 6 luni, umbra și hainele sunt protecția de bază, iar crema este doar o soluție de rezervă. De la 6 luni în sus se adaugă un produs cu spectru larg, rezistent la apă, de cel puțin SPF 30, aplicat generos și reaplicat. La orice vârstă, umbra, pălăria și hainele fac cea mai mare parte din treabă.
 
 ## Pe scurt
 
-- **Sub 6 luni:** umbră, haine lejere care acoperă pielea, pălărie. Crema cu SPF nu este prima opțiune.
-- **Peste 6 luni:** protecție cu spectru larg (UVA + UVB), SPF minimum 30, rezistentă la apă.
-- **Evită orele de vârf** (aproximativ 11:00–16:00 vara), când indicele UV este cel mai mare.
-- **Crema nu e suficientă singură:** umbra, hainele, pălăria cu boruri largi și ochelarii de soare fac cea mai mare parte din protecție.
-- **Arsurile cu bășici, febra sau starea generală alterată** la copil sunt motive să suni la medic.
+- Sub 6 luni: umbră, haine lejere care acoperă pielea, pălărie; crema doar în cantitate mică, dacă umbra nu este posibilă.
+- De la 6 luni: protecție cu spectru larg, SPF 30 sau mai mare, rezistentă la apă, reaplicată la aproximativ două ore și după baie.
+- Orele din mijlocul zilei sunt cele cu radiația cea mai intensă.
+- Un sugar sub un an care s-a ars la soare trebuie văzut de medic.
 
-## De ce pielea copiilor e mai vulnerabilă la soare
+## De ce pielea copiilor are nevoie de mai multă grijă
 
-Pielea copiilor este mai subțire și produce mai puțină melanină protectoare decât pielea adulților, așa că radiațiile ultraviolete (UV) ajung mai ușor în profunzime. În plus, copiii petrec mult timp afară, adesea în orele cu soare puternic.
+Organizația Mondială a Sănătății consideră copiii și adolescenții un grup deosebit de vulnerabil la radiațiile ultraviolete. Arsurile solare din copilărie cresc riscul de cancer de piele mai târziu în viață, iar la copii o parte mai mare din radiația UV ajunge până la retină. Academia Americană de Pediatrie atrage atenția și asupra unui aspect de context: o parte importantă din expunerea la soare de-a lungul vieții are loc în copilărie și adolescență, când petrecem cel mai mult timp afară.
 
-Potrivit Organizației Mondiale a Sănătății, expunerea excesivă la UV în copilărie și arsurile solare repetate sunt asociate cu un risc mai mare de melanom și alte cancere de piele la vârsta adultă. Asta nu înseamnă că un copil trebuie ținut în casă, ci că joaca afară se face cu câteva obiceiuri simple de protecție.
+Nimic din toate acestea nu înseamnă că un copil trebuie ținut în casă. Joaca în aer liber este sănătoasă. Ideea este ca ea să se facă cu câteva obiceiuri simple, care devin repede automate.
 
-## Protecția solară pe vârste
+## Bebelușii sub 6 luni: umbra înainte de orice
 
-| Vârsta | Ce funcționează cel mai bine | Despre crema cu SPF |
-|---|---|---|
-| 0–6 luni | Umbră permanentă, haine lejere cu mânecă lungă, pălărie, cărucior cu parasolar (fără să acoperi complet căruciorul cu o pătură, ca să nu se încălzească) | În general nu se recomandă ca primă opțiune; dacă umbra nu e posibilă, o cantitate mică pe zonele expuse, după discuția cu medicul |
-| 6 luni – 3 ani | Umbră, haine, pălărie cu boruri, ochelari de soare pentru copii | SPF 30–50, spectru larg, rezistent la apă; filtrele minerale sunt adesea bine tolerate |
-| Preșcolari și școlari | Aceleași măsuri + învățarea obiceiurilor („umbra mică = soare puternic”) | SPF 30–50, aplicat înainte de ieșire și reaplicat |
-| Adolescenți | Haine, pălărie, ochelari; evitarea bronzării intenționate și a solarului | SPF 30–50 zilnic pe față în sezonul cald; produse non-comedogene dacă au tendință la acnee |
+La această vârstă, Academia Americană de Dermatologie (AAD) recomandă ca protecția să se bazeze aproape în întregime pe umbră și îmbrăcăminte:
 
-## Cum alegi crema de protecție solară pentru copil
+- umbra naturală sau, în lipsa ei, o umbrelă, un cort sau coviltirul căruciorului;
+- haine subțiri, din bumbac, cu mânecă lungă și pantaloni lungi;
+- o pălărie cu boruri largi, ori de câte ori bebelușul este afară;
+- ochelari de soare cu protecție UV, dacă bebelușul îi acceptă.
 
-Câteva criterii simple, valabile indiferent de marcă:
+Crema cu SPF nu este interzisă, dar se folosește cu zgârcenie. Dacă umbra și hainele nu sunt posibile, AAD acceptă o cantitate mică de produs cu spectru larg, SPF 30 sau mai mare, de preferat mineral (cu oxid de zinc sau dioxid de titan), doar pe zonele descoperite, cum ar fi fața și dosul mâinilor. Tot AAD sugerează ca produsul să fie spălat după ce reveniți în casă.
 
-- **Spectru larg (UVA și UVB).** În Uniunea Europeană, simbolul UVA încercuit arată că protecția UVA este cel puțin o treime din valoarea SPF.
-- **SPF 30 sau mai mare.** Pentru plajă, munte sau zile cu indice UV ridicat, SPF 50 oferă o marjă de siguranță, mai ales că în practică majoritatea oamenilor aplică mai puțin decât ar trebui.
-- **Rezistentă la apă**, dacă copilul se joacă în apă sau transpiră. „Rezistent la apă” nu înseamnă că rămâne toată ziua: tot se reaplică după baie și ștergere cu prosopul.
-- **Fără parfum**, mai ales dacă pielea copilului este sensibilă sau are [dermatită atopică](/blog/dermatita-atopica/).
-- **Filtre minerale** (oxid de zinc, dioxid de titan) sau filtre organice: ambele tipuri pot fi folosite la copiii peste 6 luni. Filtrele minerale sunt adesea preferate pentru pielea reactivă.
+Bebelușii se supraîncălzesc ușor. În zilele toride, este important ca cel mic să primească suficiente lichide, potrivit vârstei, iar dacă devine agitat, plânge mult sau pielea expusă se înroșește, AAD recomandă să-l duceți imediat în interior. Un cărucior acoperit complet cu un scutec sau o pătură poate reține căldura; parasolarele și umbrelele care lasă aerul să circule sunt o alegere mai bună. [TODO: de confirmat de medic — afirmația despre acoperirea completă a căruciorului nu apare în sursele consultate]
 
-Formele spray sunt practice, dar nu pulveriza direct pe fața copilului: pune produsul în palmă și apoi aplică-l pe față, ca să nu fie inhalat și să nu ajungă în ochi.
+## De la 6 luni la vârsta școlară
 
-## Cum aplici corect crema
+Odată trecut pragul de 6 luni, crema devine parte din rutina de vară, alături de măsurile fizice. AAD recomandă un produs cu spectru larg, rezistent la apă, cu SPF de cel puțin 30. Produsele cu oxid de zinc sau dioxid de titan sunt adesea mai bine tolerate de pielea sensibilă a copiilor mici. Pentru zonele care se ard cel mai ușor (nasul, pomeții, marginea urechilor, umerii), Academia Americană de Pediatrie le recomandă în mod special.
 
-Cele mai multe „eșecuri” ale protecției solare vin din aplicare, nu din produs. Pe scurt:
+Câteva lucruri care contează mai ales la copii:
 
-1. **Aplică cu 15–30 de minute înainte de ieșire**, pe pielea uscată.
-2. **Folosește o cantitate generoasă.** Valoarea SPF de pe etichetă este măsurată la o cantitate de aproximativ 2 mg pe centimetru pătrat de piele, adică un strat vizibil, nu o peliculă subțire.
-3. **Nu uita zonele ușor de ratat:** urechile, ceafa, partea de sus a picioarelor, dosul mâinilor, scalpul cu cărare și umerii.
-4. **Reaplică la aproximativ 2 ore** și imediat după înot, transpirație abundentă sau ștergere cu prosopul.
-5. **Pentru buze**, folosește un balsam cu SPF.
+- **Pielea cu eczemă.** La copiii cu [dermatită atopică](/blog/dermatita-atopica/), un produs fără parfum, testat întâi pe o zonă mică, reduce riscul de iritație.
+- **Ochii.** Dacă produsul ajunge în ochi, ștergeți cu blândețe zona. Dacă apare o erupție după aplicare, discutați cu medicul.
+- **Spray-urile.** Sunt practice pe corp, dar nu le pulverizați direct pe fața copilului; puneți produsul în palmă și aplicați-l de acolo.
+- **Momentul.** Aplicați produsul cu 15–30 de minute înainte de ieșire, pe pielea uscată, și reaplicați-l la aproximativ două ore și după fiecare bălăceală sau ștergere cu prosopul.
 
-Detalii despre tehnică găsești în ghidul despre [cum aplici corect protecția solară](/blog/cum-aplici-corect-protectia-solara/), iar dacă vrei să înțelegi ce înseamnă cifrele de pe ambalaj, citește [SPF pe scurt](/blog/spf-pe-scurt/).
+Cât produs înseamnă „generos”, în ce ordine se aplică și ce zone se uită cel mai des am explicat pe larg în ghidul despre [cum se aplică protecția solară](/blog/cum-aplici-corect-protectia-solara/). Dacă vreți să înțelegeți ce înseamnă cifrele și simbolurile de pe ambalaj, citiți [ce înseamnă SPF](/blog/spf-pe-scurt/).
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Haine, pălărie și ochelari: protecția care nu se șterge
 
-## Haine, pălărie, ochelari și umbră
+Pentru copii, măsurile fizice au un avantaj clar: nu depind de cât de bine a fost întinsă crema și nu se spală în apă.
 
-Pentru copii, protecția fizică este cea mai sigură, pentru că nu depinde de cât de bine ai întins crema:
+Academia Americană de Pediatrie recomandă haine ușoare, din țesături dese, cu mâneci și pantaloni lungi; unele articole au pe etichetă un factor UPF, care indică protecția oferită de material. Pălăria ideală are boruri de aproximativ 7–8 cm de jur împrejur, ca să umbrească fața, urechile și ceafa. Șepcile clasice lasă descoperite tocmai urechile și gâtul.
 
-- **Haine** din țesături dese, ușoare, cu mânecă lungă sau tricouri cu protecție UV (unele au eticheta UPF).
-- **Pălărie cu boruri largi** sau șapcă cu apărătoare pentru ceafă și urechi.
-- **Ochelari de soare** pentru copii, cu filtru UV declarat (de exemplu marcaj UV400 sau conform standardului european). Ochii copiilor sunt și ei sensibili la UV.
-- **Umbră**: copaci, umbrele, corturi de plajă. Atenție, umbra reduce, dar nu elimină expunerea, pentru că nisipul, apa și zăpada reflectă radiația UV.
+Ochelarii de soare pentru copii merită aleși cu aceeași grijă ca pentru adulți: cu o protecție UV declarată de cel puțin 99%, în mărimi potrivite feței lor.
 
-### Indicele UV și „regula umbrei”
+Umbra rămâne cea mai simplă soluție, cu o precizare. Apa, nisipul, zăpada și chiar betonul reflectă radiația UV, iar norii nu o opresc complet. Un copil se poate arde și sub umbrela de plajă sau într-o zi înnorată la munte.
 
-Indicele UV, afișat în aplicațiile meteo, arată cât de intensă este radiația solară. OMS recomandă măsuri de protecție de la un indice UV de 3 în sus. Un truc ușor de învățat de copii: dacă umbra ta este mai scurtă decât tine, soarele este puternic și e momentul pentru umbră, pălărie și cremă.
+## Ora din zi și indicele UV
 
-Norii nu blochează complet UV-ul, așa că un copil se poate arde și într-o zi înnorată, mai ales la mare sau la munte.
+Radiația UV este cea mai intensă în orele din mijlocul zilei. Sursele indică intervale ușor diferite (Academia Americană de Pediatrie: între 10 și 16; NHS: între 11 și 15), dar ideea este aceeași: dacă puteți, programați joaca la soare dimineața devreme sau după-amiaza târziu.
 
-## Ce faci dacă copilul s-a ars la soare
+OMS recomandă măsuri de protecție de la un indice UV de 3 în sus. Indicele apare în majoritatea aplicațiilor meteo. Pentru copiii mai mari, o regulă ușor de reținut este cea a umbrei: când umbra proprie este mai scurtă decât corpul, soarele e puternic și e momentul pentru umbră și pălărie.
 
-Pentru o arsură ușoară (piele roșie, caldă, sensibilă, fără bășici):
+## Adolescenții: alte obiceiuri, aceleași riscuri
 
-- scoate copilul din soare și ține-l la umbră sau în casă;
-- aplică comprese reci (nu gheață direct pe piele) sau fă-i o baie călduță spre răcoroasă;
-- folosește o loțiune hidratantă simplă, fără parfum;
-- oferă-i lichide în plus, pentru că arsurile solare favorizează deshidratarea;
-- pentru durere, un analgezic potrivit vârstei poate fi dat doar conform indicațiilor medicului sau farmacistului;
-- nu sparge bășicile și ține pielea arsă acoperită de soare până se vindecă.
+La adolescenți, problema nu mai este tehnica, ci motivația. Bronzul este adesea perceput ca un semn de sănătate, deși reflectă tocmai o reacție a pielii la radiația UV. OMS recomandă evitarea solarelor, iar mai multe țări le-au restricționat pentru minori.
 
-Evită remediile „de casă” pe piele arsă (de exemplu pastă de dinți, ulei, smântână), care pot irita sau pot crește riscul de infecție.
+Ajută lucrurile concrete: un produs cu textură lejeră, non-comedogen, pentru pielea cu tendință acneică, ochelari de soare care le plac, o șapcă sau o pălărie pe care chiar o poartă. Exemplul părinților contează la fel de mult; Academia Americană de Pediatrie recomandă ca întreaga familie să respecte aceleași reguli.
 
-## Mituri despre soare și copii
+## Dacă cel mic s-a ars totuși
 
-**„Copiii au nevoie de soare ca să facă vitamina D.”** Nevoia de vitamina D este reală, dar nu justifică arsurile sau expunerea prelungită neprotejată. Pentru sugari și copii, suplimentarea se discută cu medicul pediatru.
+Arsurile ușoare se manifestă prin piele roșie, caldă, sensibilă la atingere, fără bășici. În aceste situații, sursele consultate recomandă:
 
-**„Dacă e bronzat, e protejat.”** Bronzul este un semn că pielea a fost deja afectată de UV și oferă o protecție foarte mică.
+- scoaterea copilului din soare și răcorirea pielii cu apă rece (nu cu gheață aplicată direct);
+- lichide în plus, potrivite vârstei;
+- pentru durere, un analgezic potrivit vârstei, numai conform indicațiilor medicului sau ale farmacistului;
+- loțiuni medicamentoase doar dacă medicul le recomandă;
+- ferirea zonei arse de soare până la vindecarea completă.
 
-**„O dată pe zi e suficient.”** Crema se reaplică la circa 2 ore și după apă, indiferent de SPF.
+Bășicile nu se sparg. Remediile „din bătrâni” aplicate pe pielea arsă, cum ar fi uleiul sau smântâna, nu au dovezi și pot irita. [TODO: de confirmat de medic — mențiunea despre remediile casnice nu provine din sursele consultate]
 
-**„Crema rezistentă la apă nu se mai reaplică.”** Rezistența la apă este limitată în timp; după baie și prosop, crema se pune din nou.
+## Când poate fi util un consult dermatologic?
 
-## Când să mergi la dermatolog
+Unele situații țin de medicul pediatru sau de urgență, altele de dermatolog. Orientativ:
 
-Mergi la medic (pediatru, medic de familie sau dermatolog) ori sună la serviciul de urgență, după caz, dacă:
+- **contactați imediat medicul** dacă un sugar sub un an s-a ars la soare sau dacă, după o zi la soare, copilul are febră, vărsături, este apatic ori pare bolnav;
+- **discutați cu medicul** dacă arsura are bășici, este foarte dureroasă sau acoperă o suprafață mare ori dacă pielea arsă dă semne de infecție (secreție, roșeață care se extinde, durere în creștere);
+- **un consult dermatologic** poate fi util dacă apar erupții după aplicarea cremelor de protecție sau după expuneri scurte la soare, dacă observați o aluniță nouă care crește repede, sângerează ori își schimbă forma sau culoarea, ori dacă în familie există istoric de melanom și doriți să discutați despre controlul pielii copilului.
 
-- un **bebeluș sub 1 an** s-a ars la soare;
-- arsura are **bășici întinse**, este foarte dureroasă sau acoperă o suprafață mare;
-- copilul are **febră, frisoane, dureri de cap, vărsături, este confuz sau apatic** după expunerea la soare (pot fi semne de insolație sau deshidratare, care necesită evaluare urgentă);
-- apar **semne de infecție** pe pielea arsă: puroi, roșeață care se extinde, durere în creștere;
-- copilul face **erupții după expunerea la soare** sau după aplicarea unei creme (posibilă alergie sau reacție de fotosensibilitate, inclusiv de la unele medicamente);
-- observi o **aluniță nouă care crește rapid, sângerează sau își schimbă forma ori culoarea**. Vezi și [alunițele: semne de alarmă](/blog/alunite-semne-de-alarma/).
+Pentru semnele care merită urmărite la alunițe, puteți citi [alunițele: semne de alarmă](/blog/alunite-semne-de-alarma/). Aceste semne nu stabilesc singure un diagnostic; ele arată doar că o examinare are sens.
 
-Dacă în familie există istoric de melanom sau copilul are foarte multe alunițe, discută cu dermatologul despre cât de des este util un control al pielii.
+Protecția copiilor de soare nu presupune produse speciale sau reguli complicate, ci câteva obiceiuri repetate în fiecare vară: umbră pentru cei mici, haine și pălărie pentru toți, cremă aplicată generos de la 6 luni în sus și reaplicată după baie.
+
+## Dacă doriți o evaluare individuală
+
+Dacă pielea copilului reacționează la produsele de protecție solară, are alunițe care vă îngrijorează sau doriți un plan de protecție adaptat unei afecțiuni a pielii, cum este eczema, puteți programa o consultație la Dr. Mădălina Iulia Lincu, medic specialist dermatovenerolog. Informațiile despre [program și locații](/program/) sunt pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare practică pentru părinți, pe vârste, și recunoașterea situațiilor în care este nevoie de medic. Tehnica detaliată de aplicare și explicația etichetei sunt trimise către „cum-aplici-corect-protectia-solara” și „spf-pe-scurt”.
+- Afirmații de confirmat clinic: recomandarea AAD de a folosi, sub 6 luni, o cantitate mică de produs mineral doar dacă umbra nu este posibilă și de a-l spăla după revenirea în casă; recomandarea de a contacta medicul pentru orice arsură la sugarul sub 1 an (Academia Americană de Pediatrie); intervalele orare diferite între surse; cele două afirmații marcate inline (cărucior acoperit, remedii casnice).
+- Informații lipsă / de completat: dacă doriți, o frază despre vârsta de la care recomandați primul control dermatologic al alunițelor la copii; contextul românesc (de exemplu, recomandări ale pediatrilor români privind vitamina D) nu a fost inclus, pentru că nu a fost verificat.
+- Surse care nu au putut fi verificate: pagina AAD „sun safety for kids” (404); recomandarea AAP privind evitarea oxibenzonei a fost omisă intenționat, fiind specifică pieței americane.

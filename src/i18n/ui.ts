@@ -61,7 +61,7 @@ const ui = {
     'blog.category':  'Tema',
 
     'disclaimer.title': 'Informație medicală generală',
-    'disclaimer.body':  'Acest articol are scop informativ și nu înlocuiește consultul medical. Pentru diagnostic și tratament, adresează-te unui medic dermatolog. În caz de urgență, sună la 112.',
+    'disclaimer.body':  'Acest articol are scop informativ și nu înlocuiește consultația medicală. Pentru diagnostic și tratament, adresați-vă unui medic dermatolog. În caz de urgență, sunați la 112.',
 
     'footer.tagline': 'Dermatologie explicată clar, de un medic specialist.',
     'footer.legal':   'Informații legale',
