@@ -3,7 +3,11 @@ title: "Rutina de îngrijire a pielii: ce este necesar și ce este opțional"
 description: "Ce pași are o rutină de îngrijire a pielii de bază, cum o adaptați tipului de piele și cum introduceți un produs nou fără să vă iritați pielea."
 pubDate: 2026-10-01
 category: "rutine"
-tags: ["rutină de îngrijire", "curățare", "hidratare", "protecție solară"]
+tags:
+  - "rutină de îngrijire"
+  - "curățare"
+  - "hidratare"
+  - "protecție solară"
 draft: true
 faq:
   - q: "Care sunt pașii de bază într-o rutină de îngrijire a pielii?"
@@ -112,7 +116,7 @@ Uneori rutina însăși întreține problema: prea mulți pași, exfoliere zilni
 
 O rutină de bază nu are nevoie de aprobarea medicului. Există însă situații în care o discuție cu dermatologul vă poate scuti de multe încercări pe cont propriu:
 
-- pielea rămâne roșie, usturătoare sau descuamată deși ați simplificat rutina la cei trei pași;
+- pielea rămâne roșie, ustură sau se descuamează deși ați simplificat rutina la cei trei pași;
 - reacționați la produse diferite și nu reușiți să găsiți o cauză comună;
 - aveți coșuri, roșeață pe obraji și nas sau zone cu mâncărime care revin;
 - doriți să începeți un ingredient activ puternic și nu știți dacă vi se potrivește;
@@ -125,10 +129,3 @@ O rutină bună nu se măsoară în numărul de produse. Se măsoară în cât d
 ## Dacă doriți o evaluare individuală
 
 Dacă vreți să aflați ce tip de piele aveți de fapt, ce produse ar putea să vă lipsească și ce ar fi mai bine să scoateți din rutină, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Examinarea pielii și discuția despre obiceiurile dumneavoastră ajută la o rutină construită pe situația reală, nu pe recomandări generale. Găsiți [programul și locațiile](/program/) pe site.
-
-## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
-
-- Obiectiv editorial: educare. Articolul-hub al seriei „Rutine de îngrijire și etapele vieții”: explică pașii de bază și trimite spre articolele pe situații (sarcină, menopauză, piele grasă, greșeli frecvente). Cuvânt-cheie principal: „rutină de îngrijire a pielii”.
-- Afirmații de confirmat clinic: ordinea ser → cremă → protecție solară (practică uzuală, nu din AAD); comparația barierei cutanate cu „cărămizi și mortar” (metaforă didactică); limitarea testului pe braț pentru pielea feței (logică clinică, nu formulată explicit pe pagina AAD).
-- Informații lipsă / de completat: dacă doriți să precizați poziția dumneavoastră privind curățarea de dimineață doar cu apă la pielea uscată/sensibilă (AAD recomandă curățare de două ori pe zi, fără excepții). Opțional, o observație din practică despre rutinele prea complicate. Bărbații sunt menționați fără link, pentru a păstra 5 linkuri interne; articolul `ingrijirea-pielii-la-barbati` poate fi adăugat dacă doriți.
-- Surse care nu au putut fi verificate: niciuna; toate cele cinci pagini AAD au fost deschise la 17.11.2026.
