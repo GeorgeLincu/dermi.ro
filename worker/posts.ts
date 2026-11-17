@@ -189,17 +189,32 @@ export function validate(raw: unknown): PostInput {
 }
 
 // ─── Operations ─────────────────────────────────────────────────────
+// One GraphQL request for the whole folder: a request per file would exceed the Workers limit of
+// 50 subrequests per invocation (free plan) once there are more than ~48 articles.
 export async function listPosts(env: Env): Promise<PostMeta[]> {
-  const items = (await gh(env, `/contents/${BLOG_DIR}?ref=${branch(env)}`)) as unknown as { name: string; type: string }[] | null;
-  if (!items) return [];
-  const files = items.filter(f => f.type === 'file' && f.name.endsWith('.md') && !f.name.startsWith('_'));
-  const posts = await Promise.all(files.map(async f => {
-    const got = await getPost(env, f.name.replace(/\.md$/, ''));
-    if (!got) return null;
-    const { slug, title, description, category, tags, pubDate, updatedDate, draft, todo } = got;
-    return { slug, title, description, category, tags, pubDate, updatedDate, draft, todo };
-  }));
-  return (posts.filter(Boolean) as PostMeta[]).sort((a, b) => Number(a.draft) - Number(b.draft) || b.pubDate.localeCompare(a.pubDate));
+  if (!env.GITHUB_TOKEN) throw new HttpError(503, 'Publicarea nu este configurată (lipsește secretul GITHUB_TOKEN)');
+  const [owner, name] = repo(env).split('/');
+  const res = await fetch('https://api.github.com/graphql', {
+    method: 'POST',
+    headers: { Authorization: `Bearer ${env.GITHUB_TOKEN}`, 'User-Agent': 'dermi-vault', 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      query: 'query($o:String!,$n:String!,$e:String!){repository(owner:$o,name:$n){object(expression:$e){... on Tree{entries{name type object{... on Blob{text}}}}}}}',
+      variables: { o: owner, n: name, e: `${branch(env)}:${BLOG_DIR}` },
+    }),
+  });
+  const data = await res.json().catch(() => ({})) as {
+    data?: { repository?: { object?: { entries?: { name: string; type: string; object?: { text?: string | null } }[] } | null } };
+    errors?: { message: string }[]; message?: string;
+  };
+  if (!res.ok || data.errors?.length) throw new HttpError(502, `GitHub: ${data.errors?.[0]?.message ?? data.message ?? res.statusText}`);
+  const entries = data.data?.repository?.object?.entries ?? [];
+  return entries
+    .filter(f => f.type === 'blob' && f.name.endsWith('.md') && !f.name.startsWith('_') && typeof f.object?.text === 'string')
+    .map(f => {
+      const { slug, title, description, category, tags, pubDate, updatedDate, draft, todo } = parsePost(f.name.replace(/\.md$/, ''), f.object!.text!);
+      return { slug, title, description, category, tags, pubDate, updatedDate, draft, todo };
+    })
+    .sort((a, b) => Number(a.draft) - Number(b.draft) || b.pubDate.localeCompare(a.pubDate));
 }
 
 export async function getPost(env: Env, slug: string) {
