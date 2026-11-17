@@ -66,6 +66,9 @@ branch protection on main, delete-branch-on-merge; GitHub Pages disabled.
       (added by Brevo) — tighten to `p=reject` after a few campaigns deliver fine.
 - [ ] Send the first monthly campaign once there are published articles (`docs/NEWSLETTER.md`).
 
+- [ ] **Social media** (organic, minimal doctor time): ROADMAP SM1–SM4; kit ready — `docs/SOCIAL-MEDIA.md`
+      (AI master prompt, specs), `docs/social-media.html` (RO guide), `brand/social/` (`npm run social`).
+
 - [ ] Keep the consulting hours in `src/data/locations.ts` up to date (shown on /program/, home, contact).
 
 ### Claude (when asked)

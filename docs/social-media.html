@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>dermi.ro social media</title>
+<style>
+  :root {
+    --bg: #f8f4ee; --card: #fffdf9; --line: #e2d8ca; --ink: #1b2622; --soft: #4b5651;
+    --green: #2d5a4d; --clay: #9f4b2b; --tint: #f1eae0; --p0: #9f4b2b; --p1: #2d5a4d; --p2: #5a6b8a; --p3: #6b6b6b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #111915; --card: #17211d; --line: #2a3832; --ink: #efe8dd; --soft: #b4bcb5;
+      --green: #93c9b2; --clay: #eba183; --tint: #1d2924; --p0: #eba183; --p1: #93c9b2; --p2: #a9b8d6; --p3: #b0b0b0;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #111915; --card: #17211d; --line: #2a3832; --ink: #efe8dd; --soft: #b4bcb5;
+    --green: #93c9b2; --clay: #eba183; --tint: #1d2924; --p0: #eba183; --p1: #93c9b2; --p2: #a9b8d6; --p3: #b0b0b0;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 "Segoe UI", system-ui, -apple-system, sans-serif; }
+  main { max-width: 980px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; font-size: clamp(1.8rem, 1.2rem + 2.5vw, 2.6rem); margin: 6px 0 8px; line-height: 1.15; }
+  h1 i { color: var(--green); }
+  h2 { font-family: Georgia, serif; font-weight: 500; font-size: 1.5rem; margin: 40px 0 6px; }
+  .lead { color: var(--soft); max-width: 70ch; }
+  .kicker { font-size: .78rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: var(--clay); }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px 14px; margin: 18px 0 8px; font-size: .9rem; color: var(--soft); }
+  .pill { display: inline-block; padding: 2px 10px; border-radius: 100px; font-size: .75rem; font-weight: 700; letter-spacing: .04em; border: 1px solid currentColor; white-space: nowrap; }
+  .p0 { color: var(--p0); } .p1 { color: var(--p1); } .p2 { color: var(--p2); } .p3 { color: var(--p3); }
+  .who { background: var(--tint); border-color: var(--line); color: var(--soft); }
+  .grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); margin-top: 14px; }
+  .item { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; display: flex; flex-direction: column; gap: 8px; }
+  .item h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+  .item p { margin: 0; color: var(--soft); font-size: .95rem; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .done { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 20px; }
+  .done ul { margin: 6px 0 0; padding-left: 1.2em; color: var(--soft); }
+  .done li { margin: 4px 0; }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; font-size: .95rem; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { background: var(--tint); font-size: .78rem; letter-spacing: .08em; text-transform: uppercase; color: var(--soft); }
+  tr:last-child td { border-bottom: 0; }
+  .table-wrap { overflow-x: auto; }
+  footer { margin-top: 48px; color: var(--soft); font-size: .88rem; border-top: 1px solid var(--line); padding-top: 16px; }
+  a { color: var(--green); }
+  .toc { display: flex; flex-wrap: wrap; gap: 6px 10px; margin: 18px 0 0; }
+  .toc a { font-size: .88rem; padding: 4px 12px; border: 1px solid var(--line); border-radius: 100px; background: var(--card); text-decoration: none; }
+  .steps li { margin: 10px 0; }
+  .box { margin-top: 8px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; font-size: .95rem; }
+  .note { color: var(--soft); font-size: .95rem; margin-top: 14px; }
+  code { overflow-wrap: anywhere; }
+  .prompt { white-space: pre-wrap; overflow-wrap: anywhere; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; font: .85rem/1.55 Consolas, ui-monospace, monospace; }
+</style>
+</head>
+<body>
+<main>
+  <p class="kicker">dermi.ro · social media · noiembrie 2026</p>
+  <h1>Lansarea der<i>mi</i> pe Facebook, Instagram, TikTok și YouTube</h1>
+  <p class="lead">Ghidul echipei (strategie social media, conținut medical, copywriting, video, community management, conformitate CMR și GDPR, securitate). Plan gândit pentru <strong>conținut organic</strong> (fără reclame plătite) și pentru <strong>puțin timp din partea doctoriței</strong>: mai ales carusele și grafice, plus o singură sesiune de filmare pe lună (~60 de minute).</p>
+
+  <nav class="toc">
+    <a href="#pregatire">1. Înainte de conturi</a>
+    <a href="#conturi">2. Crearea conturilor</a>
+    <a href="#brand">3. Logo și imagini</a>
+    <a href="#nevoie">4. Ce mai e nevoie</a>
+    <a href="#reguli">5. Reguli medicale și legale</a>
+    <a href="#plan">6. Plan de lansare (6 săptămâni)</a>
+    <a href="#ritm">7. Ritmul lunar</a>
+    <a href="#comunitate">8. Comentarii și mesaje</a>
+    <a href="#kpi">9. Ce măsurăm</a>
+    <a href="#prompt">10. Promptul pentru Claude</a>
+  </nav>
+
+  <h2 id="pregatire">1. Înainte să creați conturile</h2>
+  <ol class="steps">
+    <li><strong>Verificați numele de cont.</strong> Recomandat: <code>dermi.ro</code> peste tot (e permis pe toate cele 4 platforme). Dacă e luat pe una dintre ele, folosiți <code>dr.madalinalincu</code> <em>peste tot</em>, pentru consecvență. Verificați disponibilitatea pe toate patru înainte de a crea primul cont.</li>
+    <li><strong>E-mail dedicat:</strong> <code>social@dermi.ro</code>, redirecționat către drmadalinalincu@gmail.com prin Cloudflare. Îl configurează Claude (punctul <b>SM2</b>, în modul Manual). Astfel conturile nu depind de un e-mail personal.</li>
+    <li><strong>Manager de parole</strong> (Bitwarden gratuit, 1Password sau cel din Google): parolă unică, lungă, pentru fiecare cont.</li>
+    <li><strong>Aplicație de autentificare</strong> (Google Authenticator, Microsoft Authenticator sau 2FAS) pe telefonul doctoriței și pe al lui George. Codurile de recuperare se tipăresc și se păstrează acasă, nu în e-mail.</li>
+    <li><strong>Textele de profil</strong> (le folosiți la toate conturile):
+      <div class="box"><b>Nume:</b> Dr. Mădălina Iulia Lincu · dermi.ro<br>
+      <b>Bio (≤ 150 caractere):</b> Medic specialist dermatovenerologie · Pielea ta, explicată de un medic · Informații educative, nu sfat medical individual ↓<br>
+      <b>Link:</b> https://dermi.ro<br>
+      <b>Categorie:</b> Dermatolog / Medic<br>
+      <b>Contact public:</b> doar e-mail (contact@dermi.ro), fără telefon personal.</div></li>
+  </ol>
+
+  <h2 id="conturi">2. Crearea conturilor, în ordine</h2>
+  <div class="grid">
+    <div class="item"><h3>① Facebook — Pagină</h3><p>Din contul personal al doctoriței: <i>Pagini → Creează pagină</i>. Apoi <b>business.facebook.com</b> → creați un <i>Business portfolio</i> „dermi.ro” și adăugați Pagina. Adăugați-l pe George cu <b>acces complet</b>, ca să nu existe un singur punct de eșec. Încărcați poza de profil și coperta. Butonul de acțiune: <i>Trimite e-mail</i>. Numele de utilizator al paginii: <code>dermi.ro</code>.</p></div>
+    <div class="item"><h3>② Instagram — cont profesional</h3><p>Creați contul cu <code>social@dermi.ro</code>, apoi <i>Setări → Tip cont → Cont profesional → Creator</i>, categoria <i>Medic / Dermatolog</i>. Conectați-l la Pagina de Facebook din Meta Business Suite: așa programați postările pentru amândouă dintr-un singur loc. Creați 5 <i>Highlights</i> cu copertele din kit.</p></div>
+    <div class="item"><h3>③ YouTube — canal pe Brand Account</h3><p>Din contul Google al doctoriței: <i>youtube.com → Creează un canal → cu un nume personalizat</i> (devine automat un <b>Brand Account</b>). Apoi <i>Setări → Permisiuni</i> → George ca <b>Manager</b>. Handle: <code>@dermi.ro</code>. În YouTube Studio: bannerul, poza, watermark-ul, descrierea și linkul. Verificați dacă e disponibilă în România eticheta de <i>sursă medicală licențiată</i> (health source information panel).</p></div>
+    <div class="item"><h3>④ TikTok — cont Business</h3><p>Creați contul cu <code>social@dermi.ro</code>, apoi <i>Setări → Cont → Treci la cont Business</i>, categoria <i>Health / Medical</i>. Puneți poza, bio-ul și linkul. Pentru programarea clipurilor folosiți <b>TikTok Studio</b> pe web. Activați filtrarea comentariilor.</p></div>
+  </div>
+  <p class="note">La toate: verificare în 2 pași cu aplicație de autentificare, nu prin SMS, și conectări doar de pe dispozitivele voastre. Accesul altor persoane se dă prin <b>roluri</b>, niciodată cu parola. După ce conturile există, spuneți-i lui Claude linkurile (<b>SM3</b>): le pune în subsolul site-ului și în datele structurate (<code>sameAs</code>), ceea ce ajută Google să lege profilurile de doctoriță.</p>
+
+  <h2 id="brand">3. Logo și imagini (brand kit)</h2>
+  <p>Toate fișierele sunt în <code>C:\Users\george.lincu\dermi.ro\brand\social\</code>. Se pot regenera cu <code>npm run social</code>.</p>
+  <div class="table-wrap"><table>
+    <tr><th>Fișier</th><th>Unde îl folosiți</th><th>Atenție</th></tr>
+    <tr><td><code>profile-1080.png</code></td><td>Poza de profil pe toate cele 4 platforme</td><td>Se afișează rotund; sigiliul „mi” e centrat.</td></tr>
+    <tr><td><code>facebook-cover-1640x624.png</code></td><td>Coperta paginii de Facebook</td><td>Pe telefon se taie marginile; textul e la mijloc.</td></tr>
+    <tr><td><code>youtube-banner-2560x1440.png</code></td><td>Bannerul canalului YouTube</td><td>Textul e în zona sigură 1546×423.</td></tr>
+    <tr><td><code>youtube-watermark-600.png</code></td><td>YouTube Studio → Personalizare → Watermark video</td><td>YouTube îl micșorează singur.</td></tr>
+    <tr><td><code>youtube-thumbnail-1280x720.png</code></td><td>Șablon de copertă pentru clipurile YouTube</td><td>În dreapta: poza doctoriței decupată.</td></tr>
+    <tr><td><code>post-carousel-cover / slide / end-1080x1350.png</code></td><td>Carusele Instagram + Facebook (prima, interioare, ultima)</td><td>Format 4:5; maximum 40 de cuvinte pe slide.</td></tr>
+    <tr><td><code>post-myth-fact-1080x1080.png</code></td><td>Postări „Mit vs. fapt”</td><td>Pătrat, merge pe toate platformele.</td></tr>
+    <tr><td><code>vertical-cover-1080x1920.png</code></td><td>Coperta pentru Reels, TikTok, Shorts</td><td>Titlu de 3–6 cuvinte.</td></tr>
+    <tr><td><code>vertical-safe-zones-1080x1920.png</code></td><td>Ghid: unde <em>nu</em> puneți text în clipuri</td><td>Nu se publică; e doar un șablon de lucru.</td></tr>
+    <tr><td><code>highlight-*.png</code> (5)</td><td>Coperțile Instagram Highlights: Mit vs. fapt, Ingrediente, Rutina, La dermatolog, Protecție solară</td><td>Se încarcă întâi ca story, apoi se aleg drept copertă.</td></tr>
+  </table></div>
+  <p><b>În Canva</b> (gratuit), creați un <i>Brand Kit</i>:</p>
+  <ul>
+    <li><b>Culori:</b> <code>#2d5a4d</code> verde, <code>#9f4b2b</code> lut, <code>#f8f4ee</code> crem, <code>#1b2622</code> text, <code>#f1d9ca</code> roz pal.</li>
+    <li><b>Fonturi:</b> <b>Fraunces</b> pentru titluri (accent în italic verde) și <b>Figtree</b> pentru text.</li>
+    <li><b>Șabloane:</b> încărcați imaginile din kit ca fundal și scrieți textul peste ele.</li>
+  </ul>
+
+  <h2 id="nevoie">4. Ce mai e nevoie</h2>
+  <div class="grid">
+    <div class="item"><h3>Echipament (~60–100 €)</h3><p>Trepied pentru telefon, cu suport. Microfon lavalieră wireless pentru telefon (contează cel mai mult: sunetul bun bate imaginea perfectă). Lumină: fereastra în fața doctoriței, sau o lampă LED cu softbox. Fundal simplu: cabinetul, fără pacienți sau date vizibile.</p></div>
+    <div class="item"><h3>Aplicații gratuite</h3><p><b>Canva</b> (grafice), <b>CapCut</b> sau editorul din Instagram/TikTok (subtitrări automate — verificați diacriticele!), <b>Meta Business Suite</b> (programare FB + IG), <b>TikTok Studio</b>, <b>YouTube Studio</b>. Opțional: o aplicație de teleprompter pe telefon.</p></div>
+    <div class="item"><h3>O „rezervă” de conținut</h3><p>Înainte de lansare: <b>10–15 postări gata</b>, aprobate de doctoriță (circa 3 săptămâni de conținut). Toate pornesc de la articole <b>publicate</b> pe dermi.ro, deci publicarea primelor 5 articole (ROADMAP C1) e o condiție.</p></div>
+    <div class="item"><h3>Linkuri care se pot măsura</h3><p>În bio și în descrieri folosiți linkuri cu UTM, de exemplu:<br><code>dermi.ro/blog/acneea-la-adulti/?utm_source=instagram&amp;utm_medium=social&amp;utm_campaign=2026-12</code><br>Așa vedeți în statistici de unde vin vizitatorii.</p></div>
+    <div class="item"><h3>Timp săptămânal</h3><p><b>George:</b> ~2–3 ore pe săptămână pentru design, programare și răspunsuri. <b>Doctorița:</b> ~30 de minute pe săptămână pentru aprobarea textelor, plus o filmare de ~60 de minute pe lună.</p></div>
+    <div class="item"><h3>Acordul pentru fotografii</h3><p>Portretul doctoriței: acordul fotografului (vezi <code>docs/IMAGE-RIGHTS.md</code>). Orice altă persoană care apare: acord scris. Pacienți: niciodată.</p></div>
+  </div>
+
+  <h2 id="reguli">5. Reguli medicale și legale (obligatorii)</h2>
+  <div class="done"><ul>
+    <li><b>Informativ, nu promoțional</b> (Codul deontologic CMR): fără „cel mai bun”, fără prețuri, oferte sau garanții de rezultat.</li>
+    <li><b>Fără testimoniale</b>, povești de pacienți sau fotografii înainte/după cu pacienți.</li>
+    <li><b>Fără mărci de produse</b> și fără doze de medicamente pe rețetă. Toxina botulinică nu se promovează.</li>
+    <li><b>Cosmetice:</b> fără „vindecă”, „repară ADN-ul”, „detox” (reguli UE pentru afirmațiile despre cosmetice).</li>
+    <li><b>Fiecare afirmație medicală</b> vine dintr-un articol publicat pe dermi.ro și e aprobată de doctoriță înainte de postare.</li>
+    <li><b>Disclaimer</b> la postările medicale: <i>„Informații generale; nu înlocuiesc consultația medicală.”</i> Același text e fixat (pinned) și în comentarii.</li>
+    <li><b>Imagini sau voce generate cu AI:</b> se marchează cu eticheta platformei („AI info” pe Meta, „AI-generated” pe TikTok, „Altered or synthetic content” pe YouTube). Fața și vocea doctoriței nu se generează niciodată cu AI.</li>
+    <li><b>GDPR:</b> nu cereți și nu discutați date de sănătate în mesaje private; redirecționați către consultație.</li>
+    <li><b>Înainte de orice promovare a serviciilor</b> (programări, prețuri, colaborări cu branduri): confirmare de la CMR sau de la un avocat (ROADMAP L3).</li>
+  </ul></div>
+
+  <h2 id="plan">6. Plan de lansare (6 săptămâni)</h2>
+  <div class="table-wrap"><table>
+    <tr><th>Săpt.</th><th>Ce faceți</th></tr>
+    <tr><td>1</td><td>Doctorița revizuiește și publică primele 5 articole. Claude configurează <code>social@dermi.ro</code>. Verificați numele de cont. Instalați managerul de parole și aplicația de autentificare.</td></tr>
+    <tr><td>2</td><td>Creați cele 4 conturi (secțiunea 2), cu 2FA, roluri, poze, coperte și bio. Nu postați încă. Creați Brand Kit-ul în Canva.</td></tr>
+    <tr><td>3</td><td>Rulați <b>promptul</b> din secțiunea 10 cu cele 5 articole. Faceți primele 10–15 grafice în Canva. Doctorița aprobă textele.</td></tr>
+    <tr><td>4</td><td>Prima sesiune de filmare (4–6 clipuri de 30–45 s). Montaj cu subtitrări. Programați primele 3 săptămâni.</td></tr>
+    <tr><td>5</td><td><b>Lansare:</b> prima postare de prezentare („Cine sunt și de ce am pornit dermi.ro”), apoi ritmul normal. Anunțați lansarea în newsletter (Brevo) și pe LinkedIn. Claude pune linkurile pe site (SM3).</td></tr>
+    <tr><td>6</td><td>Prima analiză: ce postări au fost salvate și distribuite cel mai mult. Ajustați luna următoare cu promptul de analiză.</td></tr>
+  </table></div>
+
+  <h2 id="ritm">7. Ritmul lunar (cu timp minim din partea doctoriței)</h2>
+  <div class="grid">
+    <div class="item"><h3>Instagram + Facebook</h3><p>3 postări pe săptămână: 2 carusele și 1 Reel. Același conținut pe ambele, publicat din Meta Business Suite. Stories de 3 ori pe săptămână, cu sondaje, quiz-uri și „citește articolul”.</p></div>
+    <div class="item"><h3>TikTok + YouTube Shorts</h3><p>1–2 clipuri pe săptămână. Aceleași clipuri ca Reels-urile, încărcate nativ, fără watermark de la altă platformă.</p></div>
+    <div class="item"><h3>YouTube (opțional)</h3><p>Un clip lung pe lună (6–10 minute), bazat pe un articol. Doar dacă doctorița are timp; altfel, doar Shorts.</p></div>
+    <div class="item"><h3>Cei 5 piloni</h3><p>Mit vs. fapt · Ingredientul lunii · Rutina corectă · Când mergi la dermatolog · Sezonier / protecție solară.</p></div>
+  </div>
+
+  <h2 id="comunitate">8. Comentarii și mesaje</h2>
+  <ul>
+    <li><b>Filtre de cuvinte</b> activate pe toate platformele: insulte, spam, „link în bio”, nume de produse.</li>
+    <li><b>Răspuns standard la întrebări personale:</b> <i>„Mulțumim pentru întrebare! Nu putem oferi diagnostic sau tratament online — fiecare piele e diferită. Te rugăm să te adresezi unui medic dermatolog pentru un consult.”</i></li>
+    <li><b>Răspunsuri:</b> în 24–48 de ore, cu ton calm. Nu ștergeți criticile civilizate. Ascundeți spam-ul și jignirile.</li>
+    <li><b>Situații delicate</b> (o plângere, o știre falsă, un jurnalist): nu răspundeți la cald. George și doctorița decid împreună, iar Claude poate redacta un răspuns.</li>
+  </ul>
+
+  <h2 id="kpi">9. Ce măsurăm (prima zi de luni din fiecare lună)</h2>
+  <p><b>Salvări și distribuiri</b> (cel mai bun semnal pentru conținut educativ), reach, vizite pe profil, clicuri pe link, abonați noi, vizitatori pe dermi.ro veniți de pe rețele (Cloudflare Web Analytics) și abonări la newsletter. Notați cifrele într-un tabel simplu și dați-i-l lui Claude cu promptul de analiză din <code>docs/SOCIAL-MEDIA.md</code>. Țintă realistă pentru primele 3 luni: postări regulate și salvări în creștere. Numărul de urmăritori vine după.</p>
+
+  <h2 id="prompt">10. Promptul pentru Claude (copiați-l întreg)</h2>
+  <p>Înlocuiți ce e între acolade: luna, contextul sezonier și <b>textul articolelor publicate</b>. Instrucțiunile sunt în engleză, iar postările ies în română. Alte prompturi utile (articol → carusel, zi de filmare, răspuns la comentarii, analiză lunară, clip YouTube lung) sunt în <code>docs/SOCIAL-MEDIA.md</code>.</p>
+  <pre class="prompt">You are a senior team working together for the professional social media of a Romanian dermatologist:
+a social media strategist, a medical-content editor (dermatology), a native Romanian copywriter,
+a short-form video producer, a community manager and a healthcare compliance reviewer (CMR deontology,
+EU cosmetics claims rules, GDPR). Each role checks the others' work before you answer.
+
+CONTEXT
+- Account: dermi.ro — Dr. Mădălina Iulia Lincu, medic specialist Dermatovenerologie (CMR 2620033311),
+  collaborator at Dr. Leventer Centre, Bucharest. Website with evidence-based articles: https://dermi.ro
+- Channels: Instagram, Facebook, TikTok, YouTube (Shorts + optional monthly long video).
+- Goal: trust and visibility; drive readers to dermi.ro articles and the newsletter (https://dermi.ro/newsletter/).
+  Organic only, no ads. The doctor has little time: favour carousels and graphics; at most 6 short clips
+  per month, all recordable in one 60-minute session, talking to camera, no props beyond a sunscreen tube
+  or a generic jar without a visible brand.
+- Audience: Romanian adults 22–55, mostly women, interested in skin health and skincare, confused by
+  influencer advice; secondary: parents (children's eczema, sun protection).
+- Brand voice: calm, clear, warm, evidence-based, "tu" form, short sentences, explain the "why",
+  no fear-mongering, max 1–2 emoji per post. Tagline: "Pielea ta, explicată de un medic."
+- Content pillars: (1) Mit vs. fapt, (2) Ingredientul lunii, (3) Rutina corectă,
+  (4) Când mergi la dermatolog, (5) Sezonier / protecție solară.
+
+SOURCE MATERIAL (only these — do not add medical facts that are not in them)
+Month: {MONTH YYYY-MM}
+Seasonal context / events: {e.g. "December: cold, dry skin, holidays"; World days if relevant}
+Published articles (title — URL — full text or key points):
+{PASTE HERE}
+
+HARD RULES
+- Informative, never promotional: no "best", no promises, no prices, no offers, no calls to book a treatment.
+- No testimonials, patient stories or patient before/after photos; no brand or product names;
+  no prescription-drug doses; never promote botulinum toxin; no "cure/repair/detox" cosmetic claims.
+- Every medical statement must come from the source material. If you are not sure, write
+  [TODO: verifică] next to it. Never invent statistics, studies or quotes.
+- Each post ends with a clear, non-salesy CTA (read the article, save the post, subscribe to the newsletter)
+  and, for medical topics, the line: "Informații generale; nu înlocuiesc consultația medicală."
+- Images: describe only illustrations, textures, ingredients, hands, sunscreen, the doctor talking —
+  no realistic skin disease photos generated by AI. Flag any AI-generated visual as "AI label: yes".
+- Romanian with full diacritics (ă, â, î, ș, ț). Accessible language (reading age ~14).
+
+DELIVERABLES
+1. A 4-week calendar table: date, platform(s), pillar, format, title, source article, cross-posting.
+   Cadence: Instagram + Facebook 3 posts/week (mostly carousels, 1 Reel); TikTok + YouTube Shorts
+   1–2 videos/week (the same clips, re-cut); Stories 3×/week (polls, quizzes, "link to article");
+   1 optional YouTube long video (6–10 min) built from one article.
+2. For every carousel: hook on slide 1 (max 8 words), 5–8 slides with max 40 words each, end slide CTA,
+   caption (≤ 1,200 chars, hook in the first 125 chars), 3–5 Romanian hashtags, alt text per slide,
+   UTM link. Use the templates: cover / numbered slide / myth-fact / end slide.
+3. For every video: 30–45 s script in spoken Romanian, with timecodes, on-screen text (≤ 7 words per
+   card, inside the safe zone), b-roll ideas, cover title (3–6 words), caption, hashtags, and the
+   YouTube Shorts title. A one-page "filming day" sheet listing all clips in recording order.
+4. Stories: 12 ideas with stickers (poll, quiz, question box) — questions answered generally, never as
+   individual diagnosis.
+5. Community kit: 8 reply templates in Romanian (thanks; general question; personal medical question →
+   "Nu putem oferi diagnostic online; te rugăm să te adresezi unui medic dermatolog"; booking question →
+   neutral info about the clinic; misinformation; aggressive comment; product recommendation request;
+   media/collaboration request).
+6. A compliance table: every post × rule check (sources, no promotion, no brands, disclaimer, AI label,
+   TODOs left) with ✅/⚠️.
+
+FORMAT
+Markdown, one section per deliverable, ready to paste into Canva and the schedulers. Ask me up to 3
+questions first only if the source material is missing; otherwise produce everything in one answer.</pre>
+
+  <footer>
+    Fișiere: ghidul pentru AI <code>docs/SOCIAL-MEDIA.md</code>, imaginile în <code>brand/social/</code>, pașii în <code>docs/ROADMAP.md</code> (SM1–SM4). Pentru o sesiune nouă cu Claude, porniți-o în <code>C:\Users\george.lincu\dermi.ro</code> și spuneți, de exemplu, „fă SM3” sau „rulează promptul de social media pentru decembrie”.
+  </footer>
+</main>
+</body>
+</html>

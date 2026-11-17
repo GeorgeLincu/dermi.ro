@@ -6,7 +6,7 @@ backlog with IDs like S4, C2). Human version of the roadmap: `docs/recomandari.h
 **Resume in 30 seconds:** site live and green (Site monitor hourly). 0 articles published, 43 drafts awaiting the
 doctor's review. Newsletter live (Brevo list 3, DOI template 1 tagged `optin`, welcome template 2, launch draft
 campaign 3, monthly draft workflow). Schedule/locations live at /program/. Most urgent open item: **S1** — the
-geoli.eu GitHub token expires 2026-10-30 (dermi.ro already has its own non-expiring token). Feature docs:
+geoli.eu GitHub token expires 2026-10-30 (dermi.ro already has its own non-expiring token). Social media kit (prompt, specs, brand images): `docs/SOCIAL-MEDIA.md`, `brand/social/`. Feature docs:
 `docs/VAULT.md`, `docs/NEWSLETTER.md`, `docs/CLOUDFLARE-SETUP.md`, `docs/CONTENT-GUIDE.md`.
 
 ## What this is
@@ -85,7 +85,7 @@ Workers Builds: every merge to main deploys in ~1–2 min; /version.json shows t
 | `worker/newsletter.ts`, `src/components/NewsletterForm.astro` | newsletter sign-up → Brevo double opt-in; visible only when `CONFIG.newsletter` is true (docs/NEWSLETTER.md) |
 | `public/_headers`, `public/_redirects` | security headers/CSP, caching; redirects (old Jekyll URLs are added by postbuild) |
 | `scripts/postbuild.mjs` | [TODO] guard, unlink links to drafts, image lazy/size, Markdown header rules, old-URL redirects |
-| `scripts/og-images.mjs` | `npm run og` — 1200×630 cards + icons via headless Edge |
+| `scripts/og-images.mjs`, `scripts/social-assets.mjs` | `npm run og` — 1200×630 cards + icons; `npm run social` — social media brand kit in `brand/social/` (both via `scripts/lib/render.mjs`, headless Edge) |
 | `.github/workflows/` | `ci.yml` (check, build, inline-code guard, repo-file guard, Lighthouse ≥ 0.95 mobile, drafts build), `monitor.yml` (hourly live check, auto issue) |
 | `docs/` | VAULT, CLOUDFLARE-SETUP, CONTENT-GUIDE, REVIEW-ARTICOLE (RO), STRATEGIE (RO), IMAGE-RIGHTS, STATUS |
 

@@ -34,6 +34,17 @@ Rules: read CLAUDE.md first; one small PR per item; never push to main; never in
 - **N1 · Owner · Newsletter launch**: send the Brevo draft "Lansare dermi.ro" after C1; monthly drafts arrive
   automatically (GitHub issue label `newsletter`).
 
+## Social media (guide: docs/SOCIAL-MEDIA.md, human: docs/social-media.html, assets: brand/social/)
+
+- **SM1 · Owner · Create the accounts** (Facebook Page in a Meta Business portfolio, Instagram Creator linked to it,
+  YouTube Brand Account, TikTok Business), same handle everywhere, 2FA, two admins, brand-kit images. After C1.
+- **SM2 · Claude (Manual mode) · `social@dermi.ro`**: Cloudflare Email Routing rule → drmadalinalincu@gmail.com
+  (login e-mail for the accounts). Done when a test mail arrives.
+- **SM3 · Claude · Link the profiles**: add the URLs to `CONFIG.doctor.profiles` in `src/config.ts` (JSON-LD
+  `sameAs`) and small text links in the footer. Plain links only — no embeds, widgets or pixels (CSP/cookies).
+- **SM4 · Owner (+ Claude) · Monthly content batch**: run the master prompt in docs/SOCIAL-MEDIA.md with the
+  published articles; doctor approves; one filming session; schedule natively; KPI review prompt monthly.
+
 ## P2 — next quarter (product)
 
 - **P1 · Claude · Vault editor**: highlight `[TODO` lines; "ready for review" status; scheduled publishing
