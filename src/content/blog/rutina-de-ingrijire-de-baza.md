@@ -9,6 +9,8 @@ tags:
   - "hidratare"
   - "protecție solară"
 draft: true
+image: "/media/blog/rutina-de-ingrijire-de-baza/mwl1tuti-2026-11-17-20-50-42-openai-gpt-image-2-6-1122x1402.webp"
+imageAlt: "Regula de urmat: suma produselor de aplicat este întotdeauna egala cu 2 (de ex. curățare și protecție solară). Imagine creată cu AI."
 faq:
   - q: "Care sunt pașii de bază într-o rutină de îngrijire a pielii?"
     a: "Pentru majoritatea adulților sunt trei: curățare blândă, o cremă hidratantă potrivită tipului de piele și, dimineața, protecție solară cu spectru larg, SPF 30 sau mai mare. Celelalte produse sunt opționale și se adaugă doar pentru o nevoie anume."
