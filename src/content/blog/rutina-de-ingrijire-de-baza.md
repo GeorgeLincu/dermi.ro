@@ -100,7 +100,7 @@ Tonerele, esențele, măștile și cremele de ochi nu sunt necesare pentru o pie
 
 Tonerele astringente (cele care „diminuează” porii, de obicei pe bază de alcool) și exfoliantele pot usca pielea și pot face acneea să arate mai rău.
 
-Un ingredient activ, cum ar fi un retinoid, niacinamida, acidul azelaic sau un acid exfoliant, are sens când există o nevoie clară: pori astupați, pete, textură neuniformă, primele semne de îmbătrânire. Alegerea depinde de piele și de ce problema ce deranjează, iar uneori varianta potrivită este un medicament prescris, nu un cosmetic.
+Un ingredient activ, cum ar fi un retinoid, niacinamida, acidul azelaic sau un acid exfoliant, are sens când există o nevoie clară: pori astupați, pete, textură neuniformă, primele semne de îmbătrânire. Alegerea depinde de piele și de problema care deranjează, iar uneori varianta potrivită este un medicament prescris, nu un cosmetic.
 
 Regula de bază este un singur produs nou o dată. Mai trebuie spus că unele ingrediente, precum retinolul sau acidul glicolic, pot da o iritație ușoară și trecătoare chiar și atunci când pielea le tolerează în ansamblu. Ce nu este normal este usturimea sau arsura care persistă: se recomandă oprirea produselor care ustură, iar dacă e vorba de un tratament prescris, anunțarea medicului care l-a recomandat.
 
