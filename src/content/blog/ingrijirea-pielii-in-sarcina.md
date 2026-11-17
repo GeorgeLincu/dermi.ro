@@ -1,119 +1,128 @@
 ---
-title: "Îngrijirea pielii în sarcină: ce e sigur și ce eviți"
-description: "Ce se schimbă la piele în sarcină, ce ingrediente sunt considerate sigure, ce eviți (retinoizi, isotretinoin) și ce simptome cer consult rapid."
+title: "Îngrijirea pielii în sarcină: ce rămâne în rutină și ce se evită"
+description: "Cum arată îngrijirea pielii în sarcină: ce schimbări sunt obișnuite, ce ingrediente se evită, ce se poate folosi și ce simptome trebuie spuse medicului."
 pubDate: 2026-10-01
 category: "rutine"
 tags: ["sarcină", "rutină de îngrijire", "melasmă", "vergeturi"]
 draft: true
 faq:
-  - q: "Pot folosi retinol în sarcină?"
-    a: "În sarcină se evită, ca măsură de precauție, toți retinoizii aplicați pe piele, inclusiv retinolul, iar isotretinoinul oral este strict contraindicat. Dacă ai folosit un astfel de produs înainte să afli că ești însărcinată, oprește-l și spune-i medicului."
-  - q: "Ce cremă de protecție solară pot folosi în sarcină?"
-    a: "Protecția solară cu spectru larg este recomandată în sarcină, mai ales pentru prevenirea melasmei. Multe gravide aleg filtre minerale (oxid de zinc, dioxid de titan), care sunt în general bine tolerate."
-  - q: "Există creme care previn vergeturile în sarcină?"
-    a: "Nu există dovezi solide că vreo cremă sau ulei previne vergeturile. Hidratarea pielii poate reduce mâncărimea și disconfortul, dar apariția vergeturilor depinde mult de factori genetici și de cât de repede se întinde pielea."
-  - q: "Este normal să am mâncărimi în sarcină?"
-    a: "Mâncărimi ușoare pot apărea din cauza pielii uscate sau a întinderii pielii pe abdomen. Mâncărimea intensă, mai ales pe palme și tălpi și fără erupție vizibilă, trebuie spusă imediat medicului obstetrician, pentru că poate fi semnul unei afecțiuni a ficatului numite colestază de sarcină."
+  - q: "Se poate folosi retinol în sarcină?"
+    a: "Nu. Academia Americană de Dermatologie include toți retinoizii, inclusiv retinolul din cosmetice, pe lista ingredientelor de evitat în sarcină. Dacă l-ați folosit înainte să aflați că sunteți însărcinată, opriți-l și spuneți-i medicului."
+  - q: "Ce protecție solară este potrivită în sarcină?"
+    a: "O protecție solară cu spectru larg, rezistentă la apă, cu SPF 30 sau mai mare. Academia Americană de Dermatologie sugerează în sarcină filtrele minerale (oxid de zinc, dioxid de titan), care irită mai rar pielea."
+  - q: "Există creme care previn vergeturile?"
+    a: "Multe produse promit asta, dar dovezile că funcționează sunt foarte slabe. Hidratarea poate reduce senzația de piele uscată și mâncărimea, însă nu s-a demonstrat că împiedică apariția vergeturilor."
+  - q: "Când este îngrijorătoare mâncărimea în sarcină?"
+    a: "Mâncărimea pe palme și tălpi, cea foarte intensă sau cea care se accentuează noaptea trebuie spusă imediat medicului care urmărește sarcina, deoarece poate fi semnul unei afecțiuni hepatice numite colestază intrahepatică de sarcină."
 sources:
-  - title: "Safety of skin care products during pregnancy"
-    publisher: "Canadian Family Physician (Bozzo P, Chua-Gocheco A, Einarson A, 2011)"
-  - title: "Interventions for preventing stretch marks in pregnancy"
-    publisher: "Cochrane Database of Systematic Reviews (Brennan M și colab., 2012)"
-  - title: "Intrahepatic Cholestasis of Pregnancy (Green-top Guideline No. 43)"
-    publisher: "Royal College of Obstetricians and Gynaecologists (RCOG, 2022)"
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "American Academy of Dermatology (JAAD, 2024)"
+  - title: "Dermatologist-approved pregnancy skin care"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/routine/pregnancy-skin-care"
+  - title: "Is any acne treatment safe to use during pregnancy?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/pregnancy"
+  - title: "Skin changes in pregnancy"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/skin-changes-in-pregnancy"
+  - title: "Itching in pregnancy"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/pregnancy/related-conditions/complications/itching-and-intrahepatic-cholestasis/"
+  - title: "Stretch marks"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/conditions/stretch-marks/"
 ---
 
-În sarcină, rutina de îngrijire a pielii trebuie să fie mai simplă și mai blândă: curățare delicată, hidratare și protecție solară zilnică rămân baza. Ce se schimbă este lista ingredientelor active: retinoizii (inclusiv retinolul) și isotretinoinul se evită, iar orice tratament pentru acnee, pete sau alte probleme se alege împreună cu medicul.
+Odată cu vestea unei sarcini, multe femei se uită altfel la raftul din baie. Serul cu retinol mai poate rămâne? Crema de pete? Protecția solară e sigură pentru copil? Răspunsul scurt: îngrijirea pielii în sarcină păstrează aceeași bază (curățare blândă, hidratare, protecție solară), dar lista ingredientelor active se schimbă: retinoizii și câteva alte substanțe se opresc, iar orice tratament pentru acnee sau pete se alege împreună cu medicul.
+
+Articolul de față nu reia pașii unei rutine obișnuite, descriși în ghidul despre [rutina de îngrijire de bază](/blog/rutina-de-ingrijire-de-baza/). Se oprește la ce este diferit în sarcină: ce schimbări ale pielii sunt de așteptat, ce ingrediente se evită și ce simptome trebuie spuse medicului fără amânare.
 
 ## Pe scurt
 
-- **Baza rămâne aceeași:** produs de curățare blând, cremă hidratantă, protecție solară cu spectru larg.
-- **De evitat:** isotretinoinul oral (strict contraindicat), retinoizii aplicați pe piele, inclusiv retinolul, și, ca precauție, hidrochinona.
-- **Considerate în general acceptabile:** acidul azelaic, niacinamida, acidul hialuronic, ceramidele, vitamina C, protecția solară minerală. Tot e bine să le discuți cu medicul.
-- **Vergeturile:** nicio cremă nu are dovezi solide că le previne.
-- **Mâncărimea intensă pe palme și tălpi** trebuie anunțată imediat medicului obstetrician.
+- Curățarea blândă, hidratarea și protecția solară rămân în rutină; în sarcină, Academia Americană de Dermatologie (AAD) preferă filtrele minerale.
+- Retinoizii (inclusiv retinolul cosmetic), hidrochinona și mai multe medicamente folosite în dermatologie se evită.
+- Petele, linia închisă pe abdomen, vasele mici vizibile și vergeturile sunt schimbări frecvente; multe se estompează după naștere, nu întotdeauna complet.
+- Mâncărimea pe palme și tălpi sau cea care se agravează noaptea se semnalează imediat medicului care urmărește sarcina.
 
 ## Ce se schimbă la piele în sarcină
 
-Modificările hormonale, creșterea volumului de sânge și întinderea pielii produc schimbări pe care multe femei le observă. Cele mai multe sunt normale și se ameliorează după naștere:
+Hormonii, volumul mai mare de sânge și întinderea pielii produc modificări pe care DermNet le descrie drept fiziologice, adică așteptate într-o sarcină normală. Câteva dintre cele mai frecvente:
 
-- **Hiperpigmentarea:** închiderea la culoare a areolelor, a liniei de pe mijlocul abdomenului (linia neagră) și uneori a cicatricilor sau alunițelor.
-- **Melasma („masca sarcinii”):** pete maronii simetrice pe frunte, obraji, buza superioară. Este favorizată de soare. Detalii în articolul despre [melasmă](/blog/melasma/).
-- **Acneea:** se poate agrava sau, dimpotrivă, ameliora.
-- **Vergeturile:** dungi roșiatice sau violacee pe abdomen, sâni, coapse, care cu timpul devin mai deschise la culoare.
-- **Vase de sânge mai vizibile** și roșeață a palmelor.
-- **Piele mai uscată sau mai sensibilă**, cu mâncărimi ușoare.
-- **Modificări ale părului și unghiilor:** păr mai des în sarcină și cădere mai accentuată la câteva luni după naștere, de obicei temporară.
+- **Pigmentarea mai accentuată.** Areolele se închid la culoare, iar pe mijlocul abdomenului poate apărea o linie maronie, numită linia neagră (linea nigra). Aceste schimbări apar adesea din primul trimestru și sunt mai vizibile la persoanele cu ten mai închis.
+- **Melasma**, numită popular „masca sarcinii”: pete maronii, de obicei simetrice, pe frunte, obraji sau buza superioară. Apare mai des în a doua jumătate a sarcinii, iar soarele o accentuează. Despre această afecțiune găsiți mai multe în articolul despre [melasmă](/blog/melasma/).
+- **Vase mici vizibile** pe față, gât, partea de sus a pieptului și brațe, uneori și o roșeață a palmelor.
+- **Vergeturile**: dungi roșiatice sau violacee pe abdomen, sâni, coapse și fese, mai ales în trimestrele al doilea și al treilea.
+- **Părul mai des** în ultimele luni, urmat adesea de o cădere mai accentuată după naștere.
+- **Alunițele** își pot modifica ușor aspectul.
 
-## Rutina de bază în sarcină
+Potrivit DermNet, cele mai multe dintre aceste schimbări se ameliorează după naștere. Melasma și linia neagră se estompează de obicei, dar nu întotdeauna complet. O aluniță care se schimbă rămâne însă un motiv de evaluare, indiferent de sarcină.
 
-| Pas | Ce folosești | De reținut |
-|---|---|---|
-| Curățare | Produs blând, fără parfum | Apă călduță, fără frecare |
-| Hidratare | Cremă cu ceramide, glicerină, acid hialuronic | Aplic-o și pe abdomen, sâni, coapse dacă pielea e uscată sau te mănâncă |
-| Protecție solară | Spectru larg, SPF 30–50; filtrele minerale sunt adesea preferate | Esențială pentru prevenirea melasmei; plus pălărie și umbră |
-| Opțional, pentru o nevoie anume | Acid azelaic, niacinamidă, vitamina C | Discută cu medicul înainte de a introduce un activ |
+## Ce rămâne în rutină
 
-Pentru tehnica de aplicare a protecției solare, vezi [cum aplici corect protecția solară](/blog/cum-aplici-corect-protectia-solara/).
+Curățarea se face cu un produs blând, de până la două ori pe zi și după transpirație. AAD recomandă în sarcină produse fără parfum și fără ingrediente agresive pentru piele, cum ar fi alcoolii sau sulfații. [TODO: de confirmat de medic — pagina AAD menționează „sulfați”; de decis dacă păstrăm mențiunea]
 
-## Ce ingrediente eviți în sarcină
+Hidratarea rămâne la fel de importantă, poate chiar mai importantă. Pielea de pe abdomen, sâni și coapse se întinde și se usucă ușor, iar o cremă fără parfum, aplicată regulat, poate reduce senzația de strângere și mâncărimea ușoară.
 
-Datele despre siguranța produselor cosmetice în sarcină sunt limitate, pentru că studiile pe gravide sunt rare. De aceea recomandările sunt prudente.
+Protecția solară are în sarcină un rol în plus: ajută la prevenirea melasmei. AAD recomandă umbră, haine care acoperă pielea și o protecție solară cu spectru larg, rezistentă la apă, SPF 30 sau mai mare. Pentru sarcină, aceeași sursă sugerează filtrele fizice (minerale), pe bază de oxid de zinc sau dioxid de titan, pentru că irită mai rar. DermNet subliniază că protecția solară strictă este principala metodă de prevenire a melasmei.
 
-### Retinoizii
+## Ingrediente și medicamente care se evită
 
-- **Isotretinoinul oral** (folosit pentru acneea severă) este **strict contraindicat** în sarcină, pentru că poate produce malformații grave la făt. Femeile care îl primesc urmează un program de prevenire a sarcinii stabilit de medic.
-- **Retinoizii aplicați pe piele** (tretinoin, adapalen, tazaroten) se evită în sarcină. Absorbția prin piele este mică, dar, din precauție, ghidurile recomandă oprirea lor.
-- **Retinolul și alte forme cosmetice de retinoizi** se evită, de asemenea, ca măsură de precauție.
+Datele despre siguranța produselor de îngrijire în sarcină sunt limitate, pentru că studiile pe femei însărcinate sunt puține. De aceea recomandările sunt prudente. AAD enumeră următoarele substanțe ca fiind de evitat, pentru că pot crește riscul de malformații:
 
-Dacă ai folosit un retinoid înainte să afli că ești însărcinată, nu te panica: oprește produsul și spune-i medicului obstetrician sau dermatologului. Mai multe despre această clasă găsești în [retinolul și retinoizii](/blog/retinolul-si-retinoizii/).
+- retinoizii, sub orice formă: isotretinoinul administrat oral, tretinoinul și tazarotenul prescrise, dar și retinolul și adapalenul din produsele fără rețetă;
+- hidrochinona, folosită pentru depigmentarea petelor;
+- câteva medicamente folosite în dermatologie: spironolactona (pentru acnee sau căderea părului), finasteridul (pentru căderea părului), antibioticele din grupa tetraciclinelor și crema cu 5-fluorouracil.
 
-### Alte ingrediente cu care e bine să fii prudentă
+Dacă ați folosit un produs cu retinol sau un alt retinoid înainte să aflați de sarcină, nu este un motiv de panică. Opriți produsul și spuneți-i medicului obstetrician. Mai multe despre această clasă de substanțe găsiți în articolul despre [retinol și retinoizi](/blog/retinolul-si-retinoizii/).
 
-- **Hidrochinona** (folosită pentru pete): se absoarbe în proporție relativ mare prin piele, iar datele de siguranță sunt limitate, așa că de obicei se evită în sarcină.
-- **Acidul salicilic în concentrații mari** (pilinguri medicale) se evită. În produsele de uz zilnic, concentrațiile mici aplicate pe zone limitate sunt considerate de mulți autori cu risc scăzut, dar discută cu medicul.
-- **Uleiurile esențiale concentrate** pot irita pielea sensibilizată; e mai sigur să alegi produse fără parfum.
-- **Proceduri estetice** (toxina botulinică, fillere, laser, pilinguri profunde) se amână, de regulă, după sarcină și alăptare.
+AAD mai are o a doua listă, cu ingrediente care se folosesc cu moderație sau după o discuție cu dermatologul: acidul salicilic în concentrații de peste 2%, peroxidul de benzoil, uleiurile esențiale (de exemplu de rozmarin, busuioc, iasomie sau salvie) și câțiva conservanți și aditivi din cosmetice. Pentru multe dintre aceste substanțe dovezile de risc sunt slabe sau lipsesc; lista exprimă prudență, nu un pericol demonstrat. Cel mai simplu este să luați lista de produse la consultul de obstetrică sau dermatologie și să o discutați acolo.
 
-## Probleme frecvente și ce poți face
+Cât despre procedurile estetice, cum ar fi injectările, pilingurile profunde sau tratamentele cu laser, decizia se ia cu medicul, iar multe se amână de obicei după sarcină și alăptare. [TODO: de confirmat de medic — recomandarea generală privind amânarea procedurilor estetice în sarcină și alăptare]
 
-### Acneea în sarcină
+## Acneea, petele și vergeturile în sarcină
 
-Pentru acneea ușoară, o rutină blândă și o cremă hidratantă non-comedogenă pot fi suficiente. Ghidurile de dermatologie menționează câteva opțiuni folosite în sarcină, precum **acidul azelaic** și, în anumite situații, **peroxidul de benzoil** sau **antibiotice topice** (de exemplu clindamicină), prescrise și urmărite de medic. Antibioticele din clasa tetraciclinelor, administrate pe cale orală, nu se folosesc în sarcină. Vezi și [acidul azelaic](/blog/acidul-azelaic/).
+### Acneea
 
-### Melasma și petele
+Acneea poate apărea sau se poate accentua în sarcină. Pagina AAD dedicată acestui subiect consideră acidul azelaic un tratament considerat sigur în sarcină, iar clindamicina aplicată pe piele, probabil sigură, cu acordul obstetricianului sau al dermatologului. Peroxidul de benzoil și acidul salicilic sunt descrise ca, în general, sigure în cantități mici și pe perioade limitate, tot la recomandarea medicului. Detaliile despre [acidul azelaic](/blog/acidul-azelaic/) sunt explicate într-un articol separat.
 
-Cea mai eficientă măsură este **protecția solară riguroasă**: cremă cu spectru larg zilnic, reaplicare, pălărie cu boruri largi, evitarea orelor de vârf. Lumina vizibilă poate agrava și ea melasma, de aceea uneori se recomandă produse colorate (cu oxizi de fier). Tratamentele de depigmentare se discută de obicei după sarcină.
+Ce nu se recomandă este tratarea acneei în sarcină după ureche, cu produse rămase de dinainte. Multe dintre tratamentele eficiente în afara sarcinii sunt chiar cele de pe lista de evitat.
+
+### Petele și melasma
+
+Pentru petele apărute în sarcină, primul pas este protecția solară riguroasă: zilnic, reaplicată când stați afară, completată de pălărie și umbră. Un dermatolog citat de AAD menționează vitamina C dimineața și acidul glicolic seara ca opțiuni pentru prevenirea și ameliorarea petelor. Hidrochinona, frecvent folosită în afara sarcinii, este pe lista de evitat.
 
 ### Vergeturile
 
-O analiză Cochrane a concluzionat că nu există dovezi de calitate că vreo cremă sau ulei aplicat pe piele previne vergeturile. Hidratarea regulată rămâne utilă pentru confort și mâncărime. După naștere și alăptare, dermatologul poate discuta tratamente care pot îmbunătăți aspectul lor.
+Raftul cu uleiuri și creme „anti-vergeturi” este bogat, dar NHS (serviciul național de sănătate britanic) arată că există foarte puține dovezi că aceste produse previn sau îndepărtează vergeturile. Apariția lor depinde mult de cât de repede se întinde pielea și de factori pe care nu îi controlăm, inclusiv istoricul familial. Cu timpul, vergeturile se deschid de obicei la culoare și devin mai puțin vizibile, deși nu dispar complet.
 
-### Pielea uscată și mâncărimea ușoară
+Hidratarea are totuși rostul ei: pielea întinsă se usucă și poate mânca, iar o cremă fără parfum aduce confort. După naștere și alăptare, există tratamente care pot îmbunătăți aspectul vergeturilor, discutate la nevoie cu dermatologul; cremele cu retinoizi, menționate de NHS pentru vergeturile recente, nu se folosesc în sarcină.
 
-Dușuri scurte cu apă călduță, produse de curățare blânde, cremă hidratantă aplicată pe pielea încă umedă și haine lejere din bumbac ajută de cele mai multe ori.
+## Mâncărimea: când este obișnuită și când nu
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Mâncărimea ușoară este frecventă în sarcină și ține, de obicei, de pielea uscată și de întinderea pielii pe abdomen. NHS recomandă câteva măsuri simple: dușuri sau băi călduțe, nu fierbinți, de cel mult 20 de minute; o cremă hidratantă fără parfum, aplicată regulat; unghii scurte; haine largi din fibre naturale; evitarea săpunurilor și deodorantelor parfumate. Tamponarea sau bătaia ușoară a pielii ajută mai mult decât scărpinatul.
 
-## Mituri
+Există însă un tip de mâncărime care nu trebuie tratat acasă. Potrivit NHS, mâncărimea pe palme sau pe tălpi, mâncărimea foarte intensă, care vă ține trează, sau cea care se agravează noaptea pot fi semnele colestazei intrahepatice de sarcină, o afecțiune a ficatului. În această situație se contactează fără întârziere medicul sau maternitatea care urmărește sarcina, unde se fac analize de sânge.
 
-**„Tot ce e natural e sigur în sarcină.”** Nu neapărat. Unele extracte vegetale și uleiuri esențiale pot irita sau sensibiliza pielea, iar „natural” nu înseamnă testat în sarcină.
+## Când poate fi util un consult dermatologic?
 
-**„Crema de protecție solară e periculoasă pentru copil.”** Protecția solară este recomandată în sarcină; dacă ai îngrijorări legate de filtre, poți alege filtre minerale.
+Unele situații țin în primul rând de medicul obstetrician, altele de dermatolog, iar adesea de amândoi. Un consult dermatologic poate fi util dacă:
 
-**„Alunițele care se schimbă în sarcină sunt mereu normale.”** Unele alunițe se pot închide ușor la culoare, dar o aluniță care crește, își schimbă forma sau sângerează trebuie evaluată, indiferent de sarcină.
+- acneea este dureroasă, extinsă sau lasă pete și aveți nevoie de un tratament compatibil cu sarcina;
+- apar pete care se extind și doriți să știți ce se poate face acum și ce se amână după naștere;
+- o aluniță crește, își schimbă forma sau culoarea ori sângerează (vezi [semnele de alarmă ale alunițelor](/blog/alunite-semne-de-alarma/));
+- apar bășici, plăci roșii care mănâncă sau o erupție extinsă; există afecțiuni ale pielii specifice sarcinii, care au nevoie de diagnostic medical;
+- aveți o boală de piele cunoscută, de exemplu eczemă sau psoriazis, și tratamentul trebuie adaptat.
 
-## Când să mergi la dermatolog
+AAD recomandă să le spuneți atât obstetricianului, cât și dermatologului ce medicamente și produse dermatologice folosiți, atunci când sunteți însărcinată sau plănuiți o sarcină. Dermatologul poate examina pielea și poate discuta ce opțiuni sunt potrivite acum, ce se poate amâna și ce trebuie urmărit. Nu poate promite că petele sau vergeturile nu vor apărea, dar poate face alegerile mai clare.
 
-Anunță medicul (obstetrician, medic de familie sau dermatolog) dacă:
+În sarcină, îngrijirea pielii devine mai simplă, nu mai complicată: o bază blândă, protecție solară constantă, câteva ingrediente scoase din rutină și atenție la simptomele care merită spuse medicului.
 
-- ai **mâncărime intensă, mai ales pe palme și tălpi, fără erupție**, în special în a doua jumătate a sarcinii: poate fi semnul **colestazei intrahepatice de sarcină**, care necesită analize de sânge și urmărire de către obstetrician;
-- apar **bășici sau plăci roșii care mănâncă**, mai ales în jurul ombilicului, sau o **erupție intensă pe abdomen și vergeturi**: unele afecțiuni ale pielii specifice sarcinii trebuie diagnosticate de medic;
-- ai **acnee moderată sau severă**, dureroasă, care lasă cicatrici;
-- o **aluniță nouă sau una existentă se schimbă** rapid, sângerează sau devine neregulată (vezi [alunițele: semne de alarmă](/blog/alunite-semne-de-alarma/));
-- ai **febră și erupție** sau leziuni pe piele după contactul cu o persoană bolnavă (de exemplu varicelă);
-- ai folosit un **medicament cu retinoizi** și ai aflat că ești însărcinată.
+## Dacă doriți o evaluare individuală
 
-Spune întotdeauna medicului că ești însărcinată sau că alăptezi înainte de orice tratament pentru piele.
+Dacă sunteți însărcinată sau plănuiți o sarcină și doriți să treceți în revistă produsele și tratamentele pe care le folosiți, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Discuția poate clarifica ce se păstrează în rutină și cum se pot aborda acneea sau petele într-un mod compatibil cu sarcina. Găsiți [programul și locațiile](/program/) pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare și siguranță — ce rămâne, ce se evită, când se anunță medicul. Cuvânt-cheie principal: „îngrijirea pielii în sarcină”. Nu reia pașii rutinei (vezi `rutina-de-ingrijire-de-baza`) și nu detaliază acidul azelaic (vezi `acidul-azelaic`).
+- Afirmații de confirmat clinic: lista AAD de ingrediente „de folosit cu moderație” (parabeni, ftalați, fenol, triclosan) a fost rezumată ca „câțiva conservanți și aditivi” pentru a nu alarma; vă rugăm confirmați dacă doriți enumerarea completă. Recomandarea AAD (citat de dermatolog) privind acidul glicolic seara în sarcină. Mențiunea clindamicinei topice și a peroxidului de benzoil, fără doze.
+- Informații lipsă / de completat: două TODO-uri inline (sulfați; amânarea procedurilor estetice). Alăptarea: sursele deschise nu oferă recomandări detaliate pentru alăptare; articolul o menționează doar tangențial. Afecțiunile specifice sarcinii (de ex. erupția polimorfă, pemfigoidul gestațional) sunt doar evocate, fără nume — se pot adăuga dacă doriți.
+- Surse care nu au putut fi verificate: ghidul RCOG pentru colestază și analiza Cochrane despre vergeturi din versiunea anterioară nu au fost redeschise; pagina NHS deschisă acoperă aceleași puncte pentru public. Pagina NHS generală despre schimbările pielii în sarcină a dat eroare 404.

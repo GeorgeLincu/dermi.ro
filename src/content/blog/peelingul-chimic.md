@@ -1,154 +1,136 @@
 ---
-title: "Peelingul chimic: tipuri, indicații, recuperare și riscuri"
-description: "Ce este peelingul chimic, ce tipuri există, la ce ajută, cine nu ar trebui să îl facă, cum arată recuperarea și ce riscuri are."
+title: "Peelingul chimic: ce poate face, recuperarea și riscurile"
+description: "Ce este peelingul chimic, cum diferă peelingurile superficiale, medii și profunde, cine este candidat, cum arată recuperarea și ce riscuri trebuie cunoscute."
 pubDate: 2026-10-01
 category: "estetica"
-tags: ["peeling chimic", "exfoliere", "dermatologie estetică", "pete pigmentare"]
+tags: ["peeling chimic", "dermatologie estetică", "pete pigmentare", "textura pielii"]
 draft: true
 faq:
   - q: "Cât durează recuperarea după un peeling chimic?"
-    a: "După un peeling superficial pielea poate fi roșie și se poate descuama câteva zile. După un peeling mediu, recuperarea durează de obicei 1–2 săptămâni, iar după unul profund, câteva săptămâni, cu roșeață care poate persista luni."
-  - q: "Pot face peeling chimic vara?"
-    a: "Peelingurile superficiale se pot face, cu prudență, și vara, dacă poți evita expunerea la soare și folosești zilnic protecție solară. Peelingurile mai profunde se programează de obicei în lunile cu soare mai puțin intens, pentru a reduce riscul de pete."
-  - q: "Câte ședințe de peeling sunt necesare?"
-    a: "Peelingurile superficiale se fac de obicei în serii de mai multe ședințe, la câteva săptămâni distanță. Numărul lor depinde de problema tratată și de reacția pielii și se stabilește de medic."
-  - q: "Pot face un peeling chimic acasă?"
-    a: "Produsele cosmetice cu acizi în concentrații mici pot fi folosite acasă pentru exfoliere. Peelingurile cu concentrații mari, cumpărate online, nu ar trebui aplicate fără medic, deoarece pot produce arsuri, pete și cicatrici."
-  - q: "Peelingul chimic ajută la melasmă?"
-    a: "Peelingurile superficiale pot fi o opțiune complementară pentru melasmă, alături de protecția solară strictă și de tratamentele topice. Melasma tinde să revină, iar peelingurile agresive o pot agrava."
+    a: "Depinde de adâncime. După un peeling superficial, pielea se reface de obicei în 1–7 zile, după unul mediu în 7–14 zile, iar după un peeling profund în 14–21 de zile, cu îngrijiri atente acasă."
+  - q: "De câte ședințe de peeling chimic este nevoie?"
+    a: "Peelingurile superficiale se fac de obicei în serii de câteva ședințe, la intervale de câteva săptămâni. Peelingurile medii se pot repeta la recomandarea medicului, iar cel profund se face, în general, o singură dată."
+  - q: "Se poate face peeling chimic pe pielea închisă la culoare?"
+    a: "Da, dar riscul de pete sau de modificări permanente ale pigmentului este mai mare. De aceea contează mult ca procedura să fie aleasă și făcută de un medic cu experiență în tratarea pielii închise la culoare."
+  - q: "Sunt sigure peelingurile chimice de uz casnic?"
+    a: "Autoritatea americană pentru medicamente a semnalat răniri serioase după unele peelinguri vândute pentru uz casnic și recomandă folosirea lor doar sub supravegherea unui specialist instruit."
 sources:
-  - title: "Chemical peels"
-    publisher: "DermNet (Noua Zeelandă)"
   - title: "Chemical peels: Overview"
-    publisher: "American Academy of Dermatology Association"
-  - title: "Fitzpatrick's Dermatology, ediția a 9-a — capitolul despre peelingurile chimice"
-    publisher: "McGraw-Hill, 2019"
-  - title: "Dermatology (Bolognia), capitolul despre peelingurile chimice"
-    publisher: "Elsevier"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/younger-looking/chemical-peels-overview"
+  - title: "Chemical peels: FAQs"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/younger-looking/chemical-peels-faqs"
+  - title: "Chemical peels: Preparation"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/younger-looking/chemical-peels-preparation"
+  - title: "Chemical peels"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/chemical-peels"
+  - title: "Is a cosmetic procedure right for me?"
+    publisher: "NHS (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-procedure-right-for-me/"
 ---
 
-Peelingul chimic este o procedură medicală în care medicul aplică pe piele o soluție acidă care îndepărtează controlat straturile superficiale ale pielii, pentru ca aceasta să se refacă. Poate ajuta la acnee, pete pigmentare, riduri fine și textură neregulată, în funcție de tipul și profunzimea peelingului. Rezultatele sunt de obicei graduale, necesită adesea mai multe ședințe și depind mult de protecția solară de după procedură.
+Cuvântul „peeling” acoperă lucruri foarte diferite. Pe un raft de supermarket înseamnă o cremă cu granule. Într-o rutină de seară poate fi o loțiune cu acid glicolic. Într-un cabinet medical, înseamnă o procedură după care pielea se poate coji o săptămână întreagă. Confuzia dintre ele duce uneori la așteptări greșite și, alteori, la iritații evitabile.
 
-## Pe scurt
+Acest articol se referă la peelingul chimic făcut în cabinet. Medicul aplică pe piele o soluție care îndepărtează controlat straturile superficiale deteriorate, iar pielea se reface apoi din straturile mai profunde. Adâncimea peelingului decide aproape totul: ce se poate ameliora, cât durează recuperarea și cât de mari sunt riscurile. Rezultatele nu sunt permanente, pentru că pielea continuă să îmbătrânească.
 
-- Există peelinguri superficiale, medii și profunde; cu cât peelingul este mai profund, cu atât efectul poate fi mai mare, dar și recuperarea și riscurile.
-- Peelingurile superficiale sunt cele mai folosite și au cea mai scurtă recuperare (câteva zile de roșeață și descuamare).
-- Nu se fac pe piele cu infecții active, arsuri solare, dermatită activă sau, în general, în sarcină.
-- Principalul risc, mai ales la pielea mai închisă la culoare, este apariția petelor (hiperpigmentare post-inflamatorie).
-- Protecția solară strictă înainte și după procedură este obligatorie.
+## Ce se întâmplă, de fapt, cu pielea
 
-## Ce este peelingul chimic
+Peelingul chimic, numit și chemexfoliere, provoacă o leziune controlată. Substanța acționează câteva minute, apoi este neutralizată sau îndepărtată. În zilele următoare, stratul afectat se descuamează, iar pielea nouă care îl înlocuiește are de obicei o textură mai fină și un ton mai uniform.
 
-Pielea se reînnoiește în mod natural. Peelingul chimic accelerează acest proces: soluția aplicată produce o leziune controlată, la o anumită adâncime, iar pielea se vindecă formând un strat nou, de obicei mai uniform. Diferența față de exfolierea cosmetică de acasă este concentrația, profunzimea și faptul că procedura este evaluată și supravegheată de un medic. Despre exfolierea zilnică găsești detalii în articolul despre [importanța exfolierii](/blog/importanta-exfolierii/).
+Cu cât soluția pătrunde mai adânc, cu atât efectul poate fi mai vizibil, dar și vindecarea mai lungă și complicațiile mai probabile. De aceea, alegerea nu pornește de la „cel mai puternic peeling”, ci de la problema concretă, tipul de piele și cât timp de recuperare vă puteți permite.
 
-## Tipuri de peeling chimic
+Produsele exfoliante din rutina de acasă, cu acizi în concentrații mici, lucrează pe același principiu, dar la o scară mult mai mică. Despre ele găsiți detalii în articolul despre [acizii exfolianți AHA, BHA și PHA](/blog/acizii-exfolianti-aha-bha-pha/).
 
-| Tip | Exemple de substanțe | Pentru ce se folosește de obicei | Recuperare orientativă |
+## Trei adâncimi, trei experiențe diferite
+
+| | Superficial | Mediu | Profund |
 |---|---|---|---|
-| Superficial | acid glicolic, acid mandelic, acid lactic, acid salicilic, soluție Jessner, acid tricloracetic (TCA) în concentrații mici | acnee, puncte negre, pete superficiale, ten tern, riduri foarte fine | 3–7 zile de roșeață și descuamare ușoară |
-| Mediu | TCA în concentrații mai mari, uneori în combinații | pete mai persistente, leziuni cauzate de soare, riduri fine, unele cicatrici superficiale | aproximativ 7–14 zile, cu cruste și descuamare |
-| Profund | soluții pe bază de fenol | riduri mai adânci, leziuni severe cauzate de soare | câteva săptămâni; roșeața poate dura luni |
+| Substanțe folosite frecvent | acid glicolic, acid salicilic, soluția Jessner | acid tricloracetic (TCA) | fenol |
+| Vindecare orientativă | 1–7 zile | 7–14 zile | 14–21 de zile |
+| Ședințe | de obicei 3–5, la câteva săptămâni distanță | se poate repeta la indicația medicului | în general o singură dată |
+| Particularități | roșeață și descuamare ușoară | umflare, cruste, îngrijiri zilnice | anestezie, condiții de tip chirurgical |
 
-Peelingul profund se face rar și necesită supraveghere medicală atentă, inclusiv a inimii, deoarece fenolul poate afecta ritmul cardiac. Nu este o procedură de cabinet obișnuită.
+Peelingul superficial dă o roșeață asemănătoare unei arsuri solare ușoare, care se liniștește de obicei în două zile, urmată de câteva zile de descuamare fină. Machiajul se poate folosi adesea din ziua următoare.
 
-## Ce poate și ce nu poate face
+Peelingul mediu este mai solicitant. Roșeața și umflarea cresc în primele aproximativ 48 de ore, pleoapele se pot umfla, pot apărea vezicule și cruste care se desprind treptat. Machiajul corector se poate folosi abia după 5–7 zile, iar o roșeață ușoară poate persista câteva săptămâni. Un peeling mediu nu corectează șanțurile adânci.
 
-**Poate ajuta la:**
+Peelingul profund cu fenol se folosește astăzi rar. Se face sub anestezie generală, în condiții de tip chirurgical, pe porțiuni mici, pentru a limita efectele asupra inimii și plămânilor. Poate ameliora și ridurile adânci, dar pielea poate rămâne mai palidă, cu un aspect ceros, iar protecția strictă față de soare durează luni.
 
-- acnee ușoară și moderată și la punctele negre, ca tratament complementar (vezi [acneea la adulți](/blog/acneea-la-adulti/));
-- pete pigmentare, inclusiv cele rămase după coșuri, și ca opțiune complementară în [melasmă](/blog/melasma/);
-- ten tern, textură neregulată, pori care par dilatați;
-- riduri fine și leziuni cauzate de soare;
-- unele cicatrici superficiale post-acnee.
+## Ce poate ameliora și ce nu
 
-**Nu poate:**
+Dermatologii folosesc peelingurile pentru semnele lăsate de soare pe față, gât, decolteu și mâini: pete solare, pistrui, ten inegal sau tern, textură aspră, linii fine în jurul ochilor și al gurii. Unele forme de acnee și [melasma](/blog/melasma/) pot beneficia și ele, de obicei ca parte a unui plan mai larg. Pe pielea foarte afectată de soare, peelingul poate trata și keratozele actinice, leziuni aspre considerate precanceroase.
 
-- corecta pielea lăsată sau pierderea de volum;
-- elimina ridurile adânci prin peelinguri superficiale;
-- trata cicatricile adânci, de tip „înțepătură” (pentru acestea, citește despre [cicatricile post-acnee](/blog/cicatricile-post-acnee/));
-- preveni revenirea petelor dacă nu folosești protecție solară.
+Limitele sunt la fel de importante. Peelingul nu ridică pielea lăsată și nu înlocuiește volumul pierdut. Rezultatul se vede abia după vindecare, de la o zi la peste două săptămâni, în funcție de adâncime. Persoanele cu multe leziuni produse de soare pot continua să dezvolte pete noi, iar efectul se menține mai bine cu protecție solară zilnică. Unde se încadrează peelingul printre celelalte opțiuni explicăm în articolul despre [îmbătrânirea pielii](/blog/imbatranirea-pielii-ce-functioneaza/).
 
-## Cine este un candidat potrivit
+## Cine este un candidat potrivit și cine trebuie să aștepte
 
-- persoane cu probleme pentru care peelingul are indicație (acnee, pete, textură, riduri fine);
-- persoane care pot evita expunerea la soare și pot folosi zilnic protecție solară;
-- persoane care acceptă că rezultatele apar treptat, de obicei după mai multe ședințe.
+Peelingurile sunt folosite cel mai des la persoanele cu pielea deschisă sau intermediară. Pe pielea închisă la culoare, riscul de pete, de cicatrici îngroșate și de cheloizi este mai mare. Aceasta nu înseamnă că procedura este exclusă, ci că alegerea substanței și a adâncimii cere prudență și un medic cu experiență pe acest tip de piele.
 
-La pielea mai închisă la culoare (fototipuri mai înalte), riscul de pete după procedură este mai mare. Medicul alege de regulă peelinguri mai blânde și o pregătire atentă a pielii.
+La consultație, medicul are nevoie de câteva informații esențiale:
 
-## Contraindicații: când nu se face
+- dacă luați sau ați luat izotretinoină, un medicament oral pentru acneea severă;
+- toate medicamentele, inclusiv antibioticele, tratamentele pentru acnee și cele fără rețetă, precum aspirina, plus suplimentele;
+- dacă faceți des herpes labial;
+- dacă pielea dumneavoastră face ușor cicatrici;
+- procedurile estetice și intervențiile chirurgicale anterioare.
 
-- **sarcina și alăptarea** — în general, procedura se amână; unele peelinguri foarte superficiale pot fi discutate cu medicul, dar nu pe suprafețe mari;
-- **infecții active** în zonă, inclusiv herpes activ;
-- **arsură solară**, bronz recent sau plăgi deschise;
-- **dermatită activă**, rozacee inflamată sau piele foarte iritată;
-- **tratament recent cu isotretinoin oral** — medicul stabilește intervalul de așteptare, mai ales pentru peelingurile medii și profunde;
-- **tendință la cicatrici hipertrofice sau cheloide**;
-- alergie cunoscută la substanța folosită (de exemplu, la salicilați pentru acidul salicilic);
-- imposibilitatea de a evita soarele în săptămânile de după procedură.
+Sarcina și alăptarea, o infecție activă a pielii sau o eczemă în zona de tratat sunt, de regulă, motive de amânare [TODO: de confirmat de medic — contraindicațiile din sarcină, alăptare și infecții active nu apar explicit în sursele consultate].
 
-Spune-i medicului și dacă folosești retinoizi, acizi exfolianți sau alte tratamente pe piele, dacă ai avut herpes labial și dacă ai avut reacții la proceduri anterioare.
+## Pregătirea și ziua procedurii
 
-## Cum se desfășoară procedura
+Pentru unele persoane, medicul recomandă o rutină de pregătire de două până la patru săptămâni, care poate include un retinoid, un acid alfa-hidroxi sau, pe pielea mai închisă ori cu melasmă, o cremă depigmentantă, plus protecție solară zilnică ridicată. Pielea bronzată sau arsă de soare nu este pregătită pentru peeling.
 
-1. **Consultul.** Medicul evaluează pielea, stabilește dacă peelingul este potrivit și ce tip, îți explică riscurile și semnezi consimțământul informat.
-2. **Pregătirea pielii.** Uneori, cu câteva săptămâni înainte, medicul recomandă produse care pregătesc pielea. Cu câteva zile înainte se opresc de obicei retinoizii și exfolianții. Pentru peelingurile medii și profunde se poate recomanda prevenția herpesului.
-3. **Ziua procedurii.** Pielea se curăță și se degresează. Soluția se aplică pentru un timp controlat, apoi se neutralizează sau se îndepărtează, în funcție de tip. Senzația obișnuită este de usturime sau căldură, care trece repede.
-4. **După procedură.** Medicul îți dă instrucțiuni scrise despre curățare, hidratare și protecție solară.
+În ziua procedurii, pielea se curăță, apoi soluția se aplică pentru câteva minute. Senzația de usturime sau arsură variază în funcție de substanță, de concentrație și de persoană. Peelingurile superficiale nu cer pregătiri speciale, pe când cele mai profunde pot necesita medicație pentru durere, sedare sau anestezie.
 
-## Recuperarea
+## Recuperarea, zi după zi
 
-- **Superficial:** roșeață ușoară și descuamare fină timp de câteva zile; majoritatea oamenilor își reiau activitățile imediat.
-- **Mediu:** pielea se închide la culoare, apoi se formează cruste și se descuamează în 7–14 zile; roșeața poate persista câteva săptămâni.
-- **Profund:** recuperare de câteva săptămâni, cu îngrijire medicală atentă; roșeața poate dura luni.
+Îngrijirea de după contează la fel de mult ca procedura. Pielea trebuie menținută hidratată, pentru că uscăciunea și crăpăturile cresc riscul de cicatrici. Crustele nu se zgârie și nu se smulg. Machiajul se amână până la vindecare, solarul se evită complet, iar protecția solară devine zilnică după refacerea pielii.
 
-Reguli generale după orice peeling:
+După peelingurile medii și profunde, îngrijirea include comprese sau spălări de mai multe ori pe zi, unguent și, de regulă, un tratament antiviral câteva zile, pentru a preveni reactivarea herpesului. Medicul vă revede în primele zile.
 
-- nu smulge pielea care se descuamează;
-- folosește o cremă hidratantă blândă și un demachiant delicat;
-- aplică zilnic protecție solară cu spectru larg;
-- reia retinoizii și acizii doar când îți spune medicul.
-
-## Cât durează rezultatele
-
-Rezultatele peelingurilor superficiale sunt modeste și se construiesc în serie: de obicei mai multe ședințe la câteva săptămâni distanță, apoi, uneori, ședințe de întreținere. Efectele peelingurilor medii pot dura mai mult, iar cele ale peelingurilor profunde pot dura ani. Pielea continuă însă să îmbătrânească, iar petele pot reveni, mai ales fără protecție solară. Pentru prevenție, citește și [cum previi petele pigmentare](/blog/cum-previi-petele-pigmentare/).
+Dacă pielea arde, mâncărimea sau umflarea se accentuează, apar puroi, febră ori durere tot mai mare, contactați medicul fără să așteptați controlul programat.
 
 ## Riscuri și complicații
 
-- **roșeață prelungită**, peste perioada obișnuită de recuperare;
-- **hiperpigmentare post-inflamatorie** — pete mai închise la culoare, mai frecvente la fototipurile închise și după expunere la soare; de obicei se ameliorează în timp, cu tratament;
-- **hipopigmentare** — zone mai deschise la culoare, posibil de durată, mai ales după peelinguri profunde;
-- **infecții** bacteriene, fungice sau reactivarea herpesului;
-- **cicatrici**, rare, mai ales după peelinguri medii și profunde sau dacă pielea se infectează;
-- **linii de demarcație** între zona tratată și cea netratată;
-- **reacții alergice** sau iritative;
-- pentru peelingurile cu fenol: riscuri pentru inimă, rinichi și ficat, motiv pentru care se fac doar cu monitorizare.
+Când peelingul este făcut de un medic cu experiență, efectele adverse sunt de obicei ușoare. Lista posibilelor probleme include totuși:
 
-## Cum alegi un medic calificat
+- roșeață care durează luni;
+- închiderea temporară a culorii pielii sau, după peelingurile medii și profunde, deschiderea ei;
+- pete mai închise, mai frecvente pe pielea închisă la culoare, numite [hiperpigmentare postinflamatorie](/blog/hiperpigmentarea-postinflamatorie/);
+- infecții bacteriene, fungice sau cu virusul herpetic;
+- apariția de comedoane sau coșuri;
+- cicatrici, rare când procedura este făcută de un dermatolog.
 
-- alege un medic, de preferat dermatolog, care îți evaluează pielea înainte și îți explică ce tip de peeling este potrivit și de ce;
-- verifică faptul că este medic în registrul public al Colegiului Medicilor din România [TODO: verifică denumirea și adresa actuală a registrului];
-- întreabă ce substanță și ce concentrație se folosesc și cum se gestionează eventualele complicații;
-- cere instrucțiuni scrise pentru îngrijirea de după procedură.
+Peelingul cu fenol are un risc specific: absorbția substanței poate produce tulburări de ritm cardiac, potențial fatale, ceea ce explică de ce se face doar în condiții medicale stricte. Potrivit AAD, majoritatea problemelor serioase apar atunci când instrucțiunile de îngrijire nu sunt respectate: soare, zgâriat, machiaj prea devreme, solar.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Peelingurile de acasă și cele făcute fără medic
 
-## Semnale de alarmă
+Autoritatea americană pentru medicamente (FDA) a semnalat răniri serioase produse de unele peelinguri chimice vândute pentru uz casnic și recomandă cumpărarea și folosirea lor doar sub supravegherea unui specialist instruit.
 
-- peelinguri medii sau profunde făcute în saloane, fără medic;
-- soluții cu concentrații mari cumpărate online și aplicate acasă;
-- lipsa oricărui consult sau a întrebărilor despre sănătatea și tratamentele tale;
-- promisiunea că „o singură ședință” elimină petele, cicatricile sau ridurile;
-- recomandarea de a face peeling pe piele arsă de soare, iritată sau cu infecție.
+Peelingurile superficiale sunt făcute uneori și de personal nemedical. Cele medii și profunde sunt proceduri medicale, iar complicațiile lor trebuie recunoscute și tratate de un medic. Semnale de prudență sunt tratamentul fără consultație, lipsa întrebărilor despre medicamente și herpes, ofertele cu termen-limită și presiunea de a face mai multe proceduri în aceeași zi.
 
-## Când să mergi la dermatolog
+## Cum alegeți și ce întrebați
 
-Mergi la medicul care ți-a făcut procedura sau la un dermatolog dacă:
+AAD recomandă câteva întrebări simple: cine face efectiv peelingul, câte proceduri de acest fel a făcut la persoane cu pielea ca a dumneavoastră, ce rezultate sunt realiste, ce riscuri aveți în mod particular și câte zile de recuperare să planificați. Ghidul public al NHS adaugă un sfat util: nu decideți în ziua consultației, cereți timp de gândire și fiți reticenți la reducerile limitate în timp.
 
-- apar bășici, cruste groase sau zone deschise după un peeling superficial;
-- durerea, roșeața sau umflătura se accentuează după primele zile;
-- apar puroi, febră sau vezicule grupate (posibilă infecție sau herpes);
-- observi pete închise sau zone albe care persistă după recuperare;
-- pielea devine îngroșată, ridicată sau dură (posibil început de cicatrice).
+Tot NHS propune câteva întrebări pe care merită să vi le puneți înainte de consultație. Ce anume vă deranjează și de ce acum? Ce schimbare concretă așteptați? Vă puteți organiza programul pentru zilele în care pielea arată mai rău înainte să arate mai bine, mai ales după un peeling mediu? Un rezultat mai discret decât v-ați imaginat poate dezamăgi, iar dezamăgirea contează și ea. Merită luate în calcul și eventualele ședințe de întreținere, pentru că efectul unui peeling superficial se estompează în timp.
 
-Mergi de urgență dacă ai aplicat acasă o soluție acidă concentrată și ai durere intensă, bășici sau arsură, ori dacă soluția a ajuns în ochi; clătește imediat cu multă apă și cere ajutor medical.
+## Când poate fi util un consult dermatologic?
+
+Un consult are sens dacă vă deranjează pete, textura sau un ten inegal și vreți să aflați dacă peelingul, alt tratament sau doar o rutină ajustată ar fi potrivite. Este util și dacă aveți pielea închisă la culoare, istoric de herpes labial, de cicatrici îngroșate sau de tratament cu izotretinoină. Orice pată nouă care se schimbă, sângerează sau nu se vindecă trebuie examinată înainte de orice procedură estetică pe zona respectivă.
+
+Peelingul chimic este o procedură veche, bine cunoscută, cu un profil de siguranță bun atunci când este ales corect și făcut de cine trebuie. Diferența dintre un rezultat bun și o complicație ține adesea de alegerea adâncimii, de pregătire și de îngrijirea de după.
+
+## Dacă vă gândiți la un peeling
+
+Dacă doriți să aflați dacă un peeling chimic s-ar potrivi pielii dumneavoastră sau ce alternative există, puteți programa o consultație de evaluare la Dr. Mădălina Iulia Lincu. Consultați [programul și locațiile](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: explicarea unei proceduri, cu accent pe diferențele de adâncime, recuperare și riscuri; strict informativ. Cuvânt-cheie principal: „peeling chimic”.
+- Afirmații de confirmat clinic: termenele de vindecare și numărul de ședințe (preluate din AAD); profilaxia antivirală după peelingurile medii și profunde; folosirea pregătirii cu hidrochinonă pe pielea închisă la culoare (DermNet) — de decis dacă rămâne, fiind un produs pe rețetă.
+- Informații lipsă / de completat: [TODO: de confirmat de medic — oferă dr. Lincu peelinguri chimice și de ce adâncime?]; contraindicațiile din sarcină, alăptare și infecții active (marcate inline); cadrul legal din România privind cine poate efectua peelinguri superficiale nu a fost verificat.
+- Surse care nu au putut fi verificate: pagina FDA despre peelingurile de uz casnic nu a fost deschisă direct; avertismentul este citat prin pagina AAD „Chemical peels: Overview”.

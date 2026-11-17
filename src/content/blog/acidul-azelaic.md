@@ -1,142 +1,139 @@
 ---
-title: "Acidul azelaic: pentru acnee, rozacee și pete pigmentare"
-description: "Ce este acidul azelaic, ce dovezi are în acnee, rozacee și pete, diferența dintre medicament și cosmetic, cum îl folosești și de ce e o opțiune în sarcină."
+title: "Acidul azelaic: cum acționează în acnee, rozacee și pete"
+description: "Ce este acidul azelaic, ce dovezi are în acnee, rozacee și pete pigmentare, cum se folosește, ce efecte adverse poate avea și ce știm despre sarcină."
 pubDate: 2026-10-01
-category: ingrediente
-tags: [acid azelaic, acnee, rozacee, pete pigmentare]
+category: "ingrediente"
+tags: ["acid azelaic", "acnee", "rozacee", "pete pigmentare"]
 draft: true
 faq:
-  - q: "Acidul azelaic este bun pentru rozacee?"
-    a: "Da, acidul azelaic sub formă de medicament are dovezi bune pentru formele de rozacee cu papule și pustule și este recomandat în ghiduri. Pentru roșeața persistentă fără bubițe, efectul este mai mic."
-  - q: "Se poate folosi acidul azelaic în sarcină?"
-    a: "Acidul azelaic este considerat una dintre opțiunile mai sigure pentru acnee și pete în sarcină și alăptare. Totuși, orice tratament în sarcină se stabilește împreună cu medicul."
-  - q: "Este normal ca acidul azelaic să ardă la aplicare?"
-    a: "O senzație de usturime sau furnicătură în primele săptămâni este frecventă și, de obicei, scade în timp. Dacă arsura este intensă sau apar umflături, oprește produsul și cere sfatul medicului."
+  - q: "La ce se folosește acidul azelaic?"
+    a: "În principal pentru acneea ușoară și moderată, pentru forma de rozacee cu papule și pustule și pentru unele pete pigmentare, precum cele rămase după acnee sau melasma. Formele cu cele mai multe dovezi sunt medicamentele de 15% și 20%."
   - q: "În cât timp face efect acidul azelaic?"
-    a: "Pentru acnee și rozacee, ameliorarea apare de obicei după aproximativ 4–8 săptămâni de folosire regulată. Petele pigmentare răspund mai lent, în câteva luni."
-  - q: "Pot folosi acidul azelaic împreună cu retinol?"
-    a: "Da, combinația este frecventă, dar introdu produsele pe rând și, dacă pielea se irită, folosește-le în momente diferite ale zilei."
+    a: "Potrivit DermNet, în acnee primele schimbări apar după aproximativ o lună, iar beneficiul maxim după câteva luni de folosire continuă. În rozacee pot fi necesare până la 12 săptămâni, iar petele răspund și mai lent."
+  - q: "Este normal ca acidul azelaic să usture?"
+    a: "O usturime sau o furnicătură ușoară poate apărea, mai ales la început și la pielea sensibilă. Dacă apar roșeață intensă, descuamare, mâncărime sau arsură puternică, produsul se oprește și cereți sfatul medicului."
+  - q: "Se poate folosi acidul azelaic în sarcină?"
+    a: "Academia Americană de Dermatologie îl consideră un tratament probabil sigur în sarcină, pe baza studiilor pe animale. Orice tratament în sarcină se stabilește totuși împreună cu medicul."
 sources:
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "American Academy of Dermatology (Journal of the American Academy of Dermatology, 2024)"
-  - title: "Rosacea treatment update: recommendations from the global ROSacea COnsensus (ROSCO) 2019 panel"
-    publisher: "Schaller M. și colab., British Journal of Dermatology, 2020"
-  - title: "Interventions for rosacea"
-    publisher: "van Zuuren E.J. și colab., Cochrane Database of Systematic Reviews, 2015"
-  - title: "Azelaic acid: a review of its pharmacological properties and therapeutic efficacy in acne and hyperpigmentary skin disorders"
-    publisher: "Fitton A., Goa K.L., Drugs, 1991"
+  - title: "Azelaic acid"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/azelaic-acid"
+  - title: "Acne: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/treat"
+  - title: "Rosacea: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/rosacea/treatment/diagnosis-treat"
+  - title: "Melasma: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/melasma-treatment"
+  - title: "Is any acne treatment safe to use during pregnancy?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/derm-treat/pregnancy"
 ---
 
-Acidul azelaic este un acid dicarboxilic cu efect antibacterian, antiinflamator și de reducere a producției de pigment, folosit pentru acnee, rozacee cu papule și pustule și pete pigmentare. Formele cu cele mai multe dovezi sunt medicamentele (gel 15% și cremă 20%), iar cosmeticele conțin de obicei concentrații mai mici. Este bine tolerat în general și este considerat una dintre opțiunile mai sigure în sarcină.
+Acidul azelaic apare pe etichete în două ipostaze foarte diferite: într-un ser cosmetic, alături de niacinamidă sau vitamina C, și într-o cremă sau un gel prescris de dermatolog pentru acnee ori rozacee. Ambele poartă același nume, dar nu au aceeași concentrație și nici aceleași dovezi în spate.
+
+Acidul azelaic este, în esență, un acid care reduce inflamația, ajută porii să nu se astupe, acționează asupra bacteriilor implicate în acnee și încetinește formarea pigmentului. De aceea este folosit în acneea ușoară și moderată, în rozaceea cu „bubițe” și în unele pete pigmentare. Formele cu cele mai multe date sunt medicamentele de 15% și 20%.
 
 ## Pe scurt
 
-- Acidul azelaic acționează pe mai multe „fronturi”: bacterii, inflamație, porii astupați și pigment.
-- Are dovezi bune pentru rozaceea papulopustuloasă și pentru acneea ușoară până la moderată; pentru pete, dovezile sunt moderate.
-- Medicamentul (15–20%) și cosmeticul (concentrații mai mici) nu sunt același lucru.
-- Usturimea din primele săptămâni este frecventă și, de obicei, trecătoare.
-- Este o opțiune frecventă în sarcină și alăptare, cu acordul medicului.
+- Are mai multe efecte deodată: antiinflamator, antibacterian, de desfundare a porilor și de reducere a pigmentului.
+- Dovezile cele mai solide privesc acneea ușoară până la moderată și rozaceea cu papule și pustule.
+- Lucrează lent: săptămâni pentru acnee și rozacee, luni pentru pete.
+- Este, în general, bine tolerat; usturimea ușoară de la început este cel mai frecvent efect advers.
+- Academia Americană de Dermatologie (AAD) îl consideră probabil sigur în sarcină, cu acordul medicului.
 
-## Ce este acidul azelaic
+## De unde vine și cum acționează
 
-Acidul azelaic este un acid care apare în mod natural în cereale precum grâul, orzul și secara și este produs și de unele levuri care trăiesc pe piele. În dermatologie se folosește în formă purificată, în creme și geluri. Spre deosebire de acizii exfolianți obișnuiți (glicolic, salicilic), nu acționează în principal prin exfoliere, ci prin mai multe mecanisme:
+Acidul azelaic este un acid dicarboxilic (o moleculă cu două grupări acide) produs în mod natural, printre altele, de o levură care trăiește pe pielea multor oameni. În dermatologie se folosește în formă purificată, în creme, geluri sau spume.
 
-- **antibacterian** – reduce bacteriile implicate în acnee, fără riscul de rezistență asociat antibioticelor;
-- **normalizează cheratinizarea** – ajută porii să nu se mai astupe, deci reduce comedoanele;
-- **antiinflamator** – scade roșeața și leziunile inflamate;
-- **reduce pigmentul** – încetinește tirozinaza, mai ales în celulele pigmentare hiperactive, cu efect mic pe pielea normală.
+Spre deosebire de acizii exfolianți, precum acidul glicolic, nu acționează în primul rând prin „topirea” stratului superficial al pielii. DermNet descrie patru mecanisme care se completează:
 
-## Medicament sau cosmetic: ce diferență e
+- reduce bacteriile din foliculul pilos (rădăcina firului de păr, unde se formează coșurile), fără să genereze rezistență la antibiotice;
+- normalizează felul în care se înmulțesc celulele de la deschiderea porului, astfel că porii se astupă mai greu și se formează mai puține comedoane (puncte albe și negre);
+- are efect antiinflamator și antioxidant;
+- inhibă tirozinaza, enzima care participă la producerea melaninei, de unde efectul asupra petelor.
 
-| | Medicament | Cosmetic |
-|---|---|---|
-| Concentrație | gel 15%, cremă 20% | de obicei mai mică; uneori derivați |
-| Indicații | acnee, rozacee papulopustuloasă | îngrijirea tenului cu imperfecțiuni sau neuniform |
-| Dovezi | studii clinice controlate | puține date specifice pentru produsele cosmetice |
-| Cine decide | medicul | utilizatorul, ideal după un sfat de specialitate |
+Această combinație explică de ce o singură substanță are trei domenii de folosire aparent diferite.
 
-[TODO: verifică ce forme de acid azelaic se eliberează în România cu sau fără prescripție medicală]
+## Medicament sau cosmetic
 
-Un cosmetic cu acid azelaic poate îmbunătăți aspectul pielii, dar nu tratează acneea sau rozaceea; pentru acestea, medicul îți poate recomanda forma de medicament și îți urmărește evoluția.
+În multe țări există două forme de acid azelaic aprobate ca medicament: o cremă de 20% și un gel (sau spumă) de 15%. Studiile clinice care au stat la baza recomandărilor s-au făcut în principal cu aceste forme. [TODO: de confirmat de medic — regimul de eliberare în România (cu sau fără prescripție) al formelor de 15% și 20%]
 
-## Ce beneficii are acidul azelaic și cât de solide sunt dovezile
+Cosmeticele cu acid azelaic conțin de obicei concentrații mai mici sau derivați ai acestuia. Pot îmbunătăți aspectul unei piei cu imperfecțiuni sau cu ten neuniform, dar despre ele există mult mai puține date. Un cosmetic nu tratează acneea sau rozaceea. Dacă aveți o afecțiune diagnosticată, forma potrivită și felul în care se folosește se stabilesc cu medicul.
 
-### Rozacee
+## Acidul azelaic în acnee
 
-Pentru rozaceea cu papule și pustule („bubițe” roșii), acidul azelaic topic este unul dintre tratamentele recomandate de consensul internațional ROSCO și susținute de analiza Cochrane din 2015. Reduce numărul de leziuni și roșeața asociată lor. Pentru roșeața persistentă fără leziuni și pentru vasele vizibile, efectul este mic; acolo se folosesc alte opțiuni. Mai multe despre tratament găsești în [cum tratezi rozaceea](/blog/cum-tratezi-rozaceea/).
+AAD îl enumeră printre tratamentele aplicate pe piele pentru acnee și explică pe scurt de ce: desfundă porii și îi ajută să rămână deschiși, acționează asupra bacteriilor care contribuie la acnee și reduce inflamația. Un avantaj în plus este efectul asupra petelor închise care rămân adesea după ce coșurile se vindecă, numite hiperpigmentare postinflamatorie. Despre acestea găsiți mai multe în articolul despre [petele rămase după inflamație](/blog/hiperpigmentarea-postinflamatorie/).
 
-### Acnee
+Potrivit DermNet, acidul azelaic se folosește mai ales în acneea ușoară și moderată, atât în forma cu comedoane, cât și în cea inflamatorie, și se poate combina, la indicația medicului, cu alte tratamente. Ca eficiență, datele sugerează că este probabil comparabil cu tretinoinul și, după aprecierea pacienților, ceva mai puțin eficient decât peroxidul de benzoil. Nu crește sensibilitatea la soare, nu reduce secreția de sebum și nu decolorează hainele sau lenjeria.
 
-Ghidul Academiei Americane de Dermatologie din 2024 include acidul azelaic printre tratamentele topice pentru acnee. Este util mai ales în acneea ușoară până la moderată, la persoanele care nu tolerează retinoizii sau peroxidul de benzoil, în sarcină și atunci când există și pete rămase după acnee. Ca eficiență, este în general mai puțin puternic decât un retinoid combinat cu peroxid de benzoil. Vezi și [acneea la adulți](/blog/acneea-la-adulti/).
+Ce înseamnă asta în practică: acidul azelaic poate fi o opțiune bună pentru o piele care nu tolerează alte tratamente, pentru acneea însoțită de pete sau în sarcină. Nu este, de regulă, prima alegere pentru acneea severă. Felul în care se încadrează într-un plan de tratament pentru [acneea la adulți](/blog/acneea-la-adulti/) depinde de tipul leziunilor și de ce s-a încercat înainte.
 
-### Pete pigmentare și melasma
+## Acidul azelaic în rozacee
 
-Acidul azelaic poate estompa hiperpigmentarea apărută după acnee și petele de melasma. Mai multe studii l-au comparat favorabil cu alte tratamente depigmentante, dar sunt studii mai vechi și de calitate variabilă. Răspunsul este lent (luni de zile) și se pierde fără protecție solară strictă. Citește și [cum previi petele pigmentare](/blog/cum-previi-petele-pigmentare/).
+Rozaceea are mai multe forme, iar acidul azelaic nu se potrivește tuturor la fel de bine. AAD îl prezintă ca unul dintre medicamentele aprobate pentru erupțiile asemănătoare acneei din rozacee, adică papulele (umflături mici, roșii) și pustulele (bubițe cu puroi). Se aplică de obicei de două ori pe zi, pe pielea curățată cu un produs blând, iar machiajul se poate aplica după ce s-a uscat.
 
-## Cum folosești acidul azelaic
+Pentru roșeața persistentă fără bubițe și pentru vasele mici vizibile, efectul lui este mai modest; acolo se folosesc alte tratamente, inclusiv proceduri cu lumină sau laser. Opțiunile pentru fiecare formă sunt discutate în articolul despre [tratamentul rozaceei](/blog/cum-tratezi-rozaceea/).
 
-Dacă ai primit o rețetă, urmează schema medicului. Ca principii generale:
+Timpul de răspuns cere răbdare. DermNet arată că îmbunătățirea poate apărea abia după până la 12 săptămâni, iar AAD notează, pentru tratamentele aplicate pe piele în rozacee în general, o ușoară ameliorare după 3–4 săptămâni și o diferență vizibilă după 2–3 luni. După ce boala este controlată, medicul poate recomanda un tratament de întreținere.
 
-1. Aplică pe pielea curată și uscată, în strat subțire, pe toată zona afectată, nu doar pe leziuni.
-2. Începe cu o aplicare pe zi (de obicei seara) în primele 1–2 săptămâni.
-3. Dacă îl tolerezi și medicul a recomandat, poți trece la două aplicări pe zi.
-4. Folosește o cremă hidratantă blândă și, dimineața, protecție solară.
-5. Ai răbdare: evaluează rezultatul după cel puțin 2 luni, nu după câteva zile.
+## Acidul azelaic pentru pete
 
-Evită zona din jurul ochilor, mucoasele și pielea cu răni deschise. Spală-te pe mâini după aplicare.
+Pentru melasma (pete maronii, de obicei simetrice, pe frunte, obraji sau buza superioară), AAD îl menționează printre opțiunile mai blânde pe care le poate prescrie dermatologul, alături de alte substanțe. DermNet adaugă că este util mai ales pentru petele postinflamatorii și pentru melasma la tenurile mai închise.
 
-## Ce rezultate să aștepți și în cât timp
+Două lucruri trebuie spuse cinstit. Primul: rezultatele în melasma apar, potrivit AAD, în 3–12 luni, nu în câteva săptămâni. Al doilea: fără protecție solară constantă, cu spectru larg, câștigul se pierde ușor, pentru că soarele închide la culoare petele existente și favorizează apariția altora noi.
 
-Acidul azelaic lucrează lent, iar mulți renunță prea devreme. Ca orientare generală:
+## Cum se folosește
 
-| Problemă | Când apar de obicei primele schimbări | Ce poți spera realist |
-|---|---|---|
-| Rozacee cu papule și pustule | după aproximativ 4–8 săptămâni | mai puține bubițe, roșeață mai redusă în jurul lor |
-| Acnee ușoară sau moderată | după aproximativ 1–2 luni | mai puține comedoane și leziuni inflamate |
-| Pete după acnee, melasma | după câteva luni | estompare treptată, nu dispariție completă |
+Dacă ați primit o recomandare de la medic, schema lui are prioritate. Principiile generale descrise de DermNet sunt simple:
 
-Dacă după perioada recomandată de medic nu vezi nicio ameliorare, nu crește singur cantitatea și nu adăuga alte produse active. Mergi la control: poate fi nevoie de alt tratament sau de o combinație. Și după ce pielea arată mai bine, rozaceea și acneea pot reveni la oprirea tratamentului, de aceea medicul îți poate recomanda o schemă de întreținere.
+1. Pielea se curăță blând și se lasă să se usuce.
+2. Produsul se aplică în strat subțire pe toată zona afectată, nu doar pe leziuni.
+3. La început se folosește o dată pe zi; dacă pielea îl tolerează, se poate trece la două aplicări pe zi.
+4. Rezultatul se evaluează după săptămâni, nu după zile.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+În rutina zilnică, acidul azelaic se aplică după curățare și înaintea cremei hidratante, iar dimineața rămâne obligatorie protecția solară. Cum se introduce un produs nou fără a irita pielea este explicat în articolul despre [rutina de îngrijire de bază](/blog/rutina-de-ingrijire-de-baza/). Combinarea cu alte ingrediente active, cum ar fi retinoizii sau acizii exfolianți, se face treptat și, ideal, după o discuție cu medicul. [TODO: de confirmat de medic — recomandările privind combinarea cu retinoizi și acizi exfolianți nu au fost găsite în sursele deschise]
 
-## Cu ce se combină acidul azelaic
+## Efecte adverse și precauții
 
-- **Retinoizi** – combinație frecventă în acnee și pete; introdu-le pe rând. Vezi [retinolul și retinoizii](/blog/retinolul-si-retinoizii/).
-- **Peroxid de benzoil** – se pot folosi împreună în acnee, sub îndrumarea medicului; crește riscul de uscăciune.
-- **Niacinamidă, ceramide, creme hidratante** – combinații bine tolerate, care pot reduce iritația.
-- **Acizi exfolianți (AHA, BHA)** – nu în aceeași aplicare la început; pot crește usturimea.
-- **Protecție solară** – esențială, mai ales dacă tratezi pete.
+DermNet descrie acidul azelaic ca fiind, în general, bine tolerat. Cele mai frecvente probleme sunt o usturime, o furnicătură sau o mâncărime ușoară, mai ales în primele săptămâni. La pielea foarte sensibilă sau cu eczemă poate apărea o iritație de contact.
 
-## Efecte adverse
+Câteva situații cer atenție:
 
-- **usturime, furnicături, mâncărime** – cele mai frecvente, mai ales în primele săptămâni; de obicei scad;
-- **uscăciune, descuamare, roșeață ușoară**;
-- **rar, dermatită de contact** sau agravarea temporară a roșeții la pielea foarte reactivă;
-- **rar, decolorare** a pielii, raportată ocazional mai ales la persoanele cu ten închis; anunță medicul dacă observi pete mai deschise.
+- roșeața intensă, descuamarea, mâncărimea sau arsura puternică sunt motive de oprire a produsului și de consult;
+- au fost raportate agravări ale astmului; persoanele cu astm care observă o agravare discută cu medicul;
+- la tenurile închise poate apărea, rar, o deschidere la culoare a pielii în zona tratată, care merită semnalată medicului;
+- produsul nu se folosește în caz de alergie la acidul azelaic sau la alte componente ale cremei.
 
-Spre deosebire de retinoizi, acidul azelaic nu crește semnificativ sensibilitatea la soare, dar protecția solară rămâne necesară pentru pete și pentru rozacee.
+Usturimea nu este un semn că tratamentul „lucrează mai bine”. Este un efect advers, de cele mai multe ori trecător, dar nu unul de urmărit.
 
-## Acidul azelaic în sarcină și alăptare
+## În sarcină și alăptare
 
-Acidul azelaic se absoarbe în cantitate mică prin piele și este considerat, în general, una dintre opțiunile mai sigure pentru acnee, rozacee și pete în sarcină și alăptare. Literatura de specialitate despre tratamentul acneei în sarcină îl include, de regulă, printre variantele preferate. Decizia se ia totuși împreună cu medicul, care cântărește severitatea problemei și alternativele.
+Pagina AAD despre tratamentul acneei în sarcină consideră acidul azelaic probabil sigur, pentru că studiile pe animale nu au arătat malformații. Din acest motiv este una dintre opțiunile luate în calcul atunci când acneea sau petele trebuie tratate în sarcină. Decizia se ia totuși împreună cu medicul obstetrician sau cu dermatologul. Contextul mai larg, cu ce rămâne în rutină și ce se evită, este descris în articolul despre [îngrijirea pielii în sarcină](/blog/ingrijirea-pielii-in-sarcina/). [TODO: de confirmat de medic — sursele deschise nu tratează explicit alăptarea]
 
-## Cine ar trebui să îl evite sau să îl folosească cu grijă
+## Când poate fi util un consult dermatologic?
 
-- persoanele alergice la acidul azelaic sau la alte componente ale produsului;
-- pielea cu eczemă activă sau cu bariera foarte afectată;
-- persoanele cu ten foarte reactiv, care pot începe cu aplicări rare;
-- cine are astm și folosește medicamentul ar trebui să citească prospectul și să discute cu medicul, deoarece au fost raportate rar agravări. [TODO: verifică formularea din prospectele aprobate în UE]
+Un ser cosmetic cu acid azelaic se poate încerca și fără consult. Evaluarea dermatologică devine utilă când:
 
-## Mituri despre acidul azelaic
+- aveți roșeață pe obraji și nas, cu bufeuri sau bubițe, și nu știți dacă este acnee, rozacee sau altceva;
+- acneea este dureroasă, lasă pete sau cicatrici ori nu s-a ameliorat după câteva luni de îngrijire corectă;
+- petele s-au extins sau s-au accentuat, mai ales în sarcină ori după începerea unui tratament hormonal;
+- sunteți însărcinată sau alăptați și aveți nevoie de un tratament compatibil;
+- ați avut o reacție puternică după aplicare.
 
-- **„Este un exfoliant ca acidul glicolic.”** Nu în principal; acționează mai ales antibacterian, antiinflamator și asupra pigmentului.
-- **„Dacă ustură, înseamnă că funcționează.”** Usturimea este un efect advers, nu un semn de eficiență.
-- **„Cosmeticul cu acid azelaic e la fel cu crema pe rețetă.”** Nu; concentrațiile și dovezile diferă.
+La consult, medicul poate examina pielea, poate stabili despre ce afecțiune este vorba și poate discuta dacă acidul azelaic este o opțiune potrivită sau dacă altă abordare are mai mult sens. Diagnosticul corect contează: același produs poate ajuta mult într-o formă de rozacee și foarte puțin în alta.
 
-## Când să mergi la dermatolog
+Acidul azelaic nu este un ingredient spectaculos, dar este unul versatil, cu dovezi reale în acnee și rozacee și cu un rol util în pete. Cere răbdare, protecție solară și o idee clară despre ce anume tratează.
 
-- ai roșeață persistentă pe față, cu bufeuri, bubițe sau senzație de arsură (poate fi rozacee);
-- acneea lasă cicatrici, este dureroasă sau nu se ameliorează după 2–3 luni;
-- ai pete pigmentare extinse sau care s-au accentuat, mai ales în sarcină sau după începerea contracepției hormonale;
-- ești însărcinată sau alăptezi și ai nevoie de un tratament sigur pentru acnee sau pete;
-- apare o iritație puternică sau o reacție alergică după aplicare.
+## Dacă doriți o evaluare individuală
+
+Dacă vă întrebați dacă acidul azelaic s-ar potrivi pielii dumneavoastră sau dacă bubițele și roșeața de pe față au nevoie de un tratament anume, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Examinarea pielii ajută la stabilirea diagnosticului și la alegerea unei forme de tratament potrivite. Consultați [programul și locațiile](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare despre un ingredient activ (ce face, unde are dovezi, limite). Cuvânt-cheie principal: „acid azelaic”. Face parte din seria de rutine ca exemplu de ingredient cu rol și în sarcină; nu repetă lista de ingrediente de evitat din `ingrijirea-pielii-in-sarcina`.
+- Afirmații de confirmat clinic: comparația de eficiență cu tretinoinul și peroxidul de benzoil (din DermNet); faptul că studiile clinice s-au făcut în principal cu formele de 15% și 20%; deschiderea la culoare a pielii la tenuri închise; agravarea astmului (DermNet o menționează fără detalii).
+- Informații lipsă / de completat: trei TODO-uri inline (regim de eliberare în România; combinarea cu retinoizi/acizi; alăptarea). Versiunea anterioară menționa consensul ROSCO și analiza Cochrane pentru rozacee — nu au fost redeschise și nu sunt citate.
+- Surse care nu au putut fi verificate: pagina AAD „Rosacea treatment: Acne-like breakouts” redirecționează spre „Rosacea: Diagnosis and treatment”, care a fost folosită. Procentele de răspuns din rozacee apărute în rezultatele de căutare nu au fost confirmate pe pagina deschisă și nu au fost folosite.

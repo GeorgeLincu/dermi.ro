@@ -1,128 +1,134 @@
 ---
-title: "Rutina de îngrijire de bază: 3 pași pentru orice tip de piele"
-description: "Curățare blândă, hidratare și protecție solară: rutina simplă de dimineață și seară, cum o adaptezi tipului tău de piele și ce greșeli să eviți."
+title: "Rutina de îngrijire a pielii: ce este necesar și ce este opțional"
+description: "Ce pași are o rutină de îngrijire a pielii de bază, cum o adaptați tipului de piele și cum introduceți un produs nou fără să vă iritați pielea."
 pubDate: 2026-10-01
 category: "rutine"
-tags: ["rutină de îngrijire", "hidratare", "curățare", "spf"]
+tags: ["rutină de îngrijire", "curățare", "hidratare", "protecție solară"]
 draft: true
 faq:
   - q: "Care sunt pașii de bază într-o rutină de îngrijire a pielii?"
-    a: "Dimineața: curățare blândă, cremă hidratantă și protecție solară cu spectru larg. Seara: curățare (inclusiv demachiere, dacă ai purtat machiaj sau SPF rezistent la apă) și cremă hidratantă."
-  - q: "Trebuie să-mi spăl fața și dimineața?"
-    a: "Nu e obligatoriu pentru toată lumea. Dacă ai pielea uscată sau sensibilă, dimineața poate fi suficientă apa călduță; dacă ai pielea grasă, un gel de curățare blând te poate ajuta."
-  - q: "Cât durează până văd rezultate de la o rutină nouă?"
-    a: "De obicei sunt necesare câteva săptămâni de utilizare constantă. Introdu produsele pe rând, ca să poți observa ce funcționează și ce te irită."
-  - q: "Am nevoie de ser, toner și mască?"
-    a: "Nu sunt obligatorii. Un ser cu un ingredient activ poate fi adăugat pentru o nevoie anume, dar baza rămâne curățarea, hidratarea și protecția solară."
+    a: "Pentru majoritatea adulților sunt trei: curățare blândă, o cremă hidratantă potrivită tipului de piele și, dimineața, protecție solară cu spectru larg, SPF 30 sau mai mare. Celelalte produse sunt opționale și se adaugă doar pentru o nevoie anume."
+  - q: "De câte ori pe zi este bine să vă spălați pe față?"
+    a: "Academia Americană de Dermatologie recomandă de două ori pe zi, dimineața și seara, plus după transpirație abundentă. Spălatul mai frecvent tinde să irite pielea, nu să o curețe mai bine."
+  - q: "Cum testați un produs nou de îngrijire a pielii?"
+    a: "Aplicați o cantitate mică pe interiorul brațului sau în plica cotului, de două ori pe zi, timp de 7–10 zile. Dacă nu apar roșeață, mâncărime sau umflare, produsul poate fi folosit; dacă apare o reacție, îl spălați și îl opriți."
+  - q: "Sunt necesare serul, tonerul și masca?"
+    a: "Nu pentru o piele sănătoasă. Un ser cu un ingredient activ poate avea sens pentru o nevoie concretă, dar baza rămâne curățarea, hidratarea și protecția solară."
 sources:
   - title: "Face washing 101"
-    publisher: "American Academy of Dermatology (AAD)"
-  - title: "Sunscreen FAQs"
-    publisher: "American Academy of Dermatology (AAD)"
-  - title: "Commission Recommendation 2006/647/EC on the efficacy of sunscreen products and the claims made relating thereto"
-    publisher: "Comisia Europeană"
-  - title: "Ultraviolet radiation (fact sheet)"
-    publisher: "Organizația Mondială a Sănătății (OMS)"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101"
+  - title: "How to apply sunscreen"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen"
+  - title: "Dermatologists' top tips for relieving dry skin"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin"
+  - title: "How to test skin care products"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products"
+  - title: "11 ways to reduce premature skin aging"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/anti-aging/reduce-premature-aging-skin"
 ---
 
-O rutină de îngrijire de bază are trei pași: curățare blândă, hidratare și protecție solară dimineața, iar seara curățare și hidratare. Pentru majoritatea oamenilor, acești pași simpli, făcuți constant, contează mai mult decât numărul de produse sau ingredientele la modă.
+Raftul de dermatocosmetice dintr-o farmacie poate lăsa impresia că îngrijirea pielii cere zece pași: apă micelară, tonic, esență, două seruri, cremă de ochi, mască de noapte. Pentru majoritatea adulților, o rutină de îngrijire a pielii de bază are însă trei elemente: curățare blândă, o cremă hidratantă potrivită și protecție solară în fiecare dimineață. Restul produselor sunt opționale și își au locul doar acolo unde există o nevoie concretă.
 
-## Pe scurt
+Mai jos găsiți ce face fiecare pas, ce variază de la o persoană la alta și cum puteți adăuga ceva nou fără să vă iritați pielea. Articolul nu descrie tratamentul unei afecțiuni. Acneea, rozaceea sau eczema au nevoie de mai mult decât o rutină cosmetică, iar asta se stabilește la consult.
 
-- **Dimineața:** curățare blândă (sau doar apă), cremă hidratantă, protecție solară cu spectru larg, SPF 30 sau mai mare.
-- **Seara:** demachiere și curățare, apoi cremă hidratantă. Un ingredient activ se adaugă doar dacă ai o nevoie clară.
-- **Mai puțin e adesea mai bine:** prea multe produse cresc riscul de iritație.
-- **Introdu un singur produs nou o dată** și testează-l înainte pe o zonă mică.
-- **Constanța bate intensitatea:** rezultatele apar după săptămâni, nu după zile.
+## Trei pași, dimineața și seara
 
-## Rutina de bază, pas cu pas
-
-| Moment | Pas | Ce urmărești |
+| | Dimineața | Seara |
 |---|---|---|
-| Dimineața | 1. Curățare | Apă călduță sau un produs de curățare blând, fără parfum |
-| | 2. Hidratare | O cremă potrivită tipului tău de piele |
-| | 3. Protecție solară | Spectru larg (UVA + UVB), SPF 30+, aplicată generos |
-| Seara | 1. Demachiere / curățare | Îndepărtezi machiajul, SPF-ul, sebumul și impuritățile |
-| | 2. (Opțional) ingredient activ | Doar unul, ales pentru o nevoie anume |
-| | 3. Hidratare | Refaci și susții bariera pielii peste noapte |
+| Curățare | produs blând, apă călduță | îndepărtarea machiajului, a protecției solare și a transpirației |
+| Hidratare | cremă potrivită tipului de piele | aceeași cremă sau una ceva mai consistentă |
+| Protecție | protecție solară cu spectru larg, SPF 30 sau mai mare | nu este necesară |
 
-### 1. Curățarea: blândă, nu „scârțâitoare”
+Ordinea are o logică simplă. Curățarea pregătește pielea, crema hidratantă se aplică pe pielea curată, iar protecția solară rămâne ultimul strat de dimineață, peste toate celelalte. Dacă la un moment dat adăugați un ser cu ingredient activ, acesta se aplică de regulă după curățare și înaintea cremei.
 
-Scopul curățării este să îndepărteze sebumul în exces, transpirația, poluarea, machiajul și protecția solară, fără să distrugă stratul protector natural al pielii (bariera cutanată).
+## Curățarea: blândă și nu mai des decât e nevoie
 
-- Folosește **apă călduță**, nu fierbinte.
-- Alege un **produs de curățare blând**, fără parfum, cu pH apropiat de cel al pielii. Senzația de piele „care scârțâie” după spălare înseamnă de obicei că produsul a fost prea agresiv.
-- **Spală cu degetele**, fără burete aspru sau perii, și tamponează pielea cu un prosop curat, fără să freci.
-- Seara, dacă ai purtat machiaj sau protecție solară rezistentă la apă, poate fi util un pas de demachiere (de exemplu un ulei sau balsam demachiant ori apă micelară), urmat de produsul de curățare obișnuit.
+Academia Americană de Dermatologie (AAD) recomandă spălarea feței de două ori pe zi, dimineața și seara, și încă o dată după transpirație abundentă: după sport, după o zi de vară sub cască sau sub șapcă. Mai des nu înseamnă mai curat. Spălatul repetat de-a lungul zilei irită pielea și poate agrava chiar problemele pe care încercați să le preveniți.
 
-### 2. Hidratarea: pentru orice tip de piele
+Tehnica contează aproape cât produsul:
 
-Chiar și pielea grasă are nevoie de hidratare. O cremă bună ajută bariera pielii să rețină apa și reduce senzația de strângere, descuamarea și sensibilitatea.
+- apa să fie călduță, nu fierbinte;
+- produsul de curățare să fie blând, fără particule abrazive și fără alcool;
+- aplicați-l cu vârfurile degetelor, fără burete, mănușă exfoliantă sau perie;
+- clătiți bine și tamponați pielea cu un prosop moale și curat, fără să frecați.
 
-În general, cremele combină trei tipuri de ingrediente:
+Senzația de piele care „scârțâie” după spălare nu e un semn de curățenie. De cele mai multe ori arată că produsul a luat cu el, pe lângă sebum și impurități, și o parte din lipidele care țin apa în piele. Stratul cel mai superficial al pielii, numit barieră cutanată, funcționează ca un zid de cărămizi legate cu un „mortar” de grăsimi; o curățare prea agresivă slăbește tocmai acest mortar.
 
-- **umectante**, care atrag apa (de exemplu glicerina, acidul hialuronic);
-- **emoliente**, care netezesc pielea (de exemplu ceramidele, unii acizi grași);
-- **ocluzive**, care reduc pierderea de apă (de exemplu petrolatum, unele uleiuri și ceruri).
+Seara, după o zi cu machiaj sau cu o protecție solară rezistentă la apă, poate fi nevoie de o demachiere înainte de spălarea propriu-zisă. Nu e un pas de sărit: AAD enumeră dormitul cu machiaj printre obiceiurile care pot agrava acneea, chiar și atunci când produsele sunt non-comedogene (formulate astfel încât să nu astupe porii).
 
-Aplică crema pe pielea ușor umedă, imediat după curățare. Pentru alegerea texturii potrivite, vezi ghidul [cum alegi crema hidratantă potrivită](/blog/cum-alegi-crema-hidratanta-potrivita/).
+## Hidratarea, inclusiv pentru pielea grasă
 
-### 3. Protecția solară: pasul cu cel mai mare impact
+O cremă hidratantă ajută pielea să rețină apa, reduce senzația de strângere și descuamarea fină. Pentru pielea uscată, AAD recomandă aplicarea pe pielea încă ușor umedă, imediat după spălare, și de mai multe ori pe zi dacă e nevoie, nu doar seara.
 
-Radiațiile ultraviolete sunt principala cauză externă a îmbătrânirii premature a pielii și un factor de risc important pentru cancerul de piele, potrivit Organizației Mondiale a Sănătății. De aceea protecția solară este ultimul pas al rutinei de dimineață, în fiecare zi în care ieși afară.
+Textura se alege după piele, nu după ambalaj. Pielea uscată tolerează de obicei bine o cremă mai densă, cu ingrediente precum glicerina, acidul hialuronic, untul de shea, dimeticona sau petrolatumul (vaselina). Pielea grasă sau cu tendință acneică se descurcă, în general, mai bine cu o loțiune sau un gel-cremă etichetat non-comedogen. Diferențele dintre formule și ce înseamnă fiecare categorie de ingrediente sunt explicate în ghidul despre [alegerea cremei hidratante](/blog/cum-alegi-crema-hidratanta-potrivita/).
 
-- Alege **spectru larg** (UVA + UVB) și **SPF 30 sau mai mare**.
-- Aplică o **cantitate suficientă**: pentru față și gât, aproximativ două degete de produs (lungimea a două degete) este o regulă practică des folosită.
-- **Reaplică** la aproximativ 2 ore dacă stai afară, transpiri sau intri în apă.
+Pentru pielea sensibilă există o distincție de etichetă care trece ușor neobservată. Potrivit AAD, „fără parfum” și „fără miros” nu înseamnă același lucru: un produs prezentat doar ca „fără miros” poate conține substanțe care acoperă mirosul celorlalte ingrediente, iar acestea pot irita o piele reactivă.
 
-Mai multe detalii găsești în [SPF pe scurt](/blog/spf-pe-scurt/).
+## Protecția solară, în fiecare dimineață
 
-## Cum adaptezi rutina tipului tău de piele
+Radiațiile ultraviolete grăbesc îmbătrânirea pielii (riduri fine, pete, pierderea fermității) și cresc riscul de cancer cutanat. De aceea AAD recomandă, zilnic, înainte de a ieși din casă, o protecție solară cu spectru larg (care filtrează atât razele UVA, cât și UVB), rezistentă la apă, cu SPF de cel puțin 30, pe toată pielea care nu e acoperită de haine.
 
-| Tip de piele | Curățare | Hidratare | De reținut |
-|---|---|---|---|
-| Normală | Gel sau cremă de curățare blândă | Loțiune sau cremă ușoară | Păstrează lucrurile simple |
-| Uscată | Cremă sau lapte de curățare; dimineața poate fi doar apă | Cremă mai bogată, cu ceramide și ocluzive | Evită apa fierbinte și produsele cu alcool în concentrație mare |
-| Grasă / cu tendință acneică | Gel de curățare blând, de două ori pe zi | Gel-cremă sau loțiune „non-comedogenă” | Nu sări peste hidratare; curățarea agresivă poate agrava |
-| Mixtă | Gel blând | Textură ușoară pe zona T, mai bogată pe obraji dacă e nevoie | Poți folosi produse diferite pe zone |
-| Sensibilă | Produs de curățare foarte blând, fără parfum | Cremă cu puține ingrediente, fără parfum | Introdu produsele pe rând; vezi [rutina pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/) |
+În practică, problemele apar mai rar la alegerea produsului și mai des la cantitate. Pentru față, AAD dă ca reper o cantitate cam cât lungimea a două degete (arătătorul și mijlociul), aplicată cu aproximativ 15 minute înainte de a ieși. Când stați mult afară, produsul se reaplică la două ore și imediat după înot sau transpirație abundentă. Pentru cei predispuși la pete, aceeași sursă menționează că formulele colorate, care conțin oxizi de fier, oferă și o protecție față de lumina vizibilă.
 
-## Când adaugi un ingredient activ
+Crema nu lucrează singură. Umbra, o pălărie cu boruri largi, ochelarii de soare cu filtru UV și hainele care acoperă pielea fac parte din aceeași protecție, mai ales vara, la munte sau la mare.
 
-După ce rutina de bază merge de câteva săptămâni fără probleme, poți adăuga, dacă ai o nevoie concretă, un singur ingredient activ:
+## Ce este opțional și când are sens
 
-- pentru textură, pori și semne ale îmbătrânirii: [retinolul și retinoizii](/blog/retinolul-si-retinoizii/), seara;
-- pentru roșeață ușoară, pori și ten neuniform: niacinamida;
-- pentru luminozitate și protecție antioxidantă: vitamina C, dimineața, sub SPF;
-- pentru textură și luciu: exfolianți chimici, cu frecvență redusă.
+Tonerele, esențele, măștile și cremele de ochi nu sunt necesare pentru o piele sănătoasă. Unele sunt plăcute de folosit; altele doar cresc numărul de ingrediente cu care pielea vine în contact zilnic. AAD atrage atenția că tonerele astringente (cele care „strâng” porii, de obicei pe bază de alcool) și exfoliantele pot usca pielea și pot face acneea să arate mai rău.
 
-Reguli simple: un activ nou o dată, începe cu o frecvență mică (de exemplu de 2–3 ori pe săptămână) și crește treptat dacă pielea îl tolerează. Nu combina mai mulți exfolianți sau retinoizi în aceeași seară fără recomandarea medicului.
+Un ingredient activ, cum ar fi un retinoid, niacinamida, acidul azelaic sau un acid exfoliant, are sens când există o nevoie clară: pori astupați, pete, textură neuniformă, primele semne de îmbătrânire. Alegerea depinde de piele și de ce vă deranjează, iar uneori varianta potrivită este un medicament prescris, nu un cosmetic.
 
-### Testul pe o zonă mică
+Regula de bază este un singur produs nou o dată. Dacă apare o reacție, știți imediat ce a provocat-o. Mai trebuie spus că unele ingrediente, precum retinolul sau acidul glicolic, pot da o iritație ușoară și trecătoare chiar și atunci când pielea le tolerează în ansamblu. Ce nu este normal este usturimea sau arsura care persistă: AAD recomandă oprirea produselor care ustură, iar dacă e vorba de un tratament prescris, anunțarea medicului care l-a recomandat.
 
-Înainte să folosești un produs nou pe toată fața, aplică puțin pe o zonă mică (de exemplu lângă ureche sau pe partea interioară a brațului) câteva zile la rând. Dacă apar roșeață, mâncărime sau usturime persistentă, nu continua.
+## Cum testați un produs înainte să-l folosiți pe față
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+AAD descrie un test simplu, la îndemâna oricui:
 
-## Greșeli frecvente
+1. Alegeți o zonă mică, de mărimea unei monede, unde produsul nu se șterge ușor: interiorul brațului sau plica cotului.
+2. Aplicați produsul de două ori pe zi, timp de 7–10 zile, în cantitatea obișnuită. Un produs care se clătește (de exemplu un gel de curățare) se lasă aproximativ cât l-ați ține pe față, apoi se clătește.
+3. Urmăriți dacă apar roșeață, mâncărime sau umflare.
+4. Fără reacție după 7–10 zile, produsul poate fi folosit. Dacă apare o reacție, spălați zona cu blândețe și nu-l mai folosiți.
 
-- **Prea multe produse deodată.** Când pielea se irită, nu mai știi ce a declanșat reacția.
-- **Exfolierea prea des.** Pielea devine roșie, usturătoare și mai sensibilă.
-- **Sări peste protecția solară** în zilele înnorate sau iarna.
-- **Schimbatul rapid al produselor** înainte de a le da timp să funcționeze.
-- **Ignorarea gâtului, decolteului și dosului mâinilor**, zone expuse la soare la fel de mult ca fața.
+Testul nu e infailibil. Pielea feței, mai subțire și mai expusă, poate reacționa diferit de cea a brațului. Când reacțiile se repetă la produse diferite și nu reușiți să identificați ingredientul vinovat, dermatologul poate recomanda testarea epicutanată (patch test), o investigație medicală care caută alergenii de contact.
 
-Pe scurt: rutina bună este cea pe care o poți ține zi de zi, fără ca pielea să se irite.
+## Rutina se schimbă odată cu pielea
 
-## Când să mergi la dermatolog
+O rutină potrivită la 25 de ani nu e neapărat potrivită la 50. Hormonii, anotimpul, unele medicamente și chiar locul de muncă (aer condiționat, frig, expunere la soare) modifică felul în care se comportă pielea.
 
-O rutină cosmetică nu înlocuiește evaluarea medicală. Programează un consult dacă:
+Câteva situații au nevoie de ajustări specifice. În [sarcină](/blog/ingrijirea-pielii-in-sarcina/), baza rămâne aceeași, dar lista ingredientelor active se schimbă. În [menopauză](/blog/pielea-in-menopauza/), pielea devine de obicei mai uscată și mai subțire, iar hidratarea capătă alt rol. [Pielea grasă](/blog/rutina-pentru-pielea-grasa/) are nevoie de alt tip de produse, fără ca hidratarea să dispară. Iar la bărbați, bărbieritul adaugă un pas cu regulile lui.
 
-- ai **acnee** care lasă pete sau cicatrici, sau nu se ameliorează după câteva luni de îngrijire corectă;
-- pielea rămâne **roșie, usturătoare sau descuamată** indiferent de produsele folosite;
-- apar **eczeme, plăci sau mâncărime persistentă**;
-- ai **roșeață persistentă pe obraji și nas**, cu vase vizibile sau bubițe (posibil rozacee);
-- ai o **reacție puternică** la un produs: umflare, bășici, zemuire;
-- observi o **aluniță sau o leziune nouă care se schimbă**, sângerează sau nu se vindecă.
+## Ce nu poate face o rutină cosmetică
 
-Vezi și ghidul despre [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+Produsele cosmetice îngrijesc pielea; nu tratează afecțiuni. Un gel de curățare bun nu vindecă acneea, iar o cremă calmantă nu tratează rozaceea sau dermatita atopică. Dacă aveți o rutină simplă, bine tolerată, folosită constant câteva luni, și problema rămâne, următorul pas nu este un produs în plus, ci o evaluare.
+
+Uneori rutina însăși întreține problema: prea mulți pași, exfoliere zilnică, schimbatul produselor la fiecare două săptămâni. Aceste obiceiuri sunt discutate separat, în articolul despre [cele mai frecvente greșeli în îngrijirea pielii](/blog/top-5-greseli-in-ingrijirea-pielii/).
+
+## Când poate fi util un consult dermatologic?
+
+O rutină de bază nu are nevoie de aprobarea medicului. Există însă situații în care o discuție cu dermatologul vă poate scuti de multe încercări pe cont propriu:
+
+- pielea rămâne roșie, usturătoare sau descuamată deși ați simplificat rutina la cei trei pași;
+- reacționați la produse diferite și nu reușiți să găsiți o cauză comună;
+- aveți coșuri, roșeață pe obraji și nas sau zone cu mâncărime care revin;
+- doriți să începeți un ingredient activ puternic și nu știți dacă vi se potrivește;
+- observați o pată sau o aluniță nouă, care se schimbă, mănâncă sau sângerează; AAD recomandă evaluarea oricărei leziuni care arată diferit de celelalte.
+
+Un consult nu garantează o soluție rapidă. Poate însă clarifica dacă e vorba de o simplă iritație, de o afecțiune care are nevoie de tratament sau de o alergie de contact, iar rutina se poate construi apoi în funcție de răspuns.
+
+O rutină bună nu se măsoară în numărul de produse. Se măsoară în cât de bine o tolerează pielea și în cât de ușor o puteți păstra zi de zi: curățare blândă, hidratare, protecție solară și răbdare înainte de a adăuga altceva.
+
+## Dacă doriți o evaluare individuală
+
+Dacă vreți să aflați ce tip de piele aveți de fapt, ce produse ar putea să vă lipsească și ce ar fi mai bine să scoateți din rutină, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Examinarea pielii și discuția despre obiceiurile dumneavoastră ajută la o rutină construită pe situația reală, nu pe recomandări generale. Găsiți [programul și locațiile](/program/) pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare. Articolul-hub al seriei „Rutine de îngrijire și etapele vieții”: explică pașii de bază și trimite spre articolele pe situații (sarcină, menopauză, piele grasă, greșeli frecvente). Cuvânt-cheie principal: „rutină de îngrijire a pielii”.
+- Afirmații de confirmat clinic: ordinea ser → cremă → protecție solară (practică uzuală, nu din AAD); comparația barierei cutanate cu „cărămizi și mortar” (metaforă didactică); limitarea testului pe braț pentru pielea feței (logică clinică, nu formulată explicit pe pagina AAD).
+- Informații lipsă / de completat: dacă doriți să precizați poziția dumneavoastră privind curățarea de dimineață doar cu apă la pielea uscată/sensibilă (AAD recomandă curățare de două ori pe zi, fără excepții). Opțional, o observație din practică despre rutinele prea complicate. Bărbații sunt menționați fără link, pentru a păstra 5 linkuri interne; articolul `ingrijirea-pielii-la-barbati` poate fi adăugat dacă doriți.
+- Surse care nu au putut fi verificate: niciuna; toate cele cinci pagini AAD au fost deschise la 17.11.2026.

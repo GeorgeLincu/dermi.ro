@@ -1,140 +1,125 @@
 ---
-title: "Acidul hialuronic în îngrijirea pielii: ghid complet"
-description: "Ce este acidul hialuronic, ce poate și ce nu poate face pentru piele, cum îl aplici corect și ce diferență e între ser, injectări și suplimente."
+title: "Acidul hialuronic în îngrijirea pielii: ce face și ce nu face"
+description: "Cum hidratează acidul hialuronic din seruri și creme, cum îl puteți folosi corect, ce așteptări sunt realiste și prin ce diferă de fillerele injectabile."
 pubDate: 2025-08-21
 updatedDate: 2026-10-01
 category: "ingrediente"
-tags: ["acid hialuronic", "hidratare", "ingrediente", "îmbătrânirea pielii"]
+tags: ["acid hialuronic", "hidratare", "ingrediente", "pielea uscată"]
 draft: true
 faq:
-  - q: "Pot folosi acid hialuronic în fiecare zi?"
-    a: "Da. Acidul hialuronic din cosmetice este foarte bine tolerat și se poate folosi dimineața și seara, pe orice tip de ten. Dacă apare usturime, cauza este de obicei alt ingredient din formulă sau o barieră deja iritată."
-  - q: "Acidul hialuronic poate usca pielea?"
-    a: "Ideea că acidul hialuronic „trage apa din piele” în aerul uscat este exagerată. Totuși, pe vreme rece și uscată, e mai bine să-l aplici pe pielea umedă și să-l acoperi cu o cremă care reține hidratarea."
-  - q: "Se poate combina acidul hialuronic cu retinol sau vitamina C?"
-    a: "Da. Acidul hialuronic se combină bine cu aproape toate ingredientele, inclusiv retinoizii, vitamina C, niacinamida și acizii exfolianți, și poate ajuta pielea să tolereze mai ușor ingredientele care usucă."
-  - q: "Suplimentele cu acid hialuronic funcționează pentru piele?"
-    a: "Există câteva studii mici, cu rezultate modeste asupra hidratării pielii, dar dovezile sunt încă limitate. Nu înlocuiesc protecția solară și îngrijirea locală."
-  - q: "Acidul hialuronic este sigur în sarcină?"
-    a: "Acidul hialuronic aplicat pe piele este considerat sigur în sarcină și alăptare. Procedurile injectabile se amână de obicei în această perioadă; discută cu medicul."
+  - q: "Acidul hialuronic din ser umple ridurile?"
+    a: "Nu. Aplicat pe piele, acidul hialuronic hidratează straturile superficiale și poate face liniile fine de deshidratare mai puțin vizibile, dar nu adaugă volum. Volumul se poate reda doar prin proceduri medicale injectabile."
+  - q: "Acidul hialuronic este un acid exfoliant?"
+    a: "Nu. În ciuda numelui, acidul hialuronic hidratează și nu exfoliază, spre deosebire de acizii glicolic sau salicilic."
+  - q: "Când se aplică acidul hialuronic?"
+    a: "Cel mai util este pe pielea încă ușor umedă, de exemplu imediat după spălare sau duș, urmat de o cremă care să rețină apa. Dimineața, rutina se încheie cu protecție solară."
+  - q: "Poate fi folosit acidul hialuronic pe pielea sensibilă?"
+    a: "De obicei este bine tolerat. Dacă un produs ustură sau înroșește pielea, cauza poate fi alt ingredient din formulă, de exemplu parfumul, sau o barieră cutanată deja iritată; în acest caz, întrerupeți produsul și, dacă reacția persistă, discutați cu un dermatolog."
 sources:
+  - title: "Dermatologists' top tips for relieving dry skin"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin"
+  - title: "Caring for your skin in menopause"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/everyday-care/skin-care-secrets/anti-aging/skin-care-during-menopause"
+  - title: "Fillers: FAQs"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/cosmetic/wrinkles/fillers-faqs"
+  - title: "Emollients and Moisturizers (Moisturisers)"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/emollients-and-moisturisers"
   - title: "Hyaluronic acid: A key molecule in skin aging"
-    publisher: "Dermato-Endocrinology (Papakonstantinou și colab., 2012)"
-  - title: "Efficacy of cream-based novel formulations of hyaluronic acid of different molecular weights in anti-wrinkle treatment"
-    publisher: "Journal of Drugs in Dermatology (Pavicic și colab., 2011)"
-  - title: "Hyaluronic acid, a promising skin rejuvenating biomedicine: A review of recent updates and pre-clinical and clinical investigations on cosmetic and nutricosmetic effects"
-    publisher: "International Journal of Biological Macromolecules (Bukhari și colab., 2018)"
-  - title: "Avoiding and Treating Blindness From Fillers: A Review of the World Literature"
-    publisher: "Dermatologic Surgery (Beleznay și colab., 2015)"
+    publisher: "Papakonstantinou E, Roth M, Karakiulakis G. Dermato-Endocrinology, 2012 (accesat 17.11.2026)"
+    url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC3583886/"
 ---
 
-Acidul hialuronic este o substanță prezentă natural în piele, care leagă apa; aplicat în cosmetice, funcționează ca un humectant care hidratează stratul superficial al pielii, o face să pară mai netedă și mai plină și atenuează liniile fine cauzate de deshidratare. Este bine tolerat de aproape toate tipurile de piele, dar nu „umple” ridurile adânci și nu oprește îmbătrânirea — pentru asta contează protecția solară și ingrediente precum retinoizii.
+Pe raftul farmaciei, acidul hialuronic apare aproape peste tot: în seruri, creme, măști, loțiuni de corp, produse pentru buze. Iar același nume îl auziți și în cabinetele de dermatologie estetică, unde se vorbește despre injectări. Nu e de mirare că mulți oameni își imaginează că un ser cu acid hialuronic face, la scară mică, ce face un filler.
 
-## Pe scurt
+Nu este așa. Acidul hialuronic din cosmetice este un ingredient hidratant, din categoria humectanților: atrage și reține apa în straturile superficiale ale pielii. Pielea arată mai netedă și se simte mai confortabilă, iar liniile fine cauzate de deshidratare se văd mai puțin. Efectul este real, dar superficial și temporar; acidul hialuronic nu reface volumul pierdut și nu oprește îmbătrânirea pielii.
 
-- Acidul hialuronic este un **humectant**: atrage și reține apa în straturile superficiale ale pielii.
-- Efectul este mai ales **de hidratare și de netezire temporară**; liniile fine cauzate de uscăciune se văd mai puțin.
-- Aplică-l pe **pielea ușor umedă** și acoperă-l cu o **cremă hidratantă**; dimineața, urmează **protecția solară**.
-- Concentrația mare nu înseamnă rezultat mai bun; formulele bune au de obicei concentrații sub 2%.
-- Acidul hialuronic **injectabil** (filler) este o procedură medicală, cu riscuri proprii, și nu se compară cu un ser.
+## Ce rol are acidul hialuronic în piele
 
-## Ce este acidul hialuronic
+Acidul hialuronic nu este o substanță străină pielii. Aproximativ jumătate din cantitatea existentă în corp se găsește chiar în piele, mai ales în derm, stratul profund care dă susținere și elasticitate. Cantități mai mici există și în epiderm, stratul de la suprafață. Molecula are o capacitate mare de a lega apa și contribuie astfel la hidratarea și la „plinătatea” țesuturilor.
 
-Acidul hialuronic (sau hialuronanul) este o moleculă din familia glicozaminoglicanilor, prezentă în piele, articulații și ochi. În piele se află mai ales în derm, unde ajută la menținerea volumului și elasticității, și în epiderm, unde contribuie la hidratare.
+O particularitate interesantă: în piele, acidul hialuronic se reînnoiește foarte repede, în mai puțin de o zi. Ce contează pe termen lung nu este, deci, cât acid hialuronic punem pe piele, ci cât poate produce și păstra pielea însăși.
 
-Odată cu vârsta și cu expunerea cronică la soare, cantitatea și calitatea acidului hialuronic din piele scad. Asta este unul dintre motivele pentru care pielea matură pare mai uscată și mai puțin elastică.
+Odată cu vârsta, acidul hialuronic din epiderm scade mult, iar cel din derm se modifică: moleculele devin mai mici și mai strâns legate de țesuturile din jur. Expunerea cronică la soare accelerează aceste schimbări. Autorii unei recenzii publicate în 2012 atribuie radiațiilor ultraviolete o parte importantă din îmbătrânirea vizibilă a feței. Aceste procese contribuie la senzația de piele mai uscată, mai subțire și mai puțin elastică a pielii mature.
 
-Pe etichete îl găsești sub mai multe denumiri INCI:
+## Ce face un ser sau o cremă cu acid hialuronic
 
-- **sodium hyaluronate** — sarea de sodiu, cea mai folosită formă;
-- **hyaluronic acid**;
-- **hydrolyzed hyaluronic acid** — fragmente mai mici;
-- **sodium acetylated hyaluronate**, **hyaluronic acid crosspolymer** — forme modificate, care rămân mai mult pe piele.
+Aplicat pe piele, acidul hialuronic rămâne în cea mai mare parte la suprafață și în stratul cornos, adică în stratul cel mai exterior al epidermului. Acolo leagă apa și formează un film fin care face pielea să pară mai netedă și mai elastică. Academia Americană de Dermatologie îl include printre ingredientele utile într-o cremă pentru pielea uscată, alături de glicerină, dimeticonă, ulei de jojoba, unt de shea sau vaselină, și îl menționează ca opțiune potrivită și pentru pielea uscată din perioada menopauzei.
 
-## Cum funcționează acidul hialuronic pe piele
+Un humectant are însă o limită: atrage apa, dar nu o închide în piele. De aceea, acidul hialuronic funcționează cel mai bine împreună cu alte două tipuri de ingrediente. Emolienții (de exemplu lanolina sau unele uleiuri) netezesc pielea umplând micile fisuri dintre celulele de la suprafață. Ocluzivele (vaselina, parafina, uleiul mineral, dimeticona) formează un strat care încetinește evaporarea apei. Cele mai multe creme hidratante combină toate trei categoriile. Despre alegerea unei creme potrivite găsiți detalii în articolul despre [crema hidratantă potrivită](/blog/cum-alegi-crema-hidratanta-potrivita/).
 
-Aplicat pe piele, acidul hialuronic leagă apa și formează un film hidratant la suprafață. Se spune des că „reține de 1.000 de ori greutatea sa în apă”; afirmația vine din măsurători de laborator și nu descrie exact ce se întâmplă pe piele, dar ilustrează bine capacitatea sa de a lega apa.
+### Contează mărimea moleculei?
 
-### Contează mărimea moleculei
+Pe etichete apar tot mai des mențiuni despre acid hialuronic cu „greutăți moleculare diferite”. Ideea este că moleculele mari rămân la suprafață și formează un film, în timp ce fragmentele mici ar pătrunde puțin mai adânc în stratul cornos. Studiile clinice care compară direct aceste formule sunt puține și mici, iar diferențele raportate sunt modeste. [TODO: de confirmat de medic — nu am putut accesa studiile clinice despre formulele cu greutăți moleculare diferite]
 
-- **Acidul hialuronic cu greutate moleculară mare** rămâne la suprafață, formează un film, reduce evaporarea apei și dă o senzație imediată de netezime.
-- **Acidul hialuronic cu greutate moleculară mică** (fragmentat) pătrunde puțin mai adânc în stratul cornos. Câteva studii clinice mici au arătat o îmbunătățire a hidratării și a aspectului liniilor fine cu formule care combină mai multe greutăți moleculare.
+Cercetările de laborator arată, în plus, că fragmentele foarte mici de acid hialuronic pot avea în țesuturi un efect proinflamator, spre deosebire de moleculele mari. Ce înseamnă acest lucru pentru un ser obișnuit nu se știe. Practic, dacă un produs vă înroșește sau vă irită pielea, renunțați la el, indiferent ce scrie pe ambalaj.
 
-De aceea multe produse conțin un amestec de molecule de dimensiuni diferite. Nu există însă dovezi solide că o anumită combinație este clar superioară; diferențele sunt modeste.
+## Așteptări realiste
 
-Unele studii de laborator sugerează că fragmentele foarte mici ar putea avea efect proinflamator, dar relevanța pentru produsele cosmetice uzuale nu este demonstrată. Dacă o formulă îți înroșește pielea, schimb-o.
+Acidul hialuronic din cosmetice poate hidrata stratul superficial al pielii, poate reduce senzația de piele „strânsă”, poate face mai puțin vizibile liniile fine de deshidratare și poate ajuta pielea să tolereze mai ușor tratamentele care usucă, de exemplu cele pentru acnee sau [retinoizii](/blog/retinolul-si-retinoizii/).
 
-## Ce poate și ce nu poate face acidul hialuronic
+În schimb, nu umple ridurile adânci, nu reface volumul pierdut din pomeți sau din jurul gurii, nu repară singur o barieră cutanată deteriorată, nu protejează de soare și nu previne petele pigmentare. Recenzia din 2012 amintită mai sus notează chiar că acidul hialuronic aplicat din exterior este descompus rapid și consideră că celulele care îl produc în derm sunt o țintă mai promițătoare pentru hidratarea pe termen lung.
 
-| Poate | Nu poate |
-|---|---|
-| Hidrata stratul superficial al pielii | „Umple” ridurile adânci, ca un filler |
-| Atenua temporar liniile fine cauzate de deshidratare | Stimula semnificativ producția de colagen, ca retinoizii |
-| Reduce senzația de piele strânsă și disconfortul | Repara singur o barieră cutanată deteriorată |
-| Ajuta toleranța tratamentelor care usucă (retinoizi, tratamente pentru acnee) | Proteja de soare sau de pete pigmentare |
+Cu alte cuvinte, acidul hialuronic este un bun ingredient de susținere într-o rutină, nu un tratament anti-îmbătrânire în sine. Pentru acest scop, protecția solară zilnică și ingredientele cu dovezi mai solide contează mai mult.
 
-Pe scurt, acidul hialuronic este un ingredient bun de „susținere”, nu un tratament anti-îmbătrânire în sine.
+## Cum îl puteți folosi
 
-## Cum folosești acidul hialuronic corect
+Momentul aplicării contează mai mult decât produsul. Dermatologii recomandă ca produsele hidratante să fie aplicate cât timp pielea este încă ușor umedă, imediat după spălare sau după duș, pentru că apa care a pătruns în stratul superficial rămâne acolo. O rutină simplă arată așa:
 
-1. **Curăță pielea** cu un produs blând.
-2. **Aplică serul pe pielea ușor umedă** (după curățare sau după o loțiune hidratantă), câteva picături pentru față și gât.
-3. **Acoperă imediat cu o cremă hidratantă** care conține emolienți și ocluzivi, ca să „sigilezi” apa. Vezi [cum alegi crema hidratantă potrivită](/blog/cum-alegi-crema-hidratanta-potrivita/).
-4. **Dimineața, termină cu protecție solară** cu spectru larg, SPF 30 sau mai mult.
+1. curățați pielea cu un produs blând, în cantitate mică;
+2. aplicați serul sau crema cu acid hialuronic pe pielea ușor umedă;
+3. dacă ați folosit un ser, acoperiți-l cu o cremă hidratantă care conține și emolienți sau ocluzive;
+4. dimineața, încheiați cu o protecție solară cu spectru larg și SPF de cel puțin 30.
 
-### Pe ce tip de piele merge
+Pe vreme rece și uscată, de exemplu iarna, în camerele încălzite, pasul cu crema de deasupra devine și mai important. Un umidificator în dormitor poate ajuta și el, cu condiția să fie curățat regulat.
 
-- **Piele uscată și deshidratată** — beneficiul este cel mai vizibil, mai ales combinat cu o cremă bogată.
-- **Piele grasă sau acneică** — acidul hialuronic nu este comedogen și oferă hidratare fără greutate; potrivit în timpul tratamentelor pentru acnee.
-- **Piele sensibilă** — de obicei bine tolerat; alege formule fără parfum și cu listă scurtă de ingrediente.
-- **Piele matură** — ajută aspectul liniilor fine, în completarea retinoizilor și a protecției solare.
+Pe pielea grasă sau cu tendință acneică, acidul hialuronic oferă hidratare fără senzație de greutate. Pe pielea sensibilă este de regulă bine tolerat, dar parfumul sau alcoolul din aceeași formulă pot irita. Alegeți produse marcate „fără parfum”; Academia Americană de Dermatologie avertizează că mențiunea „fără miros” poate ascunde substanțe care maschează mirosul și pot irita. Se combină fără probleme cu majoritatea ingredientelor uzuale, inclusiv cu [ceramidele](/blog/ceramidele-si-bariera-pielii/), niacinamida sau vitamina C.
 
-### Combinații cu alte ingrediente
+### Concentrația și forma produsului
 
-Acidul hialuronic se potrivește cu aproape orice:
+O concentrație mai mare nu înseamnă automat un efect mai bun; formulele foarte concentrate pot lăsa o senzație lipicioasă. Nici forma produsului nu este decisivă: dacă o cremă hidratantă conține deja acid hialuronic și vă mulțumește, un ser separat nu este obligatoriu. Contează formula în ansamblu și cât de regulat o folosiți.
 
-- cu **ceramide** — pentru refacerea barierei ([ceramidele și bariera pielii](/blog/ceramidele-si-bariera-pielii/));
-- cu **retinoizi** — reduce senzația de uscăciune ([retinolul și retinoizii](/blog/retinolul-si-retinoizii/));
-- cu **vitamina C** și **niacinamidă** — fără interacțiuni problematice;
-- cu **acizi exfolianți** — după exfoliere, pielea apreciază hidratarea.
+Pe lista de ingrediente, acidul hialuronic apare de obicei sub denumirea „sodium hyaluronate” (sarea lui de sodiu, cea mai folosită formă), „hyaluronic acid” sau „hydrolyzed hyaluronic acid”, care desemnează fragmente mai mici. Poziția pe listă oferă un indiciu despre cantitate, dar nu spune nimic despre calitatea formulei. Dacă aveți pielea reactivă, uitați-vă mai degrabă după parfum, uleiuri esențiale sau alcool în primele poziții, pentru că acestea, nu acidul hialuronic, sunt de obicei responsabile de usturime.
 
-## Cum alegi un produs cu acid hialuronic
+### Ce știm despre suplimentele orale
 
-- **Uită-te la întreaga formulă**, nu doar la ingredientul-vedetă. Un ser cu acid hialuronic, glicerină și pantenol, fără parfum, este o alegere sigură pentru aproape oricine.
-- **Concentrația nu trebuie să fie mare.** Multe produse eficiente au sub 1–2%; procentele afișate pe ambalaj se referă uneori la o soluție diluată, nu la ingredientul pur.
-- **Forma produsului contează mai puțin.** Acidul hialuronic poate fi într-un ser, o cremă, o loțiune sau o mască; dacă crema ta hidratantă îl conține deja, un ser separat nu e obligatoriu.
-- **Pentru pielea sensibilă**, evită formulele cu parfum, uleiuri esențiale sau alcool în primele poziții ale listei.
-- **Ochii și buzele** beneficiază și ele de acid hialuronic; alege produse dedicate acestor zone, fără parfum.
+Suplimentele cu acid hialuronic sunt promovate pentru hidratarea pielii. Datele disponibile provin din studii puține, de scurtă durată, iar rezultatele sunt modeste. [TODO: de confirmat de medic — nu am accesat studii despre suplimentele orale] Ele nu înlocuiesc îngrijirea locală și protecția solară.
 
-Dacă pielea ta este foarte uscată, un ser cu acid hialuronic singur nu este suficient: are nevoie de o cremă cu lipide care să refacă bariera.
+## Acidul hialuronic injectabil: un alt subiect
 
-## Acidul hialuronic injectabil și suplimentele
+Fillerele folosesc tot acid hialuronic, dar prelucrat într-un gel care rămâne luni de zile în țesut și care se injectează sub piele pentru a reda volumul. Este o procedură medicală, nu cosmetică, cu efecte adverse frecvente, precum umflătura și vânătăile, dar și cu riscuri rare și grave. Academia Americană de Dermatologie subliniază că injectarea unui filler este un act medical și că injectările făcute în afara unui cadru medical pot fi foarte periculoase. Tot ce ține de candidați, durată și complicații este explicat în articolul despre [fillerele cu acid hialuronic](/blog/fillerele-cu-acid-hialuronic/).
 
-### Fillerele cu acid hialuronic
+## Câteva confuzii frecvente
 
-Fillerele conțin acid hialuronic modificat (reticulat), injectat în piele pentru a reda volum sau a corecta riduri. Sunt **proceduri medicale**, nu cosmetice, și trebuie făcute de un medic instruit, într-un cadru medical. Pe lângă efectele obișnuite (umflături, vânătăi), există riscuri rare, dar serioase, precum blocarea unui vas de sânge, care necesită intervenție imediată. Efectul este temporar, de obicei câteva luni până la un an sau mai mult, în funcție de produs și zonă.
+„Este un acid, deci exfoliază.” Nu. Numele vine din chimie; acidul hialuronic hidratează și nu dizolvă celulele de la suprafață, așa cum fac acizii glicolic sau salicilic.
 
-Așa-numitele „skin boosters” folosesc acid hialuronic mai puțin reticulat, injectat superficial, pentru hidratarea și calitatea pielii. Și acestea sunt proceduri medicale.
+„Pe vreme uscată trage apa din piele.” Ideea circulă mult, dar dovezile directe lipsesc. Aplicarea pe pielea umedă și o cremă deasupra rezolvă oricum îngrijorarea în practică.
 
-### Suplimentele orale
+„Serul meu funcționează ca un filler.” Nu. Un ser hidratează suprafața, un filler adaugă volum sub piele. Sunt produse diferite, cu scopuri diferite.
 
-Câteva studii mici, de scurtă durată, au raportat o ușoară îmbunătățire a hidratării pielii după suplimente cu acid hialuronic. Dovezile sunt limitate și de calitate variabilă. Ele nu înlocuiesc protecția solară, o rutină bună de îngrijire și un stil de viață sănătos.
+## Când poate fi util un consult dermatologic?
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+O evaluare dermatologică poate fi utilă atunci când:
 
-## Mituri despre acidul hialuronic
+- pielea rămâne uscată, aspră, crăpată sau cu mâncărime, deși folosiți regulat produse hidratante;
+- un produs nou ustură, înroșește pielea sau produce mici bube care nu trec după oprire;
+- uscăciunea este însoțită de plăci roșii, descuamare sau fisuri care sângerează, situații în care pot fi implicate boli precum dermatita atopică sau psoriazisul;
+- vă gândiți la un tratament pentru îmbătrânirea pielii și doriți să știți ce are dovezi pentru tipul dumneavoastră de piele.
 
-- **„Cu cât concentrația e mai mare, cu atât mai bine.”** Fals. Concentrațiile mari pot lăsa o senzație lipicioasă și nu hidratează mai bine.
-- **„Acidul hialuronic e un acid, deci exfoliază.”** Fals. Nu are efect exfoliant și nu irită ca acizii AHA sau BHA.
-- **„Serul cu acid hialuronic funcționează ca un filler.”** Fals. Un ser hidratează la suprafață; nu poate reda volumul pierdut.
-- **„Pe vreme uscată trage apa din piele.”** Exagerat. Riscul scade mult dacă îl aplici pe pielea umedă și îl acoperi cu o cremă.
+Pielea uscată persistentă poate avea cauze care nu se rezolvă cu un ser, iar despre ele puteți citi în articolul despre [pielea uscată](/blog/pielea-uscata-xeroza/).
 
-## Când să mergi la dermatolog
+Acidul hialuronic este un ingredient hidratant blând, potrivit pentru aproape orice tip de piele, care funcționează cel mai bine aplicat pe pielea umedă și acoperit de o cremă. Nu este însă un tratament de întinerire și nu are nimic în comun, ca efect, cu injectările care poartă același nume.
 
-Programează o consultație dacă:
+## Dacă doriți o evaluare individuală
 
-- pielea rămâne uscată, aspră, cu descuamare sau mâncărime, chiar dacă folosești constant produse hidratante;
-- apar roșeață, usturime sau mici bube după un produs nou, care nu trec după oprirea lui;
-- vrei să începi un tratament anti-îmbătrânire și nu știi ce are dovezi pentru tipul tău de piele;
-- te gândești la injectări cu acid hialuronic și vrei o evaluare medicală a beneficiilor și riscurilor;
-- după o injectare apar **durere intensă, albirea sau învinețirea pielii, tulburări de vedere** — acestea sunt urgențe și trebuie să contactezi imediat medicul care a făcut procedura sau să mergi la urgențe.
+Dacă pielea dumneavoastră rămâne uscată sau iritată în ciuda îngrijirii, ori doriți o rutină construită pe nevoile reale ale pielii, puteți programa o consultație la Dr. Mădălina Iulia Lincu. [Programul și locațiile](/program/) sunt disponibile pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare și clarificarea unui mit (serul cu acid hialuronic nu este un „filler în sticluță”). Este articolul despre ingredientul cosmetic; partea injectabilă este doar delimitată și trimisă spre articolul despre fillere, pentru a nu dubla informația.
+- Afirmații de confirmat clinic: datele despre distribuția și turnoverul acidului hialuronic în piele și efectul fragmentelor mici (recenzia Papakonstantinou 2012); afirmația despre rolul UV în îmbătrânirea facială a fost formulată calitativ (recenzia dă ~80%). Recomandările practice (aplicare pe piele umedă, fără parfum, umidificator) provin din AAD și DermNet. Combinabilitatea cu ceramide, niacinamidă, vitamina C și afirmația că mitul „trage apa din piele pe vreme uscată” nu are dovezi directe sunt din practica generală.
+- Informații lipsă / de completat: studiile clinice despre formule cu greutăți moleculare diferite și despre suplimente (marcate inline). Mențiunea despre siguranța în sarcină din versiunea anterioară a fost scoasă (fără sursă accesată); dacă doriți, poate fi readăugată cu trimitere la articolul despre îngrijirea pielii în sarcină.
+- Surse care nu au putut fi verificate: Pavicic 2011 (J Drugs Dermatol), Bukhari 2018 și Beleznay 2015 din versiunea anterioară nu au fost accesate și au fost scoase.

@@ -1,140 +1,149 @@
 ---
-title: "Dermatita seboreică: mătreață, roșeață pe față și tratament"
-description: "Ce este dermatita seboreică, de ce apar mătreața și roșeața cu scuame pe față, cum se tratează și cum previi recidivele."
+title: "Dermatita seboreică: de ce revine și cum poate fi ținută sub control"
+description: "Ce este dermatita seboreică, cum se deosebește de mătreață, rozacee sau psoriazis și de ce tratamentul de întreținere contează atât de mult."
 pubDate: 2026-10-01
 category: "afectiuni"
 tags: ["dermatită seboreică", "mătreață", "scalp", "malassezia"]
 draft: true
 faq:
   - q: "Dermatita seboreică este contagioasă?"
-    a: "Nu. Dermatita seboreică nu se transmite de la o persoană la alta. Levura implicată, Malassezia, face parte din flora normală a pielii tuturor oamenilor."
-  - q: "Dermatita seboreică se vindecă definitiv?"
-    a: "La adulți este o afecțiune cronică, care tinde să revină. Se poate însă controla bine cu tratamente de atac și cu folosirea regulată a unui șampon sau a unui produs antifungic pentru prevenirea recidivelor."
-  - q: "Este mătreața același lucru cu dermatita seboreică?"
-    a: "Mătreața este considerată forma cea mai ușoară de dermatită seboreică a scalpului, fără roșeață evidentă. Când apar roșeață, mâncărime și scuame grase, vorbim de dermatită seboreică propriu-zisă."
+    a: "Nu. Nu se transmite de la o persoană la alta și nu este cauzată de lipsa de igienă sau de o alergie."
+  - q: "Mătreața și dermatita seboreică sunt același lucru?"
+    a: "Mătreața este considerată forma cea mai ușoară, fără inflamație. Când apar roșeață, mâncărime și scuame gălbui, uneori grase, pe scalp sau pe față, vorbim de dermatită seboreică."
+  - q: "De ce revine dermatita seboreică după tratament?"
+    a: "La adulți, afecțiunea este de obicei cronică, iar tratamentul o controlează fără să o elimine. De aceea medicii recomandă adesea un tratament de întreținere, de exemplu un șampon medicinal folosit o dată pe săptămână."
   - q: "Ce sunt crustele de pe capul bebelușului?"
-    a: "Crustele gălbui, grase, de pe scalpul sugarului se numesc „cruste de lapte” și sunt o formă de dermatită seboreică a sugarului. Sunt nepericuloase și de obicei dispar singure în primele luni de viață."
+    a: "Crustele gălbui de pe scalpul sugarilor sunt o formă de dermatită seboreică a sugarului. De obicei dispar singure în câteva săptămâni sau luni; șampoanele antimătreață pentru adulți nu se folosesc la bebeluși fără recomandarea medicului."
 sources:
-  - title: "Seborrhoeic dermatitis"
-    publisher: "DermNet (Noua Zeelandă)"
+  - title: "Seborrheic dermatitis: Overview"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/seborrheic-dermatitis-overview"
+  - title: "Seborrheic dermatitis: Causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/seborrheic-dermatitis-causes"
+  - title: "Seborrheic dermatitis: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/seborrheic-dermatitis-treatment"
+  - title: "Seborrheic dermatitis: Self-care"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/seborrheic-dermatitis-self-care"
+  - title: "Seborrheic dermatitis: Causes and treatment"
+    publisher: "DermNet (accesat 17.11.2026)"
     url: "https://dermnetnz.org/topics/seborrhoeic-dermatitis"
-  - title: "Seborrhoeic dermatitis"
-    publisher: "NHS (Marea Britanie)"
-    url: "https://www.nhs.uk/conditions/seborrhoeic-dermatitis/"
-  - title: "Topical antifungals for seborrhoeic dermatitis"
-    publisher: "Cochrane Database of Systematic Reviews (2015)"
-  - title: "Topical anti-inflammatory agents for seborrhoeic dermatitis of the face or scalp"
-    publisher: "Cochrane Database of Systematic Reviews (2014)"
 ---
 
-Dermatita seboreică este o afecțiune inflamatorie cronică a pielii care produce roșeață, mâncărime și scuame gălbui sau albe, grase, în zonele bogate în glande sebacee: scalp, sprâncene, laturile nasului, după urechi și pe piept. Forma ei cea mai ușoară este mătreața. Nu este contagioasă și nu ține de igienă, iar tratamentul se bazează pe produse antifungice și, pe perioade scurte, pe antiinflamatoare prescrise de medic.
+Iarna, pe umerii unui sacou închis la culoare apar fulgi albi; în jurul nărilor și între sprâncene pielea se înroșește și se cojește fin, iar după câteva săptămâni de liniște totul o ia de la capăt. Pentru mulți oameni, acesta este primul contact cu dermatita seboreică, o afecțiune frecventă, inofensivă, dar încăpățânată.
 
-## Pe scurt
+Dermatita seboreică este o inflamație cronică a pielii care apare în zonele bogate în glande sebacee (scalp, față, urechi, piept) și produce roșeață, mâncărime și scuame albe sau gălbui. Nu este contagioasă și nu ține de igienă. Revine pentru că tratamentul o controlează, fără să schimbe predispoziția pielii; de aceea întreținerea contează la fel de mult ca tratamentul de atac.
 
-- Dermatita seboreică apare unde pielea produce mult sebum: scalp, față, urechi, piept.
-- La baza ei stă o reacție inflamatorie a pielii la levura *Malassezia*, care trăiește în mod normal pe piele.
-- Are o evoluție cu recidive; frigul, stresul și oboseala o agravează frecvent.
-- Tratamentul de bază: șampoane și creme antifungice, la nevoie antiinflamatoare locale pe termen scurt.
-- La sugari („crustele de lapte”), este de obicei nepericuloasă și trece singură.
+## O levură banală și o piele care reacționează
 
-## Ce este dermatita seboreică
+Pe pielea tuturor oamenilor trăiește o levură numită *Malassezia*. Ea se hrănește cu grăsimile din sebum, iar substanțele rezultate pot irita pielea. La unele persoane, acest proces declanșează o reacție inflamatorie, mai ales acolo unde sebumul este abundent. Cauza exactă nu este pe deplin cunoscută: contează și hormonii, factorii nervoși și terenul individual. Faptul că tratamentele antifungice reduc simptomele susține însă rolul levurii.
 
-Pe pielea tuturor oamenilor trăiește o levură numită *Malassezia*. Ea se hrănește cu lipidele din sebum. La unele persoane, produșii rezultați din această „digestie” irită pielea și declanșează o reacție inflamatorie: pielea se înroșește, se descuamează și mănâncă. Nu este vorba de o infecție în sensul clasic și nici de o alergie, ci de un răspuns exagerat al pielii.
+Nu este o infecție în sensul obișnuit și nici o alergie. Este un răspuns exagerat al pielii la ceva ce există, de fapt, pe toată lumea.
 
-Dermatita seboreică are două vârfuri de apariție: la **sugari**, în primele luni de viață, și la **adulți**, mai ales la tineri și la persoane de vârstă mijlocie. Este mai frecventă la bărbați.
+Potrivit DermNet, afecțiunea afectează între 3 și 12% dintre oameni. Apare la sugari (crustele de pe scalp), apoi din adolescența târzie și la vârsta adultă, este mai frecventă la bărbați și, după AAD, devine deosebit de frecventă după 50 de ani.
 
-### Cum arată
+## Cine este mai predispus
 
-| Zonă | Aspect tipic |
-|---|---|
-| Scalp | Mătreață, roșeață, mâncărime, scuame grase, uneori depășesc linia părului |
-| Față | Roșeață și scuame fine pe sprâncene, între sprâncene, pe laturile nasului și în șanțurile de lângă nas, uneori în barbă |
-| Pleoape | Margini roșii, cu scuame (blefarită) |
-| Urechi | Scuame în conductul auditiv, după ureche, în pliuri |
-| Piept și spate | Pete roșii-rozii, cu scuame fine, în zona dintre sâni sau dintre omoplați |
-| Pliuri | Roșeață în axile, sub sâni, în zona inghinală |
+Pe lângă pielea grasă și istoricul familial, câteva situații cresc probabilitatea sau severitatea dermatitei seboreice:
 
-Pe pielea închisă la culoare, zonele afectate pot apărea mai deschise sau mai închise decât pielea din jur, iar roșeața este mai puțin vizibilă.
+- boala Parkinson și alte afecțiuni neurologice, epilepsia, accidentul vascular cerebral în perioada de recuperare;
+- imunitatea scăzută, inclusiv infecția HIV sau tratamentele după un transplant;
+- depresia, consumul mare de alcool;
+- psoriazisul și rozaceea, cu care dermatita seboreică poate coexista;
+- unele medicamente, între care litiul și haloperidolul.
 
-## Cum se pune diagnosticul
+Stresul, somnul insuficient și vremea rece și uscată declanșează frecvent puseele, iar căldura și umiditatea verii aduc adesea o ameliorare.
 
-Diagnosticul este de obicei clinic: dermatologul recunoaște dermatita seboreică după aspectul scuamelor și după zonele afectate. Nu sunt necesare, de regulă, analize. Uneori medicul poate recomanda o examinare micologică (o probă de scuame analizată la microscop sau în cultură), pentru a exclude o micoză, ori, rar, o biopsie, când aspectul seamănă cu psoriazisul, cu lupusul sau cu alte afecțiuni. Dacă dermatita seboreică apare brusc, este foarte extinsă sau nu răspunde la tratament, medicul poate căuta și o cauză generală care favorizează apariția ei.
+O dermatită seboreică apărută brusc, foarte extinsă sau greu de controlat merită discutată cu medicul, tocmai pentru că poate semnala o altă problemă de sănătate.
 
-## Ce agravează dermatita seboreică
+## Unde apare și cum arată
 
-- **Frigul și aerul uscat** — multe persoane observă că se agravează iarna și se ameliorează vara.
-- **Stresul și lipsa de somn.**
-- **Spălarea rară a părului**, care permite acumularea de sebum și scuame.
-- **Produsele cosmetice grase** aplicate pe zonele afectate.
-- **Anumite boli**, în special boala Parkinson și alte afecțiuni neurologice, infecția HIV sau alte stări de imunitate scăzută, în care dermatita seboreică este mai frecventă și uneori mai extinsă.
-- **Consumul excesiv de alcool.**
+Pe scalp, forma ușoară este mătreața: scuame fine, fără roșeață. Când apare inflamația, pielea capului se înroșește, mănâncă, iar scuamele devin mai groase, uneori grase. Pe față, locurile tipice sunt sprâncenele, spațiul dintre ele, șanțurile de lângă nas, barba și mustața, urechile și zona din spatele lor. Marginea pleoapelor poate fi roșie și cu scuame (blefarită). Pe trunchi, apare mai ales pe stern, iar mai rar în axile, sub sâni sau în zona inghinală.
 
-## Cum se tratează dermatita seboreică
+Pe pielea închisă la culoare, zonele afectate pot fi roz, ușor violacee sau mai deschise decât pielea din jur, iar după un puseu pot rămâne pete mai închise, vizibile mai ales pe față. Despre acestea găsiți informații în articolul despre [hiperpigmentarea postinflamatorie](/blog/hiperpigmentarea-postinflamatorie/).
 
-Tratamentul are două etape: o **fază de atac**, ca să liniștești roșeața și scuamele, și o **fază de întreținere**, ca să previi revenirea. Dovezile cele mai solide, potrivit sintezelor Cochrane, sunt pentru tratamentele antifungice locale.
+## Cu ce se confundă cel mai des
 
-### Pentru scalp
+Lista de afecțiuni asemănătoare este lungă, iar câteva dintre confuzii au consecințe practice.
 
-- **Șampoane antifungice** cu ketoconazol, ciclopirox, sulfură de seleniu sau piritionă de zinc. Se aplică pe scalp, se lasă să acționeze câteva minute și apoi se clătesc. În faza de atac se folosesc de câteva ori pe săptămână, apoi mai rar, pentru întreținere.
-- **Produse cu acid salicilic, uree sau ulei**, care înmoaie și ridică scuamele groase, pentru ca tratamentul să ajungă la piele.
-- **Loțiuni sau șampoane cu corticosteroid**, prescrise de medic, pentru perioade scurte, când mâncărimea și roșeața sunt intense.
+**Rozaceea.** Ambele produc roșeață pe față și pot coexista. În rozacee roșeața este centrală (obraji, nas), cu înroșiri bruște și uneori bubițe, iar scuamele lipsesc de obicei; dermatita seboreică are scuame în pliurile nasului și în sprâncene. Tratamentul diferă, iar despre primul găsiți detalii în articolul despre [tratamentul rozaceei](/blog/cum-tratezi-rozaceea/).
 
-### Pentru față și corp
+**Psoriazisul.** Pe scalp, diferența poate fi greu de făcut. Plăcile de psoriazis sunt mai groase, mai bine delimitate și apar adesea și pe coate sau genunchi. Există și forme de graniță. Mai multe în articolul despre [psoriazis](/blog/psoriazis/).
 
-- **Creme antifungice** (de exemplu ketoconazol sau ciclopirox), aplicate pe zonele afectate.
-- **Corticosteroizi topici slabi**, doar pe termen scurt și la recomandarea medicului. Pe față, folosirea îndelungată poate subția pielea, poate produce vase vizibile și poate declanșa o erupție asemănătoare rozaceei.
-- **Inhibitorii de calcineurină topici** (tacrolimus, pimecrolimus), fără cortizon, uneori folosiți pe față și pleoape.
-- Pentru curățare, **un gel sau o spumă blândă**; unele persoane folosesc pe față și șamponul antifungic, ca mască scurtă, la recomandarea medicului.
+**Micozele, dermatita de contact, dermatita atopică** și, rar, boli generale precum lupusul pot semăna și ele. De aici vine utilitatea unui diagnostic pus la examinare, nu din fotografii.
 
-### Pentru pleoape
+## Scalp „uscat” sau scalp gras?
 
-Igiena zilnică a marginii pleoapelor cu comprese călduțe și un produs blând, special pentru ochi. Orice tratament cu medicamente în zona ochilor se face doar cu recomandarea medicului.
+Fulgii de pe umeri sunt adesea puși pe seama unui scalp uscat. Reacția firească este să spălați părul mai rar sau să aplicați uleiuri pe scalp, iar uneori efectul este invers celui dorit. În dermatita seboreică, problema pornește de la zonele cu sebum mult, iar levura se hrănește tocmai cu aceste grăsimi. Spălarea regulată, cu un șampon potrivit, face parte din tratament și nu agravează simptomele.
 
-### Tratamente orale
+Afecțiunea nu este nici un semn de neglijență: apare și la oameni foarte atenți cu igiena, iar spălatul excesiv cu săpunuri agresive irită pielea în loc să o ajute.
 
-În formele foarte extinse sau rezistente, medicul poate prescrie, rareori, un antifungic administrat oral, pe o perioadă scurtă, cu atenție la interacțiunile cu alte medicamente.
+## Tratamentul de atac
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Diagnosticul se pune de obicei clinic, fără analize. Tratamentul se alege după zonă și după intensitatea simptomelor.
 
-## Dermatita seboreică la sugari („crustele de lapte”)
+### Scalpul
 
-La bebeluși, dermatita seboreică apare de obicei în primele săptămâni sau luni de viață, sub forma unor cruste gălbui, grase, pe scalp, uneori și în sprâncene, după urechi sau în zona scutecului. De regulă nu mănâncă și nu deranjează copilul.
+Pentru formele ușoare și moderate, primul pas este un șampon antimătreață cu substanțe active precum ketoconazolul, ciclopiroxul, piritiona de zinc sau sulfura de seleniu. Contează felul în care este folosit: șamponul se lasă pe scalp câteva minute, cât indică medicul sau prospectul, și abia apoi se clătește. AAD menționează o frecvență de două-trei ori pe săptămână la părul drept sau ondulat și, adesea, o dată pe săptămână la părul foarte creț. Șampoanele cu gudron pot colora părul deschis, decolorat sau vopsit.
 
-Ce poți face:
+Scuamele groase se pot înmuia înainte, cu produse care conțin acid salicilic, uree sau acid lactic, pentru ca tratamentul să ajungă la piele.
 
-- spală scalpul cu un șampon blând pentru bebeluși;
-- înmoaie crustele cu un ulei sau un emolient, apoi îndepărtează-le ușor cu o perie moale;
-- **nu smulge și nu răzui crustele** — poți irita pielea și o poți infecta;
-- nu folosi produse pentru adulți, cu acid salicilic sau antifungice, fără acordul medicului.
+### Fața și corpul
 
-Merită să mergi la medicul de familie, la pediatru sau la dermatolog dacă pielea devine foarte roșie, zemuiește, se extinde pe corp sau dacă bebelușul pare deranjat de mâncărime — pot fi semne de infecție sau de [dermatită atopică](/blog/dermatita-atopica/).
+Pe față se folosesc creme antifungice și, în pusee, corticosteroizi slabi pe termen scurt; DermNet vorbește de una-trei săptămâni. Cremele cu cortizon folosite îndelungat pe față nu sunt o soluție: pot subția pielea, pot produce vase vizibile și pot declanșa erupții asemănătoare rozaceei. Când este nevoie frecvent de antiinflamator, medicul poate alege inhibitori de calcineurină (tacrolimus, pimecrolimus) sau, mai nou, roflumilast sub formă de spumă, un antiinflamator fără cortizon. [TODO: de confirmat de medic — disponibilitatea roflumilastului topic în România]
 
-## Ce poți face acasă
+Barba și mustața se pot spăla cu un săpun medicinal sau cu un șampon antifungic; unii bărbați observă o ameliorare clară dacă rad zona.
 
-- **Spală părul regulat**, mai des în perioadele cu simptome.
-- **Folosește constant tratamentul de întreținere**, chiar și când pielea arată bine; recidivele sunt regula, nu excepția.
-- **Evită uleiurile și cremele foarte grase** pe zonele afectate de pe față.
-- **Hidratează cu produse ușoare, non-comedogene**, mai ales dacă tratamentele usucă pielea. Vezi [cum alegi crema hidratantă potrivită](/blog/cum-alegi-crema-hidratanta-potrivita/).
-- **Bărbații cu barbă** pot observa ameliorări dacă tund barba scurt sau o rad pe perioada puseelor.
-- **Ai grijă de somn și de stres.**
-- Expunerea moderată la soare ajută pe unele persoane, dar protecția solară rămâne necesară.
+### Formele extinse
 
-## Mituri frecvente
+În formele extinse sau rezistente, medicul poate recomanda un antifungic oral pe o perioadă scurtă, fototerapie cu UVB sau alte tratamente sistemice. Acestea se decid după evaluare, ținând cont de interacțiunile cu alte medicamente.
 
-- **„Mătreața vine de la scalpul uscat.”** De cele mai multe ori este invers: mătreața apare pe un scalp gras, cu sebum mult.
-- **„Dacă îmi spăl părul prea des, mătreața se agravează.”** Spălarea regulată cu un șampon potrivit ajută, nu agravează.
-- **„Dermatita seboreică ține de igienă.”** Fals. Apare și la persoane foarte atente cu igiena.
-- **„Odată tratată, nu mai revine.”** La adulți, recidivele sunt frecvente; de aceea contează tratamentul de întreținere.
+## Întreținerea: partea pe care mulți o sar
 
-## Când să mergi la dermatolog
+La adulți, dermatita seboreică are tendința să revină. După ce simptomele s-au liniștit, AAD notează că mulți pacienți continuă șamponul medicinal o dată pe săptămână, tocmai pentru a preveni puseele. Dacă un șampon pare să nu mai funcționeze, alternarea cu altul, după discuția cu medicul, poate ajuta.
 
-Programează o consultație dacă:
+Câteva obiceiuri susțin tratamentul:
 
-- simptomele **nu se ameliorează** după 3–4 săptămâni de folosire corectă a unui șampon sau a unei creme antifungice;
-- roșeața și scuamele **se extind** pe față, pe corp sau în pliuri;
-- nu ești sigur de diagnostic: dermatita seboreică poate semăna cu [psoriazisul](/blog/psoriazis/), [rozaceea](/blog/cum-tratezi-rozaceea/), eczema sau micozele;
-- ai nevoie frecvent de creme cu cortizon pe față;
-- ai și **cădere de păr** în zonele afectate;
-- dermatita seboreică apare brusc, extinsă, severă — mai ales dacă ai și alte simptome (scădere în greutate, infecții frecvente, tremor), situație în care medicul poate recomanda investigații suplimentare.
+- spălarea feței de două ori pe zi, cu un produs blând, fără parfum, urmată de o cremă hidratantă ușoară, fără parfum și fără alcool;
+- evitarea săpunurilor deodorante, a detergenților agresivi și a produselor de styling în cantitate mare;
+- dușuri nu foarte fierbinți și o căciulă pe frig;
+- protecție solară, de preferat cu oxid de zinc sau dioxid de titan, pentru că și căldura poate declanșa pusee;
+- un jurnal simplu, pentru a observa ce anume precede recăderile.
 
-Mergi la medic **mai repede** dacă pielea devine dureroasă, caldă, zemuiește sau are cruste galbene, sau dacă ai febră.
+Netratată, scuama se poate îngroșa, iar scărpinatul poate favoriza infecțiile. De aceea AAD recomandă începerea tratamentului din timp, nu după luni de mâncărime.
+
+## La sugari: crustele de pe scalp
+
+La bebeluși, dermatita seboreică apare de obicei între 2 și 12 luni, sub forma unor cruste gălbui, aderente, pe scalp, uneori și în pliuri sau în zona scutecului. De regulă nu mănâncă și nu deranjează copilul. Se spală scalpul cu un șampon blând pentru bebeluși, iar scuamele înmuiate se îndepărtează ușor, cu o perie moale, fără să fie smulse sau răzuite. Șampoanele antimătreață pentru adulți nu sunt recomandate la copii. Crustele dispar, de obicei, în câteva săptămâni sau luni.
+
+Pielea care devine foarte roșie, zemuiește, se extinde pe corp sau un copil vizibil deranjat de mâncărime sunt motive pentru a merge la medicul de familie, la pediatru sau la dermatolog.
+
+## Ce aduce o evaluare dermatologică
+
+Un consult poate stabili dacă scuamele și roșeața sunt dermatită seboreică, psoriazis, rozacee sau o micoză, situații care seamănă, dar se tratează diferit. Medicul poate explica felul corect de folosire a produselor, poate propune alternative la cremele cu cortizon atunci când acestea sunt necesare des și poate stabili un plan de întreținere realist. Tratamentul nu elimină predispoziția, dar poate face puseele mai rare și mai ușoare.
+
+## Când poate fi util un consult dermatologic?
+
+- simptomele nu se ameliorează după 3–4 săptămâni de folosire corectă a unui șampon sau a unei creme antifungice;
+- roșeața și scuamele se extind pe față, pe corp sau în pliuri;
+- nu sunteți sigur dacă este vorba de dermatită seboreică sau de altă afecțiune;
+- aveți nevoie frecvent de creme cu cortizon pe față;
+- pleoapele sunt roșii, cu scuame, și ochii vă supără;
+- afecțiunea a apărut brusc, este foarte extinsă sau vine împreună cu alte simptome generale.
+
+Pielea dureroasă, caldă, care zemuiește sau face cruste galbene, mai ales cu febră, are nevoie de o evaluare mai rapidă.
+
+Dermatita seboreică nu este periculoasă, dar este persistentă. Înțelegerea faptului că revine, și nu că tratamentul „a eșuat”, schimbă felul în care este gestionată: un tratament de atac bine folosit, urmat de o întreținere constantă.
+
+## Dacă doriți o evaluare individuală
+
+Dacă doriți să lămuriți ce se află în spatele scuamelor sau al roșeței și să stabiliți un plan de tratament și de întreținere potrivit pentru dumneavoastră, puteți programa o consultație la Dr. Mădălina Iulia Lincu — [vedeți programul și locațiile](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare și clarificarea unei confuzii frecvente (de ce revine, diferențierea de mătreață, rozacee și psoriazis), cu accent pe întreținere.
+- Afirmații de confirmat clinic: prevalența 3–12% (DermNet); durata corticosteroizilor slabi „una-trei săptămâni” (DermNet); frecvența șamponului (AAD, context american); lista de boli și medicamente asociate (AAD).
+- Informații lipsă / de completat: disponibilitatea roflumilastului topic în România (marcat inline); opțional, recomandarea preferată pentru igiena pleoapelor.
+- Surse care nu au putut fi verificate: pagina NHS despre dermatita seboreică a returnat 404; studiile Cochrane din versiunea anterioară nu au fost deschise și au fost scoase din surse.

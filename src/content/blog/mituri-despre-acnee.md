@@ -1,135 +1,146 @@
 ---
-title: "Mituri despre acnee: ce este adevărat și ce nu"
-description: "Igiena, soarele, ciocolata, machiajul, pasta de dinți: demontăm cele mai frecvente mituri despre acnee și vezi ce tratamente au dovezi."
+title: "Mituri despre acnee: ce spun dovezile despre igienă, dietă și soare"
+description: "Murdăria, ciocolata, bronzul, pasta de dinți: verificăm cu dovezi cele mai răspândite mituri despre acnee și vedeți ce ajută de fapt pielea."
 pubDate: 2025-08-21
 updatedDate: 2026-10-01
 category: "afectiuni"
-tags: ["acnee", "mituri", "tratament acnee"]
+tags: ["acnee", "mituri", "îngrijirea pielii"]
 draft: true
 faq:
   - q: "Acneea apare din cauza lipsei de igienă?"
-    a: "Nu. Acneea apare din cauza producției crescute de sebum, a blocării porilor, a bacteriilor care trăiesc normal pe piele și a inflamației. Spălatul prea des sau cu produse agresive poate chiar agrava acneea."
-  - q: "Ciocolata și laptele provoacă acnee?"
-    a: "Legătura este modestă și nu e valabilă pentru toată lumea. Unele studii asociază dietele bogate în zaharuri rapide și consumul mare de lapte, mai ales degresat, cu acneea, dar nu există o dietă care să o vindece."
-  - q: "În cât timp funcționează un tratament pentru acnee?"
-    a: "De obicei sunt necesare 8–12 săptămâni de folosire constantă pentru o ameliorare clară. În primele săptămâni pielea poate fi iritată sau chiar să pară mai rea."
-  - q: "Acneea trece singură după adolescență?"
-    a: "Nu întotdeauna. Acneea poate persista sau poate apărea pentru prima dată la adulți, mai ales la femei. Tratată din timp, riscul de cicatrici și pete scade."
+    a: "Nu. Acneea pornește din porii blocați cu sebum și celule moarte, sub influența hormonilor și a predispoziției. Spălatul prea des sau cu produse aspre irită pielea și poate face acneea să arate mai rău."
+  - q: "Laptele și dulciurile agravează acneea?"
+    a: "Unele studii au găsit o asociere între consumul de lapte, inclusiv degresat, și acnee, iar câteva studii mici sugerează un beneficiu al dietei cu indice glicemic scăzut. Dovezile nu sunt suficiente pentru diete stricte, iar alimentația singură nu tratează acneea."
+  - q: "Bronzul ajută la acnee?"
+    a: "Bronzul mai degrabă maschează leziunile decât să le trateze. Expunerea intensă la soare crește riscul de cancer de piele, poate agrava acneea, iar unele tratamente pentru acnee fac pielea mai sensibilă la soare."
+  - q: "Este rău să stoarceți coșurile?"
+    a: "Stoarcerea poate împinge conținutul inflamat mai adânc, crește riscul de infecție, pete și cicatrici. Dacă aveți leziuni mari și dureroase, un dermatolog poate discuta opțiuni sigure."
 sources:
-  - title: "Guidelines of care for the management of acne vulgaris"
-    publisher: "Journal of the American Academy of Dermatology (Reynolds și colab., 2024)"
-  - title: "Acne vulgaris: management (NG198)"
-    publisher: "National Institute for Health and Care Excellence (NICE), 2021"
-    url: "https://www.nice.org.uk/guidance/ng198"
-  - title: "European evidence-based (S3) guideline for the treatment of acne – update 2016"
-    publisher: "Journal of the European Academy of Dermatology and Venereology (Nast și colab., 2016)"
-  - title: "Acne: Overview"
-    publisher: "American Academy of Dermatology"
+  - title: "Acne: Who gets and causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/causes/acne-causes"
+  - title: "Can the right diet get rid of acne?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/causes/diet"
+  - title: "10 skin care habits that can worsen acne"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/skin-care/habits-stop"
+  - title: "Pimple popping: Why only a dermatologist should do it"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/skin-care/popping"
+  - title: "Acne: Tips for managing"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/acne/skin-care/tips"
+  - title: "Acne"
+    publisher: "MedlinePlus Medical Encyclopedia, U.S. National Library of Medicine (accesat 17.11.2026)"
+    url: "https://medlineplus.gov/ency/article/000873.htm"
 ---
 
-Cele mai răspândite mituri despre acnee — că apare din lipsă de igienă, că soarele o vindecă, că trebuie „uscată” sau stoarsă — nu sunt susținute de dovezi și pot chiar agrava problema. Acneea este o boală inflamatorie a foliculului pilosebaceu, influențată de hormoni și de predispoziție, și răspunde bine la tratamente cu eficiență demonstrată, folosite constant câteva luni.
+Puține afecțiuni ale pielii au strâns atâtea sfaturi de familie ca acneea. Unele vin de la bunici („nu mai mânca ciocolată”), altele de pe internet („pune pastă de dinți peste noapte”), iar câteva par logice doar pentru că se repetă de mult.
+
+Pe scurt, cele mai răspândite mituri despre acnee nu rezistă când sunt comparate cu dovezile: acneea nu vine din murdărie, soarele nu o vindecă, iar „uscatul” pielii și stoarcerea coșurilor fac mai mult rău decât bine. Alimentația are un rol discutat, dar modest și diferit de la o persoană la alta. Mai jos le luăm pe rând, cu ce se știe și ce nu.
 
 ## Pe scurt
 
-- Acneea **nu este cauzată de murdărie** și nu se tratează prin spălat mai des.
-- **Soarele nu vindecă acneea**; poate lăsa pete mai închise și tratamentele cresc sensibilitatea la soare.
-- **Alimentația** poate avea un rol mic la unele persoane, dar nu este cauza principală.
-- **Stoarcerea coșurilor** crește riscul de cicatrici și pete.
-- Tratamentele eficiente (retinoizi, peroxid de benzoil, acid azelaic, medicație prescrisă) au nevoie de **8–12 săptămâni**.
+- Acneea nu este un semn de igienă precară; spălatul excesiv o poate agrava.
+- Bronzul ascunde leziunile pentru scurt timp, dar nu tratează acneea.
+- Legătura cu alimentația există pentru unele alimente, însă dovezile sunt limitate.
+- Stoarcerea coșurilor crește riscul de pete, infecție și cicatrici.
+- Tratamentele au nevoie de câteva săptămâni de folosire constantă înainte de a fi judecate.
 
-## De ce apare acneea, pe scurt
+## De unde pornește acneea, în două fraze
 
-Patru procese lucrează împreună:
+Acneea apare când porii se blochează cu sebum și celule moarte, iar în porul blocat se poate dezvolta inflamația. Hormonii, mai ales androgenii, stimulează glandele sebacee, iar predispoziția familială contează mult; restul factorilor pot agrava sau ameliora tabloul, dar rareori sunt cauza principală. Cu această imagine în minte, majoritatea miturilor de mai jos se lămuresc de la sine.
 
-1. **producție crescută de sebum**, sub influența hormonilor androgeni;
-2. **blocarea porilor** de celule moarte și sebum (comedoane — puncte negre și albe);
-3. **bacteria *Cutibacterium acnes***, care trăiește normal pe piele, dar se înmulțește în porii blocați;
-4. **inflamația**, care transformă comedoanele în papule, pustule sau noduli.
+## „Acneea vine din murdărie”
 
-Genetica, fluctuațiile hormonale, unele medicamente și cosmetice prea grase pot contribui. Pornind de aici, multe mituri se explică singure.
+Este probabil cel mai vechi mit și unul dintre cele mai nedrepte, pentru că îi face pe oameni să se simtă vinovați. Blocajul care duce la acnee se formează în interiorul porului, nu la suprafața unei pieli nespălate.
 
-## Mituri frecvente despre acnee
+Consecința practică este contraintuitivă: spălatul de multe ori pe zi, cu buretele sau cu produse aspre, irită pielea și poate face acneea să arate mai rău. AAD recomandă spălarea feței de cel mult două ori pe zi și după transpirație intensă, cu un produs blând, aplicat cu vârful degetelor.
 
-### Mitul 1: „Acneea apare din lipsă de igienă”
+## „Pielea cu acnee trebuie uscată”
 
-**Fals.** Punctele negre sunt negre din cauza oxidării sebumului, nu a murdăriei. Spălatul de mai multe ori pe zi, frecarea cu buretele sau produsele agresive irită pielea și pot agrava inflamația. De ajuns: curățare blândă de două ori pe zi și după transpirație intensă.
+Senzația de piele „curată până scârțâie” pare un semn bun, dar nu este. Astringentele, loțiunile cu alcool și frecarea usucă și irită pielea, iar pielea iritată tolerează mai greu tratamentele pentru acnee. Academia Americană de Dermatologie recomandă, pentru pielea cu acnee, produse blânde, fără alcool, și evitarea astringentelor, a tonicelor și a exfolianților, care pot usca pielea și pot face acneea să arate mai rău.
 
-### Mitul 2: „Soarele vindecă acneea”
+O cremă hidratantă potrivită pentru pielea predispusă la acnee nu „hrănește coșurile”; ajută pielea să suporte tratamentul. Despre locul exfolierii într-o rutină, cu avantajele și limitele ei, găsiți detalii în articolul despre [importanța exfolierii](/blog/importanta-exfolierii/).
 
-**Fals.** Pe moment, bronzul poate masca roșeața, iar pielea pare mai uscată. Dar radiațiile UV îngroașă stratul superficial al pielii, favorizează porii blocați și închid la culoare urmele lăsate de coșuri. Multe tratamente pentru acnee cresc și sensibilitatea la soare. Protecția solară, cu un produs lejer, non-comedogen, este parte din tratament — vezi [SPF pe scurt](/blog/spf-pe-scurt/).
+## „Soarele și bronzul usucă acneea”
 
-### Mitul 3: „Machiajul provoacă acnee”
+Vara, mulți observă că pielea arată mai bine. Explicația este mai degrabă optică: bronzul maschează roșeața, fără să trateze leziunile. MedlinePlus, enciclopedia medicală a Bibliotecii Naționale de Medicină a SUA, notează că o expunere mică la soare poate ameliora ușor acneea, dar bronzul în mare parte doar o ascunde.
 
-**Parțial adevărat.** Produsele foarte grase sau ocluzive pot bloca porii la persoanele predispuse. Machiajul lejer, etichetat „non-comedogen” (termen util, deși nestandardizat), îndepărtat seara cu un demachiant blând, este în general compatibil cu acneea și poate ajuta stima de sine în timpul tratamentului.
+Pe de altă parte, AAD atrage atenția că bronzarea, la soare sau la solar, crește riscul de cancer de piele și poate agrava acneea, iar unele tratamente pentru acnee fac pielea mai sensibilă la radiațiile ultraviolete. Recomandarea este protecția solară zilnică cu spectru larg, de preferat cu un produs etichetat „non-comedogen”.
 
-### Mitul 4: „Stoarcerea coșurilor le face să dispară mai repede”
+## „Ciocolata dă coșuri”
 
-**Fals.** Stoarcerea împinge conținutul inflamat mai adânc, prelungește vindecarea și crește riscul de **cicatrici** și de **pete postinflamatorii**. Leziunile mari, dureroase (noduli, chisturi) nu se stoarc niciodată; pot fi tratate de dermatolog.
+Aici răspunsul corect este „depinde de aliment și de persoană”, iar mitul are un sâmbure de adevăr, dar nu cel pe care îl credem.
 
-### Mitul 5: „Ciocolata și mâncarea grasă dau acnee”
+Despre ciocolată, nuci și mâncarea grasă, MedlinePlus arată că cercetările nu au demonstrat că acestea cauzează acnee. Pentru alte alimente, datele sunt mai interesante. AAD descrie mai multe studii care au asociat consumul de lapte de vacă, inclusiv lapte degresat, cu mai multe erupții; într-un studiu mare pe femei adulte, cele care beau zilnic cel puțin două pahare de lapte degresat aveau mai des acnee. Pentru iaurt și brânză nu s-au găsit studii care să arate o astfel de legătură.
 
-**Mai nuanțat decât pare.** Studiile arată o asociere modestă între acnee și **dietele cu indice glicemic mare** (dulciuri, produse din făină albă, băuturi îndulcite) și, la unele persoane, **consumul mare de lactate**, mai ales lapte degresat, precum și unele suplimente proteice din zer. Dovezile nu sunt suficient de puternice pentru diete stricte. Ghidurile actuale nu recomandă eliminarea unor alimente ca tratament; dacă observi un tipar clar, discută cu medicul.
+În privința dietei cu indice glicemic scăzut (mai puține dulciuri și produse din făină albă), câteva studii mici sugerează un beneficiu, dar alte studii nu au găsit o legătură, așa că sunt necesare cercetări suplimentare.
 
-### Mitul 6: „Pasta de dinți, lămâia sau alcoolul usucă bine coșurile”
+Ce se poate face, practic? AAD propune o abordare simplă: observați dacă un anumit aliment pare să fie urmat constant de erupții și ce se întâmplă când îl evitați o perioadă. Alimentația singură nu înlocuiește îngrijirea și tratamentul. Dacă luați în calcul eliminarea unor grupe întregi de alimente, discutați întâi cu medicul.
 
-**Fals și riscant.** Aceste remedii irită pielea, pot produce arsuri chimice și pete. Lămâia aplicată pe piele și expusă la soare poate da o reacție fototoxică. Pentru un coș izolat, un produs cu peroxid de benzoil sau acid salicilic este o variantă mult mai sigură.
+## „Stresul provoacă acneea”
 
-### Mitul 7: „Acneea e doar a adolescenților”
+Stresul nu pare să poată provoca, singur, acneea, însă poate agrava o acnee existentă. Perioadele aglomerate, cu somn puțin, sunt adesea cele în care pielea arată mai rău, dar asta nu înseamnă că acneea „e doar de la nervi” și că trece fără tratament când stresul scade.
 
-**Fals.** Acneea poate continua sau poate apărea pentru prima dată după 25 de ani, mai ales la femei, adesea pe linia maxilarului și pe bărbie. Detalii în [acneea la adulți](/blog/acneea-la-adulti/).
+## „Pasta de dinți usucă un coș peste noapte”
 
-### Mitul 8: „Trebuie s-o lași să treacă singură”
+Pasta de dinți nu este un tratament pentru acnee. AAD explică faptul că abrazivii, substanțele de albire, coloranții și aromele din compoziție pot irita pielea. Același lucru este valabil pentru alte remedii „din bucătărie” aplicate direct pe leziuni: zeama de lămâie, oțetul sau alcoolul. Iritația adăugată peste o leziune inflamată nu o face să se vindece mai repede.
 
-**Fals.** Chiar dacă se ameliorează cu vârsta, acneea netratată poate lăsa cicatrici permanente și poate afecta emoțional. Tratamentul precoce scade riscul de cicatrici.
+Pentru un produs aplicat pe piele, contează substanța activă, concentrația și modul de folosire. Câteva substanțe disponibile fără prescripție au dovezi pentru acneea ușoară; una dintre ele este [acidul salicilic](/blog/acidul-salicilic/), pe care îl prezentăm separat.
 
-### Mitul 9: „Un tratament bun funcționează în câteva zile”
+## „Un coș stors se vindecă mai repede”
 
-**Fals.** Majoritatea tratamentelor au nevoie de **8–12 săptămâni**. Retinoizii pot produce, în primele săptămâni, uscăciune și uneori o agravare temporară. Renunțarea prematură este una dintre cele mai frecvente cauze ale „eșecului” tratamentului.
+Tentația este de înțeles, mai ales înaintea unui eveniment. Stoarcerea poate însă împinge conținutul inflamat mai adânc în piele, cu mai multă inflamație și durere, poate aduce bacterii de pe mâini și crește riscul de pete închise la culoare și de cicatrici. Mai multe despre cum se formează acestea găsiți în articolul despre [cicatricile post-acnee](/blog/cicatricile-post-acnee/).
 
-### Mitul 10: „Antibioticele sunt soluția”
+Există alternative. Pentru un nodul dureros, AAD menționează gheața aplicată pentru a reduce umflătura. Dermatologul poate face extracția comedoanelor cu instrumente sterile, de regulă atunci când alte tratamente nu au fost suficiente, sau poate injecta un corticosteroid într-un nodul izolat, mare și dureros, care se aplatizează de obicei în 48–72 de ore. Această opțiune nu se potrivește pentru leziuni multiple.
 
-**Parțial.** Antibioticele (topice sau orale) pot ajuta în acneea inflamatorie, dar ghidurile recomandă **să nu fie folosite singure** și nici pe termen lung, din cauza rezistenței bacteriene. Se combină cu peroxid de benzoil și/sau retinoizi, pe o perioadă limitată, la recomandarea medicului.
+## „Machiajul trebuie evitat complet”
 
-### Mitul 11: „Isotretinoina e prea periculoasă”
+Nu neapărat. Produsele grase sau ocluzive pot bloca porii la persoanele predispuse, dar machiajul etichetat „non-comedogen” este, în general, compatibil cu pielea cu acnee. Contează câteva obiceiuri: demachierea în fiecare seară (chiar și produsele non-comedogene pot contribui la erupții dacă rămân pe piele peste noapte) și evitarea împrumutului de pensule și bureței.
 
-**Nuanțat.** Isotretinoina orală este unul dintre cele mai eficiente tratamente pentru acneea severă sau rezistentă. Are efecte adverse cunoscute, de aceea se prescrie și se monitorizează de medic. Este **strict interzisă în sarcină** (risc foarte mare de malformații), iar femeile trebuie să folosească o contracepție eficientă, conform programului de prevenire a sarcinii. Schimbările de dispoziție trebuie semnalate imediat medicului.
+## „Produsele de păr nu au legătură cu fruntea”
 
-### Mitul 12: „Pielea grasă cu acnee nu are nevoie de cremă hidratantă”
+Au, uneori. Sebumul din părul gras și produsele de coafat pe bază de uleiuri sau ceruri pot ajunge pe frunte și la tâmple și pot contribui la erupții în aceste zone. AAD recomandă ca părul gras să fie spălat mai des și ținut departe de față, iar MedlinePlus sfătuiește spălarea zilnică a părului gras. Dacă acneea apare mai ales la linia părului sau sub breton, merită verificate întâi produsele de păr, înainte de a schimba ceva în îngrijirea feței.
 
-**Fals.** Tratamentele pentru acnee usucă și irită, iar o piele iritată tolerează mai prost tratamentul. O cremă hidratantă ușoară, fără parfum, non-comedogenă, ajută la continuarea tratamentului fără întreruperi.
+## „E suficient să tratez coșul care se vede”
 
-### Mitul 13: „Acneea este contagioasă”
+Aplicarea unui produs doar pe leziunea vizibilă nu previne apariția altora. Tratamentele pentru acnee se aplică, de regulă, în strat subțire pe toată zona predispusă, pentru că acolo se formează deja blocajele care vor deveni coșurile de săptămâna viitoare.
 
-**Fals.** Acneea nu se ia prin atingere, prosoape sau sărut. Totuși, prosoapele și fețele de pernă curate, schimbate des, sunt un obicei bun pentru orice piele.
+## „Dacă nu merge într-o săptămână, schimb produsul”
 
-### Mitul 14: „Mai multe produse anti-acnee deodată dau rezultate mai rapide”
+Schimbarea produselor la câteva zile este unul dintre motivele frecvente pentru care acneea pare „rezistentă la orice”. Pielea se irită de la fiecare produs nou, iar niciunul nu apucă să acționeze. AAD recomandă ca un tratament să fie folosit 6–8 săptămâni înainte de a-l judeca, iar MedlinePlus vorbește tot despre 6–8 săptămâni pentru un răspuns.
 
-**Fals.** Combinarea la întâmplare a acizilor, a retinoizilor și a peroxidului de benzoil irită pielea și poate agrava inflamația. Combinațiile eficiente există, dar se aleg cu medicul și se introduc treptat.
+## „Acneea e a adolescenților și trece singură”
 
-## Ce funcționează cu adevărat
+Acneea poate persista după adolescență sau poate apărea pentru prima dată la vârsta adultă; detaliile sunt în articolul despre [acneea la adulți](/blog/acneea-la-adulti/). Chiar dacă unele forme se atenuează în timp, așteptarea poate costa: leziunile profunde, netratate, pot lăsa cicatrici, iar riscul este mai mare dacă în familie există persoane cu cicatrici post-acnee.
 
-| Tratament | Cum ajută | De reținut |
-|---|---|---|
-| Retinoizi topici (adapalen, tretinoină etc.) | Desfundă porii, previn comedoanele, reduc inflamația | Pot usca la început; nu se folosesc în sarcină |
-| Peroxid de benzoil | Reduce bacteriile, fără risc de rezistență | Poate decolora textilele |
-| Acid azelaic | Antiinflamator, ajută și petele | Bine tolerat, util și în sarcină la recomandarea medicului |
-| Acid salicilic | Exfoliază porii | Util în forme ușoare, cu comedoane |
-| Antibiotice topice/orale | Reduc inflamația | Doar în combinație și pe termen limitat |
-| Tratamente hormonale (la femei) | Reduc efectul androgenilor | Prescrise și monitorizate de medic |
-| Isotretinoină orală | Reduce puternic sebumul | Acnee severă/rezistentă; monitorizare strictă |
+## Ce rămâne după ce dăm la o parte miturile
 
-Pe lângă tratament: **curățare blândă**, **cremă hidratantă non-comedogenă** și **protecție solară zilnică**. Pentru pași concreți, vezi și [top 5 greșeli în îngrijirea pielii](/blog/top-5-greseli-in-ingrijirea-pielii/).
+Rămân câteva lucruri simple și deloc spectaculoase: curățare blândă, produse care nu blochează porii, protecție solară, mâinile departe de leziuni și răbdare cu un tratament ales corect. Pentru acneea ușoară, acestea pot fi suficiente. Pentru acneea moderată sau severă, sunt doar fundalul pe care acționează tratamentul recomandat de medic.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Un articol despre mituri poate clarifica idei generale, dar nu poate spune ce tip de acnee aveți, ce o întreține sau ce tratament este potrivit. Acestea se stabilesc la examinare, ținând cont de istoricul dumneavoastră.
 
-## Când să mergi la dermatolog
+## Când poate fi util un consult dermatologic?
 
-Programează o consultație dacă:
+Merită discutat cu un dermatolog dacă:
 
-- ai **noduli sau chisturi** dureroase, adânci;
-- acneea **lasă cicatrici** sau pete închise la culoare;
-- nu vezi ameliorare după **2–3 luni** de tratament corect cu produse fără prescripție;
-- acneea a apărut brusc la vârstă adultă, mai ales însoțită de **menstruații neregulate, păr în exces sau cădere a părului**;
-- acneea apare după începerea unui medicament nou;
-- acneea te afectează emoțional, îți influențează somnul, relațiile sau stima de sine;
-- ai febră, dureri articulare și leziuni care se ulcerează brusc (rar, forme severe care necesită evaluare urgentă).
+- apar leziuni profunde, dureroase (noduli sau chisturi), care pot lăsa cicatrici;
+- produsele fără prescripție, folosite corect câteva luni, nu au adus o ameliorare;
+- rămân pete sau adâncituri după vindecarea coșurilor;
+- vă întrebați dacă un aliment, un medicament sau un produs cosmetic vă influențează pielea;
+- acneea vă afectează încrederea în sine sau viața de zi cu zi.
+
+Acneea nu este un semn de neglijență și nici o problemă de voință. Este o afecțiune frecventă a pielii, cu mecanisme cunoscute, iar informația corectă vă ajută să evitați eforturile care o agravează.
+
+## Pentru o discuție despre situația dumneavoastră
+
+Dacă doriți să lămuriți ce tip de acnee aveți și ce are sens să încercați, fără experimente succesive, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Detaliile sunt pe pagina cu [programul și locațiile](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: clarificarea miturilor; articolul din serie care demontează ideile greșite, fără să repete tratamentele detaliate din „Acneea la adulți” (trimite acolo prin link).
+- Afirmații de confirmat clinic: datele AAD despre laptele degresat și dieta cu indice glicemic scăzut (prezentate fără procente); injecția cu corticosteroid într-un nodul izolat și intervalul de 48–72 de ore (AAD); recomandarea AAD de a evita tonicele astringente și exfolianții la pielea cu acnee, formulată nuanțat pentru a nu contrazice articolul despre acidul salicilic.
+- Informații lipsă / de completat: nu am inclus mitul „acneea este contagioasă” și explicația culorii punctelor negre, pentru că nu le-am putut verifica în sursele deschise; le puteți adăuga dacă le considerați utile.
+- Surse care nu au putut fi verificate: ghidurile JAAD 2024, NICE NG198 și EuroGuiDerm din versiunea anterioară nu au fost redeschise și au fost scoase din listă.

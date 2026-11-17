@@ -1,157 +1,146 @@
 ---
-title: "Micoza unghiilor: cum o recunoști și cum se tratează corect"
-description: "Ce este onicomicoza, de ce trebuie confirmată prin analiză înainte de tratament, ce opțiuni există și cât durează vindecarea."
+title: "Micoza unghiilor: cum se confirmă și de ce tratamentul durează mult"
+description: "Cum arată micoza unghiilor, de ce diagnosticul se confirmă înaintea tratamentului, ce opțiuni există și de ce rezultatul se vede abia în luni."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["micoză", "unghii", "onicomicoză", "ciuperci"]
+tags: ["micoza unghiilor", "onicomicoză", "unghii", "infecții fungice"]
 draft: true
 faq:
-  - q: "Cum îmi dau seama dacă am micoză la unghii?"
-    a: "Unghia devine de obicei îngroșată, gălbuie sau albicioasă, friabilă și se poate desprinde de pat. Aceleași modificări pot apărea însă și în psoriazis sau după traumatisme, așa că diagnosticul sigur se pune printr-o analiză micologică."
-  - q: "Cât durează tratamentul micozei unghiilor?"
-    a: "Tratamentul durează de obicei câteva luni, iar aspectul se normalizează abia când crește o unghie nouă, sănătoasă. La unghiile de la picioare, asta poate dura un an sau chiar mai mult."
   - q: "Micoza unghiilor trece singură?"
-    a: "Foarte rar. Netratată, de obicei se extinde lent la alte unghii și poate afecta și pielea picioarelor. Nu orice micoză ușoară trebuie însă tratată agresiv; decizia se ia împreună cu medicul."
-  - q: "Se poate transmite micoza unghiilor?"
-    a: "Da, ciupercile se pot transmite prin pardoseli umede (piscine, vestiare, dușuri comune), încălțăminte, prosoape și instrumente de pedichiură folosite în comun."
+    a: "Aproape niciodată. Netratată, de obicei persistă și se poate extinde la alte unghii. Totuși, nu orice micoză ușoară și nedureroasă trebuie tratată; decizia se ia împreună cu medicul."
+  - q: "De ce este nevoie de o analiză înainte de tratament?"
+    a: "Pentru că psoriazisul unghial, traumatismele repetate și alte afecțiuni pot arăta foarte asemănător. Analiza unui fragment de unghie la microscop și în cultură confirmă dacă este vorba de o ciupercă și evită un tratament lung care nu ar ajuta."
+  - q: "Cât durează până arată normal unghia?"
+    a: "Tratamentul oprește infecția, dar partea deja afectată trebuie să crească și să fie tăiată. La unghiile de la picioare, asta poate dura un an sau mai mult, iar unghiile foarte deteriorate nu își recapătă întotdeauna aspectul anterior."
   - q: "Laserul vindecă micoza unghiilor?"
-    a: "Dovezile pentru tratamentul cu laser sunt încă limitate și de calitate scăzută. Ghidurile actuale nu îl recomandă ca primă opțiune în locul tratamentelor antifungice dovedite."
+    a: "Dovezile sunt încă limitate. Academia Americană de Dermatologie arată că, în SUA, niciun laser nu este aprobat pentru tratarea infecției în sine, ci doar pentru îmbunătățirea temporară a aspectului unghiei."
 sources:
-  - title: "British Association of Dermatologists' guidelines for the management of onychomycosis 2014"
-    publisher: "British Journal of Dermatology (British Association of Dermatologists)"
+  - title: "Nail Fungus: FAQs"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/nail-fungus-overview"
+  - title: "Nail fungus: Signs and symptoms"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/nail-fungus-symptoms"
+  - title: "Nail fungus: Causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/nail-fungus-causes"
+  - title: "Nail fungus: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/nail-fungus-treatment"
   - title: "Fungal nail infection"
-    publisher: "NHS (National Health Service, Marea Britanie)"
+    publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/fungal-nail-infection/"
-  - title: "Tinea unguium (fungal nail infection)"
-    publisher: "DermNet"
-  - title: "Nail fungus: diagnosis and treatment"
-    publisher: "American Academy of Dermatology"
+  - title: "Fungal nail infections"
+    publisher: "British Association of Dermatologists, Patient Hub (accesat 17.11.2026)"
+    url: "https://skinhealthinfo.org.uk/condition/fungal-infections-of-the-nails/"
 ---
 
-Micoza unghiilor (onicomicoza) este o infecție a unghiei produsă de ciuperci microscopice, cel mai des de dermatofiți, care face unghia îngroșată, decolorată și friabilă. Afectează mult mai frecvent unghiile de la picioare decât pe cele de la mâini și nu trece de obicei singură. Pentru că și alte boli arată la fel, tratamentul ar trebui început după confirmarea diagnosticului printr-o analiză micologică.
+Vine vara, apar sandalele și, odată cu ele, întrebarea: de ce unghia de la degetul mare a devenit gălbuie, groasă și se sfărâmă la tăiat? Micoza unghiilor, numită medical onicomicoză, este o infecție a unghiei produsă de ciuperci microscopice. Afectează mult mai des unghiile de la picioare decât pe cele de la mâini, aproape niciodată nu trece singură și se tratează în luni, nu în săptămâni. Pentru că psoriazisul, loviturile repetate și alte probleme pot arăta la fel, diagnosticul se confirmă, de regulă, printr-o analiză a unui fragment de unghie înainte de începerea unui tratament.
 
-## Pe scurt
+Partea mai puțin comodă este că, și atunci când tratamentul funcționează, unghia își schimbă aspectul încet, odată cu creșterea ei. Mai jos găsiți de ce, ce opțiuni există și cum reduceți riscul ca infecția să revină.
 
-- Onicomicoza este frecventă și devine mai des întâlnită odată cu vârsta.
-- Nu orice unghie îngroșată sau galbenă are micoză: psoriazisul, traumatismele repetate sau alte boli pot da același aspect.
-- Diagnosticul se confirmă prin examen micologic (microscopie, cultură sau test molecular din fragmente de unghie).
-- Formele ușoare pot fi tratate local; formele extinse au nevoie, de obicei, de tratament oral prescris și monitorizat de medic.
-- Vindecarea vizibilă durează luni, iar recidivele sunt frecvente, așa că prevenția contează.
+## O infecție frecventă, mai ales după o anumită vârstă
 
-## Ce este micoza unghiilor
+Cele mai multe micoze ale unghiilor sunt produse de dermatofiți, aceleași ciuperci care provoacă „piciorul de atlet”, adică micoza dintre degete și de pe tălpi. Mai rar, vinovate sunt levurile de tip *Candida* sau alte mucegaiuri. Asociația Britanică a Dermatologilor (BAD) estimează că aproximativ o persoană din patru are, la un moment dat, o infecție fungică a unghiilor, cel mai des la picioare.
 
-Onicomicoza înseamnă infecția unghiei cu ciuperci. Cele mai frecvente sunt **dermatofiții** – aceleași ciuperci care produc „piciorul de atlet” (micoza dintre degete). Mai rar, infecția este produsă de **levuri** (de tip *Candida*), mai ales la unghiile de la mâini și la persoanele care țin des mâinile în apă, sau de **mucegaiuri** (fungi nedermatofiți).
-
-Ciupercile pătrund de obicei pe la marginea liberă a unghiei sau pe la margini și se extind spre rădăcină. Unghia devine un mediu protejat în care infecția persistă ani de zile dacă nu este tratată.
+Riscul crește cu vârsta. Academia Americană de Dermatologie (AAD) arată că aproximativ jumătate dintre persoanele de peste 70 de ani dezvoltă micoză unghială, în timp ce la copii este rară.
 
 ## Cum arată
 
-Semnele cele mai frecvente sunt:
+Primul semn este, de obicei, o schimbare de culoare într-o parte a unghiei: gălbuie, albă sau maronie, mai rar portocalie sau verzui-neagră. Modificarea pornește adesea de la marginea liberă a unghiei și înaintează spre cuticulă. Cu timpul, unghia:
 
-- **decolorarea unghiei** – galbenă, albă, maronie, uneori cu dungi;
-- **îngroșarea** unghiei și acumularea de material sfărâmicios sub ea;
-- **friabilitatea** – unghia se rupe sau se sfărâmă ușor;
-- **desprinderea unghiei** de pe pat (onicoliză);
-- uneori **pete albe superficiale** pe suprafața unghiei;
-- disconfort la încălțăminte strâmtă sau la tăierea unghiilor.
+- se îngroașă și se deformează;
+- devine casantă, se crapă sau se sfărâmă;
+- adună sub ea un material sfărâmicios;
+- se desprinde parțial de patul unghial.
 
-Adesea există și micoză a pielii picioarelor: descuamare fină pe tălpi sau fisuri și mâncărime între degete.
+AAD observă că, la persoanele cu pielea închisă la culoare, unghia îngroșată are adesea o nuanță maronie, iar la cele cu pielea deschisă, una gălbuie. Uneori, pielea din jurul unghiei se înroșește sau, pe pielea mai închisă, se închide la culoare.
 
-### Ce poate semăna cu micoza
+Există și o formă în care pe suprafața unghiei apar zone albe, ca o pulbere, iar unghia pare mai moale și mai subțire. Micoza este de obicei nedureroasă, dar o unghie foarte groasă poate deranja în pantofi și poate face mersul neplăcut.
 
-Potrivit ghidului Asociației Britanice a Dermatologilor, aproximativ jumătate dintre unghiile cu aspect „bolnav” nu au, de fapt, o infecție fungică. Cele mai frecvente confuzii sunt:
+## Nu orice unghie îngroșată are micoză
 
-- **psoriazisul unghial** – mici depresiuni („puncte de ac”), pete „de ulei”, desprinderea unghiei; vezi și articolul despre [psoriazis](/blog/psoriazis/);
-- **traumatismele repetate** – încălțăminte strâmtă, sport, degete suprapuse;
-- **lichenul plan** al unghiilor;
-- rar, **tumori** ale unghiei sau ale patului unghial, inclusiv melanomul unghial, care se poate prezenta ca o dungă maronie-neagră.
+Aici apare cea mai frecventă capcană. Atât AAD, cât și BAD subliniază că aspectul singur nu este suficient pentru diagnostic. **Psoriazisul unghial** poate da unghii îngroșate, desprinse, decolorate. **Traumatismele repetate**, de la pantofi strâmți la sport sau la degete suprapuse, pot produce exact aceleași modificări. Dacă aveți psoriazis pe piele, merită să îi spuneți medicului; detalii găsiți în articolul despre [psoriazis](/blog/psoriazis/).
 
-Din acest motiv, tratamentul „pe ghicite” nu este o idee bună: un tratament antifungic de luni de zile nu ajută dacă problema nu este o ciupercă.
+Există și o situație rară, dar importantă: o dungă maro sau neagră în unghie, care nu se explică printr-o lovitură, mai ales dacă se lățește sau pigmentul trece pe pielea din jur. AAD o numără printre semnele care trebuie arătate dermatologului, pentru că poate fi, rar, un melanom al unghiei. Semnele de acest tip sunt descrise în articolul despre [semnele de alarmă ale alunițelor](/blog/alunite-semne-de-alarma/).
 
-## Cine are risc mai mare
+## Cum se confirmă diagnosticul
 
-- persoanele în vârstă (unghiile cresc mai lent, circulația este mai slabă);
-- persoanele cu **diabet** sau cu circulație periferică deficitară;
-- persoanele cu **imunitate scăzută**;
-- sportivii și cei care frecventează des piscine, saune, vestiare;
-- cei care transpiră mult la picioare – vezi și [hiperhidroza](/blog/hiperhidroza/);
-- persoanele cu psoriazis sau cu traumatisme repetate ale unghiilor;
-- cei care au deja micoză la picioare sau membri ai familiei cu onicomicoză.
+Medicul examinează unghiile, pielea picioarelor și vă întreabă despre istoricul problemei. Pentru confirmare, recoltează un fragment de unghie sau materialul de sub ea, fie prin tăiere, fie prin răzuire. Proba este examinată la microscop și, de obicei, pusă în cultură, pentru a identifica tipul de ciupercă. BAD precizează că rezultatul culturii poate dura câteva săptămâni și că uneori este nevoie de o a doua probă.
 
-## Cum se pune diagnosticul
+Dacă ați aplicat recent un lac sau o soluție antifungică pe unghie, spuneți-i medicului: un tratament local recent poate influența rezultatul analizei. [TODO: de confirmat de medic — intervalul de pauză recomandat înaintea recoltării]
 
-Medicul dermatolog examinează unghiile (uneori cu dermatoscopul – vezi [dermatoscopia](/blog/dermatoscopia/)) și pielea picioarelor. Pentru confirmare se recoltează fragmente din unghie și material de sub ea, care se analizează prin:
+Analiza nu este un formalism. Un tratament antifungic durează luni, iar cel sub formă de comprimate necesită analize de sânge și atenție la interacțiuni. Merită pornit doar atunci când știți că problema este, într-adevăr, o ciupercă.
 
-- **examen microscopic direct** – arată dacă există elemente fungice;
-- **cultură** – identifică tipul de ciupercă (rezultatul poate dura câteva săptămâni);
-- **teste moleculare (PCR)**, acolo unde sunt disponibile – rapide și sensibile;
-- uneori **examen histopatologic** al unei bucăți de unghie.
+## Cine are un risc mai mare
 
-Ideal, recoltarea se face după o pauză de câteva săptămâni de la orice tratament antifungic aplicat pe unghie, pentru a nu da rezultate fals negative. Medicul îți va spune cât să aștepți.
+AAD enumeră mai mulți factori care cresc riscul:
 
-## Cum se tratează micoza unghiilor
+- o micoză anterioară, o lovitură la unghie sau un deget deformat (de exemplu prin „monturi”);
+- unghiile lăsate lungi sau tăiate incorect;
+- instrumentele de pedichiură folosite în comun fără dezinfectare;
+- pantofii strâmți sau cei în care piciorul transpiră mult;
+- mersul desculț în vestiare, dușuri comune și în jurul piscinelor;
+- piciorul de atlet, transpirația excesivă (vezi [hiperhidroza](/blog/hiperhidroza/)) sau psoriazisul;
+- diabetul, circulația deficitară, imunitatea scăzută, obezitatea;
+- rudele cu micoză a unghiilor.
 
-Alegerea tratamentului depinde de numărul de unghii afectate, de cât din unghie este implicat (mai ales dacă infecția a ajuns la rădăcină), de tipul de ciupercă, de vârstă, de alte boli și de medicamentele pe care le iei.
+## Trebuie tratată întotdeauna?
 
-| Opțiune | Când se folosește | De reținut |
-|---|---|---|
-| Lacuri / soluții antifungice (de ex. amorolfină, ciclopirox) | Forme ușoare, puține unghii, fără afectarea rădăcinii | Aplicare constantă luni de zile; eficiență mai mică decât tratamentul oral |
-| Antifungice orale (de ex. terbinafină, itraconazol) | Forme moderate sau severe, mai multe unghii, afectarea rădăcinii | Pe rețetă; necesită evaluare și uneori analize de sânge; pot interacționa cu alte medicamente |
-| Îndepărtarea țesutului infectat (debridare) | Unghii foarte groase, dureroase | Asociată cu tratamentul local sau oral, crește eficiența |
-| Laser, terapie fotodinamică | Situații selectate | Dovezi limitate; nu înlocuiesc tratamentul standard |
+Nu neapărat. BAD arată că o unghie afectată care nu doare și nu creează probleme poate fi lăsată netratată, cu condiția ca persoana să înțeleagă că infecția nu va dispărea singură. Tratamentul are sens atunci când unghia deranjează, doare, încurcă activitățile zilnice sau când există un risc mai mare de complicații, de exemplu la persoanele cu diabet sau cu circulație slabă, la care o infecție a piciorului poate deveni mai serioasă.
 
-### Tratamentul local
+## Opțiunile de tratament
 
-Lacurile și soluțiile antifungice se aplică pe unghie conform indicațiilor, de obicei luni de zile, până la creșterea unei unghii sănătoase. Pilirea suprafeței unghiei înaintea aplicării ajută produsul să pătrundă. Pot fi suficiente în formele ușoare sau pot fi combinate cu tratamentul oral.
+**Tratamentul local** se aplică direct pe unghie, sub formă de lac sau soluție antifungică (de exemplu cu amorolfină sau ciclopirox). Este potrivit mai ales pentru infecțiile la început, care ocupă mai puțin de jumătate din unghie. NHS precizează că este nevoie, de regulă, de 6 până la 12 luni de aplicare constantă. Pilirea suprafeței unghiei și îndepărtarea porțiunilor îngroșate ajută produsul să pătrundă.
 
-### Tratamentul oral
+**Tratamentul sub formă de comprimate** este mai eficient și este, de obicei, necesar în infecțiile extinse sau atunci când este afectată baza unghiei. Substanțele folosite cel mai des sunt terbinafina și itraconazolul. Se eliberează doar pe bază de rețetă, după confirmarea diagnosticului. Înaintea tratamentului se fac, de obicei, analize de sânge, pentru că aceste medicamente pot afecta, rar, ficatul și pot interacționa cu alte medicamente. Nu sunt potrivite pentru toată lumea: bolile de ficat sau de rinichi, sarcina și alăptarea pot fi contraindicații. Schema și durata le stabilește medicul.
 
-Antifungicele orale au cea mai mare rată de vindecare, în special **terbinafina**, care este de obicei prima alegere pentru infecțiile cu dermatofiți. **Itraconazolul** este o alternativă, utilă și în unele infecții cu levuri sau mucegaiuri. Ambele:
+**Combinația** dintre tratamentul local și cel oral poate îmbunătăți rezultatele, iar în cazurile cu unghii foarte groase sau dureroase, medicul poate propune subțierea unghiei ori, rar, îndepărtarea ei sub anestezie locală.
 
-- se iau doar la recomandarea medicului, care stabilește schema și durata;
-- pot afecta, rar, ficatul, motiv pentru care medicul poate cere analize înainte sau în timpul tratamentului;
-- pot interacționa cu alte medicamente (de exemplu unele medicamente pentru inimă, colesterol sau tratamente psihiatrice) – spune-i medicului tot ce iei;
-- nu sunt potrivite în anumite situații, cum ar fi sarcina, unele boli de ficat sau, în cazul itraconazolului, insuficiența cardiacă.
+**Laserul** este promovat frecvent, dar AAD precizează că, în SUA, niciun laser nu este aprobat pentru tratarea infecției în sine, ci doar pentru îmbunătățirea temporară a aspectului unghiei. Cât despre remediile din bucătărie și uleiurile esențiale, BAD arată că nu există dovezi bune și consecvente că ar fi sigure sau mai eficiente decât tratamentele obișnuite.
 
-Dacă în timpul tratamentului apar îngălbenirea pielii sau a ochilor, urină închisă la culoare, oboseală neobișnuită, greață persistentă sau o erupție extinsă, oprește medicamentul și contactează medicul.
+Un detaliu des uitat: dacă există și micoză între degete sau pe tălpi, ea trebuie tratată în paralel. Altfel, ciuperca se poate întoarce în unghie.
 
-### Tratează și pielea picioarelor
+## De ce rezultatul se vede abia după luni
 
-Dacă ai și micoză între degete sau pe tălpi, aceasta trebuie tratată în paralel; altfel, unghiile se pot reinfecta.
+Tratamentul oprește ciuperca, dar nu „repară” porțiunea de unghie deja afectată. Aceasta trebuie să crească și să fie tăiată treptat, iar unghiile cresc încet. BAD estimează că, la picioare, vindecarea vizibilă poate dura 12 până la 18 luni, iar la mâini 9 până la 12 luni. Unghiile foarte deteriorate, mai ales când a fost afectată zona de creștere de la bază, pot să nu își recapete complet aspectul de dinainte, chiar dacă infecția a dispărut.
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+În această perioadă, răbdarea contează. Oprirea tratamentului doar pentru că unghia „arată mai bine” poate lăsa infecția nevindecată.
 
-## Cât durează până se vede rezultatul
+## Recidiva și prevenția
 
-Tratamentul oprește infecția, dar partea deja afectată a unghiei nu „se repară”: trebuie să crească o unghie nouă. Unghiile de la mâini se reînnoiesc în aproximativ 6 luni, iar cele de la picioare în 12–18 luni. De aceea, chiar dacă tratamentul funcționează, aspectul se îmbunătățește treptat, de la rădăcină spre vârf.
+Reinfecția este frecventă, chiar și după un tratament reușit, mai ales la unghiile de la picioare. AAD menționează că, la unele persoane, de exemplu cele cu diabet sau cu probleme de circulație, medicul poate recomanda un tratament local de întreținere după vindecare. Măsurile simple de zi cu zi ajută și ele:
 
-## Ce poți face acasă
+- țineți unghiile scurte, curate și uscate și folosiți instrumente separate pentru unghiile afectate;
+- uscați bine picioarele, inclusiv între degete, și schimbați zilnic șosetele, de preferat din bumbac;
+- alternați încălțămintea și înlocuiți pantofii vechi;
+- purtați papuci în dușurile și vestiarele comune;
+- tratați din timp micoza piciorului.
 
-- **Ține picioarele uscate**: șterge bine între degete după duș, schimbă zilnic șosetele, preferă materiale care absorb transpirația.
-- **Alternează încălțămintea** și las-o să se usuce; poți folosi pudre antifungice în pantofi.
-- **Poartă papuci** în piscine, saune, vestiare și dușuri comune.
-- **Nu folosi în comun** prosoape, șosete, încălțăminte sau forfecuțe și pile de unghii.
-- **Taie unghiile drept** și scurt, cu instrumente proprii, curățate după folosire.
-- **Alege saloane** care sterilizează instrumentele între clienți.
-- **Fii consecvent** cu tratamentul local – rezultatele apar doar cu aplicare regulată, luni de zile.
+Micoza unghiilor nu este singura infecție fungică frecventă a pielii, dar nici nu seamănă cu celelalte. Una dintre ele, care produce pete pe trunchi și nu are legătură cu unghiile, este descrisă în articolul despre [pitiriazis versicolor](/blog/pitiriazis-versicolor/).
 
-## Mituri despre micoza unghiilor
+## Când poate fi util un consult dermatologic?
 
-- **„Oțetul, uleiurile esențiale sau bicarbonatul vindecă micoza.”** Nu există dovezi solide că remediile casnice vindecă onicomicoza, iar unele pot irita pielea.
-- **„Dacă unghia arată mai bine după o lună, pot opri tratamentul.”** Oprirea prea devreme este o cauză frecventă de eșec și recidivă.
-- **„Orice unghie îngroșată e micoză.”** Fals – o parte importantă sunt psoriazis, traumatisme sau alte boli.
-- **„E doar o problemă estetică.”** La persoanele cu diabet sau cu circulație slabă, micoza poate favoriza răni și infecții bacteriene ale piciorului.
+O evaluare este potrivită dacă:
 
-## Când să mergi la dermatolog
+- nu sunteți sigur că modificarea unghiei este o micoză;
+- sunt afectate mai multe unghii sau infecția a ajuns aproape de baza unghiei;
+- tratamentul din farmacie, folosit corect câteva luni, nu a ajutat;
+- aveți diabet, circulație slabă sau imunitate scăzută;
+- apar durere, roșeață sau umflătură în jurul unghiei;
+- observați o dungă închisă la culoare în unghie, fără o lovitură care să o explice.
 
-Mergi la consult dacă:
+Pentru alte motive frecvente de consult, citiți și [când să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
 
-- **nu ești sigur** că modificarea unghiei este o micoză;
-- sunt afectate **mai multe unghii** sau infecția a ajuns aproape de rădăcină;
-- ai **diabet**, circulație slabă sau imunitate scăzută – în aceste cazuri, nu amâna;
-- apare **durere, roșeață, umflătură sau puroi** în jurul unghiei;
-- observi o **dungă maronie sau neagră** în unghie, mai ales dacă se lățește, sau pigment care trece pe pielea din jur – necesită evaluare rapidă;
-- unghia se **deformează sau sângerează** fără o lovitură evidentă;
-- tratamentul local folosit corect câteva luni **nu a dat niciun rezultat**.
+Micoza unghiilor nu este o urgență, dar nici o problemă care dispare de la sine. Diagnosticul confirmat, un tratament ales în funcție de extinderea infecției și multă răbdare sunt, de obicei, cele care fac diferența.
 
-Pentru o imagine de ansamblu asupra semnelor care merită un consult, citește și [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+## Dacă doriți o evaluare individuală
+
+Dacă aveți unghii modificate și doriți să aflați dacă este vorba de o micoză sau de altceva, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Veți putea discuta ce investigații sunt utile și ce opțiuni de tratament se potrivesc situației dumneavoastră. [Programul și locațiile](/program/) sunt disponibile online.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: clarificarea unui mit („orice unghie îngroșată e micoză”) și explicarea realistă a duratei tratamentului; recunoașterea momentului potrivit pentru consult.
+- Afirmații de confirmat clinic: prevalența „o persoană din patru” (BAD) și „aproximativ jumătate dintre persoanele de peste 70 de ani” (AAD); duratele de vindecare vizibilă 12–18 luni la picioare și 9–12 luni la mâini (BAD); contraindicațiile antifungicelor orale, formulate general; disponibilitatea examenului micologic cu cultură în laboratoarele din București.
+- Informații lipsă / de completat: intervalul de pauză de la tratamentul local înaintea recoltării (marcat inline); fără doze sau durate ale tratamentului oral, conform regulilor. Afirmația din versiunea anterioară („aproximativ jumătate dintre unghiile cu aspect bolnav nu au micoză”, ghidul BAD 2014) a fost scoasă, ghidul nefiind redeschis.
+- Surse care nu au putut fi verificate: ghidul BAD 2014 pentru onicomicoză (doar pagina pentru pacienți a fost deschisă); DermNet (acces blocat din rețea).

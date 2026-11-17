@@ -1,172 +1,144 @@
 ---
-title: "Hiperhidroza (transpirația excesivă): cauze și tratamente"
-description: "Ce este hiperhidroza, cum deosebești forma primară de cea secundară, ce tratamente există, de la antiperspirante la toxina botulinică."
+title: "Hiperhidroza: când transpirația este prea multă și ce opțiuni există"
+description: "Cum se deosebește transpirația excesivă de cea normală, ce o poate cauza și ce tratamente există, de la antiperspirante la proceduri făcute de medic."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["hiperhidroză", "transpirație", "axile", "tratament"]
+tags: ["hiperhidroză", "transpirație excesivă", "axile", "tratament"]
 draft: true
 faq:
-  - q: "Cum îmi dau seama dacă transpir prea mult?"
-    a: "Vorbim de hiperhidroză când transpirația este mai mare decât e necesar pentru răcirea corpului și îți afectează viața de zi cu zi: îți udă hainele, îți alunecă obiectele din mâini sau eviți anumite situații din cauza ei."
+  - q: "Când este transpirația considerată excesivă?"
+    a: "Vorbim de hiperhidroză atunci când transpirați mult și fără ca organismul să aibă nevoie de răcire, de exemplu în repaus sau la temperaturi plăcute, și când acest lucru vă afectează activitățile de zi cu zi."
   - q: "Hiperhidroza se vindecă?"
-    a: "Forma primară nu se vindecă definitiv, dar poate fi controlată foarte bine cu tratamente adaptate zonei afectate. Forma secundară se poate ameliora odată cu tratarea cauzei."
-  - q: "Antiperspirantul este periculos?"
-    a: "Dovezile științifice actuale nu au demonstrat o legătură între antiperspirantele cu săruri de aluminiu și cancerul de sân sau alte boli. Pot irita pielea la unele persoane, efect care de obicei se poate gestiona."
-  - q: "Cât ține efectul toxinei botulinice pentru transpirație?"
-    a: "La axile, efectul durează de obicei câteva luni, după care tratamentul se poate repeta. Durata variază de la o persoană la alta."
-  - q: "De ce transpir noaptea?"
-    a: "Transpirația abundentă în timpul nopții nu este tipică pentru hiperhidroza primară și poate avea alte cauze, de la menopauză și medicamente până la infecții sau alte boli. Merită discutată cu medicul de familie."
+    a: "Forma primară nu are un tratament care să o vindece, dar transpirația poate fi redusă mult, iar uneori se ameliorează cu vârsta. Forma secundară se poate îmbunătăți odată cu tratarea cauzei."
+  - q: "Antiperspirantele cu aluminiu sunt periculoase?"
+    a: "Potrivit Academiei Americane de Dermatologie, cercetările nu au arătat că antiperspirantele provoacă cancer de sân sau boala Alzheimer. Pot irita pielea la unele persoane, iar iritația se poate gestiona de obicei."
+  - q: "Este normal să transpir noaptea?"
+    a: "Transpirația abundentă în somn nu este tipică pentru forma primară de hiperhidroză și poate avea alte cauze, de la medicamente și menopauză la alte boli. Merită discutată cu medicul de familie."
 sources:
+  - title: "Hyperhidrosis: FAQs"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hyperhidrosis-overview"
+  - title: "Hyperhidrosis: Causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hyperhidrosis-causes"
+  - title: "Hyperhidrosis: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hyperhidrosis-treatment"
+  - title: "Hyperhidrosis: 6 tips dermatologists give their patients"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/hyperhidrosis-self-care"
   - title: "Excessive sweating (hyperhidrosis)"
-    publisher: "NHS (National Health Service, Marea Britanie)"
+    publisher: "NHS (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/"
-  - title: "Hyperhidrosis"
-    publisher: "DermNet"
-    url: "https://dermnetnz.org/topics/hyperhidrosis"
-  - title: "Hyperhidrosis: diagnosis and treatment"
-    publisher: "American Academy of Dermatology"
-  - title: "Treatment information for hyperhidrosis"
-    publisher: "International Hyperhidrosis Society"
 ---
 
-Hiperhidroza înseamnă transpirație excesivă, mai mare decât are nevoie corpul pentru a se răci, care îți afectează viața de zi cu zi. Cel mai des este o formă primară, care începe în copilărie sau adolescență și afectează axilele, palmele, tălpile sau fața, fără o boală de bază. Se poate controla bine în trepte: antiperspirante cu clorură de aluminiu, ionoforeză, toxină botulinică și alte tratamente prescrise de medic.
+Toată lumea transpiră vara, în metrou sau după o urcare grăbită pe scări. Altfel stau lucrurile când o foaie de hârtie se udă sub palmă într-un birou răcoros, când cămașa trebuie schimbată la prânz în februarie sau când strângerea de mână devine un moment de evitat. Aici nu mai este vorba doar de căldură.
 
-## Pe scurt
+Hiperhidroza înseamnă transpirație excesivă, mai mare decât are nevoie corpul pentru a se răci, care apare și în repaus sau la temperaturi plăcute și care stânjenește viața de zi cu zi. Cel mai des este o formă primară, la oameni altfel sănătoși, care afectează axilele, palmele, tălpile sau capul. Nu se vindecă, dar se poate trata în trepte, cu rezultate bune la mulți oameni.
 
-- Hiperhidroza **primară** este localizată, simetrică, începe de obicei înainte de 25 de ani și nu apare în somn.
-- Hiperhidroza **secundară** este adesea generalizată și are o cauză: medicamente, boli hormonale, infecții, menopauză.
-- Primul pas sunt antiperspirantele cu clorură de aluminiu, aplicate seara, pe pielea uscată.
-- Pentru palme și tălpi, ionoforeza cu apă de la robinet are dovezi bune; pentru axile, toxina botulinică este o opțiune eficientă.
-- Transpirațiile nocturne, apărute brusc, cu febră sau scădere în greutate, trebuie evaluate de medic.
+## Transpirația normală și cea excesivă
 
-## Ce este hiperhidroza
+Transpirația este mecanismul prin care corpul își reglează temperatura. Faptul că transpirați mult la efort sau pe caniculă nu înseamnă, singur, hiperhidroză. Ce o diferențiază este contextul: transpirația apare fără motiv termic, uneori după ce mâncați anumite alimente sau înainte de a vorbi în public, și deranjează constant.
 
-Transpirația este un mecanism normal prin care corpul își reglează temperatura. Glandele sudoripare sunt controlate de sistemul nervos simpatic. În hiperhidroza primară, glandele sunt normale, dar primesc un semnal nervos exagerat, mai ales în anumite zone.
+Impactul este adesea subestimat chiar de cei afectați. Copiii pot evita să țină de mână colegii, iar adulții pot ajunge să-și schimbe hainele și pantofii de mai multe ori pe zi, să refuze strângeri de mână sau să ocolească situații profesionale și sociale. Mulți nu cer ajutor, convinși că așa sunt făcuți și că nu se poate face nimic.
 
-Hiperhidroza este o problemă frecventă, despre care se vorbește puțin. Mulți oameni nu cer ajutor pentru că o consideră „normală” sau jenantă, deși are un impact real asupra vieții profesionale, sociale și emoționale.
+## Forma primară: un semnal nervos prea puternic
 
-## Tipuri de hiperhidroză
+Cei mai mulți oameni cu hiperhidroză au forma primară (focală). Glandele sudoripare sunt normale, dar primesc de la sistemul nervos un semnal prea intens. De obicei sunt afectate una sau două zone: axilele, palmele, tălpile sau fața și scalpul.
 
-### Hiperhidroza primară (focală)
+Dermatologii folosesc câteva repere pentru a o recunoaște. Potrivit AAD, transpirația durează de peste 6 luni și se adaugă cel puțin două dintre următoarele:
 
-Caracteristici tipice:
+- episoade cel puțin o dată pe săptămână;
+- debut până la 24 de ani, adesea în copilărie sau adolescență;
+- o rudă cu aceeași problemă;
+- implicarea uneia sau a două zone;
+- afectarea activităților zilnice;
+- oprirea transpirației în timpul somnului.
 
-- afectează **zone anume**: axile, palme, tălpi, față și scalp, uneori zona inghinală;
-- este **simetrică** (ambele axile, ambele palme);
-- începe de obicei în **copilărie sau adolescență**;
-- **nu apare în timpul somnului**;
-- apar episoade cel puțin săptămânal;
-- adesea există **rude cu aceeași problemă**.
+## Forma secundară: când transpirația are o cauză
 
-Căldura, efortul și emoțiile o agravează, dar transpirația poate apărea și fără niciun declanșator.
+Hiperhidroza secundară este produsă de un medicament sau de o altă afecțiune. Poate cuprinde tot corpul, poate începe la vârsta adultă și, spre deosebire de forma primară, poate apărea și în somn.
 
-### Hiperhidroza secundară
+Între medicamentele implicate se numără unele antidepresive, insulina, unele antibiotice și antivirale. Între afecțiuni: diabetul, menopauza, boala Parkinson, poliartrita reumatoidă, insuficiența cardiacă, accidentul vascular cerebral, precum și sevrajul după alcool sau alte substanțe. Despre schimbările pielii din perioada menopauzei găsiți mai multe în articolul despre [pielea în menopauză](/blog/pielea-in-menopauza/).
 
-Apare ca urmare a unei alte afecțiuni sau a unui tratament. Este adesea **generalizată** (pe tot corpul), poate începe la vârsta adultă și poate apărea și **noaptea**. Cauze posibile:
+Dacă transpirația a început odată cu un medicament nou, întrebarea se adresează medicului care l-a prescris. Tratamentul nu se oprește din proprie inițiativă.
 
-- **medicamente** – unele antidepresive, medicamente pentru diabet, hormoni și altele;
-- **modificări hormonale** – menopauza, sarcina;
-- **boli endocrine** – hipertiroidismul, diabetul (inclusiv episoadele de glicemie scăzută);
-- **infecții** – cu febră, uneori infecții cronice;
-- **obezitatea**;
-- **anxietatea**;
-- mai rar, **alte boli**, inclusiv unele tipuri de cancer sau boli neurologice.
-
-Transpirația excesivă doar pe o parte a corpului este neobișnuită și trebuie evaluată medical.
-
-## Complicațiile hiperhidrozei
-
-Pe lângă disconfort, pielea umedă constant favorizează:
-
-- **infecțiile fungice** ale pielii și ale unghiilor – vezi [micoza unghiilor](/blog/micoza-unghiilor/);
-- **infecțiile bacteriene superficiale**, inclusiv keratoliza punctată – mici cratere pe tălpi, cu miros neplăcut;
-- **negii plantari** – vezi [negii (verucile)](/blog/negii-veruci/);
-- **mirosul neplăcut** (bromhidroza), care apare când bacteriile descompun transpirația;
-- **iritații și eczeme** în zonele umede.
+În forma secundară, prioritatea este tratarea cauzei. Uneori, ajustarea unui medicament sau controlul unei boli este suficient pentru ca transpirația să scadă.
 
 ## Cum se pune diagnosticul
 
-Diagnosticul hiperhidrozei primare se pune de obicei pe baza discuției cu medicul și a examinării. Medicul te poate întreba cât de mult îți afectează transpirația activitățile zilnice, uneori folosind un scor simplu (de exemplu scala HDSS, care evaluează severitatea de la „nu mă deranjează” la „îmi afectează mereu activitățile”).
+Diagnosticul pornește de la discuție. Medicul vă va întreba ce zone transpiră, de când, cât de des, dacă transpirați și noaptea, ce medicamente luați, dacă în familie mai există cineva cu aceeași problemă și cât de mult vă afectează viața de zi cu zi. Examinarea și, uneori, analizele ajută la căutarea unei cauze, când tabloul sugerează o formă secundară.
 
-Uneori se folosește **testul cu iod și amidon**, care arată exact zonele cu transpirație excesivă – util mai ales înaintea tratamentelor cu toxină botulinică. Dacă tabloul sugerează o hiperhidroză secundară, medicul poate recomanda analize (de exemplu glicemie, funcția tiroidiană) sau trimiterea către alt specialist.
+## Tratamentul, treaptă cu treaptă
 
-## Cum se tratează hiperhidroza
+Tratamentul se alege după zona afectată, intensitatea transpirației și preferințele fiecăruia. De obicei se începe cu metodele cele mai simple.
 
-Tratamentul se alege în funcție de zona afectată și de severitate, de obicei în trepte, de la cele mai simple la cele mai invazive.
+### Antiperspirantele
 
-| Zonă | Prima opțiune | Opțiuni următoare |
-|---|---|---|
-| Axile | Antiperspirant cu clorură de aluminiu | Toxină botulinică; anticolinergice topice sau orale; proceduri locale (de ex. termoliză cu microunde) |
-| Palme și tălpi | Antiperspirant cu clorură de aluminiu | Ionoforeză cu apă de la robinet; toxină botulinică; anticolinergice orale |
-| Față și scalp | Antiperspirante adaptate zonei | Anticolinergice topice sau orale; toxină botulinică |
-| Generalizată (secundară) | Tratarea cauzei | Anticolinergice orale, la recomandarea medicului |
+Deodorantele maschează mirosul; antiperspirantele reduc efectiv cantitatea de transpirație, blocând temporar canalele glandelor sudoripare. Produsele obișnuite ajung doar în formele ușoare, iar multe persoane au nevoie de unul mai concentrat, recomandat de medic.
 
-### Antiperspirantele cu clorură de aluminiu
+Felul în care este folosit contează mult. AAD recomandă aplicarea seara, la culcare, pe pielea complet uscată, lăsând produsul să se usuce bine. La început se aplică în fiecare seară, până când transpirația este sub control, de obicei în câteva săptămâni, apoi o dată sau de două ori pe săptămână. Dacă pielea se irită, aplicările se pot rări, se poate încerca o formă de gel sau se poate avea mai multă grijă ca pielea să fie perfect uscată. Nu se aplică pe pielea proaspăt rasă sau iritată.
 
-Sunt primul pas pentru majoritatea oamenilor. Sărurile de aluminiu blochează temporar canalele glandelor sudoripare. Ca să funcționeze bine:
+### Medicamentele aplicate pe piele
 
-- aplică-le **seara, înainte de culcare**, pe pielea **complet uscată** – noaptea glandele sunt mai puțin active, iar produsul pătrunde mai bine;
-- spală zona dimineața;
-- la început se aplică mai des, apoi, când transpirația scade, mai rar, pentru întreținere;
-- nu le aplica imediat după ras sau epilare și nici pe pielea iritată.
+Pentru axile există și produse cu substanțe anticolinergice, sub formă de șervețele sau gel, care reduc semnalul către glandele sudoripare. Pot da gură uscată, pupile dilatate sau, la contactul cu ochii, vedere încețoșată temporar, așa că mâinile se spală după aplicare. [TODO: de confirmat de medic — disponibilitatea anticolinergicelor topice (glicopironiu, sofpironiu) în România]
 
-Efectul advers cel mai frecvent este iritația (mâncărime, usturime). Poate fi redusă prin aplicarea mai rară sau, la recomandarea medicului, cu o cremă calmantă.
+### Ionoforeza
 
-Deodorantele simple doar maschează mirosul; nu reduc cantitatea de transpirație.
-
-### Ionoforeza cu apă de la robinet
-
-Palmele sau tălpile se introduc într-o tavă cu apă prin care trece un curent electric slab, câteva minute, de mai multe ori pe săptămână la început, apoi pentru întreținere. Mecanismul nu este pe deplin înțeles, dar metoda are dovezi bune pentru palme și tălpi. Nu este potrivită în sarcină, pentru persoanele cu stimulator cardiac sau cu implanturi metalice în zona tratată. Dispozitivele se pot folosi și acasă, după instruire [TODO: verifică disponibilitatea și eventuala decontare în România].
+Pentru palme și tălpi, ionoforeza are rezultate bune. Mâinile sau picioarele stau într-o tăviță cu apă de la robinet prin care trece un curent electric slab. La început ședințele durează 20–30 de minute și se repetă des, până când transpirația scade vizibil, de obicei după 5–10 ședințe; apoi urmează întreținerea, cam o dată pe săptămână sau la două săptămâni. Există și aparate pentru acasă, folosite după instruire. Efectele adverse sunt furnicăturile sau senzația de arsură; folosirea greșită poate produce arsuri ușoare.
 
 ### Toxina botulinică
 
-Injectată în piele, în doze mici, toxina botulinică blochează semnalul nervos către glandele sudoripare. Este eficientă mai ales pentru **axile**, unde efectul durează de obicei câteva luni, și poate fi folosită și pe palme și tălpi, unde injecțiile sunt mai dureroase și pot da, temporar, slăbiciune ușoară a mâinii. Procedura se face doar de un medic instruit, iar tratamentul se repetă când efectul scade.
+Toxina botulinică este un medicament eliberat pe bază de prescripție, administrat de medic prin injecții foarte superficiale în zona care transpiră. Blochează semnalul nervos către glandele sudoripare. Potrivit AAD, transpirația scade de obicei în 7–10 zile, iar efectul ține aproximativ 3–10 luni la axile și palme și mai puțin la tălpi, după care tratamentul se poate repeta. Efectele adverse posibile includ durere la injectare, vânătăi, dureri de cap și, pe palme, slăbiciune musculară temporară. Detalii generale despre acest medicament găsiți în articolul despre [toxina botulinică](/blog/toxina-botulinica/).
 
-### Anticolinergicele
+### Medicamentele orale
 
-- **Topice** – creme sau șervețele cu substanțe anticolinergice, aprobate în unele țări pentru hiperhidroza axilară [TODO: verifică disponibilitatea în România].
-- **Orale** – medicamente pe rețetă care reduc transpirația pe tot corpul. Pot da uscăciunea gurii, constipație, vedere încețoșată, dificultăți la urinare sau palpitații și nu sunt potrivite pentru toată lumea (de exemplu în glaucom sau anumite boli ale prostatei). Se folosesc doar la recomandarea și sub supravegherea medicului.
+Când sunt afectate mai multe zone sau zone greu de tratat local (fața, zona inghinală, sub sâni), medicul poate prescrie un medicament anticolinergic oral, care reduce transpirația în tot corpul. Efectul advers cel mai frecvent este gura uscată; pot apărea și constipație, somnolență, vedere încețoșată sau dificultăți la golirea vezicii. Pentru că organismul transpiră mai puțin, căldura devine riscantă: supraîncălzirea poate duce la febră sau insolație. Nu este potrivit pentru oricine, iar doza o stabilește medicul.
 
-### Proceduri și chirurgie
+Pentru transpirația declanșată strict de emoții, înaintea unui interviu sau a unui discurs, medicul poate discuta și o altă clasă de medicamente, luate ocazional.
 
-- **Termoliza cu microunde** și alte proceduri locale pot reduce permanent numărul de glande sudoripare din axile; au costuri și efecte adverse proprii (umflătură, amorțeală temporară).
-- **Simpatectomia toracică** este o intervenție chirurgicală care întrerupe nervii care stimulează transpirația. Se ia în calcul doar în cazuri severe, când alte tratamente au eșuat, pentru că poate produce **transpirație compensatorie** în alte zone ale corpului, uneori mai deranjantă decât problema inițială, și este greu reversibilă.
+### Procedurile și chirurgia
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+Pentru axile există proceduri care distrug glandele sudoripare prin căldură (termoliza cu microunde), cu rezultate de durată, dar cu efecte adverse proprii: umflare, sensibilitate, iar rar arsuri sau dureri nervoase persistente. Glandele se pot îndepărta și chirurgical.
 
-## Ce poți face acasă
+Simpatectomia, o operație care secționează nervii ce comandă transpirația palmelor și axilelor, se ia în calcul doar când celelalte tratamente au eșuat. Cel mai frecvent efect advers este transpirația compensatorie: transpirația se mută pe abdomen, spate sau picioare, uneori în cantitate mare.
 
-- **Folosește corect antiperspirantul** – seara, pe pielea uscată.
-- **Alege haine** din fibre naturale sau din materiale tehnice care absorb umezeala; culorile închise sau albul ascund mai bine petele.
-- **Schimbă des șosetele**, alternează încălțămintea și las-o să se usuce complet.
-- **Folosește branțuri absorbante** și pudre pentru picioare.
-- **Ține la îndemână** șervețele sau un prosop mic pentru palme.
-- **Notează declanșatorii** – căldură, mâncăruri condimentate, cafea, alcool, situații stresante.
-- **Îngrijește pielea** din zonele umede cu produse blânde – vezi și [rutina corectă pentru pielea sensibilă](/blog/rutina-corecta-pentru-pielea-sensibila/).
-- **Nu ezita să ceri ajutor** dacă transpirația îți afectează starea emoțională.
+## Ce puteți face zilnic
 
-## Mituri despre hiperhidroză
+Câteva obiceiuri, recomandate de AAD și NHS, fac viața mai ușoară:
 
-- **„Transpiri mult pentru că nu ai grijă de igienă.”** Fals – hiperhidroza primară ține de sistemul nervos, nu de igienă.
-- **„Dacă bei mai puțină apă, transpiri mai puțin.”** Nu – riști deshidratarea, fără să reduci transpirația.
-- **„Antiperspirantele cu aluminiu dau cancer.”** Dovezile actuale nu susțin această legătură.
-- **„Nu se poate face nimic.”** Există multe tratamente eficiente, adaptate fiecărei zone.
+- haine largi, din fibre care respiră, cum este bumbacul; protecții pentru axile care feresc hainele de pete; un rând de haine de schimb la birou;
+- șosete care absorb umezeala, schimbate de cel puțin două ori pe zi la nevoie;
+- pantofi din piele, nu aceeași pereche două zile la rând; branțuri absorbante și pudră pentru picioare;
+- descălțarea ori de câte ori se poate, pentru a preveni mirosul, iritația și infecțiile; pielea mereu umedă a picioarelor favorizează, între altele, [micozele unghiilor](/blog/micoza-unghiilor/);
+- un jurnal al transpirației, pentru a observa factorii care o accentuează: căldura, cafeaua, alcoolul, mâncarea picantă, stresul.
 
-## Când să mergi la dermatolog
+Consumul redus de apă nu scade transpirația și poate duce la deshidratare.
 
-Programează un consult la dermatolog dacă:
+Și pentru că hiperhidroza apasă adesea mai mult pe starea emoțională decât pe piele, discuția cu un psiholog sau un grup de sprijin pot avea un rol real.
 
-- transpirația îți **afectează munca, relațiile sau starea emoțională**;
-- antiperspirantele folosite corect câteva săptămâni **nu ajută** sau îți irită pielea;
-- ai **infecții repetate**, miros persistent sau iritații în zonele umede;
-- vrei să discuți opțiuni precum ionoforeza, toxina botulinică sau tratamentele pe rețetă.
+## Ce poate clarifica o evaluare
 
-Mergi la **medicul de familie** cât mai curând dacă:
+Un consult poate stabili dacă transpirația este hiperhidroză primară sau dacă merită căutată o cauză. Poate explica motivul pentru care un antiperspirant nu a funcționat (adesea, felul în care a fost aplicat) și poate ordona opțiunile după zona afectată, siguranță și preferințe. Niciun tratament nu garantează un anumit rezultat, dar pentru mulți oameni diferența în viața de zi cu zi este semnificativă.
 
-- transpirația excesivă a **apărut brusc**, la vârsta adultă;
-- este **generalizată** sau doar pe **o parte a corpului**;
-- transpiri abundent **noaptea**, mai ales dacă ai și **febră, scădere în greutate neexplicată**, oboseală sau ganglioni măriți;
-- se asociază cu **palpitații, tremor**, senzație de foame sau amețeli;
-- a apărut după începerea unui **medicament nou**.
+## Când poate fi util un consult dermatologic?
 
-Mai multe repere găsești în [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+- transpirația vă afectează munca, relațiile sau starea de bine;
+- un antiperspirant folosit corect câteva săptămâni nu ajută sau vă irită pielea;
+- aveți iritații, miros persistent sau infecții repetate în zonele umede;
+- doriți să discutați opțiuni precum ionoforeza, medicamentele prescrise sau procedurile.
+
+Mergeți mai degrabă la medicul de familie dacă transpirația a apărut brusc, la vârsta adultă, dacă este generalizată sau doar pe o parte a corpului, dacă transpirați abundent noaptea, mai ales cu febră, scădere în greutate sau oboseală, ori dacă a început după un medicament nou. Repere generale găsiți și în ghidul [când merită să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+
+Hiperhidroza nu este o chestiune de igienă și nici ceva cu care trebuie doar să vă obișnuiți. Este o problemă medicală reală, cu opțiuni de tratament ordonate în trepte.
+
+## Dacă doriți o evaluare individuală
+
+Dacă transpirația vă stânjenește și doriți să aflați ce tip de hiperhidroză aveți și ce opțiuni ar avea sens în cazul dumneavoastră, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Găsiți [programul și locațiile](/program/) pe site.
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: recunoașterea momentului în care transpirația devine o problemă medicală, diferența primară/secundară și prezentarea neutră a tratamentelor în trepte.
+- Afirmații de confirmat clinic: duratele efectului toxinei botulinice (AAD: 3–10 luni axile/palme, 3–6 luni tălpi); schema ionoforezei (AAD); criteriile de diagnostic pentru forma primară (AAD).
+- Informații lipsă / de completat: [TODO: de confirmat de medic — oferă tratamentul cu toxină botulinică sau ionoforeză pentru hiperhidroză?] CTA-ul trimite la evaluare, nu la procedură. Disponibilitatea în România a anticolinergicelor topice și a antiperspirantelor concentrate pe rețetă (marcat inline).
+- Surse care nu au putut fi verificate: paginile DermNet și International Hyperhidrosis Society din versiunea anterioară nu au fost deschise în această sesiune și au fost scoase din surse; complicațiile specifice (keratoliza punctată, negii plantari) au fost eliminate, nefiind în sursele consultate.

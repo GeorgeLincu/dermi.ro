@@ -1,165 +1,145 @@
 ---
-title: "Căderea părului la femei: cauze, analize și tratamente"
-description: "De ce cade părul la femei, cum deosebești căderea temporară de subțierea progresivă, ce analize au sens și ce tratamente au dovezi."
+title: "Căderea părului la femei: cauze, analize utile și tratamente"
+description: "Cum se deosebește căderea temporară a părului de subțierea progresivă, ce analize pot avea sens și ce tratamente au dovezi la femei."
 pubDate: 2026-10-01
 category: "afectiuni"
 tags: ["căderea părului", "alopecie", "femei", "scalp"]
 draft: true
 faq:
-  - q: "Câte fire de păr pe zi este normal să cadă?"
-    a: "Pierderea a aproximativ 50–100 de fire pe zi este considerată normală. În zilele în care speli părul poate părea mai mult, pentru că se adună firele căzute între spălări."
-  - q: "Căderea părului după naștere este normală?"
-    a: "Da, este frecventă. Apare de obicei la 2–4 luni după naștere și se oprește spontan în câteva luni. Dacă durează peste 6 luni sau părul rămâne vizibil mai rar, merită un consult."
-  - q: "Vitaminele pentru păr opresc căderea?"
-    a: "Suplimentele ajută doar dacă ai o carență reală, de exemplu de fier. Biotina luată fără motiv nu are beneficii dovedite și, în doze mari, poate falsifica unele analize de sânge, inclusiv cele pentru tiroidă."
-  - q: "Minoxidilul trebuie folosit toată viața?"
-    a: "În alopecia androgenetică, minoxidilul funcționează doar cât timp este folosit; după oprire, efectul se pierde treptat în câteva luni. Decizia privind durata se ia împreună cu medicul."
-  - q: "Căderea părului poate fi de la tiroidă?"
-    a: "Da, atât tiroida hiperactivă, cât și cea subactivă pot provoca subțierea părului. Medicul poate cere analize ale funcției tiroidiene dacă există suspiciune."
+  - q: "Câte fire de păr pe zi pot cădea în mod normal?"
+    a: "Pierderea a aproximativ 50–100 de fire pe zi este considerată normală. În ziua în care vă spălați părul pot părea mai multe, pentru că se adună și firele desprinse în zilele dinainte."
+  - q: "Căderea părului după naștere trece de la sine?"
+    a: "De cele mai multe ori, da. Începe de obicei la câteva luni după naștere, atinge un maxim, apoi scade treptat, iar densitatea părului revine în multe cazuri în 6–9 luni. Dacă diferența rămâne vizibilă după acest interval, merită discutat cu un dermatolog."
+  - q: "Ajută vitaminele pentru păr la oprirea căderii?"
+    a: "Suplimentele pot ajuta atunci când există o carență reală, de exemplu de fier. Fără o carență demonstrată, beneficiul lor nu este dovedit, iar unele, cum este biotina, pot influența rezultatele anumitor analize de sânge."
+  - q: "Cât trebuie folosit tratamentul pentru alopecia androgenetică?"
+    a: "Tratamentele pentru subțierea de tip androgenetic funcționează cât timp sunt folosite, iar efectul se evaluează abia după 6–12 luni. Durata și eventualele schimbări se stabilesc împreună cu medicul."
+  - q: "Poate tiroida să provoace căderea părului?"
+    a: "Da, bolile tiroidei se numără printre cauzele cunoscute de rărire a părului. Medicul poate recomanda analize ale funcției tiroidiene atunci când istoricul sau examinarea o justifică."
 sources:
-  - title: "Evidence-based (S3) guideline for the treatment of androgenetic alopecia in women and in men – short version"
-    publisher: "Journal of the European Academy of Dermatology and Venereology (2018)"
-  - title: "Female pattern hair loss"
-    publisher: "DermNet"
-    url: "https://dermnetnz.org/topics/female-pattern-hair-loss"
-  - title: "Telogen effluvium"
-    publisher: "DermNet"
+  - title: "Thinning hair and hair loss: Could it be female pattern hair loss?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/hair-loss/types/female-pattern"
+  - title: "Do you have hair loss or hair shedding?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/hair-loss/insider/shedding"
+  - title: "Hair loss: Who gets and causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/hair-loss/causes/18-causes"
+  - title: "Telogen effluvium (hair shedding)"
+    publisher: "DermNet (accesat 17.11.2026)"
     url: "https://dermnetnz.org/topics/telogen-effluvium"
+  - title: "Female pattern hair loss"
+    publisher: "DermNet (accesat 17.11.2026)"
+    url: "https://dermnetnz.org/topics/female-pattern-hair-loss"
   - title: "Hair loss"
-    publisher: "NHS (National Health Service, Marea Britanie)"
+    publisher: "NHS (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/hair-loss/"
-  - title: "Hair loss: types, causes and treatment"
-    publisher: "American Academy of Dermatology"
 ---
 
-Căderea părului la femei are cel mai des două cauze: o cădere difuză, temporară, care apare la 2–3 luni după un stres pentru organism (naștere, febră mare, dietă drastică, boală), și subțierea progresivă de tip androgenetic, care afectează mai ales creștetul. Prima se oprește de obicei singură, a doua răspunde la tratamente cu dovezi, precum minoxidilul. Dacă părul cade brusc, în plăci, sau scalpul doare, mănâncă ori are cicatrici, mergi la dermatolog fără să amâni.
+Firele adunate în sita de la duș, părul de pe pernă, coada care pare mai subțire decât acum un an: sunt observații care le îngrijorează pe multe femei. Căderea părului la femei are însă cauze foarte diferite, iar cele mai frecvente sunt două: o cădere difuză și temporară, care apare la câteva luni după un efort mare pentru organism, și o subțiere lentă, ereditară, care se vede mai ales pe creștet.
 
-## Pe scurt
+Diferența dintre ele contează, pentru că prima se oprește de obicei singură, iar a doua are nevoie de tratament de durată. Felul în care cade părul, momentul în care a început și semnele de pe scalp orientează diagnosticul. Analizele și tratamentul se aleg abia după aceea.
 
-- Pierderea a aproximativ 50–100 de fire pe zi este normală.
-- **Efluviul telogen** (căderea difuză după un factor declanșator) este frecvent și, de obicei, reversibil.
-- **Alopecia androgenetică feminină** subțiază părul treptat, mai ales pe creștet, și are nevoie de tratament de durată.
-- Analizele utile (de exemplu fier, tiroidă) se aleg în funcție de istoric, nu „la grămadă”.
-- Suplimentele ajută doar dacă există o carență; biotina în exces poate falsifica analizele.
+## Cât păr cade în mod normal
 
-## Cum crește și cum cade părul
+Fiecare fir trece printr-un ciclu: o fază lungă de creștere, care durează câțiva ani, o scurtă fază de tranziție și o fază de repaus de câteva luni. La capătul repausului firul se desprinde, iar din același folicul (mica structură din piele din care crește părul) începe să crească unul nou. Din acest motiv, pierderea a aproximativ 50–100 de fire pe zi este considerată normală.
 
-Fiecare fir de păr trece printr-un ciclu: o fază lungă de creștere (anagen, câțiva ani), o fază scurtă de tranziție și o fază de repaus (telogen, câteva luni), la finalul căreia firul cade și este înlocuit de unul nou. În mod normal, cea mai mare parte a firelor se află în faza de creștere.
+Numărul exact este greu de urmărit acasă. Dacă vă spălați părul la două-trei zile, în ziua spălării se adună și firele desprinse între timp, așa că pare mult mai mult decât este. Mai util decât numărătoarea este întrebarea dacă s-a schimbat ceva față de felul în care arăta părul dumneavoastră de obicei.
 
-Când acest echilibru se strică – fie că multe fire intră simultan în repaus, fie că firele noi devin tot mai subțiri și scurte –, apare căderea vizibilă sau rărirea părului.
+## Căderea temporară după un „șoc” pentru organism
 
-## Cele mai frecvente cauze
+Medicii o numesc efluviu telogen: multe fire trec în același timp în faza de repaus și cad aproape simultan, la câteva săptămâni sau luni distanță. Factorul declanșator a acționat de obicei cu 2–4 luni înainte, motiv pentru care legătura nu este evidentă.
 
-### Efluviul telogen (căderea difuză temporară)
+Situațiile descrise cel mai des în sursele medicale sunt:
 
-Apare când un factor de stres pentru organism împinge multe fire deodată în faza de repaus. Căderea se observă de obicei la **2–3 luni după** evenimentul declanșator, ceea ce face ca legătura să nu fie evidentă. Cauze frecvente:
+- nașterea;
+- o boală cu febră mare, o intervenție chirurgicală, perioada de recuperare după o boală serioasă;
+- o scădere importantă în greutate sau o dietă foarte restrictivă;
+- deficitul de fier sau alte carențe nutriționale;
+- bolile tiroidei;
+- oprirea anticoncepționalelor orale și unele medicamente;
+- stresul emoțional intens și prelungit.
 
-- nașterea (căderea postpartum);
-- febră mare, infecții (inclusiv viroze severe), intervenții chirurgicale;
-- diete drastice, scădere rapidă în greutate;
-- deficit de fier, alte carențe nutriționale;
-- boli ale tiroidei;
-- oprirea sau schimbarea anticoncepționalelor, unele medicamente;
-- stres emoțional puternic.
+Părul cade de pe tot scalpul, iar la periere sau la spălare apar smocuri care sperie. Pielea capului arată normală. Pe măsură ce organismul se reechilibrează, căderea se domolește, iar densitatea părului revine, în multe cazuri, în 6–9 luni. Dacă factorul declanșator persistă, căderea poate dura mai mult.
 
-Părul cade difuz, de pe tot scalpul, adesea în smocuri la spălare sau periere. De obicei, căderea se oprește în 3–6 luni după înlăturarea cauzei, iar părul crește la loc. Există și o formă cronică, care durează peste 6 luni și necesită evaluare.
+Există și o formă cronică, în care căderea rămâne crescută luni sau ani, cu perioade mai bune și mai rele, adesea fără o cauză clară. Apare mai ales la femei sănătoase între 30 și 60 de ani și merită evaluată de un dermatolog, pentru că poate semăna cu începutul unei subțieri de tip androgenetic.
 
-### Alopecia androgenetică feminină
+## Subțierea progresivă: alopecia androgenetică feminină
 
-Este cea mai frecventă cauză de subțiere progresivă a părului la femei. Firele devin treptat mai subțiri și mai scurte, iar părul se rărește mai ales pe **creștet și pe cărare**, care pare tot mai lată. Linia frunții este de obicei păstrată.
+Este cea mai frecventă cauză de rărire a părului la femei și ține în primul rând de predispoziția genetică. Hormonii pot contribui și ei, iar forma aceasta devine mai frecventă după menopauză. De obicei începe la vârsta mijlocie, dar poate debuta și mai devreme.
 
-Are o componentă genetică și hormonală și poate începe oricând după pubertate, fiind mai frecventă după menopauză. La unele femei, mai ales dacă există și menstruații neregulate, acnee sau păr în exces pe față și corp, medicul poate căuta un dezechilibru hormonal, cum ar fi sindromul ovarelor polichistice.
+Spre deosebire de efluviul telogen, nu apar neapărat zile cu multe fire căzute. Ce se schimbă este calitatea părului: firele noi cresc tot mai subțiri și mai scurte, cărarea pare tot mai lată, iar coada de păr pierde din volum. Uneori se rărește și zona tâmplelor. Linia frunții se păstrează de regulă, iar pierderea completă a părului, ca la unii bărbați, este rară.
 
-### Alopecia areata
+La o parte dintre femei, subțierea vine împreună cu acnee, menstruații neregulate sau păr în exces pe față și corp. Această asociere poate sugera un exces de hormoni androgeni, de exemplu în sindromul ovarelor polichistice, și justifică investigații suplimentare. Totuși, cele mai multe femei cu alopecie androgenetică au analize hormonale normale.
 
-Este o boală autoimună în care sistemul imunitar atacă foliculii de păr. Apar **plăci rotunde, complet fără păr**, pe scalp sau în alte zone (sprâncene, gene). Pielea din plăci arată normală. Părul poate crește la loc spontan, dar boala poate și reveni.
+## Alte cauze care trebuie cunoscute
 
-### Alopecia de tracțiune
+Câteva tipuri de cădere a părului arată diferit și se tratează diferit:
 
-Coafurile care trag constant de păr (cozi strânse, codițe, extensii, împletituri strânse) pot produce căderea părului la tâmple și pe frunte. Dacă tracțiunea continuă ani de zile, căderea poate deveni permanentă.
+- **Alopecia areata** produce zone rotunde, complet fără păr, cu pielea netedă. Despre ea puteți citi pe larg în articolul despre [alopecia areata](/blog/alopecia-areata/).
+- **Alopecia de tracțiune** apare după ani de coafuri care trag constant de păr: cozi strânse, codițe, extensii. Se vede mai ales la tâmple și pe frunte. Dacă tracțiunea continuă, pierderea poate deveni permanentă.
+- **Deteriorarea prin tratamente cosmetice** repetate (vopsire, permanent, îndreptare chimică, căldură intensă) poate rupe firele și, în timp, poate afecta foliculii.
+- **Alopeciile cicatriciale** sunt rare: inflamația distruge foliculul și îl înlocuiește cu țesut cicatricial, iar părul nu mai crește în acea zonă. Pot da mâncărime, usturime, roșeață sau cruste în jurul firelor. Recunoașterea lor din timp contează, pentru că tratamentul urmărește oprirea progresiei.
+- **Bolile scalpului**, precum [dermatita seboreică](/blog/dermatita-seboreica/) sau psoriazisul, pot da mâncărime și descuamare, iar inflamația intensă poate accentua căderea.
 
-### Alopeciile cicatriciale
+## Cum stabilește dermatologul cauza
 
-Un grup de boli rare în care inflamația distruge foliculii și îi înlocuiește cu țesut cicatricial, astfel încât **părul nu mai crește la loc**. Pot da mâncărime, arsură, durere, roșeață sau descuamare în jurul firelor, ori retragerea liniei frunții și a sprâncenelor. Diagnosticul și tratamentul precoce sunt esențiale pentru a opri progresia.
+Consultul începe cu o discuție: când a început căderea, dacă au existat în lunile dinainte o naștere, o boală, o dietă, o schimbare de tratament, cum este ciclul menstrual, ce medicamente și suplimente luați, dacă în familie există rărire a părului. Urmează examinarea scalpului și a firelor.
 
-### Alte cauze
+Testul tracțiunii (medicul trage ușor de câteva zeci de fire și numără câte se desprind) arată dacă există o cădere activă. Tricoscopia, adică examinarea scalpului cu un dermatoscop, ajută la deosebirea tipurilor de alopecie fără nicio intervenție; despre instrument găsiți mai multe în articolul despre [dermatoscopie](/blog/dermatoscopia/). Rar, când se suspectează o alopecie cicatricială sau tabloul nu este clar, se poate recomanda o biopsie de scalp.
 
-- **boli ale scalpului**, precum [dermatita seboreică](/blog/dermatita-seboreica/) sau [psoriazisul](/blog/psoriazis/), care pot agrava căderea dacă inflamația este intensă;
-- **infecțiile fungice ale scalpului** (mai ales la copii);
-- unele **medicamente** și tratamente oncologice;
-- **tricotilomania** – smulgerea compulsivă a firelor.
+Analizele de sânge nu se fac „la grămadă”. În funcție de context, medicul poate recomanda evaluarea rezervelor de fier, a funcției tiroidiene, a vitaminei B12 sau a acidului folic, iar dacă există semne de exces de androgeni, analize hormonale. Dacă luați suplimente cu biotină, spuneți-i medicului înainte de recoltare, pentru că biotina poate modifica rezultatul unor teste de laborator. [TODO: de confirmat de medic — interferența biotinei cu analizele nu provine din sursele accesate; eventual se adaugă sursa FDA]
 
-## Cum se pune diagnosticul
+## Ce opțiuni de tratament există
 
-Dermatologul începe cu întrebări despre debut, evoluție, boli recente, sarcini, diete, medicamente, menstruație și istoric familial. Apoi examinează scalpul și firele, de obicei cu:
+Tratamentul urmează cauza. Într-un efluviu telogen, de multe ori cel mai util pas este identificarea și corectarea factorului declanșator: completarea unui deficit de fier, tratarea unei boli tiroidiene, renunțarea la o dietă dezechilibrată. Părul are nevoie apoi de timp.
 
-- **testul tracțiunii** – arată dacă firele se desprind ușor;
-- **tricoscopia** – examinarea scalpului cu dermatoscopul, care ajută la diferențierea tipurilor de alopecie; vezi și [dermatoscopia](/blog/dermatoscopia/);
-- rar, o **biopsie** a scalpului, mai ales când se suspectează o alopecie cicatricială.
+Pentru alopecia androgenetică feminină, scopul realist este oprirea sau încetinirea subțierii; la o parte dintre femei părul se și îndesește, dar răspunsul nu poate fi prezis dinainte.
 
-Analizele de sânge se aleg în funcție de situație. Frecvent se verifică hemoleucograma, **feritina** (rezervele de fier) și **funcția tiroidiană**. Dacă există semne de exces de hormoni androgeni, medicul poate recomanda analize hormonale. Dacă iei biotină, spune-i medicului: poate fi necesar să o oprești câteva zile înainte de analize.
+### Minoxidilul aplicat pe scalp
 
-## Cum se tratează căderea părului la femei
+Este tratamentul cu cele mai bune dovezi și cel mai des recomandat pentru această formă. În primele 2–8 săptămâni căderea poate crește temporar, pe măsură ce firele vechi fac loc celor noi; este un efect cunoscut, nu un semn că tratamentul face rău. Efectul se apreciază abia după 6–12 luni de folosire regulată și se menține doar cât timp aplicarea continuă. Poate irita scalpul și, uneori, poate stimula creșterea părului pe față. Nu se folosește în sarcină și în perioada de alăptare. Concentrația și modul de aplicare se discută cu medicul.
 
-Tratamentul depinde de cauză. Uneori, cel mai important pas este corectarea unei carențe sau tratarea unei boli de bază.
+### Tratamente pe rețetă
 
-| Cauză | Abordări cu dovezi | De reținut |
-|---|---|---|
-| Efluviu telogen | Identificarea și corectarea cauzei (de ex. fier scăzut, tiroidă) | De obicei se oprește singur în câteva luni |
-| Alopecie androgenetică | Minoxidil topic; la recomandarea medicului, tratamente orale | Efect după luni; trebuie continuat |
-| Alopecia areata | Corticosteroizi local sau injectați în placă; în forme severe, terapii sistemice | Evoluție imprevizibilă, recidive posibile |
-| Alopecie cicatricială | Tratament antiinflamator stabilit de dermatolog | Scopul este oprirea progresiei |
+În anumite situații, dermatologul poate lua în calcul medicamente orale, de exemplu substanțe care reduc efectul hormonilor androgeni, precum spironolactona, sau minoxidilul administrat oral. Acestea se prescriu și se monitorizează de medic, au contraindicații și efecte adverse, iar unele pot afecta grav sarcina, motiv pentru care femeile înainte de menopauză au nevoie, de regulă, de o metodă contraceptivă sigură pe durata tratamentului. După oprire, căderea reapare de obicei în câteva luni.
 
-### Minoxidilul topic
+### Alte variante
 
-Este tratamentul cu cele mai bune dovezi pentru alopecia androgenetică feminină și este recomandat de ghidul european S3. Câteva lucruri de știut:
+Transplantul de păr poate fi potrivit pentru unele femei, dar depinde de existența unei zone donatoare cu păr suficient de des. Plasma bogată în trombocite este încă studiată pentru această indicație, iar dovezile sunt limitate; detaliile le găsiți în articolul despre [PRP](/blog/plasma-bogata-in-trombocite-prp/). Dispozitivele cu laser de intensitate joasă au dovezi controversate. Șampoanele „anticădere” pot face părul să pară mai plin, însă nu fac să crească fire noi.
 
-- primele rezultate apar după **3–6 luni** de aplicare regulată;
-- în primele săptămâni poate apărea o **cădere temporară mai accentuată** – este un semn că firele intră într-un nou ciclu de creștere și nu trebuie să te sperie;
-- efectul se menține **doar cât timp îl folosești**;
-- poate da iritație a scalpului sau creșterea părului pe față;
-- **nu se folosește în sarcină și alăptare**.
+Și o precizare onestă, pe care o face și NHS, serviciul public de sănătate britanic: niciun tratament pentru căderea părului nu funcționează la toată lumea.
 
-### Tratamente orale (pe rețetă)
+## Ce puteți face în paralel
 
-În anumite situații, dermatologul poate recomanda minoxidil oral în doză mică sau medicamente care reduc efectul hormonilor androgeni (de exemplu spironolactona). Acestea se folosesc doar la recomandarea și sub monitorizarea medicului, pentru că au efecte adverse și contraindicații. Medicamentele antiandrogene nu se folosesc în sarcină și necesită, de regulă, o metodă contraceptivă sigură.
+Câteva obiceiuri nu tratează o alopecie, dar evită agravarea ei. O alimentație cu suficiente proteine și fier contează mai mult decât suplimentele luate preventiv. Coafurile lejere, perierea blândă și pauzele între vopsiri sau îndreptări protejează firele. Spălarea părului nu crește căderea: firele care rămân în mână erau deja desprinse.
 
-Pentru formele severe de alopecia areata există și terapii moderne, de tipul inhibitorilor JAK, prescrise de specialist.
+Pentru a urmări evoluția obiectiv, puteți face fotografii ale cărării și ale creștetului la câteva luni, în aceeași lumină și din același unghi. Sunt utile și la consult, pentru că memoria ne înșală când comparăm părul de acum cu cel de anul trecut.
 
-### Alte opțiuni
+## Când poate fi util un consult dermatologic?
 
-- **Plasma bogată în trombocite (PRP)** – unele studii arată beneficii, dar dovezile sunt încă limitate și metodele variază mult.
-- **Dispozitivele cu laser de joasă intensitate** – există unele dovezi de beneficiu modest în alopecia androgenetică.
-- **Transplantul de păr** – poate fi o opțiune pentru unele femei cu alopecie androgenetică stabilă, după evaluare atentă.
+O evaluare dermatologică este utilă mai ales dacă:
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+- părul cade brusc, în cantitate mare, sau apar zone rotunde fără păr;
+- scalpul doare, ustură, mănâncă sau are roșeață, cruste ori descuamare care nu trec;
+- observați zone lucioase fără păr, retragerea liniei frunții sau rărirea sprâncenelor;
+- căderea difuză durează de mai mult de șase luni;
+- cărarea se lărgește treptat sau coada de păr devine vizibil mai subțire;
+- rărirea părului vine împreună cu menstruații neregulate, acnee sau păr în exces pe față și corp;
+- există oboseală, palpitații, intoleranță la frig sau la căldură, care pot avea și alte cauze medicale.
 
-## Ce poți face acasă
+Tot NHS recomandă ca, înainte de a apela la o clinică comercială de tratament al părului, cauza căderii să fie stabilită de un medic. Același principiu se aplică înainte de orice procedură.
 
-- **Mănâncă echilibrat**, cu suficiente proteine și fier; evită dietele drastice.
-- **Tratează-ți părul blând**: evită tracțiunea constantă, perierea agresivă, căldura excesivă și decolorările repetate.
-- **Nu te speria de spălat** – spălarea părului nu crește căderea, doar adună firele deja desprinse.
-- **Ia suplimente doar dacă ai o carență** confirmată și la recomandarea medicului.
-- **Fii răbdătoare**: orice tratament are nevoie de câteva luni ca să arate rezultate, pentru că părul crește lent.
-- **Fă poze** ale scalpului în aceleași condiții de lumină, la câteva luni, ca să poți evalua obiectiv evoluția.
+Căderea părului la femei este, de cele mai multe ori, fie o etapă trecătoare după un efort al organismului, fie o subțiere lentă care poate fi încetinită dacă este recunoscută din timp. A le deosebi este primul pas, iar tratamentul și răbdarea vin după aceea.
 
-## Mituri despre căderea părului
+## Dacă doriți o evaluare individuală
 
-- **„Spălatul des face părul să cadă.”** Fals – firele care cad la spălare erau deja în faza de cădere.
-- **„Tunsul îndesește părul.”** Tunsul nu schimbă numărul de foliculi și nici grosimea firelor noi.
-- **„Biotina rezolvă orice cădere.”** Ajută doar în carențele reale, care sunt rare.
-- **„Șampoanele speciale opresc căderea.”** Șampoanele pot îngriji scalpul, dar nu tratează singure alopecia androgenetică sau efluviul telogen.
+Dacă vă îngrijorează felul în care vă cade părul și doriți să aflați ce tip de cădere este și ce opțiuni au sens în situația dumneavoastră, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Consultul poate clarifica dacă sunt necesare analize și ce tratament se potrivește, fără să promită un rezultat anume. Găsiți [programul și locațiile aici](/program/).
 
-## Când să mergi la dermatolog
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
 
-Mergi la consult dacă:
-
-- părul cade **brusc și în cantitate mare** sau în **plăci rotunde**;
-- scalpul **doare, arde, mănâncă** sau este roșu, cu cruste ori descuamare persistentă;
-- observi **zone lucioase fără păr**, retragerea liniei frunții sau pierderea sprâncenelor;
-- căderea difuză durează **peste 6 luni**;
-- părul se **rărește progresiv** pe creștet sau cărarea se lărgește;
-- ai și **menstruații neregulate, acnee sau păr în exces** pe față și corp;
-- ai **oboseală, palpitații, frig sau căldură excesivă** ori alte simptome care pot sugera o problemă de tiroidă sau anemie.
-
-Un ghid general găsești în [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+- Obiectiv editorial: educare și orientare; cititoarea înțelege diferența dintre căderea temporară (efluviu telogen) și subțierea progresivă (alopecia androgenetică) și recunoaște când un consult este util. Articol-pilon al seriei „Părul și procedurile estetice injectabile”; trimite spre alopecia areata și PRP pentru detalii, fără a le repeta.
+- Afirmații de confirmat clinic: intervalele de timp (debut la 2–4 luni după declanșator, revenire în 6–9 luni, efect minoxidil la 6–12 luni, cădere inițială 2–8 săptămâni) — preluate din AAD și DermNet; mențiunea minoxidilului oral (DermNet îl citează în combinație cu spironolactona; AAD nu îl menționează); recomandarea analizelor (fier, tiroidă, B12, acid folic, hormoni la nevoie) conform practicii proprii.
+- Informații lipsă / de completat: interferența biotinei cu analizele (marcată inline); dacă doriți, o frază despre efectuarea tricoscopiei în cabinet [TODO: de confirmat de medic — oferă această procedură?]. Statutul de eliberare al minoxidilului topic în România nu a fost verificat, de aceea textul spune doar „se discută cu medicul”.
+- Surse care nu au putut fi verificate: ghidul european S3 pentru alopecia androgenetică (2018) din versiunea anterioară nu a fost accesat online și a fost scos din lista de surse.

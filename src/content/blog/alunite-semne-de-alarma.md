@@ -1,154 +1,141 @@
 ---
-title: "Alunițele: semne de alarmă și când să le verifici"
-description: "Cum recunoști o aluniță suspectă cu regula ABCDE, cine are risc mai mare de melanom și cât de des e bine să îți verifici pielea."
+title: "Semnele de alarmă ale alunițelor și schimbările care sunt normale"
+description: "Aflați ce semne de alarmă ale alunițelor merită arătate dermatologului, cum se citește regula ABCDE și ce schimbări sunt, de fapt, obișnuite."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["alunițe", "melanom", "nevi", "dermatoscopie", "cancer de piele"]
+tags: ["alunițe", "melanom", "nevi", "regula abcde"]
 draft: true
 faq:
-  - q: "Cât de des trebuie să îmi verific alunițele?"
-    a: "Este util să îți examinezi singur pielea o dată pe lună. Cât de des să mergi la dermatolog pentru control depinde de riscul tău personal: medicul îți poate recomanda un control anual sau mai frecvent dacă ai multe alunițe, alunițe atipice sau antecedente familiale de melanom."
-  - q: "Este periculos să îmi scot o aluniță?"
-    a: "Îndepărtarea chirurgicală a unei alunițe de către medic este o procedură simplă, făcută cu anestezie locală. Alunița scoasă se trimite la analiză histopatologică, singura metodă care confirmă dacă este benignă sau nu."
-  - q: "Dacă o aluniță mă zgârie sau o lovesc, se transformă în cancer?"
-    a: "Nu există dovezi că lovirea sau iritarea unei alunițe o transformă în melanom. Totuși, o aluniță care sângerează sau formează crustă fără un motiv clar trebuie verificată de dermatolog."
-  - q: "Pot apărea alunițe noi la vârsta adultă?"
-    a: "Da, alunițele noi apar frecvent până în jurul vârstei de 40 de ani. După această vârstă, o aluniță nouă sau una care se schimbă merită arătată dermatologului."
+  - q: "Ce înseamnă regula ABCDE la alunițe?"
+    a: "Este un ajutor de memorare pentru semnele care merită atenție: asimetrie, margini neregulate, mai multe culori în aceeași aluniță, diametru de obicei peste 6 mm și evoluție, adică orice schimbare în timp. Regula nu pune un diagnostic, dar vă poate ajuta să decideți ce să arătați medicului."
+  - q: "Este normal să apară alunițe noi la vârsta adultă?"
+    a: "Cele mai multe alunițe apar în copilărie și adolescență. Academia Americană de Dermatologie recomandă ca o aluniță nouă apărută după vârsta de 30 de ani să fie examinată de un dermatolog, pentru că, deși de multe ori este benignă, poate fi uneori un semn de melanom."
+  - q: "O aluniță care mănâncă sau sângerează este periculoasă?"
+    a: "Nu neapărat, dar mâncărimea, sângerarea sau crusta apărute fără un motiv evident se numără printre semnele pentru care o aluniță trebuie examinată de dermatolog."
+  - q: "Pot scoate o aluniță la salon sau cu o pastă din comerț?"
+    a: "Nu este recomandat. Pastele pot provoca reacții alergice, îndepărtarea incompletă poate lăsa cicatrici, iar o aluniță distrusă nu mai poate fi analizată la microscop. Dacă o aluniță trebuie scoasă, decizia și procedura aparțin medicului."
 sources:
-  - title: "European consensus-based interdisciplinary guideline for melanoma"
-    publisher: "European Dermatology Forum, EADO și EORTC (European Journal of Cancer, 2022)"
-  - title: "Moles"
-    publisher: "NHS (Marea Britanie)"
-    url: "https://www.nhs.uk/conditions/moles/"
-  - title: "Melanoma"
-    publisher: "DermNet (Noua Zeelandă)"
-    url: "https://dermnetnz.org/topics/melanoma"
+  - title: "Moles: Overview"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/moles-overview"
+  - title: "Moles: Who gets and types"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/moles-types"
   - title: "What to look for: ABCDEs of melanoma"
-    publisher: "American Academy of Dermatology"
-  - title: "Exposure to artificial UV radiation and skin cancer"
-    publisher: "International Agency for Research on Cancer (IARC, OMS, 2006)"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/skin-cancer/find/at-risk/abcdes"
+  - title: "When is a mole a problem?"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/when-is-a-mole-a-problem"
+  - title: "Skin cancer types: Melanoma Signs and symptoms"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/symptoms"
+  - title: "Causes of melanoma skin cancer"
+    publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
+    url: "https://www.nhs.uk/conditions/melanoma-skin-cancer/causes/"
 ---
 
-Majoritatea alunițelor sunt benigne și rămân la fel toată viața. Semnele de alarmă sunt o aluniță care **se schimbă** (în mărime, formă sau culoare), una **nouă** apărută la vârsta adultă sau una care **arată diferit** de celelalte, precum și asimetria, marginile neregulate, culorile multiple, sângerarea sau mâncărimea persistentă. Dacă observi oricare dintre acestea, programează o consultație la dermatolog: melanomul descoperit devreme se tratează, de cele mai multe ori, cu succes.
+Se întâmplă des: în oglinda unei cabine de probă sau într-o fotografie din concediu observați pe spate o aluniță pe care nu v-o aminteați. Întrebarea firească este dacă trebuie să vă îngrijoreze. Răspunsul scurt: cele mai multe alunițe sunt benigne și rămân așa toată viața. Semnele de alarmă ale alunițelor sunt, în principal, apariția unei alunițe noi la vârsta adultă, schimbarea uneia existente (mărime, formă, culoare, relief) și o aluniță care arată altfel decât toate celelalte, care mănâncă, sângerează sau face crustă fără motiv.
 
-## Pe scurt
+Niciunul dintre aceste semne nu înseamnă, singur, un diagnostic. Ele sunt motive bune pentru o examinare la dermatolog, nu motive de panică. Mai jos găsiți ce este obișnuit la o aluniță, ce merită urmărit și ce poate clarifica medicul.
 
-- Regula **ABCDE** te ajută să recunoști o aluniță suspectă: Asimetrie, Bordură neregulată, Culoare neuniformă, Diametru mare, Evoluție.
-- Semnul **„rățuștei urâte”**: alunița care arată diferit de toate celelalte merită verificată.
-- Riscul de melanom este mai mare dacă ai multe alunițe, alunițe atipice, ten deschis, arsuri solare în trecut sau rude cu melanom.
-- Autoexaminarea lunară și controlul la dermatolog, cu dermatoscopul, sunt cele mai bune instrumente de depistare precoce.
-- Protecția solară și evitarea solarului reduc riscul.
+## Ce este normal la o aluniță
 
-## Ce sunt alunițele
+Alunițele, numite medical nevi melanocitari, sunt grupări benigne de melanocite, celulele care produc pigmentul pielii. Aproape orice adult are câteva. Potrivit Academiei Americane de Dermatologie (AAD), un adult cu pielea deschisă are de obicei între 10 și 40, iar persoanele cu tenul deschis tind să aibă mai multe.
 
-Alunițele (în limbaj medical, **nevi melanocitari**) sunt grupări benigne de melanocite, celulele care produc pigmentul pielii. Pot fi plate sau ușor reliefate, maronii, negre sau de culoarea pielii. Majoritatea apar în copilărie și la adultul tânăr; numărul lor crește de obicei până în jurul vârstei de 30–40 de ani, după care unele se pot estompa.
+Majoritatea apar în copilărie și adolescență și cresc odată cu copilul. O aluniță normală este de regulă rotundă sau ovală, cu margini netede, plată sau ușor reliefată, uneori cu un fir de păr. Pe pielea mai închisă la culoare, alunițele sunt și ele, în general, mai închise.
 
-Unele persoane se nasc cu alunițe (**nevi congenitali**). Cele mari necesită urmărire de către dermatolog.
+Și alunițele benigne se schimbă puțin de-a lungul vieții. Unele se închid la culoare, altele se deschid; în sarcină se pot închide ușor, iar odată cu înaintarea în vârstă unele devin bombate și își pierd treptat pigmentul. AAD subliniază că aceste schimbări lente sunt așteptate și rareori înseamnă melanom. Diferența față de o schimbare îngrijorătoare ține de ritm, de aspect și de context, iar aici evaluarea medicului este cea care decide.
 
-**Alunițele atipice (displazice)** sunt mai mari, au margini neclare și culori neuniforme. Majoritatea nu devin niciodată melanom, dar persoanele care au multe astfel de alunițe au un risc mai mare și beneficiază de controale regulate.
+## Câteva tipuri de alunițe pe care e bine să le cunoașteți
 
-### Leziuni benigne care pot îngrijora
+**Alunițele dobândite** sunt cele obișnuite, apărute după naștere. Sunt inofensive, dar numărul lor contează: AAD arată că 50 sau mai multe alunițe cresc riscul de melanom.
 
-Nu orice pată maronie sau neagră de pe piele este o aluniță. Câteva leziuni benigne frecvente seamănă uneori cu melanomul:
+**Alunițele congenitale** sunt prezente de la naștere, la aproximativ un om din o sută. Pot fi mici sau foarte mari; cele foarte mari (gigante) se asociază cu un risc mai mare și sunt urmărite de dermatolog.
 
-- **keratozele seboreice** — leziuni maronii sau negre, ușor reliefate, cu suprafață aspră, ca „lipite” pe piele, foarte frecvente după 40–50 de ani;
-- **angioamele rubinii** — puncte sau mici noduli roșii, de natură vasculară;
-- **lentigourile solare** — pete maronii plate, pe zonele expuse la soare;
-- **dermatofibroamele** — noduli mici, fermi, mai ales pe picioare.
+**Alunițele atipice** (numite și displazice) sunt adesea mai mari decât radiera unui creion, au contur neregulat și mai multe nuanțe (maroniu deschis, maro, roz, roșiatic). Apar mai ales pe trunchi, pe scalp, pe cap și pe gât. Pot semăna cu un melanom fără să fie unul, iar cele mai multe nu se transformă niciodată. Totuși, persoanele cu mai multe alunițe atipice au un risc crescut și beneficiază de controale regulate.
 
-Diferența dintre aceste leziuni și un melanom nu poate fi făcută întotdeauna cu ochiul liber, motiv pentru care orice leziune nouă sau care se schimbă merită examinată de dermatolog.
+**Nevii Spitz** sunt mai rari, de obicei roz, bombați, apar mai ales în primii 20 de ani de viață și pot semăna atât de mult cu melanomul încât nici dermatologul nu îi poate deosebi doar privindu-i. În astfel de cazuri, decizia se ia pe baza examinării detaliate și, uneori, a analizei la microscop.
 
-## Ce este melanomul
+## Regula ABCDE, citită corect
 
-Melanomul este un cancer care pornește din melanocite. Poate apărea dintr-o aluniță existentă, dar de cele mai multe ori apare ca o leziune nouă, pe piele aparent normală. Este mai rar decât alte cancere de piele, dar este cel mai periculos, pentru că se poate răspândi în organism. Vestea bună: depistat într-un stadiu incipient, când este subțire, melanomul se vindecă, de cele mai multe ori, printr-o simplă excizie chirurgicală.
+Regula ABCDE este un ajutor de memorare folosit pe scară largă pentru a descrie aspectul care poate sugera un melanom, cancerul de piele care pornește din melanocite:
 
-## Regula ABCDE
+- **A, asimetria**: cele două jumătăți ale aluniței nu seamănă între ele.
+- **B, bordura**: marginea este zimțată, crestată sau greu de delimitat.
+- **C, culoarea**: în aceeași aluniță apar mai multe nuanțe, de la maro deschis la negru, uneori cu zone albe, roșii sau albăstrui.
+- **D, diametrul**: melanoamele au de obicei peste 6 mm (cam cât radiera unui creion), dar unele sunt mai mici în momentul diagnosticului.
+- **E, evoluția**: alunița se schimbă în mărime, formă sau culoare ori arată diferit de celelalte.
 
-| Literă | Ce înseamnă | Ce să cauți |
-|---|---|---|
-| **A** – Asimetrie | Cele două jumătăți nu seamănă | Dacă împarți alunița în două, părțile au forme diferite |
-| **B** – Bordură | Margini neregulate | Contur zimțat, șters, cu „prelungiri” |
-| **C** – Culoare | Culori multiple | Nuanțe diferite de maro, negru, roșu, albastru, gri sau alb în aceeași aluniță |
-| **D** – Diametru | Mărime | De obicei peste 6 mm (cât radiera unui creion), deși melanoamele pot fi și mai mici |
-| **E** – Evoluție | Schimbare în timp | Creștere, schimbare de formă, culoare, relief sau simptome noi |
+Două precizări ajută la folosirea ei fără anxietate inutilă. Mai întâi, o singură literă „bifată” nu înseamnă cancer: multe alunițe atipice, perfect benigne, sunt ușor asimetrice sau au mai multe nuanțe. Apoi, regula nu acoperă toate formele de melanom. De aceea, AAD pune accent pe schimbare: o aluniță nouă sau una care se modifică este adesea primul semn de melanom.
 
-**Evoluția este cel mai important semn.** O aluniță care se schimbă trebuie verificată, chiar dacă nu bifează celelalte criterii.
+## Semne care nu încap în ABCDE
 
-### Semnul „rățuștei urâte”
+Unele situații merită arătate medicului chiar dacă alunița nu are „aspectul clasic” descris mai sus.
 
-Alunițele aceleiași persoane tind să semene între ele. Una care arată diferit — mai mare, mai închisă, mai neregulată sau, din contră, singura roșie sau reliefată — este „rățușca urâtă” și merită arătată dermatologului.
+**Alunița care iese din rând.** Alunițele aceleiași persoane tind să semene între ele. Una care arată altfel, mai închisă, mai mare, singura roșiatică sau singura reliefată, merită atenție. În limbajul dermatologilor i se spune uneori „rățușca urâtă”. Pentru cine are multe alunițe, este și cel mai practic criteriu: nu e nevoie să analizați fiecare aluniță în parte, ci să o căutați pe cea care se deosebește.
 
-### Melanomul nodular: EFG
+**Alunița apărută după 30 de ani.** AAD recomandă ca o aluniță nouă apărută după această vârstă, sau una care se schimbă, să fie examinată de dermatolog.
 
-Unele melanoame cresc repede în profunzime și nu respectă regula ABCDE. Atenție la o leziune care este:
+**Mâncărimea, sângerarea, crusta.** O aluniță care mănâncă, sângerează sau face crustă fără să fi fost zgâriată sau agățată este un motiv de consult.
 
-- **E**levată (reliefată);
-- **F**ermă la atingere;
-- **G** (din engleză, „growing”) – în creștere rapidă, de la o lună la alta.
+**Leziunea bombată și fermă.** Unele melanoame cresc mai ales în înălțime: apar ca o mică formațiune în formă de dom, fermă la atingere, care poate arăta ca o rană și poate sângera. Nu sunt neapărat închise la culoare; pot fi roz sau roșii, motiv pentru care ușor sunt confundate cu un coș sau cu o leziune banală.
 
-Poate fi roz, roșie sau neagră și poate sângera.
+**Dunga de sub unghie și rana care nu se vindecă.** O linie verticală maro sau neagră apărută sub o unghie, fără o lovitură care să o explice, o rană care nu se închide ori care se vindecă și reapare, precum și o zonă de piele îngroșată, ca o cicatrice care crește încet, se numără și ele printre semnele descrise de AAD.
 
-### Alte semne de alarmă
+Melanomul poate apărea și în zone puțin expuse la soare: tălpi, palme, sub unghii. La persoanele cu pielea închisă la culoare, aceste localizări sunt chiar cele mai frecvente, potrivit NHS.
 
-- o aluniță care **sângerează, zemuiește sau formează crustă** fără motiv;
-- **mâncărime sau durere** persistentă într-o aluniță;
-- o **linie maronie sau neagră nouă** sub o unghie, care nu se explică printr-o lovitură;
-- o pată pigmentată care se extinde, pe fața expusă la soare, la o persoană mai în vârstă.
+## Ce crește riscul de melanom
 
-## Cine are risc mai mare de melanom
+Riscul nu este același pentru toată lumea. Serviciul britanic de sănătate (NHS) numește radiațiile ultraviolete, de la soare și din solar, drept cea mai frecventă cauză a melanomului. Alți factori care cresc riscul:
 
-Ghidurile europene enumeră ca principali factori de risc:
+- pielea deschisă, care se arde ușor la soare, părul roșcat sau blond, ochii albaștri sau verzi;
+- multe alunițe sau mulți pistrui;
+- expunerea intensă la soare și arsurile solare repetate în trecut;
+- folosirea frecventă a solarului;
+- un melanom sau alt cancer de piele în antecedente ori un istoric familial de cancer de piele;
+- vârsta înaintată, deși melanomul poate apărea și la tineri.
 
-- **numărul mare de alunițe** (de exemplu peste 50–100) și prezența **alunițelor atipice**;
-- **pielea deschisă**, părul roșcat sau blond, ochii deschiși, pistruii, tendința de a te arde ușor la soare;
-- **arsurile solare repetate**, mai ales în copilărie;
-- folosirea **solarului**: Agenția Internațională pentru Cercetarea Cancerului (IARC, OMS) clasifică dispozitivele de bronzare artificială drept cancerigene pentru om;
-- **antecedente personale** de melanom sau alt cancer de piele;
-- **antecedente familiale** de melanom la rude de gradul I;
-- **imunitatea scăzută**, de exemplu după transplant de organ.
+AAD adaugă că riscul este mai mare la persoanele cu patru sau mai multe alunițe atipice și la cele care au o rudă de gradul întâi (părinte, frate, copil) cu melanom. Dacă vă regăsiți în mai mulți dintre acești factori, nu înseamnă că veți face boala, ci doar că un control periodic, stabilit împreună cu dermatologul, poate avea sens.
 
-Dacă te regăsești în mai mulți dintre acești factori, discută cu dermatologul despre cât de des e bine să faci control.
+Partea care ține de dumneavoastră este protecția față de soare și renunțarea la solar. Despre alegerea și aplicarea produselor de protecție găsiți detalii în [SPF pe scurt](/blog/spf-pe-scurt/).
 
-## Cum îți verifici pielea acasă
+## Ce nu ajută: pastele, briciul și tatuajul
 
-O autoexaminare lunară durează câteva minute:
+Pe rafturi și pe internet circulă paste și soluții care promit să „scoată” alunițele acasă. AAD avertizează că acestea pot provoca reacții alergice și iritații. Îndepărtarea cu lama sau la salon poate lăsa în piele o parte din aluniță, cu risc de cicatrice și infecție, iar un tatuaj făcut peste o aluniță poate ascunde semnele timpurii ale unui melanom.
 
-1. **Alege o cameră bine luminată** și folosește o oglindă mare și una de mână.
-2. **Examinează-te din cap până în picioare**: față, urechi, gât, piept (și sub sâni), abdomen, brațe, palme, între degete, unghii.
-3. **Verifică spatele, fesele și ceafa** cu oglinda de mână sau cere ajutorul cuiva.
-4. **Nu uita zonele ascunse**: scalpul (cu ajutorul unui pieptene sau al unei alte persoane), tălpile, spațiile dintre degetele de la picioare, zona genitală.
-5. **Fotografiază alunițele** pe care vrei să le urmărești, cu o riglă alături, ca să poți compara în timp.
+Există și un motiv mai puțin evident: o aluniță distrusă prin ardere sau răzuire nu mai poate fi examinată la microscop. Când o aluniță este îndepărtată de medic, ea este trimisă la analiza histopatologică, singura care poate confirma dacă era benignă.
 
-Melanomul poate apărea și în zone neexpuse la soare, inclusiv pe tălpi, sub unghii sau pe mucoase.
+## Ce poate clarifica un dermatolog și ce nu
 
-## Ce face dermatologul
+La consult, medicul examinează alunița care vă îngrijorează și, de regulă, și restul pielii, pentru că o comparație cu celelalte alunițe spune mult. Cu dermatoscopul, o lupă cu lumină specială, poate vedea structuri care nu se disting cu ochiul liber. Cum decurge această examinare și ce limite are aflați din articolul despre [dermatoscopie](/blog/dermatoscopia/).
 
-- **Examinarea completă a pielii**, nu doar a alunițelor care te îngrijorează.
-- **Dermatoscopia**: o examinare nedureroasă cu o lupă specială, cu lumină, care arată structuri invizibile cu ochiul liber și crește precizia diagnosticului. Află mai multe în articolul despre [dermatoscopie](/blog/dermatoscopia/).
-- **Monitorizarea digitală** (fotografii dermatoscopice repetate), la persoanele cu multe alunițe sau cu risc crescut.
-- **Excizia chirurgicală** a alunițelor suspecte, cu **analiză histopatologică**, singura metodă care confirmă diagnosticul.
+După examinare, concluziile posibile sunt, în linii mari, trei: alunița arată benign și nu necesită nimic în plus; merită urmărită în timp, uneori cu fotografii pentru comparație; sau este recomandată îndepărtarea ei și analiza la microscop. Un consult nu poate oferi o garanție pentru viitor. Ce oferă este o evaluare a situației din acel moment și un plan rezonabil: ce urmăriți acasă și când reveniți.
 
-Alunițele suspecte **nu se ard și nu se îndepărtează cu laserul sau cu metode „cosmetice”** fără un diagnostic, pentru că astfel se pierde posibilitatea analizei la microscop. Remediile casnice sau produsele care promit să „scoată” alunițele pot fi periculoase.
+Între controale, autoexaminarea vă ajută să observați din timp o schimbare. Cum o faceți concret, zonă cu zonă, este explicat în ghidul despre [autoexaminarea pielii](/blog/autoexaminarea-pielii/).
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+## Când poate fi util un consult dermatologic?
 
-## Cum reduci riscul
+Merită să programați o examinare dacă observați:
 
-- **Folosește zilnic protecție solară** cu spectru larg pe zonele expuse, mai ales vara și la altitudine. Vezi [SPF pe scurt](/blog/spf-pe-scurt/) și [cum aplici corect protecția solară](/blog/cum-aplici-corect-protectia-solara/).
-- **Evită soarele între orele 11 și 16** și caută umbra.
-- **Poartă haine, pălărie cu boruri largi și ochelari de soare.**
-- **Nu folosi solarul.**
-- **Protejează copiii** de arsurile solare; vezi [protecția solară la copii](/blog/protectia-solara-la-copii/).
+- o aluniță nouă apărută după vârsta de 30 de ani;
+- o aluniță care își schimbă mărimea, forma, culoarea sau relieful;
+- o aluniță care arată diferit de toate celelalte;
+- mâncărime, sângerare sau crustă într-o aluniță, fără o cauză evidentă;
+- o dungă închisă la culoare, nouă, sub o unghie;
+- o rană care nu se vindecă sau se redeschide.
 
-## Când să mergi la dermatolog
+Dacă o leziune crește vizibil de la o săptămână la alta, este bombată și fermă sau sângerează, este preferabil să nu amânați consultul. Iar dacă aveți multe alunițe, alunițe atipice sau o rudă apropiată cu melanom și nu ați făcut niciodată un control, o primă evaluare poate stabili ce ritm de urmărire vi se potrivește. Pentru alte motive frecvente de consult, citiți și [când să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
 
-Programează o consultație dacă:
+Majoritatea alunițelor nu vor pune niciodată o problemă. Ce contează este să le cunoașteți aspectul obișnuit și să recunoașteți schimbarea, alunița nouă sau pe cea care nu seamănă cu celelalte, pentru că melanomul descoperit devreme se tratează, de cele mai multe ori, cu succes.
 
-- o aluniță **se schimbă** în mărime, formă, culoare sau relief;
-- ai o **aluniță nouă** după vârsta de aproximativ 40 de ani;
-- o aluniță are **mai multe dintre criteriile ABCDE** sau este „rățușca urâtă”;
-- o aluniță **sângerează, mănâncă, doare** sau formează crustă fără motiv;
-- apare o **linie pigmentată nouă sub o unghie**;
-- ai **multe alunițe**, alunițe atipice sau **rude cu melanom** și nu ai făcut niciodată un control.
+## Dacă doriți o evaluare individuală
 
-Mergi **cât mai curând** (în câteva zile, nu luni) dacă o leziune **crește rapid**, este reliefată și fermă, sau sângerează. Pentru alte situații în care merită să consulți un dermatolog, citește [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+Dacă o aluniță vă ridică semne de întrebare sau doriți o examinare completă a pielii, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Veți putea discuta ce s-a schimbat, ce înseamnă aspectul alunițelor dumneavoastră și cât de des are sens să reveniți la control. Găsiți [programul și locațiile aici](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: recunoașterea momentului potrivit pentru consult; diferențierea între schimbările normale ale alunițelor și semnele de alarmă, fără alarmare. Articolul nu explică tehnica autoexaminării (articol separat) și nici dermatoscopia în detaliu (articol separat).
+- Afirmații de confirmat clinic: formularea despre nevii Spitz („nici dermatologul nu îi poate deosebi doar privindu-i”), preluată din AAD; mențiunea „rățușca urâtă” ca termen folosit de dermatologi; prag de 30 de ani (AAD) pentru alunițele noi, în locul pragului de 40 de ani din versiunea anterioară.
+- Informații lipsă / de completat: dacă doriți, o recomandare proprie privind frecvența controalelor pentru persoanele cu risc crescut; leziunile benigne care pot fi confundate cu alunițele (keratoze seboreice, angioame, lentigouri) au fost scoase pentru că nu au fost verificate în sursele deschise acum.
+- Surse care nu au putut fi verificate: ghidul european EADO/EDF pentru melanom și pagina DermNet despre melanom (acces blocat din rețea); fișa IARC despre solar nu a fost redeschisă. Ghidul pacient Leeds Teaching Hospitals NHS Trust („Looking after your moles”) a fost consultat pentru recomandarea „aluniței care iese din rând”, dar nu este listat în surse.

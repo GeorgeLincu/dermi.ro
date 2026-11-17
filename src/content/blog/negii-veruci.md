@@ -1,138 +1,137 @@
 ---
-title: "Negii (verucile): de ce apar, cum se tratează și când trec"
-description: "Ce sunt negii, cum se transmit, când dispar singuri, ce tratamente au dovezi și când un neg trebuie văzut de dermatolog."
+title: "Negii (verucile): de ce apar, când trec singuri și ce opțiuni există"
+description: "Ce sunt negii, cum se transmit, de ce dispar adesea singuri, ce tratamente au cele mai bune dovezi și când este bine să arătați un neg medicului."
 pubDate: 2026-10-01
 category: "afectiuni"
-tags: ["negi", "veruci", "hpv", "tratament"]
+tags: ["negi", "veruci", "hpv", "negi plantari"]
 draft: true
 faq:
-  - q: "Negii sunt contagioși?"
-    a: "Da, dar riscul este scăzut la un contact obișnuit. Virusul se transmite mai ușor prin piele umedă sau cu mici leziuni, de exemplu pe pardoselile din piscine și vestiare, și se poate răspândi și pe propriul corp prin scărpinare sau ros."
   - q: "Negii trec singuri?"
-    a: "Mulți dispar fără tratament, mai ales la copii, dar asta poate dura luni sau chiar ani. Dacă negul nu deranjează, așteptarea este o opțiune acceptată de ghiduri."
-  - q: "Cum deosebesc un neg plantar de o bătătură?"
-    a: "Negul plantar întrerupe liniile pielii și are adesea mici puncte negre în interior (vase de sânge mici), iar strângerea laterală doare. Bătătura păstrează liniile pielii și doare mai ales la apăsare directă. Dacă nu ești sigur, întreabă medicul."
-  - q: "Pot tăia sau arde singur un neg?"
-    a: "Nu. Tăierea sau arderea acasă poate provoca infecții, sângerare, cicatrici și poate răspândi virusul. Folosește doar tratamente recomandate de medic sau farmacist, conform instrucțiunilor."
-  - q: "Negii genitali sunt același lucru cu negii de pe mâini?"
-    a: "Nu. Ambele sunt produse de virusuri HPV, dar de tipuri diferite, se transmit diferit și se tratează diferit. Negii genitali trebuie evaluați de medic și nu se tratează cu produsele pentru negi obișnuiți."
+    a: "Mulți negi dispar fără tratament, dar procesul poate dura luni sau chiar ani. Dacă un neg nu doare și nu vă deranjează, așteptarea este o opțiune acceptată."
+  - q: "Negii sunt contagioși?"
+    a: "Da. Virusul care îi produce se transmite prin contact direct cu pielea sau prin obiecte și suprafețe contaminate, mai ușor atunci când pielea este umedă sau are mici leziuni. Se poate răspândi și pe propriul corp, prin scărpinat, ros sau ras."
+  - q: "Banda adezivă ajută la negi?"
+    a: "Dovezile sunt contradictorii. O analiză Cochrane nu a găsit un avantaj clar față de placebo, așa că banda adezivă nu este considerată un tratament de bază."
+  - q: "Cine nu ar trebui să își trateze singur negii?"
+    a: "Persoanele cu diabet, cu circulație slabă sau amorțeală la picioare, cu imunitate scăzută, precum și cei cu negi pe față sau în zona genitală. În aceste situații este mai sigur să cereți sfatul medicului înainte de orice tratament."
 sources:
-  - title: "Topical treatments for cutaneous warts"
-    publisher: "Cochrane Database of Systematic Reviews (2012)"
-  - title: "British Association of Dermatologists' guidelines for the management of cutaneous warts 2014"
-    publisher: "British Journal of Dermatology (British Association of Dermatologists)"
+  - title: "Warts: Causes"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/warts-causes"
+  - title: "Warts: Diagnosis and treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/warts-treatment"
+  - title: "Warts: Dermatologists' tips for at-home treatment"
+    publisher: "American Academy of Dermatology (accesat 17.11.2026)"
+    url: "https://www.aad.org/public/diseases/a-z/warts-self-care"
   - title: "Warts and verrucas"
-    publisher: "NHS (National Health Service, Marea Britanie)"
+    publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/warts-and-verrucas/"
-  - title: "Viral wart"
-    publisher: "DermNet"
+  - title: "Topical treatments for skin warts"
+    publisher: "Cochrane, Kwok și colab., 2012 (accesat 17.11.2026)"
+    url: "https://www.cochrane.org/CD001781/SKIN_topical-treatments-for-skin-warts"
+  - title: "Viral warts – for parents and young people"
+    publisher: "British Association of Dermatologists, Patient Hub (accesat 17.11.2026)"
+    url: "https://www.skinhealthinfo.org.uk/condition/viral-warts/"
 ---
 
-Negii (verucile) sunt mici excrescențe benigne ale pielii produse de virusul papiloma uman (HPV), care apar cel mai des pe mâini și pe tălpi. Mulți dispar singuri în timp, mai ales la copii, iar dacă deranjează, tratamentele cu cele mai bune dovezi sunt acidul salicilic aplicat local și crioterapia (înghețarea cu azot lichid). Un „neg” care sângerează, crește rapid sau apare la un adult pe față ori sub unghie trebuie văzut de dermatolog.
+O mică umflătură aspră pe degetul arătător, care se agață de fiecare dată de ciorap. O „bătătură” pe talpă, cu puncte negre, care doare la mers după vacanța petrecută pe marginea piscinei. Negii, numiți medical veruci, sunt excrescențe benigne ale pielii produse de virusul papiloma uman (HPV). Sunt contagioși, apar mai ales pe mâini și pe tălpi și, la multe persoane, dispar singuri în câteva luni sau câțiva ani. Dacă deranjează, tratamentele cu cele mai bune dovezi sunt acidul salicilic aplicat local și înghețarea cu azot lichid (crioterapia), făcută de medic.
 
-## Pe scurt
-
-- Negii sunt produși de tipuri de HPV care infectează pielea și sunt benigni.
-- Sunt foarte frecvenți la copii și adolescenți și adesea dispar singuri, în luni sau ani.
-- Tratamentele de primă linie sunt acidul salicilic și crioterapia; niciun tratament nu funcționează la toată lumea din prima.
-- Nu tăia, nu arde și nu scobi negii acasă.
-- Negii genitali sunt o afecțiune diferită și se evaluează de medic.
+Niciun tratament nu funcționează la toată lumea și nici dintr-o dată. Mai jos găsiți cum se transmit negii, ce puteți face acasă în siguranță, ce poate oferi medicul și în ce situații un neg merită arătat înainte de orice tratament.
 
 ## Ce sunt negii
 
-Negii sunt îngroșări ale stratului superficial al pielii, produse de infecția celulelor pielii cu anumite tipuri de **virus papiloma uman (HPV)**. Virusul pătrunde prin mici fisuri sau zgârieturi și face celulele să se înmulțească mai repede, formând o mică „excrescență” cu suprafață aspră.
+Virusul pătrunde în stratul superficial al pielii printr-o mică ruptură, uneori atât de mică încât nu o observați, de exemplu o microleziune după ras. Celulele infectate se înmulțesc mai repede decât cele din jur și formează o îngroșare cu suprafață aspră. Academia Americană de Dermatologie (AAD) precizează că un neg nu apare imediat după contact: de obicei trec câteva luni până devine vizibil. De aceea, rareori se poate spune cu exactitate unde a fost „luat”.
 
-Există peste o sută de tipuri de HPV. Cele care produc negi pe mâini și picioare sunt diferite de cele care produc negi genitali sau de cele asociate cu cancerul de col uterin. Pentru negii din zona genitală, adresează-te medicului dermatovenerolog.
+Negii nu sunt un semn de igienă precară, subliniază Asociația Britanică a Dermatologilor. Sunt foarte frecvenți, mai ales la copii și adolescenți, iar cei mai mulți oameni au cel puțin unul la un moment dat.
 
-## Tipuri de negi
+## Cum arată, în funcție de loc
 
-| Tip | Unde apar | Cum arată |
-|---|---|---|
-| Neg comun (vulgar) | Mâini, degete, genunchi, în jurul unghiilor | Ridicat, aspru, cenușiu sau de culoarea pielii |
-| Neg plantar | Tălpi, mai ales în zonele de sprijin | Plat, împins în piele de greutatea corpului, cu puncte negre; poate durea la mers |
-| Negi în mozaic | Tălpi | Grupuri de negi plantari unite într-o placă |
-| Negi plani | Față, dosul mâinilor, picioare (inclusiv după ras) | Mici, plați, netezi, adesea numeroși |
-| Negi filiformi | Față, în jurul gurii, nasului, pleoapelor | Subțiri, alungiți, ca niște „degete” mici |
+**Negii obișnuiți** sunt fermi, aspri, adesea cu aspect de conopidă, și apar pe degete, pe articulațiile mâinilor sau pe genunchi. De obicei au culoarea pielii; pe pielea închisă la culoare pot fi mai închiși.
 
-## Cum se transmit
+**Negii plantari** apar pe talpă și sunt împinși în piele de greutatea corpului, așa că par mai plați. Sub stratul de piele îngroșată se văd adesea puncte mici, negre. Pot durea la mers, mai ales când sunt pe zonele de sprijin.
 
-HPV se transmite prin contact direct cu un neg sau indirect, prin suprafețe contaminate. Riscul crește când:
+**Negii în mozaic** sunt grupuri de negi alăturați, care formează o placă, cel mai des pe tălpi sau pe mâini.
 
-- pielea este **umedă sau înmuiată** (piscine, dușuri comune, vestiare);
-- există **mici răni**, zgârieturi sau piele crăpată;
-- **rozi unghiile** sau pielița din jurul lor;
-- **scărpini, rozi sau razi** negul – virusul se poate răspândi pe propria piele;
-- sistemul imunitar este slăbit (de exemplu după un transplant sau sub tratamente imunosupresoare).
+**Negii plani** sunt mici, rotunzi, netezi, uneori gălbui, și apar adesea în număr mare, pe față, pe dosul mâinilor sau pe picioare.
 
-Nu toată lumea expusă face negi; răspunsul imun al fiecăruia contează mult.
+Negii din zona genitală sunt produși de alte tipuri de HPV, se transmit diferit și se evaluează separat de medic. Nu se tratează cu produsele pentru negii obișnuiți. Tot diferită este și o altă infecție virală frecventă la copii, cu mici papule netede, lucioase, cu o adâncitură în centru: despre ea puteți citi în articolul despre [moluscum contagios](/blog/moluscum-contagios/).
 
-## Negii trec singuri?
+## Cum se transmit și cine îi face mai ușor
 
-De multe ori, da. Potrivit ghidului Asociației Britanice a Dermatologilor, la copii aproximativ două treimi dintre negi dispar spontan în decurs de doi ani. La adulți, negii pot persista mai mult. Pentru că mulți negi se vindecă singuri și nu sunt periculoși, **așteptarea** este o opțiune legitimă dacă negul nu doare, nu deranjează și nu se înmulțește.
+Virusul se transmite prin contact direct cu un neg sau prin obiecte și suprafețe contaminate: prosoape, șosete, pardoseala de lângă piscină. Pielea umedă, înmuiată sau cu mici leziuni este mai vulnerabilă. AAD enumeră câteva situații care cresc riscul:
 
-## Cum se tratează negii
+- rosul unghiilor sau al pielițelor din jurul lor;
+- rasul, care produce microleziuni și poate „împrăștia” virusul;
+- mersul desculț în vestiare, dușuri comune și în jurul piscinelor;
+- folosirea în comun a prosoapelor sau a șosetelor nespălate;
+- dermatita atopică, imunitatea scăzută, sarcina;
+- manipularea frecventă a cărnii, a peștelui sau a păsărilor crude.
 
-Scopul tratamentului este îndepărtarea negului cu cât mai puțină durere și fără cicatrici. Niciun tratament nu are succes 100%, iar recidivele sunt posibile, pentru că virusul poate rămâne în pielea din jur.
+Un neg se poate răspândi și pe propriul corp: atingeți negul, apoi o zonă cu pielea lezată, și virusul ajunge acolo. Copiii sunt deosebit de predispuși, pentru că se joacă în contact strâns, se zgârie des și folosesc în comun prosoapele.
 
-### Acidul salicilic
+## Pot fi lăsați în pace?
 
-Este tratamentul local cu cele mai solide dovezi, potrivit unei analize Cochrane. Soluțiile, gelurile sau plasturii cu acid salicilic înmoaie și desprind treptat stratul îngroșat. Pentru un efect mai bun:
+Adesea, da. Atât AAD, cât și NHS arată că negii dispar frecvent fără tratament, la o persoană cu un sistem imunitar sănătos, chiar dacă asta poate dura luni sau ani. Asociația Britanică a Dermatologilor menționează că așteptarea este deseori recomandată, tocmai pentru că niciun tratament nu este complet eficient.
 
-- înmoaie negul în apă caldă câteva minute înainte de aplicare;
-- îndepărtează ușor stratul mort cu o pilă sau piatră ponce **folosită doar pentru neg**;
-- protejează pielea sănătoasă din jur;
-- aplică regulat, de obicei timp de mai multe săptămâni până la câteva luni.
+Așteptarea are sens mai ales când negul nu doare, nu se înmulțește și nu vă incomodează. Ea nu este potrivită pentru toată lumea: la persoanele cu imunitate scăzută din cauza unei boli sau a unor medicamente, negii pot fi mai greu de eliminat și merită urmăriți împreună cu medicul.
 
-Nu folosi acid salicilic pe față, pe zona genitală, pe piele iritată sau pe alunițe. Dacă ai **diabet** sau **circulație slabă la picioare**, nu trata negii plantari singur – cere sfatul medicului.
+La copii, întrebarea „tratăm sau așteptăm?” se pune cel mai des. Pentru un neg mic, nedureros, pe care copilul nu îl observă, răbdarea este adesea cea mai blândă variantă. Tratamentele din cabinet pot fi neplăcute sau dureroase pentru un copil mic, așa că decizia ține cont și de cât de mult îl deranjează negul pe copil, nu doar de cât de mult îi deranjează pe părinți.
 
-### Crioterapia (înghețarea cu azot lichid)
+## Ce puteți face acasă, în siguranță
 
-Medicul aplică azot lichid pe neg, care distruge celulele infectate. Se formează uneori o bășică ce se vindecă în câteva zile. De obicei sunt necesare **mai multe ședințe**, la câteva săptămâni distanță. Poate fi dureroasă și poate lăsa, rar, pete mai deschise sau mai închise la culoare, mai ales pe pielea închisă. Combinarea crioterapiei cu acidul salicilic poate crește eficiența.
+**Acidul salicilic** este tratamentul de acasă cu cele mai bune dovezi. O analiză Cochrane care a cuprins 85 de studii a arătat un beneficiu modest față de placebo, mai evident la negii de pe mâini decât la cei de pe tălpi. Despre substanța în sine, folosită și în îngrijirea pielii, găsiți mai multe în articolul despre [acidul salicilic](/blog/acidul-salicilic/). AAD descrie pașii obișnuiți:
 
-Produsele de înghețare vândute fără rețetă ating temperaturi mai puțin scăzute decât azotul lichid și sunt, în general, mai puțin eficiente.
+1. Înmuiați negul în apă caldă aproximativ cinci minute.
+2. Pilați ușor suprafața cu o pilă de unică folosință sau cu o piatră ponce folosită doar pentru neg.
+3. Uscați bine zona și aplicați produsul conform instrucțiunilor de pe ambalaj, protejând pielea sănătoasă din jur.
+4. Repetați zilnic; pilitul se poate face la câteva zile.
 
-### Alte tratamente (la recomandarea dermatologului)
+Dacă pielea din jur devine iritată și dureroasă, faceți o pauză de câteva zile. Durerea, sângerarea sau bășicile sunt un semn să opriți tratamentul și să cereți sfatul medicului. NHS avertizează că produsele din farmacie pot avea nevoie de până la trei luni, pot irita pielea, nu funcționează întotdeauna și nu se folosesc pe față.
 
-Pentru negii care nu răspund la tratamentele de primă linie, dermatologul poate lua în calcul:
+**Produsele de înghețare** vândute fără rețetă sunt, potrivit AAD, mai slabe decât crioterapia făcută în cabinet. **Banda adezivă** a avut rezultate contradictorii: un studiu mai vechi a sugerat un efect, dar analiza Cochrane, pe baza unor studii mai mari, nu a găsit un avantaj față de placebo.
 
-- **substanțe aplicate local** care distrug sau irită controlat negul ori stimulează imunitatea locală (unele se folosesc în afara indicației oficiale);
-- **injectarea unor medicamente** în neg, în situații selectate;
-- **imunoterapia de contact**, care stimulează sistemul imunitar să recunoască virusul;
-- **îndepărtarea chirurgicală, electrocauterizarea sau laserul** – în cazuri atent alese, pentru că pot lăsa cicatrici, iar pe tălpi cicatricea poate durea la mers.
+Tratamentul acasă nu este recomandat dacă aveți diabet, circulație slabă sau amorțeală în zona negului, imunitate scăzută, negi pe față sau în zona genitală, negi foarte numeroși sau dacă nu sunteți sigur că leziunea este un neg.
 
-Pentru multe dintre aceste opțiuni, dovezile sunt mai slabe decât pentru acidul salicilic și crioterapie.
+## Ce poate face medicul
 
-> [TODO: Dr. Mădălina — observație din practică, opțional]
+**Crioterapia** cu azot lichid distruge țesutul infectat. După ședință se formează de obicei o crustă sau o bășică, care se vindecă în aproximativ o săptămână. Cei mai mulți pacienți au nevoie de mai multe ședințe, la două-patru săptămâni distanță. Poate fi dureroasă, motiv pentru care AAD menționează că se folosește mai ales la copiii mai mari și la adulți. Analiza Cochrane a arătat că asocierea crioterapiei cu acidul salicilic a funcționat mai bine decât acidul salicilic singur.
 
-## Ce poți face acasă
+Pentru negii care nu răspund, dermatologul poate discuta și alte opțiuni: substanțe aplicate în cabinet care produc o bășică controlată, medicamente injectate în neg, tratamente care stimulează răspunsul imun local, chiuretajul cu electrocauterizare, excizia sau laserul. Fiecare are dezavantaje, de la durere la pete și cicatrici, iar dovezile pentru multe dintre ele sunt limitate. Pe talpă, o cicatrice poate fi ea însăși dureroasă la mers, așa că metodele mai agresive se aleg cu grijă. [TODO: de confirmat de medic — ce opțiuni de tratament al negilor oferiți în cabinet?]
 
-- **Nu atinge, nu roade și nu scărpina** negii; spală-te pe mâini după ce îi tratezi.
-- **Acoperă negul** cu un plasture când mergi la piscină sau în sala de sport.
-- **Poartă papuci** în dușuri și vestiare comune.
-- **Nu folosi în comun** prosoape, șosete, încălțăminte, pile sau piatră ponce.
-- **Nu rade** zonele cu negi plani – lama răspândește virusul.
-- **Ține pielea hidratată** – pielea crăpată se infectează mai ușor.
-- **Fii răbdător**: tratamentele au nevoie de săptămâni sau luni.
+## Cum limitați răspândirea
 
-## Mituri despre negi
+- Spălați-vă pe mâini după ce atingeți sau tratați un neg.
+- Nu scărpinați, nu rodeți și nu ciupiți negii.
+- Acoperiți negul cu un plasture la piscină și nu umblați desculț în spațiile comune dacă aveți un neg plantar.
+- Schimbați șosetele zilnic și nu folosiți în comun prosoape, șosete sau încălțăminte.
+- Evitați să treceți cu aparatul de ras peste negi.
 
-- **„Negii vin de la broaște.”** Fals – sunt produși de HPV, un virus uman.
-- **„Negii au rădăcini care trebuie scoase.”** Negii sunt în stratul superficial al pielii; punctele negre sunt vase de sânge mici, nu rădăcini.
-- **„Banda adezivă vindecă negii.”** Studiile au dat rezultate contradictorii; dovezile nu sunt suficiente pentru a o recomanda ca tratament de bază.
-- **„Dacă tai negul, scapi de el.”** Tăierea poate provoca infecții, cicatrici și răspândirea virusului.
+Pilele și pietrele ponce folosite pentru neg rămân doar pentru el și nu se împart cu nimeni din familie.
 
-## Când să mergi la dermatolog
+## Când poate fi util un consult dermatologic?
 
-Programează un consult dacă:
+Este bine să arătați leziunea medicului dacă:
 
-- **nu ești sigur că este un neg** – unele leziuni, inclusiv cancere de piele, pot semăna cu un neg;
-- leziunea **sângerează, crește rapid, își schimbă culoarea** sau devine dureroasă fără motiv;
-- ești **adult** și apare un „neg” nou, singular, pe față, pe buze sau **sub ori lângă unghie** care nu trece;
-- ai **negi numeroși** sau care se extind rapid;
-- ai **imunitate scăzută** (transplant, tratamente imunosupresoare, HIV);
-- ai **diabet** sau probleme de circulație și un neg pe picior;
-- negul este pe **față sau în zona genitală**;
-- negul plantar te **doare la mers** și nu răspunde la tratament;
+- nu sunteți sigur că este un neg, mai ales la un adult, pe față, pe buze sau lângă o unghie;
+- leziunea sângerează, își schimbă aspectul, crește repede sau doare fără motiv;
+- negul este pe față sau în zona genitală;
+- negii sunt numeroși sau revin mereu;
+- un neg plantar vă incomodează la mers și nu răspunde la tratament;
+- aveți diabet, probleme de circulație sau imunitate scăzută;
 - tratamentul corect aplicat câteva luni nu a dat rezultate.
 
-Dermatologul poate examina leziunea cu dermatoscopul – află mai multe în [dermatoscopia](/blog/dermatoscopia/). Pentru semnele de alarmă ale leziunilor pigmentate, citește și [alunițele: semne de alarmă](/blog/alunite-semne-de-alarma/), iar pentru o imagine generală, [când să mergi la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+O leziune care sângerează sau se schimbă nu trebuie tratată ca un neg până nu este evaluată: semnele care merită atenție la orice leziune a pielii sunt descrise în articolul despre [semnele de alarmă ale alunițelor](/blog/alunite-semne-de-alarma/). Pentru o imagine de ansamblu asupra motivelor de consult, citiți și [când să mergeți la dermatolog](/blog/cand-sa-mergi-la-dermatolog/).
+
+Negii sunt o problemă frecventă și, de cele mai multe ori, benignă, care se rezolvă adesea cu răbdare sau cu tratamente simple. Cheia este să nu îi tratați agresiv acasă, să limitați răspândirea și să cereți o părere atunci când leziunea nu arată sau nu se comportă ca un neg obișnuit.
+
+## Dacă doriți o evaluare individuală
+
+Dacă un neg vă incomodează, revine sau nu sunteți sigur ce este, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Veți putea afla dacă este, într-adevăr, un neg și ce opțiuni sunt rezonabile în cazul dumneavoastră, inclusiv când are sens să așteptați. Găsiți [programul și locațiile aici](/program/).
+
+## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
+
+- Obiectiv editorial: educare și clarificarea unor mituri (banda adezivă, tratamentul agresiv acasă); recunoașterea situațiilor în care un neg trebuie evaluat înainte de tratament.
+- Afirmații de confirmat clinic: lista factorilor de risc AAD (inclusiv manipularea cărnii crude, sarcina); vindecarea crustei după crioterapie „în aproximativ o săptămână” (AAD: 4–7 zile) și ședințele la 2–4 săptămâni; rezultatele analizei Cochrane (2012, date până în 2011, deci relativ vechi).
+- Informații lipsă / de completat: ce proceduri pentru negi oferiți (marcat inline); cifra din versiunea anterioară („două treimi dintre negii copiilor dispar în doi ani”, ghidul BAD 2014) a fost scoasă pentru că ghidul nu a fost redeschis acum; o puteți reintroduce dacă o confirmați.
+- Surse care nu au putut fi verificate: ghidul BAD 2014 pentru negi (doar foaia pentru pacienți a fost deschisă); DermNet (acces blocat din rețea).
