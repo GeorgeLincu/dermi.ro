@@ -142,11 +142,17 @@ questions first only if the source material is missing; otherwise produce everyt
 
 - Same handle everywhere: `dermi.ro` (fallback `dr.madalinalincu`). Login e-mail: `social@dermi.ro`
   (Cloudflare Email Routing alias → drmadalinalincu@gmail.com; ROADMAP SM2).
-- Facebook Page (category: Dermatologist / Medic) owned through a Meta Business portfolio; both George and the
-  doctor have full control; Instagram professional (Creator) account linked to the Page.
-- YouTube channel on a **Brand Account**, George as Manager; check eligibility for YouTube health-source
-  information panels for licensed professionals.
-- TikTok Business account (no ads).
+- The doctor's personal Facebook/Instagram accounts stay untouched. **New accounts** with `social@dermi.ro`:
+  Instagram and TikTok. **No new account**: Facebook and YouTube start from her existing accounts.
+- Facebook: a **Page created from her personal profile** (Meta allows one personal account per person — a second
+  profile with social@ breaks the rules and risks a ban). Page owned through a Meta Business portfolio "dermi.ro",
+  George with full control; `social@dermi.ro` as the Page/portfolio contact e-mail. Admin names are not public.
+- Instagram: a new account (Add account → Create new, social@ + own password), switched to professional (Creator)
+  and connected to the Page. Keep it out of her personal Accounts Center and turn off contact syncing if she wants
+  it not suggested to her personal contacts.
+- YouTube: a channel on a **Brand Account** created from her Gmail (Gmail not shown), George as Manager; check
+  eligibility for YouTube health-source information panels for licensed professionals.
+- TikTok: a new Business account with social@ (no ads); turn off "Suggest your account to others".
 - 2FA with an authenticator app on every account, recovery codes stored offline, passwords in a password
   manager, never shared — access is given through roles.
 - After the accounts exist: add the profile URLs to `CONFIG.doctor.profiles` in `src/config.ts`
