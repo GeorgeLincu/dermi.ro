@@ -25,7 +25,8 @@ State as configured on 2026-10-01. Keep this file accurate when something change
 | `_dmarc` TXT | DMARC (see below) |
 | CAA | which CAs may issue certificates (see below) |
 
-- **Email Routing**: `contact@dermi.ro` → drmadalinalincu@gmail.com (verified destination). Every other
+- **Email Routing**: `contact@dermi.ro` and `social@dermi.ro` (login e-mail for the social media accounts, rule
+  "social", 2026-11-17) → drmadalinalincu@gmail.com (verified destination). Every other
   address is dropped. The contact form sends from `formular@dermi.ro` through the Worker.
 - Zoho Mail was removed on 2026-10-01 (its MX/SPF/DKIM records are gone).
 - The site shows only `contact@dermi.ro`, never the Gmail address.
