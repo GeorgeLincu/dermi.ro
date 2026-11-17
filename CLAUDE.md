@@ -97,7 +97,7 @@ doesn't run remark/rehype plugins (would need `@astrojs/markdown-remark`) — do
 
 Worker `dermi` · R2 bucket `dermi-vault` (WEUR) · Zero Trust team `plain-block-9dbd.cloudflareaccess.com`,
 Access app **Dermi Vault** (`dermi.ro/vault`, `www.dermi.ro/vault`, OTP only, 24 h, policy = the two admins;
-AUD in `wrangler.jsonc`) · Email Routing `contact@dermi.ro` → drmadalinalincu@gmail.com · send_email binding
+AUD in `wrangler.jsonc`) · Email Routing `contact@` + `social@dermi.ro` → drmadalinalincu@gmail.com · send_email binding
 locked to that address · WAF custom rules, Free Managed Ruleset, rate limit 40/10 s · DNSSEC active (DS at RoTLD)
 · CAA · AI bots allowed, managed robots.txt off. Details: `docs/CLOUDFLARE-SETUP.md`.
 
