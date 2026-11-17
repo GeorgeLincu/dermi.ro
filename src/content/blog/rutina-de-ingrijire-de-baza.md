@@ -1,14 +1,14 @@
 ---
 title: "Rutina de îngrijire a pielii: ce este necesar, ce este opțional și în ce ordine se aplică produsele"
 description: "Ce pași are o rutină de îngrijire a pielii de bază, cum o adaptați tipului de piele și cum introduceți un produs nou fără să vă iritați pielea."
-pubDate: 2026-10-01
+pubDate: 2026-11-17
 category: "rutine"
 tags:
   - "rutină de îngrijire"
   - "curățare"
   - "hidratare"
   - "protecție solară"
-draft: true
+draft: false
 image: "/media/blog/rutina-de-ingrijire-de-baza/mwl1tuti-2026-11-17-20-50-42-openai-gpt-image-2-6-1122x1402.webp"
 imageAlt: "Regula de urmat: suma produselor de aplicat este întotdeauna egala cu 2 (de ex. curățare și protecție solară). Imagine creată cu AI."
 faq:
