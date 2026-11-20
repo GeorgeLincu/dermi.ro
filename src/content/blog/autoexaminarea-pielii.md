@@ -1,14 +1,16 @@
 ---
 title: "Autoexaminarea pielii: cum vă verificați alunițele acasă, pas cu pas"
 description: "Cum faceți autoexaminarea pielii acasă: ce vă trebuie, ordinea în care priviți fiecare zonă, cât de des și cum vă ajută fotografiile."
-pubDate: 2026-11-17
+pubDate: 2026-11-20
 category: "consultatii"
 tags:
   - "autoexaminare"
   - "alunițe"
   - "melanom"
   - "prevenție"
-draft: true
+  - "harta"
+  - "oglinda"
+draft: false
 image: "/media/blog/autoexaminarea-pielii/mwowvsoc-2026-11-20-13-39-49-google-nano-banana-2-1-1376x768.webp"
 imageAlt: "Harta autoexaminării acasă. Imagine creată cu AI."
 faq:
