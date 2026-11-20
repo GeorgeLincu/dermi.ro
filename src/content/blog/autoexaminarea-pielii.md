@@ -9,6 +9,8 @@ tags:
   - "melanom"
   - "prevenție"
 draft: true
+image: "/media/blog/autoexaminarea-pielii/mwowvsoc-2026-11-20-13-39-49-google-nano-banana-2-1-1376x768.webp"
+imageAlt: "Harta autoexaminării acasă. Imagine creată cu AI."
 faq:
   - q: "Cât de des este bine să vă verificați pielea acasă?"
     a: "Multe ghiduri pentru pacienți recomandă o verificare a alunițelor aproximativ o dată pe lună. Dacă aveți un risc crescut, dermatologul vă poate spune ce ritm vi se potrivește."
