@@ -47,7 +47,8 @@ Mulți oameni au auzit că „e bine să verificăm alunițele”, dar puțini �
 
 Autoexaminarea pielii este o privire atentă și sistematică asupra întregului corp, făcută acasă, într-o cameră bine luminată, cu o oglindă mare și una de mână. Ghidurile internaționale recomandă de obicei o verificare pe lună, iar scopul ei nu este să vă puneți singur un diagnostic, ci să observați din timp o leziune nouă sau una care se schimbă.
 
-Articolul de față se ocupă de tehnică: ce vă trebuie, cum parcurgeți corpul zonă cu zonă și cum folosiți fotografiile. Ce anume face ca o aluniță să merite arătată medicului este explicat pe larg în articolul despre [semnele de alarmă ale alunițelor].(/blog/alunite-semne-de-alarma/).
+
+Articolul de față se ocupă de tehnică: ce vă trebuie, cum parcurgeți corpul zonă cu zonă și cum folosiți fotografiile. Ce anume face ca o aluniță să merite arătată medicului este explicat pe larg în articolul despre [semnele de alarmă ale alunițelor](/blog/alunite-semne-de-alarma/).
 
 ## De ce are rost o verificare făcută acasă
 
