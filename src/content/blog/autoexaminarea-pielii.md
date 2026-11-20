@@ -147,4 +147,4 @@ Autoexaminarea nu cere mult timp și nici instrumente speciale. Cere doar regula
 
 ## Dacă doriți o evaluare individuală
 
-Dacă ați observat o leziune care vă ridică semne de întrebare sau doriți o examinare completă a pielii, ca punct de plecare pentru verificările de acasă, puteți programa o consultație mine, Dr. Mădălina Iulia Lincu. Împreună putem stabili ce merită urmărit și cât de des. [Programul și locațiile](/program/) sunt pe pagina de programări.
+Dacă ați observat o leziune care vă ridică semne de întrebare sau doriți o examinare completă a pielii, ca punct de plecare pentru verificările de acasă, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Împreună putem stabili ce merită urmărit și cât de des. [Programul și locațiile](/program/) sunt pe pagina de programări.
