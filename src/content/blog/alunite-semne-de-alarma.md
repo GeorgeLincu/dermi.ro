@@ -40,6 +40,7 @@ sources:
   - title: "Causes of melanoma skin cancer"
     publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/melanoma-skin-cancer/causes/"
+  - title: "Melanoma EADO Garbe C, Amaral T, Peris K, Hauschild A, Arenberger P, Bastholt L, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics – Update 2019. European Journal of Cancer. 2019. https://doi.org/10.1016/j.ejca.2019.11.014"
 ---
 
 „Oare așa arăta alunița asta și înainte?” sau ”Oare aveam alunița asta și înainte?”. Se întâmplă des să ne întrebăm dacă așa arăta pielea noastră acum câteva luni sau ani. 
