@@ -38,18 +38,21 @@ sources:
     url: "https://www.aad.org/public/diseases/a-z/moles-types"
 ---
 
-„Vă fac și o dermatoscopie” sună tehnic, poate chiar puțin neliniștitor, mai ales dacă ați venit doar pentru o aluniță care vă intrigă. În realitate, dermatoscopia este o examinare simplă și nedureroasă: medicul privește alunița printr-un instrument portabil, cu lupă și sursă de lumină, numit dermatoscop. Imaginea este mărită de până la aproximativ zece ori, iar detaliile care nu se văd cu ochiul liber devin vizibile. Dermatoscopia ajută la deosebirea leziunilor benigne de cele care trebuie urmărite sau îndepărtate, dar nu înlocuiește analiza la microscop atunci când o leziune este suspectă.
+Dermatoscopul este extensia dermatologului. Așa cum un chirurg are nevoie de instrumente chirurgicale pentru a trata pacientul, așa și dermatologul are nevoie de un dermatoscop.
+
+În realitate, dermatoscopia este o examinare simplă și nedureroasă: medicul privește alunița printr-un instrument portabil, cu lupă și sursă de lumină, numit dermatoscop. Imaginea este mărită de până la aproximativ zece ori, iar detaliile care nu se văd cu ochiul liber devin vizibile. Dermatoscopia ajută la deosebirea leziunilor benigne, inofensive, de cele care trebuie urmărite sau îndepărtate, dar nu înlocuiește analiza la microscop atunci când o leziune este suspectă.
 
 ## Pe scurt
 
 - Dermatoscopia este o examinare a pielii cu un instrument care mărește imaginea și o luminează din apropiere.
 - Nu doare, nu folosește radiații și nu necesită pregătire specială, în afara pielii curate și nemachiate.
 - Folosită de un medic cu experiență, este mai precisă decât examinarea cu ochiul liber.
+- Orientează diagnosticul și pașii de tratament.
 - Nu oferă un diagnostic definitiv: certitudinea vine din analiza histopatologică.
 
 ## Ce vede medicul prin dermatoscop
 
-Privită cu ochiul liber, o aluniță este o pată maronie mai mult sau mai puțin uniformă. Suprafața pielii reflectă lumina și ascunde ce se află imediat dedesubt. Dermatoscopul reduce aceste reflexii, uneori cu ajutorul unui strat subțire de gel sau ulei aplicat pe piele, și luminează leziunea din apropiere. Astfel, medicul poate vedea cum este distribuit pigmentul, ce formă au vasele mici de sânge și cum arată structura leziunii în straturile superficiale ale pielii.
+Privită cu ochiul liber, o aluniță este o pată maronie mai mult sau mai puțin uniformă. Suprafața pielii reflectă lumina și ascunde ce se află imediat dedesubt. Dermatoscopul reduce aceste reflexii, mărește imaginea, luminează leziunea din apropiere și evidențiază detalii. Astfel, medicul poate vedea cum este distribuit pigmentul, ce formă au vasele mici de sânge și cum arată structura leziunii în straturile superficiale ale pielii.
 
 Fiecare tip de leziune are anumite trăsături dermatoscopice. Medicul le compară cu ce vede la celelalte alunițe ale aceleiași persoane, cu istoricul leziunii și cu factorii de risc. Rezultatul nu este o „fotografie care dă verdictul”, ci o informație în plus într-o evaluare de ansamblu.
 
@@ -89,7 +92,7 @@ Tot AAD precizează că singura metodă care stabilește cu certitudine dacă o 
 
 **Leziunea pare suspectă.** Medicul recomandă îndepărtarea ei sau o biopsie, sub anestezie locală, și analiza histopatologică. Rezultatul stabilește diagnosticul și, dacă este cazul, pașii următori.
 
-Urmărirea în timp, cu imagini dermatoscopice salvate și comparate de la un control la altul, este numită uneori dermatoscopie digitală. Ea este utilă mai ales la persoanele cu multe alunițe sau cu alunițe atipice, la care îndepărtarea tuturor leziunilor neobișnuite nu ar fi nici posibilă, nici necesară. [TODO: de confirmat de medic — efectuează dermatoscopie digitală/fotografie de urmărire?]
+Urmărirea în timp, cu imagini dermatoscopice salvate și comparate de la un control la altul, este numită uneori dermatoscopie digitală sau mai simplu harta digitală a alunițelor. Ea este utilă mai ales la persoanele cu multe alunițe sau cu alunițe atipice, la care îndepărtarea tuturor leziunilor neobișnuite nu ar fi nici posibilă, nici necesară. 
 
 ## Întrebări pe care le puteți pune la final
 
@@ -109,8 +112,8 @@ De asemenea, nu vă mirați dacă medicul privește și alunițe despre care nu 
 
 Pregătirea este simplă, dar câteva lucruri ușurează mult examinarea:
 
-- Veniți fără machiaj dacă leziunile sunt pe față și fără ojă, gel sau unghii artificiale dacă vă îngrijorează o unghie. AAD recomandă acest lucru pentru orice consult dermatologic, pentru că medicul trebuie să vadă pielea și unghiile neacoperite.
-- Evitați cremele grase, uleiurile sau autobronzantul pe zonele care vor fi examinate. [TODO: de confirmat de medic — recomandarea privind autobronzantul]
+- Veniți fără machiaj dacă leziunile sunt pe față și fără ojă, gel sau unghii artificiale dacă vă îngrijorează o unghie. Acest lucru este valabil pentru orice consult dermatologic, pentru că medicul trebuie să vadă pielea și unghiile neacoperite.
+- Evitați cremele grase, uleiurile sau autobronzantul pe zonele care vor fi examinate. 
 - Notați alunițele care vă îngrijorează și ce ați observat: de când există, dacă s-au schimbat, dacă mănâncă sau sângerează.
 - Aduceți fotografiile mai vechi ale leziunii, dacă le aveți, precum și rezultatele unor biopsii sau consultații anterioare. Ele pot evita repetarea unor investigații.
 - Aveți la îndemână lista medicamentelor și a suplimentelor pe care le luați.
@@ -134,13 +137,4 @@ Dermatoscopia nu este o investigație complicată și nici una care dă verdicte
 
 ## Dacă doriți o evaluare individuală
 
-Dacă aveți o aluniță care vă preocupă sau doriți o evaluare a pielii, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Consultul vă poate clarifica ce înseamnă aspectul leziunilor dumneavoastră și dacă este nevoie de urmărire sau de alți pași. Detalii despre [program și locații](/program/).
-
-## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
-
-- Obiectiv editorial: explicarea unei examinări (dermatoscopia), ce poate și ce nu poate stabili; articolul nu reia semnele ABCDE (în „alunite-semne-de-alarma”) și nici tehnica autoexaminării (în „autoexaminarea-pielii”).
-- Afirmații de confirmat clinic: mărirea „de până la aproximativ zece ori” (Cancer Research UK); intervalul orientativ de reevaluare de aproximativ trei luni (Cancer Research UK); cifrele ilustrative din analiza Cochrane (1.000 de leziuni, prevalență 12%, +19 melanoame sau −176 excizii inutile); faptul că Dr. Lincu folosește dermatoscopul la consult nu este afirmat în text, deși este probabil, vă rugăm confirmați dacă doriți o mențiune explicită.
-- Informații lipsă / de completat: dacă oferiți dermatoscopie digitală / fotografie de urmărire (marcat inline); alte utilizări ale dermatoscopului (scalp, unghii, negi, scabie) au fost scoase pentru că nu au fost verificate în sursele deschise acum; le puteți adăuga dacă doriți.
-- Surse care nu au putut fi verificate: ghidul european EADO/EDF pentru melanom și ghidul NICE NG14 (pagina NICE a refuzat accesul, 403); DermNet inaccesibil din rețea.
-
-![dermatocopie_piele](/media/blog/dermatoscopia/mwt1dc4u-img-2936-1600x1432.webp)
+Dacă aveți o aluniță care vă preocupă sau doriți o evaluare a pielii, puteți programa o consultație pentru o evaluare completă a pielii . Consultul vă poate clarifica ce înseamnă aspectul leziunilor dumneavoastră și dacă este nevoie de urmărire sau de alți pași. Detalii despre Dr. Mădălina Iulia Lincu,[program și locații](/program/).
