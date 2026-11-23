@@ -3,8 +3,14 @@ title: "Dermatoscopia: ce arată, cum decurge și ce limite are"
 description: "Ce este dermatoscopia, cum decurge examinarea alunițelor cu dermatoscopul, cum vă pregătiți și ce poate sau nu poate stabili această examinare."
 pubDate: 2026-10-01
 category: "consultatii"
-tags: ["dermatoscopie", "alunițe", "melanom", "consultație"]
+tags:
+  - "dermatoscopie"
+  - "alunițe"
+  - "melanom"
+  - "consultație"
 draft: true
+image: "/media/blog/dermatoscopia/mwt1eqr3-img-2936-1600x1432.webp"
+imageAlt: "Dermatoscopul este o lupă pentru alunițe."
 faq:
   - q: "Doare dermatoscopia?"
     a: "Nu. Medicul așază un instrument cu lupă și lumină pe piele, de obicei după ce aplică puțin gel sau ulei. Examinarea nu doare și nu afectează pielea."
@@ -136,3 +142,5 @@ Dacă aveți o aluniță care vă preocupă sau doriți o evaluare a pielii, put
 - Afirmații de confirmat clinic: mărirea „de până la aproximativ zece ori” (Cancer Research UK); intervalul orientativ de reevaluare de aproximativ trei luni (Cancer Research UK); cifrele ilustrative din analiza Cochrane (1.000 de leziuni, prevalență 12%, +19 melanoame sau −176 excizii inutile); faptul că Dr. Lincu folosește dermatoscopul la consult nu este afirmat în text, deși este probabil, vă rugăm confirmați dacă doriți o mențiune explicită.
 - Informații lipsă / de completat: dacă oferiți dermatoscopie digitală / fotografie de urmărire (marcat inline); alte utilizări ale dermatoscopului (scalp, unghii, negi, scabie) au fost scoase pentru că nu au fost verificate în sursele deschise acum; le puteți adăuga dacă doriți.
 - Surse care nu au putut fi verificate: ghidul european EADO/EDF pentru melanom și ghidul NICE NG14 (pagina NICE a refuzat accesul, 403); DermNet inaccesibil din rețea.
+
+![dermatocopie_piele](/media/blog/dermatoscopia/mwt1dc4u-img-2936-1600x1432.webp)
