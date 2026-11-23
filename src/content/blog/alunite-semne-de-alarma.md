@@ -8,7 +8,10 @@ tags:
   - "melanom"
   - "nevi"
   - "regula abcde"
+  - "cancer de piele"
 draft: true
+image: "/media/blog/alunite-semne-de-alarma/mwt5fgd0-untitled-design-1080x1350.webp"
+imageAlt: "Regula ABCDE. Creat cu AI."
 faq:
   - q: "Ce înseamnă regula ABCDE la alunițe?"
     a: "Este o tehnică de memorare pentru semnele care merită atenție: asimetrie, margini neregulate, mai multe culori în aceeași aluniță, diametru de obicei peste 6 mm și evoluție, adică orice schimbare în timp. Regula nu pune un diagnostic, dar vă poate ajuta să decideți ce să arătați medicului."
@@ -16,8 +19,8 @@ faq:
     a: "Cele mai multe alunițe apar în copilărie și adolescență. Academia Americană de Dermatologie recomandă ca o aluniță nouă apărută după vârsta de 30 de ani să fie examinată de un dermatolog, pentru că, deși de multe ori este benignă, poate fi uneori un semn de melanom."
   - q: "O aluniță care mănâncă sau sângerează este periculoasă?"
     a: "Nu neapărat, dar mâncărimea, sângerarea sau crusta apărute fără un motiv evident se numără printre semnele pentru care o aluniță trebuie examinată de dermatolog."
-  - q: "Pot scoate o aluniță la salon sau cu o pastă din comerț?"
-    a: "Nu este recomandat. Pastele pot provoca reacții alergice, îndepărtarea incompletă poate lăsa cicatrici, iar o aluniță distrusă nu mai poate fi analizată la microscop. Dacă o aluniță trebuie scoasă, decizia și procedura aparțin medicului."
+  - q: "Pot scoate o aluniță la salon sau cu o soluție din comerț?"
+    a: "Nu este recomandat. Soluțiile pe bază de uleiuri sau substanțe corozive pot provoca reacții alergice, îndepărtarea incompletă poate lăsa cicatrici, iar o aluniță distrusă nu mai poate fi analizată la microscop. Dacă o aluniță trebuie scoasă, decizia și procedura aparțin medicului."
 sources:
   - title: "Moles: Overview"
     publisher: "American Academy of Dermatology (accesat 17.11.2026)"
@@ -37,8 +40,6 @@ sources:
   - title: "Causes of melanoma skin cancer"
     publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/melanoma-skin-cancer/causes/"
-  - title: "Melanoma EADO guidelines"
-    publisher: "Garbe C, Amaral T, Peris K, Hauschild A, Arenberger P, Bastholt L, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics – Update 2019. European Journal of Cancer. 2019. https://doi.org/10.1016/j.ejca.2019.11.014"
 ---
 
 „Oare așa arăta alunița asta și înainte?” sau ”Oare aveam alunița asta și înainte?”. Se întâmplă des să ne întrebăm dacă așa arăta pielea noastră acum câteva luni sau ani. 
@@ -144,4 +145,4 @@ Majoritatea alunițelor nu vor pune niciodată o problemă. Ce contează este s�
 
 ## Dacă doriți o evaluare individuală
 
-Dacă o aluniță vă ridică semne de întrebare sau doriți o examinare completă a pielii, puteți programa o consultație la mine, Dr. Mădălina Iulia Lincu. Vom putea discuta ce s-a schimbat, ce înseamnă aspectul alunițelor dumneavoastră și cât de des are sens să reveniți la control. Găsiți [programul și locațiile aici](/program/).
+Dacă o aluniță vă ridică semne de întrebare sau doriți o examinare completă a pielii, puteți programa o consultație la mine, Dr. Mădălina Iulia Lincu. Vom putea discuta ce s-a schimbat, ce înseamnă aspectul alunițelor dumneavoastră și cât de des are sens să reveniți la control. Găsiți [programul și locațiile aici](https://dermi.ro/program/).
