@@ -1,7 +1,7 @@
 ---
 title: "Semnele de alarmă ale alunițelor și schimbările care sunt normale"
 description: "Aflați ce semne de alarmă ale alunițelor merită arătate dermatologului, cum se citește regula ABCDE și ce schimbări sunt, de fapt, obișnuite."
-pubDate: 2026-10-01
+pubDate: 2026-11-23
 category: "afectiuni"
 tags:
   - "alunițe"
@@ -9,7 +9,7 @@ tags:
   - "nevi"
   - "regula abcde"
   - "cancer de piele"
-draft: true
+draft: false
 image: "/media/blog/alunite-semne-de-alarma/mwt5fgd0-untitled-design-1080x1350.webp"
 imageAlt: "Regula ABCDE. Creat cu AI."
 faq:
