@@ -11,7 +11,7 @@ tags:
 draft: true
 faq:
   - q: "Ce înseamnă regula ABCDE la alunițe?"
-    a: "Este un ajutor de memorare pentru semnele care merită atenție: asimetrie, margini neregulate, mai multe culori în aceeași aluniță, diametru de obicei peste 6 mm și evoluție, adică orice schimbare în timp. Regula nu pune un diagnostic, dar vă poate ajuta să decideți ce să arătați medicului."
+    a: "Este o tehnică de memorare pentru semnele care merită atenție: asimetrie, margini neregulate, mai multe culori în aceeași aluniță, diametru de obicei peste 6 mm și evoluție, adică orice schimbare în timp. Regula nu pune un diagnostic, dar vă poate ajuta să decideți ce să arătați medicului."
   - q: "Este normal să apară alunițe noi la vârsta adultă?"
     a: "Cele mai multe alunițe apar în copilărie și adolescență. Academia Americană de Dermatologie recomandă ca o aluniță nouă apărută după vârsta de 30 de ani să fie examinată de un dermatolog, pentru că, deși de multe ori este benignă, poate fi uneori un semn de melanom."
   - q: "O aluniță care mănâncă sau sângerează este periculoasă?"
@@ -37,6 +37,8 @@ sources:
   - title: "Causes of melanoma skin cancer"
     publisher: "NHS, Marea Britanie (accesat 17.11.2026)"
     url: "https://www.nhs.uk/conditions/melanoma-skin-cancer/causes/"
+  - title: "Melanoma EADO guidelines"
+    publisher: "Garbe C, Amaral T, Peris K, Hauschild A, Arenberger P, Bastholt L, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics – Update 2019. European Journal of Cancer. 2019. https://doi.org/10.1016/j.ejca.2019.11.014"
 ---
 
 „Oare așa arăta alunița asta și înainte?” sau ”Oare aveam alunița asta și înainte?”. Se întâmplă des să ne întrebăm dacă așa arăta pielea noastră acum câteva luni sau ani. 
@@ -142,11 +144,4 @@ Majoritatea alunițelor nu vor pune niciodată o problemă. Ce contează este s�
 
 ## Dacă doriți o evaluare individuală
 
-Dacă o aluniță vă ridică semne de întrebare sau doriți o examinare completă a pielii, puteți programa o consultație la Dr. Mădălina Iulia Lincu. Veți putea discuta ce s-a schimbat, ce înseamnă aspectul alunițelor dumneavoastră și cât de des are sens să reveniți la control. Găsiți [programul și locațiile aici](/program/).
-
-## [TODO: Notă pentru medic — ștergeți această secțiune înainte de publicare]
-
-- Obiectiv editorial: recunoașterea momentului potrivit pentru consult; diferențierea între schimbările normale ale alunițelor și semnele de alarmă, fără alarmare. Articolul nu explică tehnica autoexaminării (articol separat) și nici dermatoscopia în detaliu (articol separat).
-- Afirmații de confirmat clinic: formularea despre nevii Spitz („nici dermatologul nu îi poate deosebi doar privindu-i”), preluată din AAD; mențiunea „rățușca urâtă” ca termen folosit de dermatologi; prag de 30 de ani (AAD) pentru alunițele noi, în locul pragului de 40 de ani din versiunea anterioară.
-- Informații lipsă / de completat: dacă doriți, o recomandare proprie privind frecvența controalelor pentru persoanele cu risc crescut; leziunile benigne care pot fi confundate cu alunițele (keratoze seboreice, angioame, lentigouri) au fost scoase pentru că nu au fost verificate în sursele deschise acum.
-- Surse care nu au putut fi verificate: ghidul european EADO/EDF pentru melanom și pagina DermNet despre melanom (acces blocat din rețea); fișa IARC despre solar nu a fost redeschisă. Ghidul pacient Leeds Teaching Hospitals NHS Trust („Looking after your moles”) a fost consultat pentru recomandarea „aluniței care iese din rând”, dar nu este listat în surse.
+Dacă o aluniță vă ridică semne de întrebare sau doriți o examinare completă a pielii, puteți programa o consultație la mine, Dr. Mădălina Iulia Lincu. Vom putea discuta ce s-a schimbat, ce înseamnă aspectul alunițelor dumneavoastră și cât de des are sens să reveniți la control. Găsiți [programul și locațiile aici](/program/).
