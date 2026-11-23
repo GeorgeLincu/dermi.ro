@@ -1,14 +1,14 @@
 ---
 title: "Dermatoscopia: ce arată, cum decurge și ce limite are"
 description: "Ce este dermatoscopia, cum decurge examinarea alunițelor cu dermatoscopul, cum vă pregătiți și ce poate sau nu poate stabili această examinare."
-pubDate: 2026-10-01
+pubDate: 2026-11-23
 category: "consultatii"
 tags:
   - "dermatoscopie"
   - "alunițe"
   - "melanom"
   - "consultație"
-draft: true
+draft: false
 image: "/media/blog/dermatoscopia/mwt1eqr3-img-2936-1600x1432.webp"
 imageAlt: "Dermatoscopul este o lupă pentru alunițe."
 faq:
