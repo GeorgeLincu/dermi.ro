@@ -52,6 +52,9 @@ Dermatoscopul este extensia dermatologului. Așa cum un chirurg are nevoie de in
 - Orientează diagnosticul și pașii de tratament.
 - Nu oferă un diagnostic definitiv: certitudinea vine din analiza histopatologică.
 
+![definite_dermatoscop_AIgenerated](/media/blog/dermatoscopia/mwt37img-2026-11-23-11-51-08-openai-gpt-image-2-6-1122x1402.webp)
+
+
 ## Ce vede medicul prin dermatoscop
 
 Privită cu ochiul liber, o aluniță este o pată maronie mai mult sau mai puțin uniformă. Suprafața pielii reflectă lumina și ascunde ce se află imediat dedesubt. Dermatoscopul reduce aceste reflexii, mărește imaginea, luminează leziunea din apropiere și evidențiază detalii. Astfel, medicul poate vedea cum este distribuit pigmentul, ce formă au vasele mici de sânge și cum arată structura leziunii în straturile superficiale ale pielii.
