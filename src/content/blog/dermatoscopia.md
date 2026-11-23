@@ -36,6 +36,8 @@ sources:
   - title: "Moles: Who gets and types"
     publisher: "American Academy of Dermatology (accesat 17.11.2026)"
     url: "https://www.aad.org/public/diseases/a-z/moles-types"
+  - title: "Melanoma guidelines"
+    publisher: "Garbe C, Peris K, Hauschild A, et al. European consensus-based interdisciplinary guideline for melanoma. Part 1: Diagnostics – Update 2019. European Journal of Cancer. doi: 10.1016/j.ejca.2019.11.014."
 ---
 
 Dermatoscopul este extensia dermatologului. Așa cum un chirurg are nevoie de instrumente chirurgicale pentru a trata pacientul, așa și dermatologul are nevoie de un dermatoscop.
@@ -93,6 +95,14 @@ Tot AAD precizează că singura metodă care stabilește cu certitudine dacă o 
 **Leziunea pare suspectă.** Medicul recomandă îndepărtarea ei sau o biopsie, sub anestezie locală, și analiza histopatologică. Rezultatul stabilește diagnosticul și, dacă este cazul, pașii următori.
 
 Urmărirea în timp, cu imagini dermatoscopice salvate și comparate de la un control la altul, este numită uneori dermatoscopie digitală sau mai simplu harta digitală a alunițelor. Ea este utilă mai ales la persoanele cu multe alunițe sau cu alunițe atipice, la care îndepărtarea tuturor leziunilor neobișnuite nu ar fi nici posibilă, nici necesară. 
+
+## Limitele dermatoscopiei
+
+Unele leziuni sunt greu de evaluat și de multe ori apar multe semne de întrebare. Leziunile fără pigment sau fără semne dermatoscopice tipice pot crea dificultăți de diagnostic.
+
+Confirmarea suspiciunii de cancer de piele (melanom, carcinom bazocelular, carcinom scuamocelular, etc.) este histopatologică. Dermatoscopia ajută la evaluare, dar nu înlocuiește examinarea țesutului la microscop. 
+
+Ghidul EADO (Asociația Europeană de Dermato-Oncologie) precizează că, dacă accesul la dermatoscopie ar provoca o întârziere semnificativă, diagnosticul definitiv și excizia nu trebuie amânate. **Pe scurt „when in doubt, cut it out”!**
 
 ## Întrebări pe care le puteți pune la final
 
